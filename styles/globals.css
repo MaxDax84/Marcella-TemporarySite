@@ -140,10 +140,9 @@ p { line-height: 1.7; }
   padding: 0 !important;
   border-radius: 50%;
   overflow: hidden;
-  border: 1px solid var(--border);
-  transition: transform 0.2s, box-shadow 0.2s;
+  transition: transform 0.2s;
 }
-.lang-flag:hover { transform: translateY(-1px) scale(1.08); box-shadow: var(--shadow); }
+.lang-flag:hover { transform: translateY(-1px) scale(1.08); }
 .lang-flag-icon { width: 100%; height: 100%; object-fit: cover; display: block; }
 .navbar-lang { margin-left: 8px; }
 .mobile-menu-lang { margin-top: 12px; }

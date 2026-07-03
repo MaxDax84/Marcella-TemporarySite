@@ -32,6 +32,8 @@ export default function Layout({ children, title, description, keywords, canonic
         <meta property="og:description" content={siteDesc} />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content={t.layout.ogLocale} />
+        <meta property="og:image" content={`${SITE_URL}/og-image.png`} />
+        <meta name="twitter:card" content="summary_large_image" />
         {canonical && <meta property="og:url" content={canonical} />}
         {canonical && <link rel="canonical" href={canonical} />}
         {canonicalPath &&
@@ -47,7 +49,11 @@ export default function Layout({ children, title, description, keywords, canonic
           <link rel="alternate" hrefLang="x-default" href={`${SITE_URL}/it${path}`} />
         )}
         <meta name="robots" content="index, follow" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+        <link rel="manifest" href="/site.webmanifest" />
+        <meta name="theme-color" content="#2D5A82" />
         {jsonLd && (
           <script
             type="application/ld+json"
