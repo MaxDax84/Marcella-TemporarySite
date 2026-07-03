@@ -68,7 +68,7 @@ export default function Team() {
                       📍{" "}
                       <span className="team-city-short">{member.city}</span>
                       <span className="team-city-full">{member.address || member.city}</span>
-                      {" "}· {member.experience}
+                      {member.experience && <>{" "}· {member.experience}</>}
                     </div>
                     <p className="team-bio">{member.bio}</p>
                     <div className="team-tags">

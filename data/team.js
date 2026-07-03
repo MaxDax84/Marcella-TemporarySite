@@ -143,7 +143,7 @@ export const teamMembers = [
     contact: "dottoressabensi.psico@gmail.com",
     whatsapp: "393934802237",
     modes: ["In presenza – Piacenza", "Online"],
-    experience: "Esperienza",
+    experience: "",
     education: [
       "Corso «I Primi Mille Giorni di Vita», Università di Firenze",
       "Formazione specialistica in accompagnamento al lutto perinatale, CiaoLapo",

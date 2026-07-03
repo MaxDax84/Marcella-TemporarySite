@@ -81,7 +81,8 @@ export default function TeamMember({ member, memberPosts }) {
                   <div className="member-photo-name">{member.name}</div>
                   <div className="member-photo-role">{member.role}</div>
                   <div className="member-photo-city">
-                    📍 {member.address || member.city} · {member.experience}
+                    📍 {member.address || member.city}
+                    {member.experience && <> · {member.experience}</>}
                   </div>
                 </div>
               </div>

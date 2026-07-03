@@ -91,7 +91,7 @@ export const teamTranslations = {
       "Perinatal loss",
     ],
     modes: ["In person – Piacenza", "Online"],
-    experience: "Experience",
+    experience: "",
     education: [
       "«First Thousand Days of Life» Course, University of Florence",
       "Specialized training in perinatal loss support, CiaoLapo",
