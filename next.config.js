@@ -12,7 +12,7 @@ const nextConfig = {
     localeDetection: false,
   },
   env: {
-    SITE_URL: process.env.SITE_URL || "https://portale-maternita.vercel.app",
+    SITE_URL: process.env.SITE_URL || "https://www.sostegnoallamaternita.com",
   },
 }
 

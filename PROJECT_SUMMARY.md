@@ -17,7 +17,7 @@ Sito web vetrina per un team multidisciplinare di professioniste/i specializzati
 | Stile | CSS globale (globals.css) | Semplicità, nessuna dipendenza aggiuntiva |
 | Deploy | Vercel (progetto `sostegno-maternita`) | Piano gratuito, integrazione nativa Next.js |
 | Repository | GitHub — `MaxDax84/Sostegno-Maternita` | |
-| URL attuale | `https://portale-maternita.vercel.app` | Dominio temporaneo storico, ancora collegato come produzione in attesa di acquisto dominio personalizzato |
+| URL attuale | `https://www.sostegnoallamaternita.com` | Dominio personalizzato acquistato, in fase di collegamento su Vercel (vedi sezione "Da fare") |
 
 ## Struttura del progetto
 
@@ -89,9 +89,12 @@ Sostegno Maternità/
 - `SITE_URL` centralizzato in `next.config.js` (facile da cambiare con nuovo dominio)
 
 ### Da fare
-- [ ] Comprare dominio personalizzato e aggiornare `SITE_URL` in `next.config.js`, `public/robots.txt` e il dominio di produzione su Vercel (vedi nota sotto)
+- [x] Comprare dominio personalizzato e aggiornare `SITE_URL` in `next.config.js`, `public/robots.txt`, `pages/sitemap.xml.js`, `pages/privacy-policy.js`, `pages/cookie-policy.js` → `www.sostegnoallamaternita.com`
+- [ ] Aggiungere `sostegnoallamaternita.com` su Vercel (Settings → Domains), configurare i record DNS presso il registrar e attendere la propagazione
+- [ ] Impostare `www.sostegnoallamaternita.com` come dominio di produzione su Vercel
+- [ ] Aggiornare (o impostare) la variabile d'ambiente `SITE_URL=https://www.sostegnoallamaternita.com` su Vercel
 - [ ] Configurare redirect 301 da `portale-maternita.vercel.app` → nuovo dominio (da pannello Vercel)
-- [ ] Iscrivere il sito a **Google Search Console** e inviare la sitemap
+- [ ] Iscrivere il sito a **Google Search Console** con il nuovo dominio e inviare la sitemap
 - [ ] Aggiungere **Google Analytics** o Plausible per il tracking
 - [ ] Immagini Open Graph (og:image) per condivisioni social
 - [ ] Favicon reale
@@ -107,6 +110,6 @@ Sostegno Maternità/
 
 1. Repository GitHub: `MaxDax84/Sostegno-Maternita` (branch `master`)
 2. Collegato a Vercel (progetto `sostegno-maternita`) — deploy automatico ad ogni push su `master`
-3. URL produzione attuale: `https://portale-maternita.vercel.app` (alias storico, mantenuto volutamente fino all'acquisto del dominio definitivo)
-4. ⚠️ Nota: il dominio automatico `sostegno-maternita.vercel.app` (generato dal nome attuale del progetto) **non è collegato** alla produzione — risulta 404. Da rivedere quando si acquista il dominio personalizzato (vedi sezione "Da fare").
-5. Variabile d'ambiente da configurare su Vercel al cambio dominio: `SITE_URL=https://www.nuovodominio.it`
+3. URL produzione attuale: `https://portale-maternita.vercel.app` (alias storico); dominio definitivo `www.sostegnoallamaternita.com` acquistato, da collegare su Vercel (vedi sezione "Da fare")
+4. ⚠️ Nota: il dominio automatico `sostegno-maternita.vercel.app` (generato dal nome attuale del progetto) **non è collegato** alla produzione — risulta 404.
+5. Variabile d'ambiente da configurare su Vercel al cambio dominio: `SITE_URL=https://www.sostegnoallamaternita.com`

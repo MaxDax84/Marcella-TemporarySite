@@ -1,7 +1,7 @@
 import { posts } from "../data/posts";
 import { teamMembers } from "../data/team";
 
-const SITE_URL = process.env.SITE_URL || "https://portale-maternita.vercel.app";
+const SITE_URL = process.env.SITE_URL || "https://www.sostegnoallamaternita.com";
 const LOCALES = ["it", "en"];
 
 function generateSitemap() {
