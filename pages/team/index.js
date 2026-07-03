@@ -51,6 +51,7 @@ export default function Team() {
                         src={member.photo}
                         alt={member.name}
                         className="team-photo"
+                        loading="lazy"
                       />
                     ) : (
                       <div

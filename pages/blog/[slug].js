@@ -55,11 +55,13 @@ export default function BlogPost({ post, related }) {
   const t = (ui[locale] || ui.it).blogPost;
   if (!post) return null;
 
+  const siteUrl = process.env.SITE_URL || "";
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": post.title,
     "description": post.excerpt,
+    "image": `${siteUrl}/og-image.png`,
     "author": {
       "@type": "Person",
       "name": post.author,
@@ -68,7 +70,7 @@ export default function BlogPost({ post, related }) {
       "@type": "Organization",
       "name": "Sostegno Maternità",
     },
-    ...(post.date && { "datePublished": post.date }),
+    ...(post.date && { "datePublished": post.date, "dateModified": post.date }),
   };
 
   return (

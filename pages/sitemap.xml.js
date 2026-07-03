@@ -9,6 +9,8 @@ function generateSitemap() {
     { path: "/", priority: "1.0", changefreq: "weekly" },
     { path: "/team", priority: "0.8", changefreq: "monthly" },
     { path: "/blog", priority: "0.9", changefreq: "weekly" },
+    { path: "/privacy-policy", priority: "0.3", changefreq: "yearly" },
+    { path: "/cookie-policy", priority: "0.3", changefreq: "yearly" },
   ];
   const teamPages = teamMembers.map((m) => ({
     path: `/team/${m.slug}`,

@@ -8,7 +8,7 @@ import { ui } from "../data/i18n";
 const SITE_URL = process.env.SITE_URL || "";
 const LOCALES = ["it", "en"];
 
-export default function Layout({ children, title, description, keywords, canonicalPath, jsonLd }) {
+export default function Layout({ children, title, description, keywords, canonicalPath, jsonLd, noIndex }) {
   const { locale } = useRouter();
   const t = ui[locale] || ui.it;
 
@@ -48,7 +48,7 @@ export default function Layout({ children, title, description, keywords, canonic
         {canonicalPath && (
           <link rel="alternate" hrefLang="x-default" href={`${SITE_URL}/it${path}`} />
         )}
-        <meta name="robots" content="index, follow" />
+        <meta name="robots" content={noIndex ? "noindex, follow" : "index, follow"} />
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <link rel="icon" href="/favicon.ico" sizes="any" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />

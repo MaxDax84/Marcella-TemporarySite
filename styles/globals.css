@@ -900,7 +900,7 @@ p { line-height: 1.7; }
   border: 1px solid var(--border);
   margin-bottom: 20px;
 }
-.sidebar-card h3 {
+.sidebar-card h2, .sidebar-card h3 {
   font-family: var(--font-serif);
   font-size: 0.98rem;
   color: var(--text);

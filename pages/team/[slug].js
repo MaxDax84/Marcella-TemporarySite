@@ -27,15 +27,25 @@ export async function getStaticProps({ params, locale }) {
   return { props: { member, memberPosts } };
 }
 
+function truncate(str, max) {
+  if (str.length <= max) return str;
+  return str.slice(0, max - 1).replace(/\s+\S*$/, "") + "…";
+}
+
 export default function TeamMember({ member, memberPosts }) {
   const { locale } = useRouter();
   const t = (ui[locale] || ui.it).member;
   if (!member) return null;
 
+  const description = truncate(
+    `${member.name} – ${member.role} a ${member.city}. ${member.specialties.slice(0, 2).join(", ")}.`,
+    155
+  );
+
   return (
     <Layout
       title={member.name}
-      description={`${member.name} – ${member.role}. ${member.specialties.join(", ")}. ${member.modes.join(", ")}.`}
+      description={description}
       keywords={member.specialties.join(", ").toLowerCase() + ", " + member.city.toLowerCase()}
       canonicalPath={`/team/${member.slug}`}
       jsonLd={{
@@ -44,6 +54,8 @@ export default function TeamMember({ member, memberPosts }) {
         "name": member.name,
         "jobTitle": member.role,
         "description": member.bio,
+        "image": `${process.env.SITE_URL || ""}${member.photo}`,
+        "url": `${process.env.SITE_URL || ""}/${locale}/team/${member.slug}`,
         "worksFor": { "@type": "Organization", "name": "Sostegno Maternità" },
       }}
     >
@@ -78,7 +90,7 @@ export default function TeamMember({ member, memberPosts }) {
                   </div>
                 )}
                 <div className="member-photo-info">
-                  <div className="member-photo-name">{member.name}</div>
+                  <h1 className="member-photo-name">{member.name}</h1>
                   <div className="member-photo-role">{member.role}</div>
                   <div className="member-photo-city">
                     📍 {member.address || member.city}
@@ -88,7 +100,7 @@ export default function TeamMember({ member, memberPosts }) {
               </div>
 
               <div className="sidebar-card">
-                <h3>{t.modesTitle}</h3>
+                <h2>{t.modesTitle}</h2>
                 {member.modes.map((m) => (
                   <div key={m} className="member-mode-item">
                     ✓ {m}
@@ -98,7 +110,7 @@ export default function TeamMember({ member, memberPosts }) {
 
               {member.publications && (
                 <div className="sidebar-card">
-                  <h3>{t.pubsTitle}</h3>
+                  <h2>{t.pubsTitle}</h2>
                   {member.publications.map((p) => (
                     <div key={p} className="member-pub-item">
                       📖 {p}

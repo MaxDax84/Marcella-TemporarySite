@@ -65,7 +65,7 @@ export const ui = {
       pageTitle: "Il nostro Team",
       pageDesc: "Professioniste di diversa formazione e specialità, accomunate dalla passione per la maternità e dal desiderio di fare la differenza nella vita delle coppie che si avvicinano alla genitorialità.",
       cardCta: "Scopri il profilo →",
-      metaDesc: "Conosci le professioniste di Sostegno Maternità: psicologa perinatale specializzata in gravidanza, parto, depressione post-partum, PMA, aborto e morte fetale; educatrice per la prima infanzia specializzata in ambientamento asilo nido.",
+      metaDesc: "Conosci le professioniste di Sostegno Maternità: psicologhe perinatali, ostetriche e nutrizioniste specializzate in gravidanza, parto e prima infanzia.",
     },
     member: {
       back: "← Il Team",
@@ -81,7 +81,7 @@ export const ui = {
       pageTitle: "Blog",
       pageDesc: "Articoli scritti dalle nostre professioniste per informare, supportare e accompagnare ogni mamma e ogni papà nel proprio percorso di genitorialità.",
       readMore: "Leggi →",
-      metaDesc: "Articoli su gravidanza, parto, depressione post-partum, aborto, morte fetale, PMA, infertilità, ambientamento asilo nido, ciuccio, pannolino e educazione 0-3 anni. Scritti da professioniste specializzate.",
+      metaDesc: "Articoli su gravidanza, parto, depressione post-partum, PMA, infertilità e prima infanzia, scritti da professioniste specializzate.",
     },
     blogPost: {
       back: "← Torna al Blog",
@@ -98,9 +98,14 @@ export const ui = {
       label: "Documenti legali",
       lastUpdate: "Ultimo aggiornamento",
     },
+    notFound: {
+      title: "Pagina non trovata",
+      desc: "La pagina che cerchi non esiste o è stata spostata.",
+      cta: "Torna alla Home",
+    },
     layout: {
       defaultTitle: "Sostegno Maternità — Sostegno alla Maternità Fisiologica e Patologica",
-      defaultDescription: "Team di professioniste specializzate in gravidanza, parto, depressione post-partum, infertilità, PMA, aborto, morte fetale e psicologia perinatale. Supporto in presenza a Milano e online.",
+      defaultDescription: "Team di professioniste specializzate in gravidanza, parto, post-partum, infertilità e psicologia perinatale. Supporto in presenza a Milano e online.",
       ogLocale: "it_IT",
     },
   },
@@ -170,7 +175,7 @@ export const ui = {
       pageTitle: "Our Team",
       pageDesc: "Professionals from different backgrounds and specialties, united by a passion for motherhood and the desire to make a difference in the lives of couples approaching parenthood.",
       cardCta: "View profile →",
-      metaDesc: "Meet the Sostegno Maternità team: perinatal psychologists specialized in pregnancy, childbirth, postpartum depression, ART, miscarriage and pregnancy loss; early childhood educators specialized in nursery settling-in.",
+      metaDesc: "Meet the Sostegno Maternità team: perinatal psychologists, midwives, and specialists in pregnancy, childbirth, and early childhood.",
     },
     member: {
       back: "← The Team",
@@ -186,7 +191,7 @@ export const ui = {
       pageTitle: "Blog",
       pageDesc: "Articles written by our professionals to inform, support, and guide every mother and father through their parenting journey.",
       readMore: "Read →",
-      metaDesc: "Articles on pregnancy, childbirth, postpartum depression, pregnancy loss, ART, infertility, nursery settling-in, and early childhood education. Written by specialized professionals.",
+      metaDesc: "Articles on pregnancy, childbirth, postpartum depression, ART, and early childhood, written by specialized professionals.",
     },
     blogPost: {
       back: "← Back to Blog",
@@ -203,9 +208,14 @@ export const ui = {
       label: "Legal Documents",
       lastUpdate: "Last updated",
     },
+    notFound: {
+      title: "Page not found",
+      desc: "The page you're looking for doesn't exist or has been moved.",
+      cta: "Back to Home",
+    },
     layout: {
       defaultTitle: "Sostegno Maternità — Support for Physiological and Pathological Motherhood",
-      defaultDescription: "A team of professionals specialized in pregnancy, childbirth, postpartum depression, infertility, ART, pregnancy loss, and perinatal psychology. Support in person in Milan and online.",
+      defaultDescription: "A team of professionals specialized in pregnancy, childbirth, postpartum depression, infertility, and perinatal psychology. Support in Milan and online.",
       ogLocale: "en_US",
     },
   },
