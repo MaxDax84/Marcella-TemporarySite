@@ -85,8 +85,11 @@ Sostegno Maternità/
 - JSON-LD `MedicalOrganization` sulla homepage
 - JSON-LD `Article` su ogni post del blog
 - JSON-LD `Person` su ogni profilo professionista
-- Meta description ottimizzate con keyword target su ogni pagina
+- Meta description ottimizzate con keyword target su ogni pagina, tutte entro 160 caratteri
 - `SITE_URL` centralizzato in `next.config.js` (facile da cambiare con nuovo dominio)
+- `<h1>` corretto e gerarchia heading valida su tutte le pagine
+- Pagina 404 personalizzata con `noindex`
+- `loading="lazy"` sulle immagini fuori schermo
 
 ### Da fare
 - [x] Comprare dominio personalizzato e aggiornare `SITE_URL` in `next.config.js`, `public/robots.txt`, `pages/sitemap.xml.js`, `pages/privacy-policy.js`, `pages/cookie-policy.js` → `www.sostegnoallamaternita.com`
@@ -97,6 +100,7 @@ Sostegno Maternità/
 - [ ] Aggiungere **Google Analytics** o Plausible per il tracking
 - [x] Immagini Open Graph (og:image) per condivisioni social
 - [x] Favicon reale (favicon.svg/.ico, apple-touch-icon, icone manifest, monogramma "SM")
+- [ ] Comprimere le foto profilo più pesanti in `public/` (alcune superano 500KB, impattano il tempo di caricamento/LCP)
 
 ## Design
 
