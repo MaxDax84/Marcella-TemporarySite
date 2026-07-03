@@ -83,7 +83,7 @@ export const teamTranslations = {
     name: "Dr. Simona Bensi",
     role: "Psychologist",
     category: "Perinatal Psychology",
-    bio: "Psychologist focused on protecting psychological health in pregnancy, postpartum, and throughout childhood development, with ten years of experience supporting families and children with disabilities. In her practice in Piacenza, she is dedicated to promoting family wellbeing, with a specific focus on the delicate «First Thousand Days» of life. She also supports families facing perinatal loss, through a salutogenic and trauma-informed approach.",
+    bio: "Psychologist focused on protecting psychological health in pregnancy, postpartum, and throughout childhood development, with experience supporting families and children with disabilities. In her practice in Piacenza, she is dedicated to promoting family wellbeing, with a specific focus on the delicate «First Thousand Days» of life. She also supports families facing perinatal loss, through a salutogenic and trauma-informed approach.",
     specialties: [
       "Psychological support in pregnancy and postpartum",
       "Child growth and development",
@@ -91,7 +91,7 @@ export const teamTranslations = {
       "Perinatal loss",
     ],
     modes: ["In person – Piacenza", "Online"],
-    experience: "Over 10 years of experience",
+    experience: "Experience",
     education: [
       "«First Thousand Days of Life» Course, University of Florence",
       "Specialized training in perinatal loss support, CiaoLapo",
