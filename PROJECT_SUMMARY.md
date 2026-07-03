@@ -95,8 +95,8 @@ Sostegno Maternità/
 - [x] Configurare redirect da `portale-maternita.vercel.app` → nuovo dominio (da pannello Vercel)
 - [x] Iscrivere il sito a **Google Search Console** (proprietà di dominio, verificata via TXT DNS su Aruba) e inviare la sitemap
 - [ ] Aggiungere **Google Analytics** o Plausible per il tracking
-- [ ] Immagini Open Graph (og:image) per condivisioni social
-- [ ] Favicon reale
+- [x] Immagini Open Graph (og:image) per condivisioni social
+- [x] Favicon reale (favicon.svg/.ico, apple-touch-icon, icone manifest, monogramma "SM")
 
 ## Design
 
