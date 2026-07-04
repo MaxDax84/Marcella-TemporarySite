@@ -104,7 +104,7 @@ export const ui = {
       cta: "Torna alla Home",
     },
     layout: {
-      defaultTitle: "Sostegno Maternità — Sostegno alla Maternità Fisiologica e Patologica",
+      defaultTitle: "Sostegno alla Maternità",
       defaultDescription: "Team di professioniste specializzate in gravidanza, parto, post-partum, infertilità e psicologia perinatale. Supporto in presenza a Milano e online.",
       ogLocale: "it_IT",
     },
@@ -142,7 +142,7 @@ export const ui = {
     },
     home: {
       heroTag: "Maternity Care Professionals",
-      heroTitle: "Support for Motherhood",
+      heroTitle: "Sostegno alla Maternità",
       heroSubtitle: "Physiological and Pathological",
       heroDesc: "A team of professionals from different backgrounds, united by a shared interest and expertise in motherhood in all its forms. By your side, every step of the way.",
       ctaKnowTeam: "Meet the Team",
@@ -214,7 +214,7 @@ export const ui = {
       cta: "Back to Home",
     },
     layout: {
-      defaultTitle: "Sostegno Maternità — Support for Physiological and Pathological Motherhood",
+      defaultTitle: "Sostegno alla Maternità",
       defaultDescription: "A team of professionals specialized in pregnancy, childbirth, postpartum depression, infertility, and perinatal psychology. Support in Milan and online.",
       ogLocale: "en_US",
     },
