@@ -193,7 +193,7 @@ export const teamMembers = [
     category: "Psicologia Clinica",
     city: "Firenze / Rende (CS)",
     address: "Firenze / Rende (Cosenza)",
-    photo: "/claudia-belvedere.png",
+    photo: "/claudia-belvedere.jpg",
     avatar: "CB",
     color: "#8B6BA8",
     bgColor: "#6A4D88",
