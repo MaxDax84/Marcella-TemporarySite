@@ -100,7 +100,7 @@ Sostegno Maternità/
 - [ ] Aggiungere **Google Analytics** o Plausible per il tracking
 - [x] Immagini Open Graph (og:image) per condivisioni social
 - [x] Favicon reale (favicon.svg/.ico, apple-touch-icon, icone manifest, monogramma "SM")
-- [ ] Comprimere le foto profilo più pesanti in `public/` (alcune superano 500KB, impattano il tempo di caricamento/LCP)
+- [x] Comprimere le foto profilo più pesanti in `public/` (ridotte dell'80-95% senza perdita visibile di qualità)
 
 ## Design
 
