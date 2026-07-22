@@ -180,4 +180,23 @@ export const teamTranslations = {
       "Diploma in Human Sciences, Istituto Superiore G. Bertacchi, Lecco (2018)",
     ],
   },
+  "mario-scilimati": {
+    name: "Dr. Mario Scilimati",
+    role: "Tax and Social Security Consultant",
+    category: "Tax and Social Security Consulting",
+    bio: "Tax and social security consultant with over thirty years of experience, offering personalized assistance with all the bureaucratic procedures related to motherhood: before, during, and after childbirth. He supports families in managing parental leave, benefits, and tax matters, easing the administrative burden during the moments that matter most.",
+    specialties: [
+      "Mandatory and early maternity leave",
+      "Parental leave (mothers and fathers)",
+      "Maternity, baby, and nursery bonuses",
+      "Unemployment benefits, universal allowance, and ISEE",
+    ],
+    modes: ["In person – Milan", "Online"],
+    experience: "Over 30 years of experience",
+    education: [
+      "Bachelor's Degree in Legal Sciences",
+      "Accounting Diploma",
+      "Ongoing training and professional development in tax and social security matters",
+    ],
+  },
 };

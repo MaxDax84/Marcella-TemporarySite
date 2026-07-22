@@ -63,8 +63,9 @@ Sostegno Maternità/
 | Dott.ssa Simona Bensi | Psicologa | Piacenza |
 | Dott.ssa Marcella Marcone | Psicologa e Psicoterapeuta | Milano |
 | Dott.ssa Claudia Belvedere | Psicologa | Firenze / Rende (CS) |
-| Federica Arcuri | Integrative Nutrition Health Coach / Integrative Fertility Coach | New York |
+| Dott.ssa Federica Arcuri | Integrative Nutrition Health Coach / Integrative Fertility Coach | New York |
 | Dott.ssa Chiara Mauri | Educatrice per la Prima Infanzia | Como |
+| Dott. Mario Scilimati | Consulente Fiscale e Previdenziale | Milano |
 
 ## Blog — articoli pubblicati
 
