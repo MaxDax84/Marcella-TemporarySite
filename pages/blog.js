@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { useRouter } from "next/router";
 import LocalizedLink from "../components/LocalizedLink";
 import Layout from "../components/Layout";
@@ -9,6 +10,10 @@ export default function Blog() {
   const { locale } = useRouter();
   const t = (ui[locale] || ui.it).blog;
   const localizedPosts = posts.map((p) => localizePost(p, locale));
+  const [activeCategory, setActiveCategory] = useState(null);
+  const filteredPosts = activeCategory
+    ? localizedPosts.filter((p) => p.category === activeCategory)
+    : localizedPosts;
 
   return (
     <Layout
@@ -29,8 +34,30 @@ export default function Blog() {
 
       <section className="section blog-section">
         <div className="container">
+          <div className="blog-filters">
+            <button
+              className={`blog-filter${activeCategory === null ? " active" : ""}`}
+              onClick={() => setActiveCategory(null)}
+            >
+              {t.allCategories}
+            </button>
+            {t.categories.map((cat) => (
+              <button
+                key={cat}
+                className={`blog-filter${activeCategory === cat ? " active" : ""}`}
+                onClick={() => setActiveCategory(cat)}
+              >
+                {cat}
+              </button>
+            ))}
+          </div>
+
+          {filteredPosts.length === 0 && (
+            <p className="blog-no-results">{t.noResults}</p>
+          )}
+
           <div className="blog-grid">
-            {localizedPosts.map((post) => (
+            {filteredPosts.map((post) => (
               <LocalizedLink
                 href={`/blog/${post.slug}`}
                 className="blog-card"

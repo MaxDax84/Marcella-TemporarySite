@@ -5,7 +5,7 @@ export const postTranslations = {
       "How to navigate nurseries, micro-nurseries, and supplementary services to find the right place for your child. A practical guide for informed parents.",
     keywords:
       "nursery school, daycare, settling-in, early childhood, infant nursery, spring sections, education 0-3 years, choosing a nursery, childcare services",
-    category: "Early Childhood",
+    category: "Child",
     authorRole: "Early Childhood Educator",
     content: [
       {
@@ -56,7 +56,7 @@ export const postTranslations = {
       "Thanks to modern contraceptive methods, it can seem possible to decide when to have a child. But biology reminds us that pregnancy often escapes our control.",
     keywords:
       "pregnancy, planning pregnancy, psychology of pregnancy, biological clock, conception, fertility, trophoblast, placenta, perinatal psychology",
-    category: "Pregnancy",
+    category: "Trying to Conceive",
     authorRole: "Psychologist and Psychotherapist",
     content: [
       {
@@ -111,7 +111,7 @@ export const postTranslations = {
       "The father figure has changed, but the psychological challenges experienced by expectant fathers during pregnancy often remain in the shadows. An analysis of the emotional and unconscious experiences of fatherhood.",
     keywords:
       "fatherhood, psychology of fatherhood, expectant father, pregnancy, paternal postpartum depression, becoming a father, perinatal psychology, mother-child dyad",
-    category: "Psychology",
+    category: "Fatherhood",
     authorRole: "Psychologist and Psychotherapist",
     content: [
       {

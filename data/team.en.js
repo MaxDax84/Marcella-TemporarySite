@@ -101,14 +101,14 @@ export const teamTranslations = {
     name: "Dr. Marcella Marcone",
     role: "Psychologist and Psychotherapist",
     category: "Perinatal Psychology",
-    bio: "Psychologist and Psychotherapist specialized in Perinatal Psychology. With over thirty years of experience, she supports women and couples through the delicate journey of pregnancy, childbirth, and postpartum, offering psychological support both in person (Milan) and online.",
+    bio: "Psychologist and Psychotherapist specialized in Perinatal Psychology. With over thirty years of experience, she supports women and couples through the delicate journey of pregnancy, childbirth, and postpartum, offering psychological support both in person and online.",
     specialties: [
       "Psychological support in pregnancy and after pregnancy loss",
       "Infertility and ART (assisted reproductive technology) journeys",
       "Puerperium-related issues",
       "Perinatal Psychology and Psychopathology",
     ],
-    modes: ["In person – Milan", "Online"],
+    modes: ["In person – Milan / Bianzé (VC)", "Online"],
     experience: "Over 30 years of experience",
     education: [
       "Lecturer in Perinatal Psychology, Psychoanalysis course, University of Moscow, since 2023",
