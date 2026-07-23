@@ -199,4 +199,26 @@ export const teamTranslations = {
       "Ongoing training and professional development in tax and social security matters",
     ],
   },
+  "miriam-morici": {
+    name: "Dr. Miriam Morici",
+    role: "Psychologist and Psychotherapist",
+    category: "Perinatal Psychology",
+    bio: "Psychologist and Psychotherapist specialized in Perinatal Psychology and Developmental Trauma. She supports new parents on their journey of self-awareness, helping them recognize their own wounds and resources so that the former are not passed on to future generations. She tailors her method to each person she works with, their characteristics, and their goals.",
+    specialties: [
+      "Psychological support in pregnancy",
+      "Mood disorders in pregnancy and postpartum",
+      "Relational trauma and emotional dependency",
+      "Personality and eating disorders",
+    ],
+    modes: ["In person – Milan", "Online"],
+    experience: "",
+    education: [
+      "Specialization in Psychotherapy, School of Relational Psychoanalysis (SIPRe), Milan",
+      "Master's in Perinatal Psychology, Obiettivo Psicologia s.r.l.",
+      "Master's in managing prenatal centers, group facilitation, and birth and parenting support, Associazione Psicologi della Lombardia",
+      "Advanced Course «First Thousand Days. Promoting and Protecting Health in Pregnancy and After Birth», University of Florence",
+      "Degree in Clinical, Developmental, and Neuropsychology, University of Milano-Bicocca",
+      "Degree in Philosophy, University of Milan",
+    ],
+  },
 };

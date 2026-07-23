@@ -34,7 +34,7 @@ export const ui = {
       heroTag: "Professionisti/e della Maternità",
       heroTitle: "Sostegno alla Maternità",
       heroSubtitle: "Fisiologica e Patologica",
-      heroDesc: "Un team di professionisti e professioniste di diversa formazione accomunate dall'interesse e dalla competenza per la maternità in tutte le sue forme. Al tuo fianco, in ogni momento del percorso.",
+      heroDesc: "Un team di professionisti e professioniste di diversa formazione accomunati/e dall'interesse e dalla competenza per la perinatalità in tutte le sue forme. Al tuo fianco, in ogni momento del percorso.",
       ctaKnowTeam: "Conosci il Team",
       ctaReadBlog: "Leggi il Blog",
       chiSiamoLabel: "Chi Siamo",

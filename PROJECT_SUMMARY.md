@@ -61,11 +61,12 @@ Sostegno Maternità/
 | Dott.ssa Giuliana Pino | Ostetrica | Milano |
 | Dott. Paolo Torri | Maestro Riflessologo | Milano |
 | Dott.ssa Simona Bensi | Psicologa | Piacenza |
-| Dott.ssa Marcella Marcone | Psicologa e Psicoterapeuta | Milano |
+| Dott.ssa Marcella Marcone | Psicologa e Psicoterapeuta | Milano / Bianzé (VC) |
 | Dott.ssa Claudia Belvedere | Psicologa | Firenze / Rende (CS) |
 | Dott.ssa Federica Arcuri | Integrative Nutrition Health Coach / Integrative Fertility Coach | New York |
 | Dott.ssa Chiara Mauri | Educatrice per la Prima Infanzia | Como |
 | Dott. Mario Scilimati | Consulente Fiscale e Previdenziale | Milano |
+| Dott.ssa Miriam Morici | Psicologa e Psicoterapeuta | Milano |
 
 ## Blog — articoli pubblicati
 
