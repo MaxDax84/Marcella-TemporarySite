@@ -170,5 +170,70 @@ export const posts = [
         text: "Qualunque siano le reazioni che la gravidanza suscita nel futuro padre, è importante che le sappia riconoscere, esprimere e rielaborare, in modo che non alimentino la depressione post partum — che non riguarda solo le mamme ma anche i papà, anche se la loro tende ancora a non venire riconosciuta o a essere occultata."
       }
     ]
+  },
+  {
+    id: 4,
+    slug: "adattamento-e-riflessologia",
+    title: "Adattamento e Riflessologia",
+    excerpt: "Ogni cambiamento richiede un periodo di adattamento che può generare stress e disagio. Come la riflessologia può aiutare mente e corpo a ritrovare l'equilibrio durante la gestazione e il post-partum.",
+    keywords: "riflessologia, gravidanza, adattamento, stress in gravidanza, gestazione, benessere mamma, riflessoterapia, mente e corpo, post partum",
+    category: "Gravidanza",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#4A6B5A",
+    content: [
+      {
+        type: "p",
+        text: "La vita è fatta di cambiamenti e il nostro organismo, insieme alla nostra mente, riesce ad adattarsi. Tali cambiamenti richiedono tempo, cioè hanno bisogno di un periodo di transizione che comporta stress e disagi, perché si esce dalla zona di comfort che ci si era creati. Lo stress generato è alto ma non per forza dannoso: solo il protrarsi troppo a lungo di questa \"finestra di adattamento\" può divenire nocivo, e allora conviene analizzare il problema."
+      },
+      {
+        type: "p",
+        text: "Come possiamo quantificare quale sia il giusto tempo di adattamento affinché il nostro organismo non vada in sofferenza? Questo è un parametro estremamente soggettivo e non può essere calcolato in modo generale: richiede grande conoscenza di sé e consapevolezza dei propri limiti. Non possiamo quindi basarci solo su questo dato, ma possiamo comunque considerarlo per renderlo utile al nostro fine."
+      },
+      {
+        type: "highlight",
+        text: "Quanto più piccola sarà la nostra finestra di adattamento temporale, tanto minore sarà il nostro stress. È questo quello che realmente conta: riuscire a rendere breve il tempo di adattamento."
+      },
+      {
+        type: "h2",
+        text: "Un'adattabilità che è insieme fisica e mentale"
+      },
+      {
+        type: "p",
+        text: "Tale capacità nasce dalla flessibilità e dall'apertura, non solo di \"visione\" ma anche fisica e mentale. Nell'adattabilità fisica dobbiamo considerare quella muscolare (elasticità muscolare e tendinea) ma anche quella organica, cioè quanto un organo riesce ad adattare le sue funzioni a una nuova condizione. Anche gli organi e i visceri escono dalla loro zona di comfort, ma devono avere la capacità di ricrearne una nuova il più presto possibile, in sinergia con il resto dell'organismo e con la mente."
+      },
+      {
+        type: "p",
+        text: "Non dobbiamo pensare che mente e corpo siano separati. Siamo abituati a farlo per semplificare lo sforzo di apprendimento, ma non è così: sono dipendenti e interattivi sempre. Proprio per questo motivo occorrono tecniche che sappiano \"dialogare\" con la mente ma allo stesso modo con muscoli, ossa, organi e visceri."
+      },
+      {
+        type: "h2",
+        text: "Il ruolo della riflessologia"
+      },
+      {
+        type: "p",
+        text: "La capacità di adattamento può quindi essere allenata sia attraverso la mente che l'organismo, oppure stimolata con la riflessologia, tecnica che nasce proprio con questo scopo. Dopo molti anni di esercizio ho capito quanto le riflessoterapie possano essere l'anello di congiunzione fra corpo e psiche, e quanto possano aiutare nelle fasi di cambiamento e quindi di adattamento."
+      },
+      {
+        type: "p",
+        text: "Le stimolazioni riflesse sono \"dolci tocchi\" che ricordano al corpo e alla mente di chi le riceve quanto il diminuire le tensioni favorisca l'adattamento. Lasciarsi andare e aprirsi al cambiamento è già il cambiamento stesso. La mia tecnica personale di stimolazione riflessa viene fatta sempre a ritmo di musica, per \"accarezzare\" ancora di più il \"profondo\" con il fine di diminuire ulteriormente il tempo di adattamento."
+      },
+      {
+        type: "h2",
+        text: "In gravidanza e nel post-partum"
+      },
+      {
+        type: "p",
+        text: "Nel periodo della gestazione e in quello successivo i cambiamenti sono tanti, continui e possono apparire duri e faticosi. Proprio per questo la riflessologia, con la sua dolcezza, può essere una tecnica estremamente indicata. Le stimolazioni riflesse possono aiutare moltissimo le mamme, per la loro capacità di favorire rapidamente e dolcemente il ripristino della sinergia fra mente e corpo."
+      },
+      {
+        type: "highlight",
+        text: "La tecnica della riflessologia può aiutare in modo dolce ed efficace le mamme, ma la forza e l'amore delle madri per i propri figli sarà anche questa volta la chiave per far continuare la vita. Prima di ogni altra cosa, credete sempre in voi stesse: solo in voi dimora il miracolo della vita."
+      }
+    ]
   }
 ];
