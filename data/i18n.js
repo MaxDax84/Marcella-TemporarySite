@@ -39,7 +39,7 @@ export const ui = {
       ctaReadBlog: "Leggi il Blog",
       chiSiamoLabel: "Chi Siamo",
       chiSiamoTitle: "Una comunità di professionisti/professioniste per ogni maternità",
-      chiSiamoP1: "Siamo un gruppo di professionisti/professioniste di diversa formazione e specialità — psicologhe perinatali, ginecologhe, ostetriche, fisioterapiste, nutrizioniste, consulenti per l'allattamento, per gli aspetti fiscali della genitorialità — accomunati/e dall'interesse profondo per la maternità in tutte le sue dimensioni.",
+      chiSiamoP1: "Siamo un gruppo di professionisti/professioniste di diversa formazione e specialità — psicologhe perinatali, ginecologhe, ostetriche, fisioterapiste, nutrizioniste, consulenti per l'allattamento, per gli aspetti fiscali della genitorialità — accomunati/e dall'interesse profondo per la genitorialità in tutte le sue dimensioni.",
       chiSiamoP2: "Ci siamo incontrati lavorando in questo campo e abbiamo deciso di costruire qualcosa insieme: un punto di riferimento integrato per le donne che vivono la gravidanza, il parto e il post-partum, sia quando tutto va bene, sia quando qualcosa è più difficile del previsto.",
       chiSiamoP3: "La nostra visione è semplice: ogni madre merita supporto professionale, umano e privo di giudizio. Nessuna deve affrontare questo percorso da sola.",
       chiSiamoCta: "Conosci i professionisti →",
