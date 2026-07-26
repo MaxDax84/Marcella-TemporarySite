@@ -10,7 +10,7 @@ export default function Home() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "MedicalOrganization",
-    "name": "Sostegno Maternità",
+    "name": "Sostegno alla Genitorialità",
     "url": process.env.SITE_URL,
     "description": t.jsonLdDescription,
     "areaServed": { "@type": "Country", "name": "Italy" },
@@ -33,7 +33,6 @@ export default function Home() {
             <h1 className="hero-title">
               {t.heroTitle}
             </h1>
-            <p className="hero-subtitle">{t.heroSubtitle}</p>
             <p className="hero-desc">
               {t.heroDesc}
             </p>

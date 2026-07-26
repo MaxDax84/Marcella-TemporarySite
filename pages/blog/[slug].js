@@ -68,7 +68,7 @@ export default function BlogPost({ post, related }) {
     },
     "publisher": {
       "@type": "Organization",
-      "name": "Sostegno Maternità",
+      "name": "Sostegno alla Genitorialità",
     },
     ...(post.date && { "datePublished": post.date, "dateModified": post.date }),
   };

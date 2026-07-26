@@ -10,7 +10,7 @@ export const ui = {
       closeMenu: "Chiudi menu",
     },
     footer: {
-      desc: "Un team di professioniste specializzate nel sostegno alla maternità fisiologica e patologica. Perché nessuna mamma dovrebbe affrontare questo percorso da sola.",
+      desc: "Un team di professioniste specializzate nel sostegno alla genitorialità fisiologica e patologica. Perché nessuna mamma dovrebbe affrontare questo percorso da sola.",
       navTitle: "Navigazione",
       contactsTitle: "Contatti",
       contactsDesc: "Ogni professionista ha un recapito dedicato.",
@@ -31,9 +31,8 @@ export const ui = {
       website: "Sito web",
     },
     home: {
-      heroTag: "Professionisti/e della Maternità",
-      heroTitle: "Sostegno alla Maternità",
-      heroSubtitle: "Fisiologica e Patologica",
+      heroTag: "Professionisti/e della Genitorialità",
+      heroTitle: "Sostegno alla Genitorialità",
       heroDesc: "Un team di professionisti e professioniste di diversa formazione accomunati/e dall'interesse e dalla competenza per la perinatalità in tutte le sue forme. Al tuo fianco, in ogni momento del percorso.",
       ctaKnowTeam: "Conosci il Team",
       ctaReadBlog: "Leggi il Blog",
@@ -65,7 +64,7 @@ export const ui = {
       pageTitle: "Il nostro Team",
       pageDesc: "Professioniste di diversa formazione e specialità, accomunate dalla passione per la maternità e dal desiderio di fare la differenza nella vita delle coppie che si avvicinano alla genitorialità.",
       cardCta: "Scopri il profilo →",
-      metaDesc: "Conosci le professioniste di Sostegno Maternità: psicologhe perinatali, ostetriche e nutrizioniste specializzate in gravidanza, parto e prima infanzia.",
+      metaDesc: "Conosci le professioniste di Sostegno alla Genitorialità: psicologhe perinatali, ostetriche e nutrizioniste specializzate in gravidanza, parto e prima infanzia.",
     },
     member: {
       back: "← Il Team",
@@ -116,7 +115,7 @@ export const ui = {
       cta: "Torna alla Home",
     },
     layout: {
-      defaultTitle: "Sostegno alla Maternità",
+      defaultTitle: "Sostegno alla Genitorialità",
       defaultDescription: "Team di professioniste specializzate in gravidanza, parto, post-partum, infertilità e psicologia perinatale. Supporto in presenza a Milano e online.",
       ogLocale: "it_IT",
     },
@@ -154,8 +153,7 @@ export const ui = {
     },
     home: {
       heroTag: "Maternity Care Professionals",
-      heroTitle: "Sostegno alla Maternità",
-      heroSubtitle: "Physiological and Pathological",
+      heroTitle: "Sostegno alla Genitorialità",
       heroDesc: "A team of professionals from different backgrounds, united by a shared interest and expertise in motherhood in all its forms. By your side, every step of the way.",
       ctaKnowTeam: "Meet the Team",
       ctaReadBlog: "Read the Blog",
@@ -187,7 +185,7 @@ export const ui = {
       pageTitle: "Our Team",
       pageDesc: "Professionals from different backgrounds and specialties, united by a passion for motherhood and the desire to make a difference in the lives of couples approaching parenthood.",
       cardCta: "View profile →",
-      metaDesc: "Meet the Sostegno Maternità team: perinatal psychologists, midwives, and specialists in pregnancy, childbirth, and early childhood.",
+      metaDesc: "Meet the Sostegno alla Genitorialità team: perinatal psychologists, midwives, and specialists in pregnancy, childbirth, and early childhood.",
     },
     member: {
       back: "← The Team",
@@ -238,7 +236,7 @@ export const ui = {
       cta: "Back to Home",
     },
     layout: {
-      defaultTitle: "Sostegno alla Maternità",
+      defaultTitle: "Sostegno alla Genitorialità",
       defaultDescription: "A team of professionals specialized in pregnancy, childbirth, postpartum depression, infertility, and perinatal psychology. Support in Milan and online.",
       ogLocale: "en_US",
     },

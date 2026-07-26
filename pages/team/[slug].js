@@ -56,7 +56,7 @@ export default function TeamMember({ member, memberPosts }) {
         "description": member.bio,
         "image": `${process.env.SITE_URL || ""}${member.photo}`,
         "url": `${process.env.SITE_URL || ""}/${locale}/team/${member.slug}`,
-        "worksFor": { "@type": "Organization", "name": "Sostegno Maternità" },
+        "worksFor": { "@type": "Organization", "name": "Sostegno alla Genitorialità" },
       }}
     >
       <div className="page-header page-header-short">

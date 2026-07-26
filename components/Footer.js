@@ -14,7 +14,7 @@ export default function Footer() {
         <div className="footer-grid">
           <div>
             <div className="footer-logo">
-              Sostegno Maternità
+              Sostegno alla Genitorialità
             </div>
             <p className="footer-desc">
               {t.desc}
@@ -40,7 +40,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <span>© {year} Sostegno Maternità. {t.rights}</span>
+          <span>© {year} Sostegno alla Genitorialità. {t.rights}</span>
           <span>{t.disclaimer}</span>
           <span className="footer-legal-links">
             <LocalizedLink href="/privacy-policy">Privacy Policy</LocalizedLink>

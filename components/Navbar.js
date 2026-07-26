@@ -43,7 +43,7 @@ export default function Navbar() {
       <nav className="navbar">
         <div className="container navbar-inner">
           <LocalizedLink href="/" className="navbar-logo">
-            Sostegno Maternità
+            Sostegno alla Genitorialità
           </LocalizedLink>
 
           <div className="navbar-links">

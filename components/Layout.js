@@ -13,7 +13,7 @@ export default function Layout({ children, title, description, keywords, canonic
   const t = ui[locale] || ui.it;
 
   const siteTitle = title
-    ? `${title} | Sostegno Maternità`
+    ? `${title} | Sostegno alla Genitorialità`
     : t.layout.defaultTitle;
 
   const siteDesc = description || t.layout.defaultDescription;

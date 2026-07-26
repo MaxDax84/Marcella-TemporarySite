@@ -1,6 +1,6 @@
 {
-  "name": "Sostegno Maternità",
-  "short_name": "Sostegno Maternità",
+  "name": "Sostegno alla Genitorialità",
+  "short_name": "Sostegno alla Genitorialità",
   "icons": [
     { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
