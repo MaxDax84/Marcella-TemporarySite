@@ -10,7 +10,7 @@ export const ui = {
       closeMenu: "Chiudi menu",
     },
     footer: {
-      desc: "Un team di professioniste specializzate nel sostegno alla genitorialità fisiologica e patologica. Perché nessuna mamma dovrebbe affrontare questo percorso da sola.",
+      desc: "Un team di professionisti specializzati nel sostegno alla genitorialità. Perché nessuna coppia dovrebbe affrontare questo percorso da sola.",
       navTitle: "Navigazione",
       contactsTitle: "Contatti",
       contactsDesc: "Ogni professionista ha un recapito dedicato.",
@@ -131,7 +131,7 @@ export const ui = {
       closeMenu: "Close menu",
     },
     footer: {
-      desc: "A team of professionals specialized in supporting physiological and pathological motherhood. Because no mother should have to go through this journey alone.",
+      desc: "A team of professionals specialized in supporting parenting. Because no couple should have to go through this journey alone.",
       navTitle: "Navigation",
       contactsTitle: "Contacts",
       contactsDesc: "Each professional has a dedicated contact.",
