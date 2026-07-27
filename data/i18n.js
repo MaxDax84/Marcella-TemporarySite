@@ -46,7 +46,7 @@ export const ui = {
       cosaFacciamoTitle: "Supporto su misura, ovunque tu sia",
       cosaFacciamoDesc: "Lavoriamo in diverse città d'Italia, sia in presenza che online, sia con gruppi che individualmente. Ogni percorso è costruito intorno a te.",
       features: [
-        { title: "In tutta Italia", desc: "I nostri professionisti operano a Milano, Roma, Torino, Bologna e altre città. Trova chi è vicina a te." },
+        { title: "In tutta Italia", desc: "I nostri professionisti operano a Milano, Roma, Torino, Bologna e altre città. Trova chi è vicino a te." },
         { title: "Online", desc: "Tutte le nostre consulenze sono disponibili anche in modalità online — senza barriere geografiche, nei tuoi tempi." },
         { title: "Percorsi individuali", desc: "Colloqui, consulenze e follow-up personalizzati con la professionista più adatta alle tue esigenze specifiche." },
         { title: "Gruppi di supporto", desc: "Gruppi tematici per coppie in attesa, neo genitori che vivono situazioni difficili o che vogliono affrontare con maggiore consapevolezza il loro nuovo compito." },
