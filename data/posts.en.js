@@ -152,4 +152,63 @@ export const postTranslations = {
       },
     ],
   },
+  "adattamento-e-riflessologia": {
+    title: "Adaptation and Reflexology",
+    excerpt:
+      "Every change requires a period of adaptation that can generate stress and discomfort. How reflexology can help mind and body regain balance during pregnancy and postpartum.",
+    keywords:
+      "reflexology, pregnancy, adaptation, stress in pregnancy, gestation, maternal wellbeing, reflexotherapy, mind and body, postpartum",
+    category: "Pregnancy",
+    authorRole: "Master Reflexologist",
+    content: [
+      {
+        type: "p",
+        text: "Life is made of changes, and our body, together with our mind, manages to adapt. Such changes take time — they need a transition period that brings stress and discomfort, because we step outside the comfort zone we had built for ourselves. The stress generated is high but not necessarily harmful: only when this «adaptation window» drags on for too long can it become harmful, and that's when the problem is worth examining.",
+      },
+      {
+        type: "p",
+        text: "How can we quantify the right amount of adaptation time so that our body doesn't suffer? This is an extremely subjective parameter and can't be calculated in a general way: it requires great self-knowledge and awareness of one's own limits. So we can't rely on this alone, but we can still take it into account to make it useful for our purpose.",
+      },
+      {
+        type: "highlight",
+        text: "The smaller our window of adaptation time, the lower our stress will be. That's what really matters: managing to keep the adaptation time short.",
+      },
+      {
+        type: "h2",
+        text: "An adaptability that is both physical and mental",
+      },
+      {
+        type: "p",
+        text: "This ability arises from flexibility and openness — not only of «outlook» but also physical and mental. In physical adaptability we must consider muscular adaptability (muscle and tendon elasticity) but also organic adaptability, that is, how well an organ can adapt its functions to a new condition. Organs and viscera, too, step outside their comfort zone, but they must be able to recreate a new one as soon as possible, in synergy with the rest of the body and with the mind.",
+      },
+      {
+        type: "p",
+        text: "We shouldn't think of mind and body as separate. We're used to doing so to simplify the effort of understanding, but that's not how it is: they are always interdependent and interactive. For this very reason, we need techniques that know how to «dialogue» with the mind but equally with muscles, bones, organs, and viscera.",
+      },
+      {
+        type: "h2",
+        text: "The role of reflexology",
+      },
+      {
+        type: "p",
+        text: "The capacity for adaptation can therefore be trained through both mind and body, or stimulated with reflexology, a technique born precisely for this purpose. After many years of practice, I've come to understand how much reflexotherapy can be the connecting link between body and psyche, and how much it can help during phases of change, and therefore of adaptation.",
+      },
+      {
+        type: "p",
+        text: "Reflex stimulations are «gentle touches» that remind the body and mind of those receiving them how much easing tension favors adaptation. Letting go and opening up to change is already the change itself. My personal technique of reflex stimulation is always done to the rhythm of music, to «caress» the «depths» even more, with the aim of further shortening the adaptation time.",
+      },
+      {
+        type: "h2",
+        text: "During pregnancy and postpartum",
+      },
+      {
+        type: "p",
+        text: "During gestation and the period that follows, changes are many, continuous, and can seem harsh and tiring. This is exactly why reflexology, with its gentleness, can be an extremely suitable technique. Reflex stimulations can help mothers a great deal, thanks to their ability to quickly and gently restore the synergy between mind and body.",
+      },
+      {
+        type: "highlight",
+        text: "The technique of reflexology can gently and effectively help mothers, but the strength and love of mothers for their children will once again be the key to keeping life going. Above all else, always believe in yourselves: the miracle of life dwells in you alone.",
+      },
+    ],
+  },
 };
