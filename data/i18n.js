@@ -54,7 +54,7 @@ export const ui = {
         { title: "Approccio integrato", desc: "Psicologia, ostetricia, fisioterapia, allattamento, nutrizione, medicina integrata: professionisti diversi che lavorano in sinergia per te." },
       ],
       ctaStripTitle: "Non devi affrontarlo da sola",
-      ctaStripDesc: "Qualunque sia il tuo momento — prima, durante o dopo la gravidanza — c'è una professionista pronta ad ascoltarti.",
+      ctaStripDesc: "Qualunque sia il tuo momento — prima, durante o dopo la gravidanza — c'è un professionista pronto ad ascoltarti.",
       ctaStripKnowTeam: "Conosci i professionisti",
       ctaStripReadArticles: "Leggi i nostri articoli",
       jsonLdDescription: "Team di professioniste specializzate in supporto psicologico perinatale: gravidanza, parto, depressione post-partum, infertilità, PMA, aborto, morte fetale, ambientamento asilo nido.",
