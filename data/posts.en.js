@@ -453,4 +453,74 @@ export const postTranslations = {
       },
     ],
   },
+  "baby-blues": {
+    title: "The Baby Blues",
+    excerpt:
+      "What the baby blues is, the physiological period of mood swings that affects most new mothers in the first days after giving birth, and how to recognize it without overlooking it.",
+    keywords:
+      "baby blues, postpartum, mood swings after birth, motherhood, maternal identity, perinatal psychotherapy, first days after birth",
+    category: "Postpartum",
+    authorRole: "Psychologist and Psychotherapist",
+    content: [
+      {
+        type: "p",
+        text: "«After the birth of my first daughter I went through a long period in which my mood shifted from one moment to the next: it took nothing at all to send me from the greatest happiness of being a mother, to total despair at not being able to cope, from feeling inadequate, overwhelmed by daily tasks, to enjoying a role that seemed made just for me. These constant mood swings made me feel like I was on a rollercoaster: they were exhausting to live through, so I decided to start psychotherapy in order to experience, more serenely, what I had so wanted. I have to admit it wasn't easy to find the courage to face myself without finding, as I usually did, excuses to justify my behavior. It took courage, willpower, and help from the people close to me — both to look after my daughter in my absence, and to push me to keep going with work that doesn't give immediate results. Still, as the weeks went by, I began to feel calmer, more confident in myself, less at the mercy of events, and instead felt like I was taking charge of my life and of my new identity as a mother. After my second birth, even though I had some baby blues symptoms, especially in the first weeks, I realized they were less intense moments, easier to manage, partly because by then I knew them well!»",
+      },
+      {
+        type: "p",
+        text: "The postpartum period is the time in which the woman reworks her separation from the baby (experienced during pregnancy as a part of herself) and rebuilds the identity she lost with childbirth. The postpartum period is generally marked by the onset of depressive-type symptoms. In 80–90% of cases, however, these are considered semi-physiological phenomena — «the interface between normality and pathology» — attributed to hormonal imbalances and referred to as «baby blues». The term situates these elements in the time and emotional dimension of the blues, that is, the work songs of African Americans, with their slow rhythm expressing the suffering tied to their condition as enslaved people. The baby blues is defined as a brief physiological period marked by mood swings, which appears in a high percentage of women who have had a baby, and which manifests with a peak intensity between the third and fifth day after birth.",
+      },
+      {
+        type: "p",
+        text: "The distinctive features of the baby blues that set it apart from postpartum depression are: the suddenness of its onset (in the first days following birth) and the transient nature of its symptoms. The positive prognosis of the baby blues often leads people to neglect it, to not give it importance, to downplay its symptoms — which, however, shouldn't be underestimated, even though they usually disappear within a few days. The rapid and spontaneous resolution of symptoms, however, doesn't guarantee that the intense physical and emotional experience the woman went through with the wait for and the birth of a baby has been sufficiently processed at a deeper level.",
+      },
+      {
+        type: "p",
+        text: "Indeed, even if the mother tries to hide and downplay the feelings of anxiety and distress she perceives, even if she doesn't want to acknowledge the lack of serenity with which she cares for her child, it's the baby themselves who expresses the distress caused by the inadequacy of the relationship with the mother, through various psychological and physical symptoms: persistent crying, sleep difficulties, feeding problems, a greater tendency to fall ill, and so on.",
+      },
+      {
+        type: "highlight",
+        text: "The most constructive and effective way for the two members of the dyad to build a calm, fulfilling relationship for both involves the mother, with the help of a specialist (a psychotherapist), managing to detach from certain childhood experiences of hers — often conflictual and painful — that resurfaced, unbeknownst to her, with pregnancy and childbirth. This way, she'll avoid projecting onto the baby expectations, desires, anxieties, and fears that have nothing to do with her child and the present moment of their life, but rather with her own childhood and her relationship with her own parents. A mother in tune with the deep, unknown aspects of her own personality is able to offer her child the best conditions for balance, essential for facing life in the best possible way, and to fully enjoy a unique and fundamental experience such as motherhood.",
+      },
+    ],
+  },
+  "depressione-post-partum": {
+    title: "Postpartum Depression",
+    excerpt:
+      "How to recognize postpartum depression, tell it apart from the baby blues by how persistent and delayed its symptoms are, and why addressing it in psychotherapy benefits both mother and baby.",
+    keywords:
+      "postpartum depression, postpartum, symptoms of postpartum depression, perinatal psychotherapy, motherhood, maternal mental health, baby blues",
+    category: "Postpartum",
+    authorRole: "Psychologist and Psychotherapist",
+    content: [
+      {
+        type: "p",
+        text: "One of the reasons that weakens, or even prevents, the ability to attune to the baby, and that makes a woman a «not good enough mother», is postpartum depression, defined as «the thief that steals motherhood».",
+      },
+      {
+        type: "p",
+        text: "Postpartum depression can show up in a masked form, through physical symptoms such as excessive fatigue, neurovegetative or feeding-related disturbances, and a sharp drop in libido; or through psychological symptoms that differ from those of the baby blues in how persistent they are and how late they appear, sometimes even several months (12–18) after birth: low mood, sadness, an urge to cry, feelings of failure and inadequacy toward her role as a mother, disinterest in herself and in activities she used to enjoy, difficulty making decisions or taking on everyday responsibilities, avoidance of social contact, excessive anxiety about the child.",
+      },
+      {
+        type: "p",
+        text: "Postpartum depression is sometimes first noticed by pediatricians. Indeed, behind a wide range of symptoms in the baby that can't be attributed to any illness (low muscle tone, digestive, respiratory, or skin problems, trouble falling asleep, prolonged crying spells, colic, growth delays) lie the difficulties certain mothers are experiencing in their relationship with the baby.",
+      },
+      {
+        type: "p",
+        text: "It's the mothers, not the baby, who need help, but the sense of non-separation and confusion they experience with their child leads them to attribute to him the distress they keep hiding from themselves and don't want to become aware of.",
+      },
+      {
+        type: "p",
+        text: "To overcome it, it's instead necessary to recognize it and face it without fear.",
+      },
+      {
+        type: "p",
+        text: "It's possible to come out of postpartum depression by letting go of the unfounded hope that certain problems will resolve on their own with time.",
+      },
+      {
+        type: "highlight",
+        text: "Psychotherapy offers the woman valuable help in working through the deep issues underlying her symptoms; it also serves as a useful form of psychological prevention for the baby because, as numerous studies show, closeness to a depressed mother increases the risk of developing emotional and/or cognitive difficulties.",
+      },
+    ],
+  },
 };

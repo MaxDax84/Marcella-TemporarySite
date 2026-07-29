@@ -507,5 +507,87 @@ export const posts = [
         text: "Non bisogna quindi trascurare l'importanza, per il bambino, di ricevere il nutrimento di cui necessita in una situazione psicologica ottimale, con una mamma rilassata e appagata dal gesto che sta compiendo, in grado di preservare il suo cucciolo da eventuali disturbi di tipo psicologico legati a queste prime fasi della sua vita."
       }
     ]
+  },
+  {
+    id: 10,
+    slug: "baby-blues",
+    title: "Il baby blues",
+    excerpt: "Cos'è il baby blues, il periodo fisiologico di sbalzi d'umore che colpisce la maggior parte delle neomamme nei primi giorni dopo il parto, e come riconoscerlo senza trascurarlo.",
+    keywords: "baby blues, puerperio, sbalzi d'umore post parto, maternità, identità materna, psicoterapia perinatale, primi giorni dopo il parto",
+    category: "Puerperio",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#5B4A7A",
+    content: [
+      {
+        type: "p",
+        text: "«Dopo la nascita della prima bambina ho passato un lungo periodo in cui il mio stato d'animo mutava da un momento all'altro: bastava un nonnulla per farmi passare dalla più grande felicità di essere mamma, allo sconforto totale di non riuscire a farcela, dal sentirmi inadeguata, sopraffatta dalle incombenze quotidiane a godermi un ruolo che pareva essere fatto apposta per me. Questi continui sbalzi di umore mi facevano sentire come sulle montagne russe: erano assai faticosi da vivere per cui ho deciso di iniziare una psicoterapia per vivere in modo più sereno quello che avevo desiderato. Devo ammettere che non è stato facile trovare il coraggio di mettermi di fronte a me stessa senza trovare come facevo di solito delle scuse per giustificare i miei comportamenti. C'è voluto coraggio, volontà e aiuto da parte di chi mi stava vicino, sia per occuparsi della bambina in mia assenza, sia per spronarmi a continuare un lavoro che non dà un risultato immediato. Tuttavia, col passare delle settimane ho cominciato a sentirmi più tranquilla, sicura di me stessa, meno in balia degli eventi, ma provando la sensazione che stavo prendendo in mano la mia vita e la mia nuova identità di mamma. Dopo il secondo parto pur avendo avuto qualche manifestazione di baby blues soprattutto le prime settimane, mi sono resa conto che si trattava di momenti meno intensi, più facili da gestire, anche perché ormai li conoscevo bene!»"
+      },
+      {
+        type: "p",
+        text: "Il puerperio è il periodo in cui la donna rielabora il distacco dal bambino (vissuto in gravidanza come una parte di se stessa) e ristruttura la propria identità persa con il parto. Il puerperio è caratterizzato generalmente dall'insorgenza di manifestazioni di tipo depressivo. Nell'80-90% dei casi tuttavia si tratta di fenomeni considerati semi-fisiologici «l'interfaccia tra la normalità e la patologia», attribuiti agli scompensi ormonali e chiamati «baby blues». Il termine situa gli elementi nel tempo e nella dimensione emozionale del blues, ossia dei canti di lavoro degli afroamericani, dal ritmo lento che traduce la sofferenza legata alla loro condizione di schiavi. Il baby blues viene definito come un breve periodo fisiologico caratterizzato da sbalzi dell'umore, che compare in un'alta percentuale di donne che hanno avuto un figlio, e che si manifesta con un picco di intensità tra il terzo e il quinto giorno dal parto."
+      },
+      {
+        type: "p",
+        text: "Gli aspetti peculiari del baby blues che permettono di distinguerlo dalla depressione post partum sono: la repentinità della sua insorgenza (nei primi giorni che seguono il parto) e la transitorietà della sintomatologia. La prognosi positiva del baby blues induce spesso a trascurarlo, a non dargli importanza, a minimizzare le sue manifestazioni, che invece non dovrebbero essere sottovalutate, anche se di solito scompaiono nel giro di pochi giorni. La rapida e spontanea remissione dei sintomi tuttavia non garantisce che l'intensa esperienza fisica e emotiva che la donna ha vissuto con l'attesa e la nascita di un bambino sia stata sufficientemente elaborata a livello profondo."
+      },
+      {
+        type: "p",
+        text: "Infatti, anche se la madre cerca di nascondersi e di minimizzare le sensazioni di ansia e di angoscia che percepisce, anche se non vuole riconoscere la mancanza di serenità con cui si occupa di suo figlio, è il bambino stesso che esprime il malessere dovuto alla inadeguatezza della relazione con la mamma attraverso la manifestazione di vari sintomi sia psichici che somatici: pianto persistente, difficoltà nel sonno, problemi legati all'alimentazione, facilità ad ammalarsi ecc."
+      },
+      {
+        type: "highlight",
+        text: "Il modo più costruttivo e rapido in cui i due elementi della diade possono instaurare un rapporto sereno e gratificante per entrambi, prevede che la mamma, con l'aiuto di un esperto del settore (psicoterapeuta) riesca a distaccarsi da certi suoi vissuti infantili, spesso conflittuali e dolorosi, che a sua insaputa sono riemersi con la gravidanza e il parto. In questo modo eviterà di proiettare sul bambino attese, desideri, ansie, paure che non riguardano suo figlio e l'attualità della sua vita, ma la sua infanzia e il rapporto con i suoi genitori. Una mamma in sintonia con gli aspetti profondi e sconosciuti della sua personalità è in grado di offrire al suo bambino le migliori condizioni di equilibrio, fondamentali per affrontare in modo ottimale la vita, e di godere pienamente di un'esperienza unica e fondamentale come quella della maternità."
+      }
+    ]
+  },
+  {
+    id: 11,
+    slug: "depressione-post-partum",
+    title: "La depressione post partum",
+    excerpt: "Come riconoscere la depressione post partum, distinguerla dal baby blues per persistenza e comparsa tardiva dei sintomi, e perché affrontarla in psicoterapia fa bene sia alla mamma che al bambino.",
+    keywords: "depressione post partum, puerperio, sintomi depressione post parto, psicoterapia perinatale, maternità, salute mentale materna, baby blues",
+    category: "Puerperio",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "2 min",
+    bgColor: "#6B4A5F",
+    content: [
+      {
+        type: "p",
+        text: "Una delle ragioni che affievolisce, fino a impedire, la capacità di entrare in sintonia col bambino e che fa della donna una «madre non sufficientemente buona» è la depressione post partum, definita «il ladro che ruba la maternità»."
+      },
+      {
+        type: "p",
+        text: "La depressione post partum può manifestarsi in forma mascherata attraverso sintomi somatici come eccessiva stanchezza, disturbi neurovegetativi o legati all'alimentazione, intenso calo della libido; o con sintomi psichici che si differenziano da quelli del baby blues per la loro persistenza e per la loro comparsa tardiva, anche alcuni mesi (12/18) dopo il parto: cattivo umore, tristezza, voglia di piangere, sensazioni di fallimento e inadeguatezza verso il proprio ruolo di madre, disinteresse per se stessa e per le attività prima gradite, incapacità di prendere decisioni, di assumersi le responsabilità del quotidiano, rifiuto di contatti sociali, eccessiva ansia per il figlio."
+      },
+      {
+        type: "p",
+        text: "A volte la depressione post partum è messa in evidenza dai pediatri. Infatti dietro a una vasta sintomatologia del bambino non attribuibile a stati morbosi (atonia, problemi digestivi, respiratori, dermatologici, difficoltà ad addormentarsi, crisi di pianto prolungate, coliche, ritardi di crescita) si celano le difficoltà che vivono certe madri nella relazione col bebè."
+      },
+      {
+        type: "p",
+        text: "Sono loro e non il bambino ad aver bisogno di aiuto, ma la percezione di non separazione e di confusione che vivono con il figlio le porta ad attribuire a lui il malessere che continuano a nascondersi e di cui non vogliono prendere coscienza."
+      },
+      {
+        type: "p",
+        text: "Per riuscire a superarlo è invece necessario riconoscerlo e affrontarlo senza timore."
+      },
+      {
+        type: "p",
+        text: "Dalla depressione post partum si può uscire se si abbandona l'infondata speranza che certi problemi si risolvano da soli col passare del tempo."
+      },
+      {
+        type: "highlight",
+        text: "La psicoterapia offre alla donna un valido aiuto per elaborare le problematiche profonde che stanno alla base dei suoi sintomi; inoltre costituisce un'utile forma di psicoprofilassi per il bambino perché, come dimostrano numerosi studi, la vicinanza di una mamma depressa aumenta il rischio di sviluppare turbe affettive e/o cognitive."
+      }
+    ]
   }
 ];
