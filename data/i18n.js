@@ -99,7 +99,7 @@ export const ui = {
       readTimeSuffix: "di lettura",
       relatedTitle: "Altri articoli",
       needSupportTitle: "Hai bisogno di supporto?",
-      needSupportDesc: "Il nostro team è pronto ad ascoltarti. Contattaci per trovare la professionista più adatta a te.",
+      needSupportDesc: "Il nostro team è pronto ad ascoltarti. Contattaci per trovare il professionista più adatta a te.",
       writeUs: "Scrivici",
       teamTitle: "Il nostro team",
       teamDesc: "Psicologhe, ostetriche, fisioterapiste, consulenti e nutrizioniste specializzate nella maternità.",
