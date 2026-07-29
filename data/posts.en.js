@@ -268,4 +268,55 @@ export const postTranslations = {
       },
     ],
   },
+  "aspetti-somatici-psichici-aborto-spontaneo": {
+    title: "Somatic and Psychological Aspects of Miscarriage",
+    excerpt:
+      "What miscarriage is from a medical standpoint, what happens to the body, and why — beyond the physical aspects — it's important to allow yourself time to grieve the interrupted pregnancy.",
+    keywords:
+      "miscarriage, pregnancy loss, perinatal grief, psychology of pregnancy, grieving process, progesterone, psychological aspects of miscarriage, recurrent miscarriage",
+    category: "Difficulties",
+    authorRole: "Psychologist and Psychotherapist",
+    content: [
+      {
+        type: "p",
+        text: "The term «miscarriage» (in Italian, aborto) comes from the Latin ab (indicating deprivation) and oriri (to be born): so it literally means unborn.",
+      },
+      {
+        type: "p",
+        text: "We speak of miscarriage when a pregnancy ends within about 24 weeks, that is, before the point at which the fetus has any chance of survival. About 20% of pregnancies end spontaneously within the first few weeks. There are no warning symptoms — if anything, a sudden disappearance of symptoms such as the nausea previously felt.",
+      },
+      {
+        type: "p",
+        text: "The pregnancy hormone stops being produced once the embryo stops developing, and its level progressively drops in the mother's blood, until bleeding appears (which should always be treated as a warning sign to have checked) heralding the expulsion of the pregnancy tissue from the uterus. There's no possibility of intervention, since this is a situation that nature sets in motion to safeguard the species.",
+      },
+      {
+        type: "p",
+        text: "It can also occur due to hormonal or immunological problems, or implantation issues, for which hormonal therapies may be offered, such as progesterone supplementation to support the early stages of embryonic development in the uterus.",
+      },
+      {
+        type: "p",
+        text: "Only in a minority of cases is it important to know the exact cause of the failed development of the fetus: the doctor typically orders further tests when the miscarriage recurs more than twice, or when the patient shows other symptoms suggesting a specific underlying condition (for example, diabetes).",
+      },
+      {
+        type: "p",
+        text: "The body usually knows how to regulate itself, and in most cases, from a physical standpoint, no particular waiting period is recommended before trying for a new pregnancy.",
+      },
+      {
+        type: "p",
+        text: "From a psychological standpoint, however, it would be advisable to allow yourself some time to process the grief of the pregnancy that didn't reach term, of the child who wasn't born.",
+      },
+      {
+        type: "p",
+        text: "Indeed, even if the miscarriage happened during the first weeks of pregnancy, the embryo was already, for the mother (and sometimes for the father too), a real child, an object of desires and fantasies deeply rooted in one's own past.",
+      },
+      {
+        type: "p",
+        text: "Processing the grief means being able to let go of it little by little, without immediately seeking to start a new pregnancy in order to transfer those feelings onto a new child, who would end up being experienced as a replacement for the one lost. Assigning the new baby that same identity would burden them with expectations that have nothing to do with them, but everything to do with the mother's unhealed wound.",
+      },
+      {
+        type: "highlight",
+        text: "For a woman, in fact, miscarriage is not only the loss of an object onto which she invested her own desires and fantasies, but also the tangible expression of her own reproductive incapacity, which makes her feel inadequate, different from other women, unable to be like her own mother. We'll explore further, in a future article, the complex subject of the relationship with one's mother, which lies at the root of the difficulties in conceiving or carrying a pregnancy to term.",
+      },
+    ],
+  },
 };

@@ -298,5 +298,62 @@ export const posts = [
         text: "Il primo colloquio al nido è quindi molto più di un semplice incontro informativo: è l'inizio di un percorso condiviso, in cui famiglia ed educatrici lavorano insieme per garantire il benessere e la crescita armoniosa del bambino. Affrontarlo con apertura e serenità aiuta a porre le basi per un'esperienza educativa positiva e arricchente."
       }
     ]
+  },
+  {
+    id: 6,
+    slug: "aspetti-somatici-psichici-aborto-spontaneo",
+    title: "Aspetti somatici e psichici dell'aborto spontaneo",
+    excerpt: "Che cos'è l'aborto spontaneo dal punto di vista medico, cosa succede al corpo e perché, oltre agli aspetti fisici, è importante concedersi il tempo di elaborare il lutto della gravidanza interrotta.",
+    keywords: "aborto spontaneo, lutto perinatale, psicologia della gravidanza, elaborazione del lutto, gravidanza interrotta, progesterone, aspetti psicologici aborto, aborto ricorrente",
+    category: "Difficoltà",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#7A3B4A",
+    content: [
+      {
+        type: "p",
+        text: "Il termine «aborto» deriva dal latino ab (che indica privazione) e oriri (nascere): quindi letteralmente significa non nato."
+      },
+      {
+        type: "p",
+        text: "Si parla di aborto quando la gravidanza si interrompe entro 24 settimane circa, prima cioè del tempo in cui il feto può avere qualche possibilità di sopravvivenza. Il 20% circa delle gravidanze si interrompe spontaneamente entro le prime settimane. Non ci sono sintomi di avvertimento, semmai una repentina scomparsa di disturbi come le nausee che si avvertivano in precedenza."
+      },
+      {
+        type: "p",
+        text: "L'ormone della gravidanza non viene più prodotto quando l'embrione smette di svilupparsi ed il suo livello scende progressivamente nel sangue materno, finché non compaiono sanguinamenti (che vanno sempre quindi considerati una spia di allarme da verificare) che preludono alla espulsione del materiale abortivo presente in utero. Non esiste possibilità di intervento, visto che si tratta di una situazione che la natura mette in atto per la salvaguardia della specie."
+      },
+      {
+        type: "p",
+        text: "Avviene poi per problemi ormonali, immunologici, dell'impianto per i quali si possono proporre terapie ormonali come la somministrazione di progesterone che sostiene le prime fasi dello sviluppo embrionale in utero."
+      },
+      {
+        type: "p",
+        text: "Solo in una minoranza di casi è importante sapere l'esatta causa del mancato sviluppo del feto: il medico interviene infatti con esami di approfondimento solitamente quando l'aborto si ripete più di due volte o quando la paziente presenta altri sintomi che facciano ipotizzare qualche patologia specifica (per esempio il diabete)."
+      },
+      {
+        type: "p",
+        text: "Il corpo solitamente sa come regolarsi e nella maggior parte dei casi, sotto l'aspetto fisico, non si consigliano particolari attese prima di cercare una nuova gravidanza."
+      },
+      {
+        type: "p",
+        text: "Dal punto di vista psicologico invece sarebbe auspicabile darsi un po' di tempo per elaborare il lutto della gravidanza non portata a termine, del bambino non nato."
+      },
+      {
+        type: "p",
+        text: "Infatti anche se l'aborto è avvenuto durante le prime settimane di gravidanza, l'embrione era già per la mamma (e a volte anche per il papà), un bambino vero e proprio, oggetto di desideri e fantasie profondamente radicate nel proprio passato."
+      },
+      {
+        type: "p",
+        text: "Elaborare il lutto significa potersene distaccare poco per volta, senza cercare immediatamente di iniziare una nuova gravidanza per trasferirle a un nuovo bambino che verrebbe vissuto come sostituto di quello abortito. Attribuirgli la stessa identità lo caricherebbe di attese ed aspettative che non hanno nulla a che fare con lui ma con la ferita non rimarginata della mamma."
+      },
+      {
+        type: "highlight",
+        text: "Per la donna infatti l'aborto non è solo la perdita di un oggetto su cui investire i propri desideri e le proprie fantasie, ma anche la tangibile espressione della sua incapacità procreativa che la fa sentire inadeguata, diversa dalle altre donne, incapace a essere come la propria mamma. Approfondiremo in seguito il discorso complesso relativo ai rapporti con la madre, che stanno alla base delle difficoltà a concepire o a portare avanti la gravidanza."
+      }
+    ]
   }
 ];
