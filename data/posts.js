@@ -401,5 +401,38 @@ export const posts = [
         text: "La buona madre, ossia colei che è in grado di «riconoscere – soddisfare – integrare nella famiglia e nella società i desideri del bambino», si riconosce nella prima accezione del termine, ossia nell'accettazione e nel rispetto dell'individualità del bambino. Sa mettersi nei suoi panni per capirlo, sa valutare con obiettività le sue richieste per poterle soddisfare al momento giusto. Invece l'eccessivo coinvolgimento nei confronti del figlio da parte di una madre che lo vive in modo fusionale anche dopo i primi mesi di vita, si rifà al secondo significato di identità. L'uguaglianza, la confusione, la non separazione, la mancanza di confini tra lei e il figlio le impediscono di riconoscerne i bisogni, la spingono ad agire in modo impulsivo tenendo conto più di ciò che prova lei stessa che di quello che l'altro realmente chiede. Tale atteggiamento nasce dalla difficoltà materna di passare dall'investimento narcisistico sul figlio/parte di se stessa all'investimento oggettuale sul bambino staccato da sé. Tutto ciò deriva dal rapporto che la donna ha intessuto con sua madre, e così via lungo le generazioni in cui le madri hanno proiettato sui figli i loro desideri, non hanno effettuato un distacco tra il figlio della fantasia e della realtà; non sono riuscite a separarsi da una parte di loro stesse investita libidicamente non solo durante la gravidanza ma durante tutta la vita. Il bambino costituisce infatti il prolungamento di sé che supera la morte, l'alter ego che permette di realizzare i desideri insoddisfatti della propria infanzia."
       }
     ]
+  },
+  {
+    id: 8,
+    slug: "ruolo-della-psiche-gravidanza-puerperio",
+    title: "Il ruolo della psiche durante la gravidanza e il puerperio",
+    excerpt: "Durante la gravidanza il corpo non è l'unico protagonista: la psiche vive un profondo rimescolio interiore. Cos'è l'inconscio e perché lo stato psicologico della futura mamma ha un impatto diretto sul benessere del bambino.",
+    keywords: "psiche in gravidanza, psicologia della gravidanza, puerperio, inconscio, cambiamenti psicologici gravidanza, psicoanalisi, stato psicologico gravida, psicologia perinatale",
+    category: "Gravidanza",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#4C6491",
+    content: [
+      {
+        type: "p",
+        text: "La gravidanza è un momento privilegiato che rimette la donna incinta nella situazione primordiale feto-madre: la donna vive se stessa sia come madre, come la propria madre, come l'insieme evanescente delle proprie madri ancestrali, sia, allo stesso tempo, come il feto che è stata e come quello che porta in sé. Ogni donna dunque prova durante la gravidanza, in modo più o meno cosciente, un profondo rimescolio interiore: tuttavia i cambiamenti psicologici legati all'attesa di un bambino vengono spesso trascurati dalla gravida, impegnata a concentrare la sua attenzione sui mutamenti del suo corpo e pronta a riconoscere e a segnalare al medico ogni minimo sintomo. Nella società in cui viviamo, a differenza di altre culture, la gravidanza è notevolmente medicalizzata. Ogni gravida, anche se giovane e sana, si sottopone a periodici esami per controllare la sua salute e quella dell'embrione/feto; si informa su ciò che accade dentro di lei, conosce i sintomi che segnalano irregolarità della gestazione. L'interesse e l'attenzione per gli aspetti fisici della gravidanza contrasta con la scarsa importanza attribuita invece agli aspetti psicologici. Anche se alcuni sono così evidenti da non poter passare inosservati, spesso vengono trascurati e attribuiti in modo generico all'instabilità dell'umore, all'emotività, all'introversione che spinge la donna a staccarsi gradualmente e inconsapevolmente dalla realtà. La gravida arriva a notare in se stessa la facilità con cui passa dal riso al pianto, la capacità di commuoversi per un nonnulla, il maggior distacco dalle cose che prima la coinvolgevano, visto che i suoi pensieri si orientano sempre più sul parto e sul bambino. Tuttavia raramente si domanda quale sia il nesso profondo tra questi stati d'animo e il periodo che sta vivendo e come questi influiscano sul bambino. È ormai dimostrata la stretta comunicazione che si instaura tra lo psichismo materno e quello feto/neonatale sia durante la gravidanza che dopo la nascita. Questo significa che sulla salute psichica del figlio ha un impatto determinante lo stato psicologico della gravida/neomadre. Dedicargli la dovuta importanza invece di trascurarlo, eventualmente cercare di migliorarlo potrebbe non solo permettere alla donna di vivere più serenamente un momento così importante della sua vita, ma soprattutto offrire al bambino le migliori chances per affrontare il mondo con delle strutture psicologiche salde e integre."
+      },
+      {
+        type: "h2",
+        text: "Cosa è la psiche?"
+      },
+      {
+        type: "p",
+        text: "La psiche può essere definita come «quella parte della persona che non deriva dal somatico e che si spiega diversamente che con le leggi della biologia». Se una volta equivaleva alla coscienza, da Freud (1856-1939) va al di là del cosciente e comprende anche i processi dell'inconscio, ossia di quella parte della mente che sfugge all'attenzione della mente stessa. L'inconscio è una memoria rimossa di esperienze di soddisfazione e di frustrazione registrate durante la vita intra-uterina e infantile. Si tratta cioè di desideri e trascrizioni di vissuti remoti (che hanno accessibilità alla coscienza solo in forma deformata) che costituiscono il motore che spinge verso direzioni anche diverse da quello che pensiamo razionalmente. L'inconscio si manifesta attraverso le ripetizioni, i sogni, i sintomi, ma anche con dimenticanze, lapsus, atti mancati che realizzano desideri profondi di cui si è ignari."
+      },
+      {
+        type: "p",
+        text: "È importante avere presente l'esistenza dell'inconscio, per capire che spesso, anche per quanto riguarda la gravidanza, certe situazioni legate a desideri profondi sono estranee alla coscienza della donna, che le vive senza rendersene conto, dunque senza poterle influenzare con la sua volontà. Offrire una lettura «diversa» di situazioni altrimenti incomprensibili, spesso dolorose, può aiutare ad accettarle con maggiore serenità o indurre a modificarle attraverso interventi idonei per raggiungere questo scopo come la psicoanalisi o la psicoterapia."
+      }
+    ]
   }
 ];

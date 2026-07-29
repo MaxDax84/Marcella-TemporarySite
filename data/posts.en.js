@@ -359,4 +359,31 @@ export const postTranslations = {
       },
     ],
   },
+  "ruolo-della-psiche-gravidanza-puerperio": {
+    title: "The Role of the Psyche During Pregnancy and the Postpartum Period",
+    excerpt:
+      "During pregnancy the body isn't the only protagonist: the psyche goes through a profound inner upheaval. What the unconscious is, and why the expectant mother's psychological state has a direct impact on the child's wellbeing.",
+    keywords:
+      "psyche in pregnancy, psychology of pregnancy, postpartum, the unconscious, psychological changes in pregnancy, psychoanalysis, psychological state pregnancy, perinatal psychology",
+    category: "Pregnancy",
+    authorRole: "Psychologist and Psychotherapist",
+    content: [
+      {
+        type: "p",
+        text: "Pregnancy is a privileged moment that returns the pregnant woman to the primordial fetus-mother situation: the woman experiences herself both as a mother, as her own mother, as the elusive sum of her own ancestral mothers, and, at the same time, as the fetus she once was and as the one she now carries within her. Every woman therefore experiences, during pregnancy, more or less consciously, a profound inner upheaval: yet the psychological changes tied to expecting a baby are often overlooked by the pregnant woman, who is busy focusing her attention on the changes in her body and ready to recognize and report every slightest symptom to her doctor. In the society we live in, unlike other cultures, pregnancy is considerably medicalized. Every pregnant woman, even if young and healthy, undergoes periodic tests to monitor her health and that of the embryo/fetus; she informs herself about what's happening inside her, and learns the symptoms that signal irregularities in the pregnancy. The interest and attention devoted to the physical aspects of pregnancy contrasts with the little importance given instead to the psychological aspects. Even though some of these are so evident they can hardly go unnoticed, they are often overlooked and generically attributed to mood instability, emotionality, or introversion, which lead the woman to gradually and unknowingly detach from reality. The pregnant woman comes to notice in herself how easily she moves from laughter to tears, how easily she's moved to tears by the smallest thing, the growing detachment from things that used to engage her, given that her thoughts increasingly turn toward the birth and the baby. Yet she rarely asks herself what the deep connection is between these states of mind and the period she's living through, and how they affect the baby. It has now been shown that a close communication is established between the maternal psyche and the fetal/neonatal one, both during pregnancy and after birth. This means that the psychological state of the pregnant woman/new mother has a decisive impact on her child's psychological health. Giving it the attention it deserves, instead of neglecting it, and possibly trying to improve it, could not only allow the woman to experience such an important moment of her life more serenely, but above all offer the child the best chances of facing the world with sound, solid psychological foundations.",
+      },
+      {
+        type: "h2",
+        text: "What is the psyche?",
+      },
+      {
+        type: "p",
+        text: "The psyche can be defined as «the part of the person that doesn't stem from the somatic and that is explained differently than through the laws of biology». While it was once equated with consciousness, since Freud (1856–1939) it goes beyond the conscious and also includes the processes of the unconscious, that is, the part of the mind that escapes the mind's own attention. The unconscious is a repressed memory of experiences of satisfaction and frustration recorded during intra-uterine and early childhood life. In other words, it consists of desires and traces of remote lived experiences (which are only accessible to consciousness in distorted form) that make up the engine driving us in directions that may even differ from what we think rationally. The unconscious manifests itself through repetitions, dreams, and symptoms, but also through forgetting, slips of the tongue, and failed actions that fulfill deep desires we're unaware of.",
+      },
+      {
+        type: "p",
+        text: "It's important to keep the existence of the unconscious in mind, to understand that often, even where pregnancy is concerned, certain situations tied to deep desires are foreign to the woman's consciousness, who lives through them without realizing it, and therefore without being able to influence them through her will. Offering a «different» reading of otherwise incomprehensible, often painful situations can help accept them with greater serenity, or lead to changing them through suitable interventions such as psychoanalysis or psychotherapy.",
+      },
+    ],
+  },
 };
