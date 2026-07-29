@@ -355,5 +355,51 @@ export const posts = [
         text: "Per la donna infatti l'aborto non è solo la perdita di un oggetto su cui investire i propri desideri e le proprie fantasie, ma anche la tangibile espressione della sua incapacità procreativa che la fa sentire inadeguata, diversa dalle altre donne, incapace a essere come la propria mamma. Approfondiremo in seguito il discorso complesso relativo ai rapporti con la madre, che stanno alla base delle difficoltà a concepire o a portare avanti la gravidanza."
       }
     ]
+  },
+  {
+    id: 7,
+    slug: "qualita-della-presenza-materna",
+    title: "La qualità della presenza materna",
+    excerpt: "Cosa significa essere una «buona madre» dal punto di vista psicologico: il ruolo del riconoscimento reciproco tra madre e figlio e come la qualità della presenza materna influisce sulla crescita del bambino.",
+    keywords: "presenza materna, relazione madre-figlio, buona madre, psicologia perinatale, identità materna, psicoterapia, riconoscimento del bambino, relazione madre bambino",
+    category: "Neonato",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#2E4F73",
+    content: [
+      {
+        type: "p",
+        text: "La qualità della presenza materna è fondamentale nella crescita armonica del bambino, tanto che le sue carenze sono ormai universalmente considerate una delle cause dei diversi disturbi di disagio, sia di tipo nevrotico che psicotico. In seduta, attraverso il racconto della persona sul divano, il terapeuta può rendersi conto del tipo di relazione con la madre che ha vissuto e può evidenziare come la qualità della presenza materna abbia influito sul malessere di cui parla. Tuttavia non sempre il vissuto riportato in seduta corrisponde alla realtà: la percezione della presenza materna dipende soprattutto dall'intensità e dalla qualità dei desideri che risalgono all'infanzia. Per esempio, anche una madre presente nei confronti del figlio può essere vissuta in modo frustrante come se in realtà fosse lontana psicologicamente e affettivamente. Lo studio delle fotografie effettuato durante la psicoterapia dà all'analizzato la possibilità di confrontare la realtà soggettiva con la realtà oggettiva e di conseguenza conferisce obiettività agli episodi, agli eventi e ai fatti che emergono dal suo racconto."
+      },
+      {
+        type: "p",
+        text: "Per instaurare un buon rapporto col figlio la madre deve essere in grado di riconoscerlo, ossia di:"
+      },
+      {
+        type: "ul",
+        items: [
+          "rendersi conto dei bisogni del bambino, intuire il momento in cui devono essere soddisfatti, rispettarne i ritmi senza rimandarli o anticiparli;",
+          "accettare che sia diverso da quello che si aspettava, che non realizzi i desideri che aveva nutrito nei suoi confronti e che immancabilmente riguardavano lei stessa;",
+          "prendere atto che non è una parte di se stessa, ma un essere staccato da lei, a volte anche poco somigliante a lei;",
+          "riuscire ad amarlo per quello che è, anche se è molto diverso da come è stato immaginato e desiderato."
+        ]
+      },
+      {
+        type: "p",
+        text: "Riconoscere dunque significa constatare e accettare l'identità dell'altro. Tuttavia è interessante sottolineare che il doppio e contrastante significato etimologico di identità spiega sia il riconoscimento che il non riconoscimento. In una prima accezione identità significa «complesso dei dati personali caratteristici e fondamentali che consentono l'individuazione o garantiscono l'autenticità»; in una seconda accezione identità significa «rapporto di esatta uguaglianza o coincidenza tra due entità»."
+      },
+      {
+        type: "p",
+        text: "Il primo senso equivale al riconoscimento, mentre il secondo al non riconoscimento."
+      },
+      {
+        type: "p",
+        text: "La buona madre, ossia colei che è in grado di «riconoscere – soddisfare – integrare nella famiglia e nella società i desideri del bambino», si riconosce nella prima accezione del termine, ossia nell'accettazione e nel rispetto dell'individualità del bambino. Sa mettersi nei suoi panni per capirlo, sa valutare con obiettività le sue richieste per poterle soddisfare al momento giusto. Invece l'eccessivo coinvolgimento nei confronti del figlio da parte di una madre che lo vive in modo fusionale anche dopo i primi mesi di vita, si rifà al secondo significato di identità. L'uguaglianza, la confusione, la non separazione, la mancanza di confini tra lei e il figlio le impediscono di riconoscerne i bisogni, la spingono ad agire in modo impulsivo tenendo conto più di ciò che prova lei stessa che di quello che l'altro realmente chiede. Tale atteggiamento nasce dalla difficoltà materna di passare dall'investimento narcisistico sul figlio/parte di se stessa all'investimento oggettuale sul bambino staccato da sé. Tutto ciò deriva dal rapporto che la donna ha intessuto con sua madre, e così via lungo le generazioni in cui le madri hanno proiettato sui figli i loro desideri, non hanno effettuato un distacco tra il figlio della fantasia e della realtà; non sono riuscite a separarsi da una parte di loro stesse investita libidicamente non solo durante la gravidanza ma durante tutta la vita. Il bambino costituisce infatti il prolungamento di sé che supera la morte, l'alter ego che permette di realizzare i desideri insoddisfatti della propria infanzia."
+      }
+    ]
   }
 ];

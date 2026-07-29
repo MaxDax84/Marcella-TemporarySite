@@ -319,4 +319,44 @@ export const postTranslations = {
       },
     ],
   },
+  "qualita-della-presenza-materna": {
+    title: "The Quality of Maternal Presence",
+    excerpt:
+      "What it means to be a «good enough mother» from a psychological standpoint: the role of mutual recognition between mother and child, and how the quality of maternal presence shapes the child's growth.",
+    keywords:
+      "maternal presence, mother-child relationship, good mother, perinatal psychology, maternal identity, psychotherapy, recognizing the child, mother-baby bond",
+    category: "Newborn",
+    authorRole: "Psychologist and Psychotherapist",
+    content: [
+      {
+        type: "p",
+        text: "The quality of maternal presence is fundamental to a child's harmonious growth, so much so that its shortcomings are now universally regarded as one of the causes behind various forms of distress, both neurotic and psychotic in nature. In session, through the account given by the person on the couch, the therapist can get a sense of the kind of relationship they had with their mother, and can highlight how the quality of that maternal presence affected the distress they're describing. However, what is reported in session doesn't always match reality: the perception of maternal presence depends above all on the intensity and quality of desires that date back to childhood. For example, even a mother who was present for her child can be experienced as frustrating, as if she were in fact psychologically and emotionally distant. Studying photographs during psychotherapy gives the person in analysis the chance to compare subjective reality with objective reality, and consequently lends objectivity to the episodes, events, and facts that emerge from their account.",
+      },
+      {
+        type: "p",
+        text: "To build a good relationship with her child, a mother must be able to recognize them, that is, to:",
+      },
+      {
+        type: "ul",
+        items: [
+          "become aware of the child's needs, sense the moment when they need to be met, and respect their rhythms without postponing or anticipating them;",
+          "accept that the child is different from what she expected, that they won't fulfill the desires she had nurtured toward them and which inevitably concerned herself;",
+          "recognize that the child is not a part of herself, but a being separate from her, at times not even very similar to her;",
+          "manage to love the child for who they are, even if very different from how they were imagined and wished for.",
+        ],
+      },
+      {
+        type: "p",
+        text: "Recognizing therefore means acknowledging and accepting the other's identity. It's worth noting, however, that the double and contrasting etymological meaning of «identity» explains both recognition and non-recognition. In a first sense, identity means «the set of characteristic and fundamental personal data that allow for identification or guarantee authenticity»; in a second sense, identity means «a relationship of exact equality or coincidence between two entities».",
+      },
+      {
+        type: "p",
+        text: "The first sense corresponds to recognition, the second to non-recognition.",
+      },
+      {
+        type: "p",
+        text: "The good mother — meaning the one able to «recognize, satisfy, and integrate the child's desires within the family and society» — draws on the first sense of the term, that is, on the acceptance and respect of the child's individuality. She's able to put herself in the child's shoes to understand them, and to objectively assess their requests in order to meet them at the right moment. Excessive involvement with the child, on the other hand, on the part of a mother who experiences the relationship as fused with her own identity even after the first months of life, draws on the second meaning of identity. Equivalence, confusion, non-separation, and the lack of boundaries between her and the child prevent her from recognizing the child's needs, and push her to act impulsively, paying more attention to what she herself feels than to what the other person is actually asking for. This attitude stems from a mother's difficulty in moving from a narcissistic investment in the child — as part of herself — to an object-investment in the child as separate from her. All of this stems from the relationship the woman built with her own mother, and so on down the generations, in which mothers have projected their own desires onto their children, failed to separate the fantasized child from the real one, and were unable to detach from a part of themselves libidinally invested not only during pregnancy but throughout their entire lives. The child, in fact, represents an extension of the self that outlives death, the alter ego that allows one to fulfill the unsatisfied desires of one's own childhood.",
+      },
+    ],
+  },
 };
