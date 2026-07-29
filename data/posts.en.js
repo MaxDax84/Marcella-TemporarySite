@@ -386,4 +386,71 @@ export const postTranslations = {
       },
     ],
   },
+  "allattare-al-seno-buona-presenza-materna": {
+    title: "Is Breastfeeding Always a Sign of Good Maternal Presence?",
+    excerpt:
+      "Breastfeeding is beneficial, but it isn't the only way to be a «present mother»: how much the mother's psychological serenity matters in her relationship with her baby, even when formula feeding is chosen instead.",
+    keywords:
+      "breastfeeding, maternal presence, breastfeeding and psychology, formula feeding, mother-baby relationship, WHO breastfeeding, breast milk, mind-to-mind bond",
+    category: "Breastfeeding",
+    authorRole: "Psychologist and Psychotherapist",
+    content: [
+      {
+        type: "p",
+        text: "Breast milk is a complete source of nourishment for newborns and young children. The World Health Organization (WHO) recommends that babies be exclusively breastfed for the first six months of life, and that breastfeeding continue afterward, alongside appropriate complementary foods, into the second year as well. It has also now been scientifically shown that breastfeeding is not only beneficial for the baby but also a benefit to the mother's health.",
+      },
+      {
+        type: "p",
+        text: "Breast milk is the best nourishment that can be given to a baby because, beyond its nutritional value, it passes on to the little one the immunity the mother has acquired over the course of her life (a topic we'll explore further in an upcoming article).",
+      },
+      {
+        type: "p",
+        text: "Although scientific evidence suggests breastfeeding one's baby, this can't be expected to be applicable to every woman. In fact, breastfeeding isn't a pleasure for every mother. For some it's an obligation that makes them feel trapped, not free, dependent on a baby experienced as a voracious leech. It can happen that a new mother feels «forced» to breastfeed her baby «because it's the right thing to do», «because if I don't do my best for him it means I don't love him», «because the others do it, I can't back out», «because it's what my family expects of me». In these cases, the woman finds herself overwhelmed by a sense of responsibility toward the baby, which can bring on deep distress in her and disrupt her relationship with the baby — a relationship that would instead grow stronger by breastfeeding the little one in a calm psychological state.",
+      },
+      {
+        type: "p",
+        text: "In fact, «being physically present» by offering the breast may not correspond to «being present psychologically and emotionally», which for the mother means",
+      },
+      {
+        type: "ul",
+        items: [
+          "feeling joy in breastfeeding her baby",
+          "not feeling oppressed and «invaded» by the intensity of the rhythms the newborn imposes (which gradually ease if you help them build a rough «schedule»)",
+          "not experiencing breastfeeding as an obligation that forces her to give up (at least for a while) aspects of her own life she can't do without.",
+        ],
+      },
+      {
+        type: "p",
+        text: "If these conditions are missing while breastfeeding, along with the biologically most suitable food, the mother also passes on to the baby all of her own distress, made up of aggression and the resulting guilt, which can bring about the onset of various psychological conditions.",
+      },
+      {
+        type: "p",
+        text: "In these cases, in the presence of a healthy, full-term, normal-weight newborn, it's natural to wonder whether it wouldn't be better to switch to formula feeding. In fact, for a mother who doesn't feel at ease breastfeeding, having the chance to",
+      },
+      {
+        type: "ul",
+        items: [
+          "not have to manage every feed alone",
+          "not feel burdened by the total responsibility for the baby's growth",
+          "have some time for herself",
+        ],
+      },
+      {
+        type: "p",
+        text: "would improve the quality of her relationship with the baby.",
+      },
+      {
+        type: "p",
+        text: "Even feeding formula, in fact, one can still be a good mother, because the «mind-to-mind» relationship with the baby, based on «mental complicity», matters just as much as the «skin-to-skin» one, based on physical contact.",
+      },
+      {
+        type: "p",
+        text: "Experience shows, in fact, that if the mother feels positive emotions while caring for her baby (and therefore also while feeding them), if she is calm and at ease in living out her role, not overwhelmed by her anxieties and fears, the relationship develops positively, because the baby feels accepted and loved by a «present» mother.",
+      },
+      {
+        type: "highlight",
+        text: "The importance, for the baby, of receiving the nourishment they need in an optimal psychological setting shouldn't be overlooked — with a mother who is relaxed and fulfilled by what she's doing, able to shield her little one from any psychological difficulties tied to these early stages of life.",
+      },
+    ],
+  },
 };

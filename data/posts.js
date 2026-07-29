@@ -434,5 +434,78 @@ export const posts = [
         text: "È importante avere presente l'esistenza dell'inconscio, per capire che spesso, anche per quanto riguarda la gravidanza, certe situazioni legate a desideri profondi sono estranee alla coscienza della donna, che le vive senza rendersene conto, dunque senza poterle influenzare con la sua volontà. Offrire una lettura «diversa» di situazioni altrimenti incomprensibili, spesso dolorose, può aiutare ad accettarle con maggiore serenità o indurre a modificarle attraverso interventi idonei per raggiungere questo scopo come la psicoanalisi o la psicoterapia."
       }
     ]
+  },
+  {
+    id: 9,
+    slug: "allattare-al-seno-buona-presenza-materna",
+    title: "Allattare al seno è sempre sinonimo di buona presenza materna?",
+    excerpt: "Allattare al seno fa bene, ma non è l'unico modo per essere una «mamma presente»: quanto conta la serenità psicologica della madre nella relazione con il proprio bambino, anche quando si sceglie l'allattamento artificiale.",
+    keywords: "allattamento al seno, presenza materna, allattamento e psicologia, allattamento artificiale, relazione madre bambino, OMS allattamento, latte materno, rapporto mind-to-mind",
+    category: "Allattamento",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#3F5D8A",
+    content: [
+      {
+        type: "p",
+        text: "Il latte materno è per neonati e bambini piccoli una fonte completa di nutrimento. L'Organizzazione mondiale della sanità (OMS) raccomanda che i bambini siano allattati esclusivamente al seno per i primi sei mesi di vita e che l'allattamento continui poi, con adeguati alimenti complementari, anche nel secondo anno. Ad oggi inoltre è scientificamente dimostrato che l'allattamento al seno non è solo vantaggioso per il bambino ma costituisce anche un beneficio per la salute della donna."
+      },
+      {
+        type: "p",
+        text: "Il latte materno è il nutrimento migliore che possa essere fornito a un bebè poiché, oltre ai principi nutritivi, conferisce al piccolo l'immunità acquisita dalla madre nel corso della sua vita (l'argomento verrà approfondito prossimamente)."
+      },
+      {
+        type: "p",
+        text: "Sebbene l'evidenza scientifica suggerisca di allattare al seno il proprio bambino, non si può pretendere che questo sia applicabile ad ogni donna. Infatti allattare non è un piacere per tutte le mamme. Per alcune è un obbligo che le fa sentire imbrigliate, non libere, dipendenti da un bambino vissuto come una vorace sanguisuga. Può capitare che una neo-mamma si senta «costretta» ad allattare il proprio bambino «perché è giusto così», «perché se non faccio il meglio per lui significa che non gli voglio bene», «perché le altre lo fanno io non posso tirarmi indietro», «perché è quello che la mia famiglia si aspetta da me». In questi casi la donna si trova sopraffatta da un senso di responsabilità nei confronti del bambino che può determinare in lei forte sconforto e alterare il suo rapporto con il bebè, che invece si consoliderebbe allattando il piccolo in una situazione psicologica serena."
+      },
+      {
+        type: "p",
+        text: "Infatti «esserci fisicamente» offrendo il seno può non corrispondere a «esserci psicologicamente ed emotivamente», che significa per la mamma"
+      },
+      {
+        type: "ul",
+        items: [
+          "provare gioia ad allattare il suo piccolo",
+          "non sentirsi oppressa e «invasa» dall'intensità dei ritmi che il neonato impone (che pian piano calano se lo si aiuta a costruirsi un «orario di massima»)",
+          "non vivere l'allattamento al seno come un obbligo che costringe a rinunciare (almeno per un po') ad aspetti della propria vita di cui non si può fare a meno."
+        ]
+      },
+      {
+        type: "p",
+        text: "Se queste condizioni mancano quando si allatta al seno, insieme all'alimento biologicamente più adatto si trasmette al bambino tutto il proprio malessere, fatto di aggressività e di conseguenti sensi di colpa, che può determinare l'insorgenza di svariate patologie psichiche."
+      },
+      {
+        type: "p",
+        text: "In questi casi, in presenza di un neonato sano, nato a termine, normopeso, viene spontaneo chiedersi se non sarebbe meglio adottare un allattamento artificiale. Infatti, per una mamma che non si sente a suo agio nell'allattare al seno, avere la possibilità di"
+      },
+      {
+        type: "ul",
+        items: [
+          "non dover gestire da sola ogni poppata",
+          "non sentirsi gravata dalla responsabilità totale della crescita del piccolo",
+          "poter avere del tempo per sé"
+        ]
+      },
+      {
+        type: "p",
+        text: "incrementerebbe la qualità della sua relazione con il bebè."
+      },
+      {
+        type: "p",
+        text: "Anche allattando artificialmente infatti, si può essere una buona mamma perché il rapporto «mind-to-mind» con il bambino, basato sulla «complicità mentale», è importante tanto quanto quello «skin-to-skin», basato sul contatto fisico."
+      },
+      {
+        type: "p",
+        text: "L'esperienza dimostra infatti che se la mamma prova sensazioni positive nell'accudire il bambino (e dunque anche nel nutrirlo), se è serena, tranquilla nel vivere il suo ruolo, non sopraffatta dalle sue angosce e paure, la relazione si sviluppa positivamente, perché il piccolo si sente accettato e amato da una mamma «presente»."
+      },
+      {
+        type: "highlight",
+        text: "Non bisogna quindi trascurare l'importanza, per il bambino, di ricevere il nutrimento di cui necessita in una situazione psicologica ottimale, con una mamma rilassata e appagata dal gesto che sta compiendo, in grado di preservare il suo cucciolo da eventuali disturbi di tipo psicologico legati a queste prime fasi della sua vita."
+      }
+    ]
   }
 ];
