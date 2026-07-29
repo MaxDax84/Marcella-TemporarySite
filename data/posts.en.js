@@ -211,4 +211,61 @@ export const postTranslations = {
       },
     ],
   },
+  "primo-colloquio-al-nido": {
+    title: "The First Interview at the Nursery: A Fundamental Step Toward a New Adventure",
+    excerpt:
+      "The first interview with the nursery educators is a moment of listening and mutual trust: what to share, what questions to ask, and why it's the start of an educational journey shared with your family.",
+    keywords:
+      "nursery school, first nursery interview, meeting with educators, settling-in, early childhood, enrolling in nursery, service charter, parents nursery, trust educators",
+    category: "Child",
+    authorRole: "Early Childhood Educator",
+    content: [
+      {
+        type: "p",
+        text: "Settling into the nursery is a significant moment for little ones and their families alike. One of the most important steps in this journey is the first interview with the educators (or with the coordinator), an opportunity to get to know one another and lay the groundwork for mutual trust.",
+      },
+      {
+        type: "h2",
+        text: "What is the first interview for? What should you share with the educators?",
+      },
+      {
+        type: "p",
+        text: "The initial interview is a space for listening and sharing. During this meeting, the educators try to get to know the child through the parents' account. You'll be asked about their habits (how they sleep, questions about breastfeeding or feeding, what routines they follow, whether they have a transitional object, whether they use a pacifier…), whether they've had previous experiences of separation (have they tried staying alone at another nursery or at their grandparents' or friends' house, how they reacted to the separation, and what strategies are used to reassure them), and their preferences (do they have activities they prefer?). Try to give the person in front of you a snapshot of your child: the educators may help you with some questions. What matters is that the important and unique aspects of your child come through. If your little one hasn't been born yet, or if the start of the nursery journey is still months away, you may be contacted again to «catch up» on how they've grown and how their habits have changed.",
+      },
+      {
+        type: "p",
+        text: "This moment is also an opportunity to express any fears, doubts, or expectations about this new adventure: don't be afraid to voice them. At this stage, as well as during settling-in, it's important that you feel calm and confident, because children can sense whether or not you trust the educators. If your child senses that you feel at ease leaving them at the nursery, over time they'll feel more at ease too.",
+      },
+      {
+        type: "p",
+        text: "I've put together a few questions that can help you better understand the educational setting and feel part of your child's growth journey.",
+      },
+      {
+        type: "ul",
+        items: [
+          "What does a typical day at the nursery look like?",
+          "How are meals and naps organized?",
+          "What approach do you use to encourage children's independence?",
+          "How do you help children cope with separation from their parents?",
+          "What strategies do you use to comfort a child who feels insecure or upset?",
+          "How do you keep parents informed about how the day went?",
+          "How is the settling-in phase managed? How long does it typically last?",
+          "What kinds of activities and experiences are offered?",
+          "Do you do outdoor activities?",
+        ],
+      },
+      {
+        type: "h2",
+        text: "The educators' role",
+      },
+      {
+        type: "p",
+        text: "During the interview, the educators don't just listen and take note of what you share — they also provide useful information about how the nursery is organized, such as the settling-in approach (there's traditional settling-in and Swedish settling-in, as we'll see in one of our upcoming articles) and the expected timeline. It's important to mention from the start when you'll be returning to work or if you have other deadlines, so everything can be as calm as possible for you and your little one. They'll then talk you through how the day is structured and how routine moments like meals, rest, and play are handled. The educational project and the activities planned for the children are usually presented as well. At the end of the interview, you're often also given the Service Charter: a valuable document where you'll find much of the information shared with you during the meeting.",
+      },
+      {
+        type: "highlight",
+        text: "The first interview at the nursery is therefore much more than a simple informational meeting: it's the beginning of a shared journey, in which family and educators work together to ensure the child's wellbeing and harmonious growth. Approaching it with openness and calm helps lay the foundation for a positive and enriching educational experience.",
+      },
+    ],
+  },
 };

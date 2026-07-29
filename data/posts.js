@@ -235,5 +235,68 @@ export const posts = [
         text: "La tecnica della riflessologia può aiutare in modo dolce ed efficace le mamme, ma la forza e l'amore delle madri per i propri figli sarà anche questa volta la chiave per far continuare la vita. Prima di ogni altra cosa, credete sempre in voi stesse: solo in voi dimora il miracolo della vita."
       }
     ]
+  },
+  {
+    id: 5,
+    slug: "primo-colloquio-al-nido",
+    title: "Il primo colloquio al nido: un passo fondamentale per una nuova avventura",
+    excerpt: "Il primo colloquio con le educatrici è un momento di ascolto e fiducia reciproca: ecco cosa condividere, quali domande fare e perché è l'inizio di un percorso educativo condiviso con la vostra famiglia.",
+    keywords: "asilo nido, primo colloquio nido, colloquio educatrici, ambientamento nido, prima infanzia, inserimento asilo nido, carta dei servizi, genitori nido, fiducia educatrici",
+    category: "Bambino",
+    author: "Dott.ssa Chiara Mauri",
+    authorSlug: "chiara-mauri",
+    authorRole: "Educatrice per la Prima Infanzia",
+    authorAvatar: "DCM",
+    authorColor: "#5B8E9F",
+    readTime: "4 min",
+    bgColor: "#3A6E7F",
+    content: [
+      {
+        type: "p",
+        text: "L'ambientamento al nido rappresenta un momento significativo sia per i piccoli che per le loro famiglie. Uno dei passi importanti in questo percorso è il primo colloquio con le educatrici (oppure con la coordinatrice) in quanto è un'occasione per conoscersi e porre le basi per creare fiducia reciproca."
+      },
+      {
+        type: "h2",
+        text: "A cosa serve il primo colloquio? Cosa condividere con le educatrici?"
+      },
+      {
+        type: "p",
+        text: "Il colloquio iniziale è uno spazio di ascolto e condivisione. Durante questo incontro, le educatrici cercano di conoscere il bambino attraverso il racconto dei genitori. Vi verranno chieste le sue abitudini (come dorme, domande relative all'allattamento o alla sua alimentazione, quali ritmi segue, se ha un oggetto transizionale, se utilizza il ciuccio…) se ha avuto esperienze di distacco precedenti (ha provato a stare solo in un altro nido o a casa dei nonni o di amici, come ha reagito al distacco e quali strategie vengono usate per rasserenarlo), le sue preferenze (ha attività che preferisce fare?). Cercate di offrire a chi avete di fronte una fotografia del vostro bambino, può essere che le educatrici vi aiutino con delle domande. La cosa importante è che emergano gli aspetti importanti e unici del vostro bambino. Se il vostro piccolo non è ancora nato o mancano ancora mesi all'inizio del percorso al nido può essere che verrete ricontattati in modo da «aggiornarsi» su come il vostro bambino è cresciuto e su come le abitudini si sono modificate."
+      },
+      {
+        type: "p",
+        text: "Questo momento è anche un'opportunità di esprimere eventuali paure, dubbi o aspettative riguardo a questa nuova avventura: non abbiate timore di esporli in questa fase né durante l'ambientamento è importante che siate sereni e fiduciosi quando il vostro bambino inizierà questa nuova avventura perché sono in grado di percepire se voi vi fidate o meno delle educatrici. Se il bambino sente che siete sereni nel lasciarlo al nido, allora anche lui sarà più tranquillo con il tempo."
+      },
+      {
+        type: "p",
+        text: "Ho pensato ad alcune domande che possono aiutarvi a comprendere meglio il contesto educativo e a sentirvi parte del percorso di crescita del vostro bambino."
+      },
+      {
+        type: "ul",
+        items: [
+          "Come si struttura una giornata tipo al nido?",
+          "Come vengono strutturati i pasti e il sonno?",
+          "Quale approccio utilizzate per favorire l'autonomia dei bambini?",
+          "Come aiutate i bambini a gestire la separazione dai genitori?",
+          "Quali strategie usate per confortare un bambino che si sente insicuro o triste?",
+          "In che modo informate i genitori sull'andamento delle giornate?",
+          "Come viene gestita la fase di ambientamento? Quanto dura in media?",
+          "Quali tipi di esperienza vengono proposti?",
+          "Fate attività all'aperto?"
+        ]
+      },
+      {
+        type: "h2",
+        text: "Il ruolo delle educatrici"
+      },
+      {
+        type: "p",
+        text: "Durante il colloquio, le educatrici non solo ascoltano e annotano quanto riporterete, ma forniscono informazioni utili sull'organizzazione del nido come le modalità di ambientamento (esiste l'ambientamento tradizionale e l'ambientamento svedese come vedremo in uno dei prossimi articoli) e i tempi previsti. È importante segnalare fin da subito quando rientrerete al lavoro o se avete altre scadenze in modo da rendere il tutto più sereno possibile per voi e per il vostro piccolo. Vi parleranno poi dell'articolazione della giornata e di come vengono gestiti i momenti di routine come il pasto, il riposo e il gioco. Solitamente si espone anche il progetto pedagogico e le proposte di esperienza che verranno fatte ai bambini. Spesso si lascia alla fine del colloquio anche la Carta dei Servizi: un documento prezioso dove potrete trovare molte delle indicazioni che vi verranno comunicate durante il colloquio."
+      },
+      {
+        type: "highlight",
+        text: "Il primo colloquio al nido è quindi molto più di un semplice incontro informativo: è l'inizio di un percorso condiviso, in cui famiglia ed educatrici lavorano insieme per garantire il benessere e la crescita armoniosa del bambino. Affrontarlo con apertura e serenità aiuta a porre le basi per un'esperienza educativa positiva e arricchente."
+      }
+    ]
   }
 ];
