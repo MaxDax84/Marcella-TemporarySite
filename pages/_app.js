@@ -1,7 +1,23 @@
 import { useState, useEffect, useRef } from "react";
 import { flushSync } from "react-dom";
 import { useRouter } from "next/router";
+import { Playfair_Display, Inter } from "next/font/google";
 import "../styles/globals.css";
+
+const playfairDisplay = Playfair_Display({
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+  style: ["normal", "italic"],
+  variable: "--font-serif",
+  display: "swap",
+});
+
+const inter = Inter({
+  subsets: ["latin"],
+  weight: ["300", "400", "500", "600"],
+  variable: "--font-sans",
+  display: "swap",
+});
 
 const FADE_OUT = 220; // ms pagina corrente svanisce
 const FADE_IN  = 260; // ms nuova pagina appare
@@ -55,6 +71,7 @@ export default function App({ Component, pageProps }) {
 
   return (
     <div
+      className={`${playfairDisplay.variable} ${inter.variable}`}
       style={{
         opacity: visible ? 1 : 0,
         transition: `opacity ${visible ? FADE_IN : FADE_OUT}ms ease`,

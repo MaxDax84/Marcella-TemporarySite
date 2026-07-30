@@ -1,4 +1,5 @@
 import { useRouter } from "next/router";
+import Image from "next/image";
 import LocalizedLink from "../../components/LocalizedLink";
 import Layout from "../../components/Layout";
 import EmailReveal from "../../components/EmailReveal";
@@ -74,10 +75,14 @@ export default function TeamMember({ member, memberPosts }) {
             <aside className="member-sidebar">
               <div className="member-photo-card">
                 {member.photo ? (
-                  <img
+                  <Image
                     src={member.photo}
                     alt={member.name}
+                    fill
+                    sizes="(max-width: 768px) 100vw, 300px"
                     className="member-photo-full"
+                    style={{ objectFit: "cover", objectPosition: "center top" }}
+                    priority
                   />
                 ) : (
                   <div

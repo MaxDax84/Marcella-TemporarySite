@@ -1,4 +1,5 @@
 import { useRouter } from "next/router";
+import Image from "next/image";
 import LocalizedLink from "../../components/LocalizedLink";
 import Layout from "../../components/Layout";
 import { teamMembers } from "../../data/team";
@@ -47,11 +48,13 @@ export default function Team() {
                     }}
                   >
                     {member.photo ? (
-                      <img
+                      <Image
                         src={member.photo}
                         alt={member.name}
+                        fill
+                        sizes="(max-width: 640px) 45vw, (max-width: 1024px) 30vw, 220px"
                         className="team-photo"
-                        loading="lazy"
+                        style={{ objectFit: "contain" }}
                       />
                     ) : (
                       <div
