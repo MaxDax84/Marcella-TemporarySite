@@ -1471,5 +1471,663 @@ export const posts = [
         text: "A questo periodo risale il dolcissimo quadro che ho scelto, La Sacra Famiglia col cagnolino, realizzato da Bartolomé Esteban Murillo nel 1650 e conservato al Museo del Prado di Madrid. Al centro del quadro, Gesù — un bimbo molto umanizzato, a piedi scalzi e intento a giocare con un uccellino e con un cagnolino — è appoggiato al padre, dietro al quale si intravedono gli strumenti della sua professione, che lo osserva fiero e compiaciuto. La posizione di Giuseppe nel quadro è centrale rispetto a quella di Maria, e nel suo complesso l'immagine è quella di una famiglia umile, ma armoniosa e felice, di cui San Giuseppe è custode."
       }
     ]
-  }
+  },
+  {
+    id: 26,
+    slug: "equilibrio-energetico-gravidanza-parto",
+    title: "Equilibrio energetico in gravidanza e nel parto",
+    excerpt: "Come il Reiki può accompagnare la donna dalla ricerca del concepimento fino al parto, coinvolgendo anche il padre in un ruolo attivo di sostegno.",
+    keywords: "reiki in gravidanza, equilibrio energetico, parto naturale, discipline olistiche, sostegno al parto, benessere in gravidanza",
+    category: "Gravidanza",
+    author: "Dott.ssa Alba D'Agostino",
+    authorSlug: "alba-dagostino",
+    authorRole: "Operatore Olistico, Reiki Master, Ipnologa, Intuitive Healer",
+    authorAvatar: "AD",
+    authorColor: "#C9974A",
+    readTime: "4 min",
+    bgColor: "#9C7130",
+    content: [
+      {
+        type: "img",
+        src: "/blog/feet-flowers-spa.jpg",
+        alt: "Piedi immersi in acqua con petali di fiori, momento di relax",
+        caption: "Foto: Rune Enstad / Unsplash"
+      },
+      {
+        type: "p",
+        text: "Ristabilire e mantenere il nostro equilibrio fisico e mentale è sempre fondamentale, ma lo è ancor più in gravidanza, quando è necessario gettare solide basi per la futura salute di un essere in formazione. Per questo, sempre più donne consapevoli si fanno trattare con il Reiki, beneficiando della calma e della ricarica energetica ottenuta grazie a questa pratica olistica sin dalle prime fasi di ricerca del figlio, continuando poi per tutta la gestazione, il parto e il puerperio."
+      },
+      {
+        type: "p",
+        text: "Già negli anni '30 del secolo scorso, il dottor Chujiro Hayashi — medico nipponico tra i primi diffusori del metodo Reiki di Mikao Usui e fondatore di una delle più importanti cliniche olistiche del Giappone — garantiva per iscritto i risultati ottenuti dalle donne incinte che si fossero fatte seguire regolarmente con il Reiki: parti più facili, più brevi, quindi meno dolorosi, e con un massimo di sette spinte."
+      },
+      {
+        type: "p",
+        text: "Oggi, come sanno bene le milioni di reikiste al mondo che praticano regolarmente Reiki trattandosi da sole o che si fanno trattare con regolarità da operatori esperti, la media di «spinte» al parto è di gran lunga scesa (si arriva a due, tre spinte persino tra le primipare), e sempre più mamme o gestanti scelgono il Reiki, acquisendo l'abilità a praticarlo, per potersi dare energia in tutte le fasi della gravidanza: per migliorare nelle prime settimane l'attecchimento del feto, per calmare gli stati ansiosi e gli sbalzi ormonali, le nausee mattutine, i crampi e, nella parte finale, per prepararsi al parto e poi riprendersi rapidamente."
+      },
+      {
+        type: "p",
+        text: "Non è raro che ad avvicinarsi al Reiki sia la coppia stessa, coinvolgendo finalmente il padre del nascituro in un'azione che lo vede in un ruolo attivo di aiuto e sostegno, durante tutta la gravidanza e poi durante il parto. Il padre, infatti, avendo il vantaggio di poter entrare liberamente in sala parto o nella struttura ospedaliera, può efficacemente non solo confortare e sostenere la compagna, ma può darle energia proprio nelle fasi più delicate, con enormi effetti di ricarica, analgesia e maggior equilibrio per mamma e nascituro."
+      },
+      {
+        type: "p",
+        text: "L'analgesia indotta dal Reiki durante il parto e la migliorata elasticità dei tessuti dovuta al rilassamento fisico e mentale della madre, grazie a una maggior ossigenazione muscolare, favoriscono una sensibile diminuzione dello stress; grazie anche alla preparazione ricevuta tramite i trattamenti Reiki nei mesi precedenti, la nascita torna a essere un evento davvero naturale e non traumatico, così come pensata dalla natura. Non è raro trovare tra i reikisti anche personale medico sanitario, in grado di aiutare la partoriente in clinica, oltre a operatori certificati ed esperti che la accompagnano sino alle ultime fasi."
+      },
+      {
+        type: "highlight",
+        text: "Se la donna si lascia andare al flusso della vita che nasce, senza opporre resistenza dovuta alla sua paura del dolore o del nuovo ruolo che l'aspetta, l'evento in sé risulterà più semplice e armonico, a vantaggio della serenità della nuova famiglia. Un esempio concreto di equilibrio energetico applicato a una fase importante, la nascita: il più grande gesto d'amore."
+      }
+    ]
+  },
+  {
+    id: 27,
+    slug: "tempo-in-eccesso-dono-o-condanna",
+    title: "Tempo in eccesso: dono o condanna?",
+    excerpt: "Quando l'averne troppo tra le mani diventa destabilizzante. In realtà è sempre una risorsa: una riflessione nata dai mesi di pandemia sul tempo trascorso con i figli.",
+    keywords: "tempo con i figli, genitorialità, pandemia e famiglia, gestione del tempo, benessere familiare",
+    category: "Bambino",
+    author: "Dott.ssa Alba D'Agostino",
+    authorSlug: "alba-dagostino",
+    authorRole: "Operatore Olistico, Reiki Master, Ipnologa, Intuitive Healer",
+    authorAvatar: "AD",
+    authorColor: "#C9974A",
+    readTime: "5 min",
+    bgColor: "#9C7130",
+    content: [
+      {
+        type: "img",
+        src: "/blog/madre-figli-panchina.jpg",
+        alt: "Una madre seduta su una panchina in mezzo alla natura con due bambini",
+        caption: "Foto: Benjamin Manley / Unsplash"
+      },
+      {
+        type: "highlight",
+        text: "Quando l'averne troppo tra le mani diventa destabilizzante. Invece è sempre una risorsa."
+      },
+      {
+        type: "p",
+        text: "La pandemia da Covid-19 rappresenta un evento straordinario che sta mutando profondamente il nostro stile di vita, stravolgendo i ritmi e le nostre abitudini, senza esclusioni. Molto è già stato detto circa gli effetti di lunga durata sui nostri stati emotivi, alcuni saranno rilevabili solo in futuro. Di base, ciascuno si è trovato a far fronte con le sue risorse personali ad ansie e paure inaspettate e, per la maggioranza, questo ha coinciso con bruschi cambiamenti di prospettive e con una quotidianità ampiamente stravolta."
+      },
+      {
+        type: "p",
+        text: "Se gli operatori sanitari sono andati in affanno non disponendo nemmeno più del tempo minimo per sé, la maggioranza ha invece dovuto ingegnarsi per trascorrere interminabili ore in casa, dando un senso a giorni tutti uguali, dovendosi inventare alternative per riempire gli spazi prima destinati al lavoro e al tempo libero. I figli, di qualunque età, hanno rappresentato un impegno costante e supplementare per i genitori che se ne sono occupati al meglio delle possibilità, inventando giochi improvvisati e attività di cucina pur di stimolarli e sostenerli, non sempre con risultati soddisfacenti. Le famiglie più in crisi sono state quelle con figli piccoli abituati a sfogarsi all'aperto, costretti come animali in cattività spesso in spazi angusti."
+      },
+      {
+        type: "p",
+        text: "Nel nostro forsennato mondo occidentale, tutti almeno una volta abbiamo desiderato avere più tempo per noi, per goderci la casa e la routine quotidiana; ma nella pandemia abbiamo sperimentato come il tempo «imposto» forzatamente, altrove rispetto alle nostre libere scelte, sia totalmente indigesto. L'aver troppo tempo tra le mani si è rivelato nella maggioranza dei casi un boomerang emotivo: ci ha dato modo di «perderlo» in attività infruttuose, magari inizialmente godibili come il guardare a oltranza le serie TV ma alla lunga alienanti e demotivanti. Come qualunque risorsa preziosa (per lo stile di vita occidentale, in particolar modo), diventando improvvisamente abbondante il tempo ha perso di valore. I più determinati hanno reagito impegnandosi in imprese domestiche a lungo rimandate, ritinteggiando e riordinando, arredando e catalogando interminabili pagine di vita familiare. Altrettanti hanno gradito dedicarsi alla famiglia, prendendosi cura direttamente dei figli, godendosi finalmente poppate e giochi serali nel lettone, e dormendo di più. La maggioranza però, a quasi un anno dall'inizio di quest'avventura collettiva, è ancora in affanno perché di questo tempo ritrovato, regalato, ora diventato troppo ingombrante, non si sa bene più che farsene, dato che troppe sono le limitazioni imposte dalle norme vigenti che ne limitano l'uso. Zero uscite, zero divertimenti né occasioni sociali. Troppo tempo per pensare al da farsi, a quel che sarà, leggendo e abbeverandosi alle solite fonti incerte dei mass media, affatto tranquillizzanti: il tutto ingenera ansia. Ridipinta la camera dei ragazzi, sistemati i documenti e gli album delle fotografie, riarredati solai e cantine, dopo l'ennesima collana di pasta o pupazzo di cartapesta, cos'altro resta da fare, e per quanto tempo ancora?"
+      },
+      {
+        type: "p",
+        text: "Fermiamoci un momento a riflettere. Per quanto sconfortante, la situazione non è delle peggiori. I nostri figli sono stati protetti nelle nostre case e non sono stati sfollati sotto le tende post belliche. I nostri nonni hanno vissuto situazioni drammaticamente peggiori! Inoltre, questo stato di cose non durerà per sempre: sappiamo che una nuova normalità vedrà presto la luce. Il tempo rimane una risorsa e una benedizione meravigliosa, se decideremo di spenderlo bene, anche in casa, ma non con l'intento di farlo «passare» velocemente bensì dandogli valore. Allora va bene il bricolage da soli o con i bambini, ma ancor meglio è inventarsi un progetto personale, sia esso piccolo o più corposo e strutturato, al quale dedicarsi in questi ulteriori mesi di fermo obbligato."
+      },
+      {
+        type: "highlight",
+        text: "Potrebbe non capitarci più in futuro di avere così tanto tempo per noi, per fare ginnastica in camera, dedicarci agli hobby, alla lettura, alla cucina; non avremo mai più così tanto tempo per stare con i bambini, leggere loro le favole, giocare alle bambole o con i dinosauri, fare i puzzle da 500 pezzi. I nostri figli non saranno «mai più così giovani». Banalmente, cresceranno, e saranno loro a non avere più tempo per noi. Parola di una mamma con figlio adolescente! Forza."
+      }
+    ]
+  },
+  {
+    id: 28,
+    slug: "riposo-forzato-in-maternita",
+    title: "Come vivere bene il riposo forzato in maternità",
+    excerpt: "Il riposo forzato in gravidanza non è un intoppo da subire, ma un tempo prezioso: come lasciarsi guidare dai cicli biologici della natura invece di viverlo con frustrazione.",
+    keywords: "riposo forzato gravidanza, gravidanza a rischio, riposo in gravidanza, benessere gestante, rallentare in gravidanza",
+    category: "Gravidanza",
+    author: "Dott.ssa Alba D'Agostino",
+    authorSlug: "alba-dagostino",
+    authorRole: "Operatore Olistico, Reiki Master, Ipnologa, Intuitive Healer",
+    authorAvatar: "AD",
+    authorColor: "#C9974A",
+    readTime: "4 min",
+    bgColor: "#9C7130",
+    content: [
+      {
+        type: "img",
+        src: "/blog/donna-riposo-gravidanza.jpg",
+        alt: "Donna incinta sdraiata a letto con la mano sulla pancia",
+        caption: "Foto: Giorgio Trovato / Unsplash"
+      },
+      {
+        type: "highlight",
+        text: "Come vivere bene il riposo forzato in maternità e trarne il meglio, imparando a lasciarsi guidare dai cicli biologici della natura."
+      },
+      {
+        type: "p",
+        text: "Nella frenesia del vivere occidentale, in cui le donne sottostanno ai ritmi concitati che scandiscono la vita familiare, sociale e lavorativa, spesso la maternità, ancorché desiderata, rappresenta un intoppo alla normale routine al quale è arduo abituarsi. Il dover rallentare le proprie scadenze, o su consiglio medico, o perché ci si rende conto della crescente necessità di riposo e salvaguardia della propria salute, non sempre viene assimilato, nella pratica, come un elemento positivo. Sebbene razionalmente lo si ritenga necessario, il dover delegare determinati compiti, diminuire gli impegni, rallentare il ritmo delle proprie prestazioni professionali fino all'obbligo, per alcune, al riposo assoluto o all'abbandono anzitempo del posto di lavoro, rappresenta un elemento di forte rottura e può scatenare sensazioni frustranti."
+      },
+      {
+        type: "p",
+        text: "È altamente probabile che un cambio così repentino e forzato di abitudini generi un senso di impotenza e inutilità in chi, per anni, ha gestito attività, gruppi di lavoro e patrimoni giocando, al contempo, a incastrare le proprie esigenze personali nei ritagli di tempo, come in un tetris; ora le esigenze del nascituro e della condizione gravidica rivendicano il ruolo da protagoniste, ed è naturale che ciò avvenga, poiché sono il preludio dei mesi e anni che verranno, periodo in cui la vita della madre dovrà plasmarsi intorno alle esigenze del figlio fino ad oltre l'età adolescenziale."
+      },
+      {
+        type: "p",
+        text: "Questo «riposo forzato» energeticamente racchiude un tesoro immenso, ed è bene viverlo al meglio e goderne appieno. Così come in natura i cicli biologici dello sbocciare e del fiorire si alternano a cicli di apparente calma e inutilità, in cui la pianta resta immobile per mesi, perdendo le foglie e dormendo sotto i rigori invernali, così l'essere umano ha bisogno di altrettanti periodi di riposo e di «fermo», talvolta forzati dagli eventi, in cui «si sta», si esiste, senza fare nulla. Come la chioccia che cova le uova rinunciando a razzolare nel campo, così la madre in maternità anticipata e quella obbligata al riposo devono delegare al tempo e a Madre Natura l'attività del «fare», che si concentra totalmente nella silenziosa formazione della creatura nel loro grembo."
+      },
+      {
+        type: "p",
+        text: "Così come il riposo dei terreni tra una semina e l'altra li rinvigorisce e li arricchisce, in vista di una nuova stagione, così il tempo del riposo pre-parto delle madri, se non viene vissuto con frustrazione e con noia, è ricco di opportunità. Si può, con calma, preparare il corredo, cucinare i pasti che serviranno nel congelatore per le prime settimane dopo l'ospedale, si può riprendersi per sé quel tempo di cura e coccola che tanto ci si è negate e che tarderà a trovare posto nelle giornate post parto, godendosi qualche massaggio con oli essenziali, dormendo e riposando in vista di ben altre fatiche o semplicemente pensando e meditando, sperimentando quel «dolce far nulla» da tempo dimenticato."
+      },
+      {
+        type: "p",
+        text: "Il tempo del riposo è salutare e necessario; il ciclo di attività e stasi, se vissuto con naturalezza, spesso sprigiona un potere creativo che può incanalarsi in attività future, nuove e stimolanti, proprio frutto dell'assenza di attività urgenti che ci hanno regalato del tempo finalmente trascorso a pensare al futuro che avremmo voluto per noi, dandoci l'occasione di pianificarlo."
+      }
+    ]
+  },
+  {
+    id: 29,
+    slug: "ambra-spugna-energetica-frequenze-pesanti",
+    title: "L'ambra, spugna energetica per bonificare l'energia dell'ambiente",
+    excerpt: "Oltre alle proprietà lenitive già note, l'ambra svolge da sempre un ruolo silenzioso di «spugna energetica»: come piccoli oggetti di questa resina fossile possono bonificare l'energia di una casa o di un ufficio.",
+    keywords: "ambra, spugna energetica, pulizia energetica, ambra proprietà, frequenze pesanti, resina fossile",
+    category: "Neonato",
+    author: "Dott.ssa Alba D'Agostino",
+    authorSlug: "alba-dagostino",
+    authorRole: "Operatore Olistico, Reiki Master, Ipnologa, Intuitive Healer",
+    authorAvatar: "AD",
+    authorColor: "#C9974A",
+    readTime: "4 min",
+    bgColor: "#9C7130",
+    content: [
+      {
+        type: "img",
+        src: "/blog/ambra-cristallo.jpg",
+        alt: "Cristalli di ambra grezza color miele in primo piano",
+        caption: "Foto: Krystal Ng / Unsplash"
+      },
+      {
+        type: "p",
+        text: "Abbiamo già parlato dell'uso dell'ambra per le sue capacità lenitive e analgesiche per mezzo del lento rilascio di acido succinico, a beneficio di chi la indossa (cfr. «Ambra e antichi rimedi per mamma e neonato»). I bambini, anche nella nostra vecchia Europa, sono tra i più ricorrenti utilizzatori di collanine d'ambra grazie alla conoscenza delle loro mamme, un sapere antico ora avvalorato dalla scienza, che ha travalicato i secoli per arrivare intatto sino a noi. In oriente si creano ciucci e piccoli sonagli con questo prezioso materiale, ma questa resina fossile millenaria, dalle sorprendenti qualità, può fare in effetti molto di più."
+      },
+      {
+        type: "p",
+        text: "Oltre agli aspetti puramente ornamentali o votivi che, complice la sua bellezza, l'hanno vista essere materia prima ideale per suppellettili e gioielli, ovunque nel mondo l'ambra ha da sempre assunto anche il ruolo silenzioso di «spugna energetica», poiché è in grado di assorbire le frequenze pesanti (definite impropriamente energie negative nel linguaggio comune), siano esse ambientali o intrapersonali. Di fatto, assolvendo a questa funzione, l'ambra assorbe ed elimina le frequenze disarmoniche facendosene carico, a vantaggio di chi la indossa o a beneficio di chi vive nell'ambiente in cui lei opera e bonifica."
+      },
+      {
+        type: "p",
+        text: "Piccoli oggetti di ambra, posizionati ad esempio in un ingresso, in un ufficio dove vi è gran transito di persone — ciascuna con il suo carico emozionale ed energetico, a volte denso di malumori e preoccupazioni — assorbono e «bonificano» l'energia ambientale a beneficio di tutti, ma soprattutto di chi l'ambra la posiziona accanto a sé a scopo protettivo. Nella casa in cui vivono bambini, o genitori apprensivi, l'ambra contribuisce a sanificare il clima generale."
+      },
+      {
+        type: "p",
+        text: "A questo proposito, poiché quando «lavora» assorbe le energie pesanti come una spugna, sarà possibile vederla trasformarsi sotto i nostri occhi nel giro di pochi giorni o settimane. Nei casi in cui la persona stessa o l'ambiente che frequenta sia davvero molto carico di tensioni ed energie ostili, frutto di stress e malumori di una certa intensità, l'ambra inizierà a opacizzarsi o a incrinarsi fino a spaccarsi del tutto quando avrà raggiunto il «massimo» della capacità di assorbimento possibile: questo dipende anche dalla sua resistenza e dimensione, oltre che dalla qualità della resina, che può essere più o meno «antica» e quindi resistente."
+      },
+      {
+        type: "p",
+        text: "Anche gli scettici possono fare agilmente una prova, senza spendere un capitale, acquistando un pezzo di ambra grezzo grande come una moneta da due euro e tenendolo in tasca per qualche tempo, o posizionandolo in una zona «calda» come una sala riunioni, il comodino di un paziente ospedalizzato, una cattedra, una scrivania in un ufficio a contatto con il pubblico. Senza averla scalfita né fatta cadere, la si vedrà mutare, cambiare colore, inaridirsi o incrinarsi. Nei casi più gravi, segno di un grande lavoro di assorbimento e pulizia effettuato dalla resina, l'ambra può spaccarsi in due o più pezzi senza che sia stata urtata in alcun modo! La cosa lascia strabiliati perché l'occidentale medio è abituato a considerare il mondo inanimato come inerte e non ragiona secondo la logica delle frequenze. Invece, tutto è energia, e la materia non fa eccezione, ancor più quella organica come l'ambra, che è vecchia svariati milioni di anni."
+      },
+      {
+        type: "highlight",
+        text: "Per questo scopo, in genere si consiglia l'acquisto di pezzi di ambra grezza «da lavoro» a un costo decisamente contenuto, poiché gioielli e suppellettili preziosi finirebbero inevitabilmente per rovinarsi e sgretolarsi. Una volta esaurita, l'ambra può essere restituita alla terra senza troppi pensieri (interrandola in giardino, lasciandola in un fiume) con gratitudine, perché continui il suo ciclo vitale."
+      }
+    ]
+  },
+  {
+    id: 30,
+    slug: "ambra-antichi-rimedi-mamma-neonato",
+    title: "Ambra e antichi rimedi per mamma e neonato",
+    excerpt: "Perché tanti neonati e bambini piccoli indossano una collanina d'ambra? Non è vanità né superstizione: le proprietà lenitive dell'acido succinico e altri rimedi «della nonna» sempre attuali.",
+    keywords: "collana ambra neonato, rimedi naturali neonato, acido succinico, dentizione bambini, rimedi della nonna",
+    category: "Neonato",
+    author: "Dott.ssa Alba D'Agostino",
+    authorSlug: "alba-dagostino",
+    authorRole: "Operatore Olistico, Reiki Master, Ipnologa, Intuitive Healer",
+    authorAvatar: "AD",
+    authorColor: "#C9974A",
+    readTime: "4 min",
+    bgColor: "#9C7130",
+    content: [
+      {
+        type: "img",
+        src: "/blog/ambra-cristallo.jpg",
+        alt: "Cristalli di ambra grezza color miele in primo piano",
+        caption: "Foto: Krystal Ng / Unsplash"
+      },
+      {
+        type: "p",
+        text: "Nella saggezza popolare, in Europa come nel lontano oriente, l'ambra è stata sempre considerata un materiale prezioso. Non è un minerale né un cristallo, ma è una resina fossile, prodotta dalle grandi foreste fossilizzate, e le prime datazioni della sua formazione risalgono a oltre 300 milioni di anni fa. Usata da sempre per la sua bellezza, con cui greci ed egizi producevano gioielli e statue votive, viene ancora oggi considerata, a ragione, di grande pregio, non solo per la ragguardevole età che ogni pezzetto di ambra testimonia ma per le sue proprietà."
+      },
+      {
+        type: "p",
+        text: "Anche nel nostro moderno mondo digitale, è piuttosto comune incrociare neonati o bambini in età da passeggino con collanine di ambra, fatte da perline color miele dalle forme irregolari."
+      },
+      {
+        type: "p",
+        text: "Vanità? Superstizione? Moda?"
+      },
+      {
+        type: "p",
+        text: "Spieghiamo subito che l'ambra, a contatto con la pelle, sprigiona l'acido succinico di cui è in parte composta e che viene rilasciato e assorbito tramite l'epidermide. L'acido succinico ha proprietà lenitive, antidolorifiche, antiossidanti, stimolanti per il sistema immunitario, e viene estratto dall'ambra per scopi medici (come la produzione di antibiotici e altri medicinali); ma il suo contatto prolungato con la pelle, come avviene ad esempio se si indossa a lungo una collana di ambra, ne rilascia una buona quantità a beneficio del portatore."
+      },
+      {
+        type: "p",
+        text: "Capiamo dunque perché in moltissime culture, dal mar Baltico — dove l'ambra è una risorsa di gran pregio sia per la purezza dei suoi giacimenti sia per la grande quantità di materia prima a disposizione — sino alla vecchia Europa, si sia fatto ricorso all'ambra per lenire diversi disturbi. Tra tutti, la dentizione dei bambini, che spesso è dolorosa e fastidiosa, e che li rende irritabili, inappetenti e talvolta febbricitanti. Per lo stesso motivo, è ottima per calmare il dolore di otiti, irritazioni della pelle, disturbi digestivi e, in generale, viene apprezzata per i suoi effetti analgesici."
+      },
+      {
+        type: "p",
+        text: "A poco importa se l'ambra è di color miele chiaro o è scura, densa o quasi trasparente, lucida oppure opaca, marrone-bruno o tendente al giallo. Tutta l'ambra naturale in commercio rilascia acido succinico e può essere usata per questi scopi, purché sia ambra vera e non prodotta chimicamente, non sia ambra fusa e poi riassemblata artificialmente o, peggio ancora, non sia plastica."
+      },
+      {
+        type: "highlight",
+        text: "Le future neo mamme possono procurarsi semplici collane di ambra (per i pargoli) o bracciali (per sé) nelle erboristerie e nelle farmacie, piuttosto che sui siti specializzati che trattano cristalli e minerali. Non vi è quindi nulla di strano o naïf nello sfruttare questi vecchi, buoni rimedi «della nonna» a basso costo: qualche goccia di olio di lavanda nell'acqua del bagnetto distensivo del piccolo, una manciata di amido di riso per lavare il culetto arrossato del neonato o rinforzare la sua pelle, massaggiare le piante dei piedini con una crema al timo quando è raffreddato. Come spesso accade, la saggezza degli uomini antichi attingeva a fonti di conoscenza a noi ignote e inspiegabili. A noi, genitori moderni, non resta che spiegare con mezzi scientifici il perché di conoscenze perse nella notte dei tempi, ma che possiamo, con pazienza e umiltà, recuperare e usare per il nostro benessere."
+      }
+    ]
+  },
+  {
+    id: 31,
+    slug: "importanza-delle-origini",
+    title: "L'importanza delle origini",
+    excerpt: "Ogni futuro genitore porta con sé la propria famiglia di origine, con i suoi conflitti irrisolti. Perché lavorare su queste radici prima di intraprendere il cammino genitoriale è così importante.",
+    keywords: "famiglia di origine, conflitti familiari, radici familiari, genitorialità consapevole, costellazioni familiari, preparazione alla genitorialità",
+    category: "Prima di restare incinta",
+    author: "Dott.ssa Alba D'Agostino",
+    authorSlug: "alba-dagostino",
+    authorRole: "Operatore Olistico, Reiki Master, Ipnologa, Intuitive Healer",
+    authorAvatar: "AD",
+    authorColor: "#C9974A",
+    readTime: "5 min",
+    bgColor: "#9C7130",
+    content: [
+      {
+        type: "img",
+        src: "/blog/radici-albero.jpg",
+        alt: "Radici intrecciate di un albero su un tronco coperto di muschio",
+        caption: "Foto: Natalia Blauth / Unsplash"
+      },
+      {
+        type: "p",
+        text: "Parlando di maternità non si può non far riferimento alla propria famiglia di origine. Qualunque futura madre è stata figlia, qualunque padre ha ricevuto dal proprio genitore il modello a cui tendere, oppure quello dal quale allontanarsi considerandolo errato, ma che continuerà ad esistere come riferimento. Di fatto, in ogni essere umano la famiglia di provenienza e la terra di origine rappresentano una costante fondamentale, qualcosa a cui attingere per prendere ispirazione o di cui tener conto. (In ambito energetico, questo fenomeno è legato al radicamento e alle funzionalità del primo chakra.)"
+      },
+      {
+        type: "p",
+        text: "Capita spesso però che i futuri genitori abbiano conflitti pregressi legati proprio alla loro «origine»: dissapori familiari, modelli materni o paterni che considerano inadeguati perché assenti o altamente problematici. Oppure tensioni emotive legate alla «terra» di provenienza dalla quale si sono allontanati deliberatamente, in cui non si riconoscono e di cui hanno abbandonato volutamente usanze e riferimenti culturali."
+      },
+      {
+        type: "p",
+        text: "In questi casi, i genitori sono portati a pensare che facendo nascere la loro nuova creatura in un contesto diverso, crescendola secondo modelli genitoriali differenti da quelli da loro ricevuti, il piccolo sarà finalmente libero e slegato da ciò che per loro ha rappresentato un peso."
+      },
+      {
+        type: "p",
+        text: "Questo è vero solo in parte. Ciascuno di noi, per svilupparsi come essere umano completo e armonioso, ha bisogno di sapere chi è, chi sono i propri parenti, cosa facevano i propri nonni, come vivevano o che tipo di bambini sono stati a loro volta i propri genitori, come giocavano da piccoli e quali sono gli aneddoti di famiglia. La curiosità innata porterà comunque i figli a porsi delle domande in età adolescenziale, e a scontrarsi contro la reticenza al divulgare informazioni legate a questi aspetti così profondi della vita familiare."
+      },
+      {
+        type: "highlight",
+        text: "Dal punto di vista energetico, proprio per il principio che «nulla si crea e nulla si distrugge», se vi è un conflitto pregresso — ad esempio tra una giovane madre e la sua famiglia — questa tensione viene percepita comunque dal bambino, e verrà introiettata e assorbita «con il latte materno», potremmo dire, e per nulla ignorata. Per questo è così importante per i futuri o neo genitori lavorare su di sé e risolvere i propri conflitti interni relativamente a questi aspetti così fondamentali e profondi della vita."
+      },
+      {
+        type: "p",
+        text: "Una giovane mamma che non parla da anni con sua madre, o la ignora deliberatamente per qualsivoglia valido motivo, energeticamente crea un blocco al libero scorrere del flusso vitale familiare, e crea peraltro un precedente, ossia un modello al quale anche il proprio figlio o figlia da adulto potrà attenersi, interrompendo a sua volta i rapporti con lei."
+      },
+      {
+        type: "p",
+        text: "Un padre che si vergogna della sua famiglia di origine, o della sua cultura o territorio di provenienza, immancabilmente passerà al figlio l'informazione che si è liberi di rinnegare totalmente le proprie radici, magari giudicandole senza neppure conoscerle."
+      },
+      {
+        type: "p",
+        text: "Per qualunque genitore, risolvere le proprie questioni irrisolte e lavorare profondamente su di sé per fare pace con le proprie radici familiari dovrebbe rappresentare una necessità primaria. Possibilmente, sarebbe bene risolvere ogni sospeso prima di intraprendere il cammino genitoriale ed educativo, ma non è mai troppo tardi per iniziare."
+      },
+      {
+        type: "p",
+        text: "Le tecniche sono molte, dalla psicoterapia alle tecniche energetiche per lavorare sui propri traumi, come il Reiki. L'importante è prendere coscienza del fatto che ciò che ignoriamo rimane intatto, sebbene nascosto, fintanto che non ci decidiamo a rimuoverlo."
+      }
+    ]
+  },
+  {
+    id: 32,
+    slug: "curare-le-radici-nuovo-virgulto",
+    title: "Curare le radici per dar vita a un nuovo virgulto",
+    excerpt: "Se vuoi crescere una pianta sana, cura le sue radici: un principio olistico base per chi si prepara a diventare genitore, tra Reiki, Costellazioni Familiari e Cristalloterapia.",
+    keywords: "radici familiari, preparazione al concepimento, Reiki, Costellazioni Familiari, Cristalloterapia, primo chakra",
+    category: "Prima di restare incinta",
+    author: "Dott.ssa Alba D'Agostino",
+    authorSlug: "alba-dagostino",
+    authorRole: "Operatore Olistico, Reiki Master, Ipnologa, Intuitive Healer",
+    authorAvatar: "AD",
+    authorColor: "#C9974A",
+    readTime: "5 min",
+    bgColor: "#9C7130",
+    content: [
+      {
+        type: "img",
+        src: "/blog/radici-albero.jpg",
+        alt: "Radici intrecciate di un albero su un tronco coperto di muschio",
+        caption: "Foto: Natalia Blauth / Unsplash"
+      },
+      {
+        type: "highlight",
+        text: "In ambito olistico è un concetto base, ormai noto anche nella medicina occidentale: se vuoi crescere una pianta sana e che dia frutto, cura le sue radici. In altre parole, se vuoi che un essere umano sbocci, abbia un futuro rigoglioso, sappia resistere agli assalti della vita, guarda alla solidità delle sue «radici» personali, familiari, al suo contesto e, più in generale, prenditi cura del «terreno» dal quale proviene."
+      },
+      {
+        type: "p",
+        text: "L'idea di essere umano contrapposto alla struttura di un albero ha origini lontane, e la simbologia che ne deriva è di facile comprensione. Immagina un uomo con i suoi piedi ben piantati a terra, contrapposti alle radici di una pianta, in grado di ancorarsi e radicarsi al suolo, che prende energia e nutrimento in profondità, come è d'uso nel regno vegetale."
+      },
+      {
+        type: "p",
+        text: "Il suo fusto, il tronco, viene ben rappresentato dalla struttura eretta che funge da forza portante, finalizzata al sorreggere i rami, le fronde rivolte alla luce come alle intemperie. Immagina il viso rivolto al cielo, i capelli che fluttuano al vento e braccia e mani alzate, pronte a dare frutto proprio come fossero rami rigogliosi, coperti di fiori, giovani virgulti e bacche."
+      },
+      {
+        type: "p",
+        text: "È qui, nella poetica e antica rappresentazione dell'uomo-albero, o nella più comune immagine dell'«albero della vita» a cui nell'iconografia moderna lo yoga ci ha abituati, che vediamo distintamente l'unirsi alchemico delle energie basali inferiori — legate alla terra, alla sussistenza e ai chakra bassi con i loro bisogni primari — e quelle superiori, del cielo, dello spirito, che portano influssi creativi e sono il motivo di espressione umana."
+      },
+      {
+        type: "p",
+        text: "Ebbene, perché la vita si sviluppi e una pianta possa dare frutto, occorre che le sue radici siano forti! Maggiore è la salute delle radici, migliore sarà la qualità della vita dell'intera pianta."
+      },
+      {
+        type: "p",
+        text: "In altre parole, quando un futuro genitore vuole affrontare il discorso procreazione è consigliabile che lavori su di sé e sulle proprie radici. Portiamo infatti con noi i conflitti emotivi, le paure, le grandi incertezze e criticità legate agli elementi «base» della nostra famiglia. I nostri stessi genitori sono la nostra «radice fondamentale», così i nostri rapporti con la famiglia di origine, con la terra da cui proveniamo e il tessuto parentale allargato. Le radici affondano nel terreno e non dimenticano di rivelarci nemmeno gli aspetti più materiali e «meno poetici» del processo procreativo, come la sicurezza economica che basi solide possono garantire e che, se manca, dà quel senso di insicurezza che talvolta fa rimandare, anche a lungo, il diventare madre o padre, oppure fa affrontare l'intero processo con apprensione e senso di sbandamento. Le radici sono costituite anche da «come» siamo stati educati in quanto figli, e con quante e quali certezze ci siamo evoluti a nostra volta, essendo virgulti ora pronti a dare frutto. Già rendersi conto della qualità, solidità o debolezza delle nostre radici è un passo importante per procedere nel cammino genitoriale e attrezzarci per darci, eventualmente, ciò che ci manca."
+      },
+      {
+        type: "p",
+        text: "In quasi tutte le discipline olistiche ci sono pratiche — meditazioni, esercizi, trattamenti specifici, visualizzazioni — rivolte a rinforzare le «radici» e, in particolare, a rinvigorire quelle naturali caratteristiche fisiche ed energetiche che ci permettono di connetterci alla nostra innata capacità di riprodurci, permettendoci di attingere al contempo a tutta la forza di cui un genitore deve disporre per realizzarsi nel suo compito. In questo processo, è valido l'approccio psicanalitico così come è altresì valido quello olistico, basato sull'ascolto delle energie di base della persona. Alcune discipline, come il Reiki ad esempio, mirano a riequilibrare le frequenze dei chakra inferiori affinché il sistema energetico si prepari all'esperienza del concepimento, rimuovendo tutti quegli addensamenti che possono ostacolarlo. Altre tecniche, come le Costellazioni Familiari e Sistemiche, si propongono di rimuovere i blocchi ereditati da conflitti di vecchia data tra genitori e figli o, più in generale, tra parenti. Altre tecniche ancora, come la Cristalloterapia, vengono adoperate per rinforzare il radicamento alla terra e la fecondità, andando a stimolare il primo e secondo chakra. Anche in questa fase, ci sono molti approcci validi per un unico obiettivo: creare fondamenta importanti per la costruzione che verrà."
+      }
+    ]
+  },
+  {
+    id: 33,
+    slug: "maternita-tecniche-olistiche-aiuto-concreto",
+    title: "Maternità e tecniche olistiche: un aiuto concreto",
+    excerpt: "Dallo Yoga in gravidanza al Reiki, dalla Riflessologia plantare alle Costellazioni Familiari: una panoramica delle discipline olistiche che possono accompagnare la donna nel percorso genitoriale.",
+    keywords: "discipline olistiche gravidanza, Yoga in gravidanza, Reiki, Riflessologia plantare, Costellazioni Familiari, medicina integrata",
+    category: "Gravidanza",
+    author: "Dott.ssa Alba D'Agostino",
+    authorSlug: "alba-dagostino",
+    authorRole: "Operatore Olistico, Reiki Master, Ipnologa, Intuitive Healer",
+    authorAvatar: "AD",
+    authorColor: "#C9974A",
+    readTime: "4 min",
+    bgColor: "#9C7130",
+    content: [
+      {
+        type: "img",
+        src: "/blog/fiore-mano-cielo.jpg",
+        alt: "Una mano che regge un fiore rosa contro un cielo azzurro",
+        caption: "Foto: Frank Ching / Unsplash"
+      },
+      {
+        type: "p",
+        text: "Sempre più donne sanno che le discipline olistiche sono particolarmente adatte per aiutare le future mamme in vista del lieto evento, sia nelle fasi di ricerca del nascituro sia durante la gestazione, il parto e il puerperio. Ma cosa si intende esattamente per «olistiche»?"
+      },
+      {
+        type: "p",
+        text: "Sono tutte quelle tecniche o discipline che si prendono cura della persona nella sua interezza, volte al recupero e al mantenimento dell'equilibrio psicofisico dell'individuo. Dal greco, olos significa «tutto, intero»: le discipline olistiche guardano alla persona nel suo insieme, non trascurandone alcun aspetto, sia esso fisico, psicologico, emotivo o energetico, secondo il principio per cui siamo, nel nostro complesso, un aggregato interconnesso di realtà. Lavorando sul corpo fisico, ad esempio sotto forma di massaggio o ginnastica, possiamo stimolare l'umore; focalizzandoci sugli aspetti energetici, stimolando i chakra o i meridiani, influenziamo positivamente la psiche, e così via, in un continuo e sapiente interscambio di informazioni e sblocchi energetici volti a ripristinare il benessere della persona nel suo insieme."
+      },
+      {
+        type: "p",
+        text: "Molte discipline olistiche provengono dall'oriente, dove culturalmente e filosoficamente la persona è da sempre considerata come un essere energetico complesso ma unitario, in cui corpo e mente sono così strettamente correlati tra loro da essere inscindibili. Al contrario, per secoli il pensiero occidentale ha separato queste due unità creando specialisti che si sono occupati dell'una o dell'altra parte separatamente, come se il benessere del corpo potesse fare a meno di una buona igiene mentale o emotiva, e come se l'uno non influisse sull'altro."
+      },
+      {
+        type: "highlight",
+        text: "Per fortuna, anche grazie alla richiesta sempre maggiore di tecniche dolci, non invasive e che tengano conto del recupero di sapienze antiche e tradizionali oltre che dell'attenzione al benessere complessivo della persona, il mondo olistico sta vedendo anche in Europa un fiorire di specialisti accreditati che offrono il loro sapere a vantaggio di future mamme o neo genitori sempre più attenti a questi aspetti «inclusivi». Dall'ormai noto Yoga in gravidanza al benefico Reiki, dalla Riflessologia plantare ai trattamenti Shiatsu, dal Massaggio Metamorfico al Theta Healing fino alle Costellazioni Familiari e Sistemiche, dal Rebirthing alle Meditazioni e visualizzazioni guidate — solo per citarne alcune — sono tantissime le tecniche capaci di dare un aiuto concreto e mirato alle madri che vogliono affrontare il percorso genitoriale in modo consapevole, lavorando su di sé, a tutti i livelli, per preparare il fisico e sciogliere quei blocchi energetici, o paure anche di vecchia data, che sentono come ostacolo al libero e spontaneo fluire dell'energia che porta alla vita."
+      },
+      {
+        type: "p",
+        text: "Molte discipline, come la Meditazione o il Reiki, sono ampiamente accettate e riconosciute per la loro efficacia dalla comunità scientifica, e vedono anche in Italia sempre maggiori integrazioni con la sanità pubblica e privata. Sovente, sono gli stessi medici o il personale sanitario a consigliare alle madri, parallelamente a un iter tradizionale di cura e assistenza, percorsi alternativi olistici per migliorare alcuni aspetti fisiologici tipici della maternità, o per gestire l'ansia da parto, contenere il dolore o l'insicurezza, la necessità di rilassarsi e ricaricare velocemente le energie per affrontare gli impegni quotidiani «nonostante» il pancione, per accettare il corpo che cambia, la nuova condizione e le nuove sfide, oltre ai vecchi, talvolta insoluti, nodi emotivi legati all'essere «figlia». Ci sono dunque molte possibilità per l'abilità più antica e straordinaria del mondo, l'essere madre, ma anche l'essere donna, figlia, moglie, amica e professionista, in un mix «olisticamente» armonico."
+      },
+      {
+        type: "p",
+        text: "A ciascuno il suo, perché come sempre sapere è potere."
+      }
+    ]
+  },
+  {
+    id: 34,
+    slug: "fitoterapia-di-bach-nuovi-orizzonti",
+    title: "La fitoterapia di Bach – Nuovi orizzonti",
+    excerpt: "38 fiori, un trattamento di macerazione millenario e 25 anni di esperienza sul campo: come funziona davvero la fitoterapia di Bach e perché la gestante «vibra per due».",
+    keywords: "fitoterapia di Bach, fiori di Bach, fiori di Bach gravidanza, Edward Bach, rimedi floreali, medicina energetica",
+    category: "Gravidanza",
+    author: "Dott. Paolo Torri",
+    authorSlug: "paolo-torri",
+    authorRole: "Maestro Riflessologo",
+    authorAvatar: "PT",
+    authorColor: "#6A7F9A",
+    readTime: "5 min",
+    bgColor: "#4A6080",
+    content: [
+      {
+        type: "img",
+        src: "/blog/fiore-mano-cielo.jpg",
+        alt: "Una mano che regge un fiore rosa contro un cielo azzurro",
+        caption: "Foto: Frank Ching / Unsplash"
+      },
+      {
+        type: "p",
+        text: "La fitoterapia è un'antichissima tecnica di guarigione che si serve di organismi vegetali: già Ippocrate la posiziona come terzo rimedio dopo il «tocco» e la «parola»."
+      },
+      {
+        type: "p",
+        text: "La fitoterapia di Bach nello specifico si serve di 38 fiori (comprese alcune gemme e acqua di sorgente) che, attraverso uno specifico e particolare trattamento di macerazione, trasferiscono e liberano il potere terapeutico rinchiuso nel fiore all'essenza idroalcolica."
+      },
+      {
+        type: "p",
+        text: "Dopo 25 anni di uso, sperimentazione e ricerca applicata a queste essenze, posso con certezza affermarne l'efficacia, e la posso spiegare paragonandole alle note musicali. Per prima cosa lo strumento che produce le note deve essere di buona fattura e costruito con ottimo materiale: quindi i fiori devono essere selvatici e il processo di estrazione ottimo."
+      },
+      {
+        type: "p",
+        text: "Inoltre tutti conosciamo su di noi l'effetto che hanno singole note messe in successione a caso rispetto a quello che può scatenare una melodia e un'armonia che si esaltano in sinergia. Lo stesso effetto hanno le essenze somministrate nel modo più consono (per via orale, sublinguale, locale cutanea), nel momento giusto, nelle zone giuste, nelle giuste quantità."
+      },
+      {
+        type: "p",
+        text: "Se nulla viene trascurato, il risultato è rapido, profondo e duraturo."
+      },
+      {
+        type: "p",
+        text: "Il dottor Edward Bach era un microbiologo, e la base su cui si fonda la sua terapia è estremamente scientifica; ma essendo stato lui anche uomo di grandissima sensibilità, di mente visionaria e illuminata, riuscì a creare una metodica che unisce lo psico-emozionale all'organico, ed è proprio questo il solo approccio che si deve avere con i «suoi fiori»."
+      },
+      {
+        type: "p",
+        text: "Oggi le conoscenze ampliate che abbiamo dalla fisica, dalla chimica, dalla fisiologia e dalla patologia ci permettono di avere metodi di diagnosi più precisi e mirati, in grado di capire meglio il soggetto e il potere terapeutico delle essenze e delle loro combinazioni. La fisica, e la chimica fisica in particolare, ci ha consentito di poter studiare le proprietà delle essenze e delle loro combinazioni da un punto di vista energetico vibrazionale, esaltandone le potenzialità."
+      },
+      {
+        type: "highlight",
+        text: "La donna che sta facendo crescere dentro di sé il suo piccolo, è innegabile che «vibri per due»: ecco perché in lei questo tipo di fitoterapia, usata nel modo corretto, risulta essere estremamente efficace. La vera differenza sta nel capire a fondo la persona che si ha di fronte, e quindi le necessità del suo corpo e della sua mente — nel meraviglioso caso di una donna gravida, anche quello della giovane creatura che sta crescendo in lei."
+      },
+      {
+        type: "p",
+        text: "Ad oggi esistono diverse metodiche oggettive per trovare le essenze e le combinazioni corrette, ed alcune addirittura specifiche per le neo mamme. Successivamente spiegherò nel dettaglio tali tecniche."
+      }
+    ]
+  },
+  {
+    id: 35,
+    slug: "fitoterapia-di-bach-tecniche-oggettive",
+    title: "La fitoterapia di Bach – Tecniche oggettive",
+    excerpt: "Dalla sensibilità del terapeuta alle «Aree Cutanee» e alle «Linee Lunari»: due metodiche oggettive, basate sulla mappatura del derma e sulla Medicina Tradizionale Cinese, per una diagnosi precisa con i fiori di Bach.",
+    keywords: "fitoterapia di Bach, aree cutanee, linee lunari, diagnosi fiori di Bach, medicina tradizionale cinese, meridiani",
+    category: "Gravidanza",
+    author: "Dott. Paolo Torri",
+    authorSlug: "paolo-torri",
+    authorRole: "Maestro Riflessologo",
+    authorAvatar: "PT",
+    authorColor: "#6A7F9A",
+    readTime: "4 min",
+    bgColor: "#4A6080",
+    content: [
+      {
+        type: "p",
+        text: "Nel precedente articolo «La fitoterapia di Bach – Nuovi orizzonti» ho spiegato cosa sono e come agiscono, alla luce delle nuove scoperte della fisica e della chimica, le essenze di Bach; oggi invece vorrei illustrarvi delle tecniche oggettive per una diagnosi precisa ed accurata."
+      },
+      {
+        type: "p",
+        text: "Essendo la fitoterapia di Bach una «tecnica energetica», necessita di grandissima esperienza e sensibilità da parte del terapeuta per impostare una combinazione efficace, e non esistevano tecniche di riscontro. Oggi invece, grazie allo studio approfondito delle ricerche di Kramer e Wild (due allievi diretti del dottor Bach), disponiamo anche della metodica delle «Aree Cutanee» e delle «Linee Lunari», che sono invece oggettive."
+      },
+      {
+        type: "p",
+        text: "La prima metodica si basa sul fatto di aver diviso il derma di tutto il corpo in aree ben definite e ad ognuna aver assegnato un'essenza corrispondente. La mappa è stata ricavata incrociando le manifestazioni sintomatologiche, gli stati emozionali e le innervazioni cutanee. Attraverso un colloquio approfondito si isolano le zone dolenti, le essenze corrispondenti, e si delinea la combinazione più idonea."
+      },
+      {
+        type: "p",
+        text: "La seconda metodica è più complessa e si basa sulla Medicina Tradizionale Cinese e i suoi 12 meridiani. Essi passano tutti dalla zona sacrale e lì possono essere testati in modo oggettivo. Basta premere un punto su ognuno e paragonarne la sensazione che si percepisce con il precedente. Alla fine spiccherà sempre uno su tutti, e quello indicherà la distonia nel meridiano associato."
+      },
+      {
+        type: "highlight",
+        text: "Queste tecniche sono la riprova concreta dello strettissimo dualismo corpo e psiche, che nella gestante e nella puerpera si esalta ancora di più, coinvolgendo persino la giovane vita in un triangolo emozionale. Tecniche mai invasive, rapide e non dispendiose, nel pieno rispetto del concetto olistico."
+      },
+      {
+        type: "p",
+        text: "Comunque, anche in questo caso, necessita capacità di contestualizzazione, spiccata sensibilità ma visione oggettiva: è bene quindi affidarsi a terapeuti di capacità, esperienza e, soprattutto, con i quali ci sia reciproca fiducia."
+      }
+    ]
+  },
+  {
+    id: 36,
+    slug: "riflessologia-e-allattamento",
+    title: "Riflessologia e allattamento",
+    excerpt: "Il grande sforzo posturale a livello cervico-toracico che l'allattamento richiede al corpo della neo mamma, e come la riflessologia plantare e auricolare possono assecondarlo, anche in caso di mastite e ragadi.",
+    keywords: "riflessologia allattamento, mastite, ragadi, montata lattea, postura allattamento, riflessologia plantare",
+    category: "Allattamento",
+    author: "Dott. Paolo Torri",
+    authorSlug: "paolo-torri",
+    authorRole: "Maestro Riflessologo",
+    authorAvatar: "PT",
+    authorColor: "#6A7F9A",
+    readTime: "4 min",
+    bgColor: "#4A6080",
+    content: [
+      {
+        type: "img",
+        src: "/blog/feet-flowers-spa.jpg",
+        alt: "Piedi immersi in acqua con petali di fiori, momento di relax",
+        caption: "Foto: Rune Enstad / Unsplash"
+      },
+      {
+        type: "p",
+        text: "L'allattamento è un momento cruciale e magico nella maternità, e la donna deve essere compresa ed aiutata in tutta la sua complessità."
+      },
+      {
+        type: "p",
+        text: "In questo periodo bello ma complesso, la neo mamma sottopone a un'ulteriore prova il suo fisico. Gli aspetti da analizzare sono molteplici e nessuno trascurabile, ma qui vorrei analizzare solo il grande sforzo a livello cervico-toracico che comunque influenza tutto l'organismo."
+      },
+      {
+        type: "p",
+        text: "Gli enzimi presenti nella saliva del piccolo, a contatto del capezzolo della sua mamma, attivano la cascata ormonale e la montata lattea. Questo genera un rimaneggiamento posturale profondo che sarebbe bene assecondare e mantenere. La presenza di retrazioni (zone miofasciali tese costantemente) blocca il rimaneggiamento stesso e risulta di ostacolo alla corretta ed efficace formazione del prezioso latte materno."
+      },
+      {
+        type: "p",
+        text: "Spesso agire localmente, soprattutto all'inizio e anche se in modo delicato, può risultare violento per l'organismo della donna già abbastanza sotto stress."
+      },
+      {
+        type: "highlight",
+        text: "Qui può agire in modo molto efficace la riflessologia, in tecnica sia plantare che auricolare. La prima più profonda ma non immediata, mentre la seconda di rapidissimo effetto. La stimolazione riflessa plantare specifica ricorda al corpo come deve circolare la linfa e come i fasci muscolari e connettivali della zona del collo, petto e torace devono posizionarsi. Il tutto è rafforzato dalla stimolazione del padiglione auricolare, che facilita la cascata ormonale attivante e sensibilizza i «recettori» (cellule bersaglio). La stimolazione può essere fatta solo alla mamma, oppure durante l'allattamento con il bambino attaccato al seno, per enfatizzare ulteriormente l'azione."
+      },
+      {
+        type: "p",
+        text: "Dopo il primo periodo, per mantenere in ottima salute posturale la mamma e alta la qualità nutritiva del latte, si può aggiungere una stimolazione dei riflessi neurolinfatici di Chapman sulla zona cervicale e infrascapolare."
+      },
+      {
+        type: "p",
+        text: "Ho citato il caso preventivo in cui la riflessoterapia risulta più efficace, ma abbinata a cure convenzionali risulta efficacissima anche nei casi acuti di mastite e ragadi. Ove le cure convenzionali non possano essere applicate per problemi clinici più gravi, risulta comunque una valida alternativa."
+      }
+    ]
+  },
+  {
+    id: 37,
+    slug: "riflessologia-nel-post-partum",
+    title: "La riflessologia nel post partum",
+    excerpt: "Dopo il parto il corpo e la mente della donna vengono messi a dura prova: come le tecniche di riflessologia — plantare, palmare, auricolare, facciale — possono aiutare a prevenire e ristabilire l'equilibrio.",
+    keywords: "riflessologia post partum, puerperio, benessere post parto, riflessologia plantare, riflessologia palmare, prevenzione post partum",
+    category: "Puerperio",
+    author: "Dott. Paolo Torri",
+    authorSlug: "paolo-torri",
+    authorRole: "Maestro Riflessologo",
+    authorAvatar: "PT",
+    authorColor: "#6A7F9A",
+    readTime: "4 min",
+    bgColor: "#4A6080",
+    content: [
+      {
+        type: "img",
+        src: "/blog/feet-flowers-spa.jpg",
+        alt: "Piedi immersi in acqua con petali di fiori, momento di relax",
+        caption: "Foto: Rune Enstad / Unsplash"
+      },
+      {
+        type: "p",
+        text: "L'organismo femminile, o meglio ancora la donna in tutta la sua affascinante totalità e completezza psicoemozionale ed organica, nel periodo post parto viene messa a dura prova."
+      },
+      {
+        type: "p",
+        text: "Grandi cambiamenti fisici, emozionali ma anche di vita scatenano cascate ormonali che la stravolgono. È proprio in questo periodo che essa deve fare appello a tutte le sue capacità e a tutte le sue energie."
+      },
+      {
+        type: "p",
+        text: "La cura del suo cucciolo deve essere lucida ed appagante senza diventare una frustrazione per sé stessa. Tutto ciò diventa possibile solo se mente e corpo sono sinergici ed in forze."
+      },
+      {
+        type: "p",
+        text: "Le varie tecniche di stimolazione riflessa possono aiutare su molteplici fronti in modo dolce e piacevole senza effetti collaterali. Parlo di varie tecniche perché le riflessoterapie sono parecchie ed esistono anche vari stili."
+      },
+      {
+        type: "p",
+        text: "La ricerca e la pratica in questo campo, da ormai più di vent'anni, mi hanno reso consapevole della profonda efficacia delle riflessoterapie in questo delicato momento per la donna. I migliori risultati si ottengono proprio comprendendo lo stile e il metodo più consono per la persona stessa."
+      },
+      {
+        type: "p",
+        text: "Solitamente quando si parla di riflessologia si pensa solo a quella plantare, ma esistono anche quella palmare, quella auricolare, quella facciale, del rachide, linguale e persino del colon. Alcune di queste tecniche sono solo a scopo diagnostico, ma comunque molto utili nel post parto."
+      },
+      {
+        type: "p",
+        text: "La dolcezza del massaggio riflessogeno non ha la presunzione di «far fare all'organismo», ma solo di riequilibrare e ricordare la sinergia per poi ristabilire la salute."
+      },
+      {
+        type: "p",
+        text: "Dopo aver partorito la donna è in uno stato di «agitazione» su molti livelli, e il persistere di questo stato può favorire l'insorgenza di patologie. Ecco perché l'applicazione delle riflessoterapie nei corretti stili e nelle corrette tempistiche può evitare molti problemi."
+      },
+      {
+        type: "highlight",
+        text: "La grande forza delle riflessoterapie sta proprio nella prevenzione, e dona forza ed equilibrio sia alla mamma che al bambino in modo indiretto. Con essa dedicate tempo e benessere a voi, ed insegnate al vostro «cucciolo» che per amare bisogna prima sapersi amare."
+      }
+    ]
+  },
+  {
+    id: 38,
+    slug: "per-rilassarsi-un-momento-di-benessere-prima-parte",
+    title: "Per rilassarsi e concedersi qualche momento di benessere (prima parte)",
+    excerpt: "Un breve video guidato per concedersi qualche minuto di rilassamento, nel pieno di una fase — quella della maternità — in cui è facile dimenticarsi di prendersi cura di sé.",
+    keywords: "rilassamento gravidanza, benessere mamma, video relax, tecniche di rilassamento",
+    category: "Gravidanza",
+    author: "Dott. Paolo Torri",
+    authorSlug: "paolo-torri",
+    authorRole: "Maestro Riflessologo",
+    authorAvatar: "PT",
+    authorColor: "#6A7F9A",
+    readTime: "2 min",
+    bgColor: "#4A6080",
+    content: [
+      {
+        type: "p",
+        text: "Un breve momento guidato per rilassarsi e concedersi qualche minuto di benessere."
+      },
+      {
+        type: "video",
+        src: "/blog/benessere-prima-parte.mp4",
+        caption: "Video: Dott. Paolo Torri"
+      }
+    ]
+  },
+  {
+    id: 39,
+    slug: "per-rilassarsi-un-momento-di-benessere-seconda-parte",
+    title: "Per rilassarsi e concedersi qualche momento di benessere (seconda parte)",
+    excerpt: "Il secondo video guidato della serie per concedersi qualche minuto di rilassamento e benessere.",
+    keywords: "rilassamento gravidanza, benessere mamma, video relax, tecniche di rilassamento",
+    category: "Gravidanza",
+    author: "Dott. Paolo Torri",
+    authorSlug: "paolo-torri",
+    authorRole: "Maestro Riflessologo",
+    authorAvatar: "PT",
+    authorColor: "#6A7F9A",
+    readTime: "2 min",
+    bgColor: "#4A6080",
+    content: [
+      {
+        type: "p",
+        text: "Il secondo momento guidato per rilassarsi e concedersi qualche minuto di benessere."
+      },
+      {
+        type: "video",
+        src: "/blog/benessere-seconda-parte.mp4",
+        caption: "Video: Dott. Paolo Torri"
+      }
+    ]
+  },
 ];

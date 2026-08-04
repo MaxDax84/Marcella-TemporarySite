@@ -913,11 +913,13 @@ p { line-height: 1.7; }
 .article-body figure.article-figure {
   margin: 28px 0;
 }
-.article-body figure.article-figure img {
+.article-body figure.article-figure img,
+.article-body figure.article-figure video {
   width: 100%;
   height: auto;
   border-radius: var(--radius-sm);
   display: block;
+  background: #000;
 }
 .article-body figure.article-figure figcaption {
   font-size: 0.82rem;

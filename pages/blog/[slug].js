@@ -61,6 +61,13 @@ function renderBlock(block, i) {
           </a>
         </div>
       );
+    case "video":
+      return (
+        <figure className="article-figure" key={i}>
+          <video src={block.src} controls preload="metadata" playsInline />
+          {block.caption && <figcaption>{block.caption}</figcaption>}
+        </figure>
+      );
     default:
       return null;
   }
