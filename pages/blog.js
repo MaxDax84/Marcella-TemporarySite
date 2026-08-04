@@ -11,9 +11,19 @@ export default function Blog() {
   const t = (ui[locale] || ui.it).blog;
   const localizedPosts = posts.map((p) => localizePost(p, locale));
   const [activeCategory, setActiveCategory] = useState(null);
-  const filteredPosts = activeCategory
-    ? localizedPosts.filter((p) => p.category === activeCategory)
-    : localizedPosts;
+  const [searchQuery, setSearchQuery] = useState("");
+
+  const query = searchQuery.trim().toLowerCase();
+  const filteredPosts = localizedPosts.filter((p) => {
+    const matchesCategory = !activeCategory || p.category === activeCategory;
+    const matchesQuery =
+      !query ||
+      p.title.toLowerCase().includes(query) ||
+      p.excerpt.toLowerCase().includes(query) ||
+      p.keywords.toLowerCase().includes(query) ||
+      p.author.toLowerCase().includes(query);
+    return matchesCategory && matchesQuery;
+  });
 
   return (
     <Layout
@@ -34,6 +44,15 @@ export default function Blog() {
 
       <section className="section blog-section">
         <div className="container">
+          <input
+            type="search"
+            className="blog-search"
+            placeholder={t.searchPlaceholder}
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            aria-label={t.searchPlaceholder}
+          />
+
           <div className="blog-filters">
             <button
               className={`blog-filter${activeCategory === null ? " active" : ""}`}

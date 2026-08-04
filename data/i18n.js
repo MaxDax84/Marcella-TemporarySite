@@ -83,6 +83,7 @@ export const ui = {
       metaDesc: "Articoli su gravidanza, parto, depressione post-partum, PMA, infertilità e prima infanzia, scritti da professioniste specializzate.",
       allCategories: "Tutti",
       noResults: "Nessun articolo in questa sezione, per ora.",
+      searchPlaceholder: "Cerca per parola chiave…",
       categories: [
         "Difficoltà",
         "Prima di restare incinta",
@@ -206,6 +207,7 @@ export const ui = {
       metaDesc: "Articles on pregnancy, childbirth, postpartum depression, ART, and early childhood, written by specialized professionals.",
       allCategories: "All",
       noResults: "No articles in this section yet.",
+      searchPlaceholder: "Search by keyword…",
       categories: [
         "Difficulties",
         "Trying to Conceive",
