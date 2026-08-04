@@ -45,6 +45,22 @@ function renderBlock(block, i) {
           <p>{block.text}</p>
         </div>
       );
+    case "img":
+      return (
+        <figure className="article-figure" key={i}>
+          <img src={block.src} alt={block.alt || ""} loading="lazy" />
+          {block.caption && <figcaption>{block.caption}</figcaption>}
+        </figure>
+      );
+    case "artwork-link":
+      return (
+        <div className="artwork-link-box" key={i}>
+          {block.text}{" "}
+          <a href={block.href} target="_blank" rel="noopener noreferrer">
+            {block.linkText}
+          </a>
+        </div>
+      );
     default:
       return null;
   }

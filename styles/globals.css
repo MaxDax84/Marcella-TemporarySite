@@ -894,6 +894,37 @@ p { line-height: 1.7; }
   margin: 28px 0;
 }
 .article-body .highlight-box p { margin-bottom: 0; color: var(--green-dark); }
+.article-body figure.article-figure {
+  margin: 28px 0;
+}
+.article-body figure.article-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius-sm);
+  display: block;
+}
+.article-body figure.article-figure figcaption {
+  font-size: 0.82rem;
+  color: var(--text-light);
+  margin-top: 8px;
+  line-height: 1.5;
+}
+.article-body .artwork-link-box {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 18px 22px;
+  margin: 28px 0;
+  font-size: 0.9rem;
+  color: var(--text-mid);
+  line-height: 1.6;
+}
+.article-body .artwork-link-box a {
+  color: var(--green);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
 .article-sidebar { position: sticky; top: 100px; }
 .sidebar-card {
   background: var(--white);

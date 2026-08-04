@@ -92,6 +92,8 @@ export const ui = {
         "Neonato",
         "Bambino",
         "Paternità",
+        "Maternità nell'arte",
+        "Maternità negli animali",
       ],
     },
     blogPost: {
@@ -213,6 +215,8 @@ export const ui = {
         "Newborn",
         "Child",
         "Fatherhood",
+        "Motherhood in Art",
+        "Motherhood in the Animal Kingdom",
       ],
     },
     blogPost: {

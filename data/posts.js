@@ -589,5 +589,887 @@ export const posts = [
         text: "La psicoterapia offre alla donna un valido aiuto per elaborare le problematiche profonde che stanno alla base dei suoi sintomi; inoltre costituisce un'utile forma di psicoprofilassi per il bambino perché, come dimostrano numerosi studi, la vicinanza di una mamma depressa aumenta il rischio di sviluppare turbe affettive e/o cognitive."
       }
     ]
+  },
+  {
+    id: 12,
+    slug: "maternita-negli-orsi",
+    title: "La maternità negli orsi",
+    excerpt: "Dal corteggiamento alla diapausa embrionale, dalla nascita nella tana fino all'indipendenza a un anno e mezzo: come vive la maternità un'orsa, passo dopo passo.",
+    keywords: "maternità negli animali, orsi, istinto materno animale, diapausa embrionale, allattamento orsi, comportamento animale",
+    category: "Maternità negli animali",
+    author: "Francesca Marcone",
+    authorRole: "Volontaria progetti animalisti e ambientalisti",
+    authorAvatar: "FM",
+    authorColor: "#6B8F5A",
+    readTime: "4 min",
+    bgColor: "#4A6741",
+    content: [
+      {
+        type: "img",
+        src: "/blog/maternita-negli-orsi.jpg",
+        alt: "Orsa bruna con il suo cucciolo accanto a un albero",
+        caption: "Foto: Cristina Glebova / Unsplash"
+      },
+      {
+        type: "p",
+        text: "La stagione degli amori negli orsi avviene nei mesi di maggio-giugno: in questo periodo i maschi possono percorrere grandi distanze alla ricerca di una compagna, basandosi principalmente su tracce olfattive. Le femmine diventano sessualmente mature e hanno il primo accoppiamento a 3-5 anni (raramente prima), quando l'orsa riesce a procurarsi le riserve di grasso necessarie per svernare e crescere la prole. Spesso ci vogliono alcuni giorni per l'avvicinamento, e a prendere l'iniziativa è generalmente la femmina, nella quale l'istinto di riproduzione è maggiore della paura del maschio. A volte la femmina ha ancora con sé i piccoli e rifiuta quindi l'accoppiamento, difendendoli strenuamente dagli attacchi del maschio che vorrebbe eliminarli per accoppiarsi con la madre."
+      },
+      {
+        type: "p",
+        text: "Il periodo dell'accoppiamento dura circa un mese, e la coppia vive insieme a volte anche 12-15 giorni. Il maschio lascia alcuni segnali marcando il terreno con l'urina e lasciando il suo odore, spaccando rami degli alberi e raschiando la terra."
+      },
+      {
+        type: "h2",
+        text: "La gravidanza e la nascita"
+      },
+      {
+        type: "p",
+        text: "La gravidanza dura 7-8 mesi, ma dopo la prima fase di sviluppo l'ovulo fecondato si arresta in uno stato di quiescenza, o diapausa embrionale. L'impianto dell'ovulo nella membrana uterina avviene solo nel tardo autunno, quando la femmina ha accumulato uno strato di grasso sufficiente a farle fronte al letargo e a sopportare un processo energeticamente dispendioso come lo sviluppo e l'allattamento dei piccoli."
+      },
+      {
+        type: "p",
+        text: "I cuccioli nascono nella tana nel mezzo dell'inverno, in genere nella seconda-terza decade di gennaio, periodo in cui mamma orsa non si nutre. Generalmente le cucciolate sono di due-tre orsetti. Può capitare che in una stessa tana ci siano più famiglie: in questo caso l'istinto materno delle orse si estende a tutti i cuccioli della tana, mentre fuori dalla tana le orse distinguono i propri piccoli dall'odore e anche dall'aspetto."
+      },
+      {
+        type: "p",
+        text: "Al momento della nascita gli orsetti pesano circa 300-500 grammi, sono ciechi, con le orecchie chiuse, rossastre e nude, il corpo roseo ricoperto di peluria rada, le unghie biancastre e i cuscinetti delle zampette rosa. La mamma sistema i suoi cuccioli sotto le ascelle e li spinge verso i capezzoli. Gli orsetti hanno un senso molto spiccato di suzione ed emettono un suono molto particolare che rimarrà impresso nella femmina e ne conserverà l'istinto materno."
+      },
+      {
+        type: "p",
+        text: "L'alto contenuto di grassi e di sostanze nutritive del latte materno fa sì che i piccoli crescano rapidamente. Al 14° giorno il pelo comincia a infoltirsi, al 16°-18° giorno le orecchie si aprono e si ricoprono di lanugine, e al 30° giorno si aprono gli occhi. La mamma lecca senza sosta i suoi cuccioli, massaggia con la lingua il loro ventre e la zona anale, e questo favorisce i movimenti intestinali."
+      },
+      {
+        type: "h2",
+        text: "I primi mesi di vita"
+      },
+      {
+        type: "p",
+        text: "La famiglia abbandona la tana all'inizio della primavera e inizia a vagare per i boschi, quando la natura si sveglia e appare il cibo: bacche, arbusti, radici, insetti, larve e miele. Al momento dell'uscita dalla tana gli orsetti pesano circa 3 kg e sono in grado di seguire la mamma. Spesso il clima è ancora molto freddo e i più deboli non ce la fanno. Mamma orsa ha un grande senso di protezione, cerca di difendere dal freddo i suoi piccoli, e anche quando sono in passeggiata spesso si distende su un fianco o sulla schiena e li fa accucciare stretti al suo corpo per riscaldarli."
+      },
+      {
+        type: "p",
+        text: "Gli orsetti iniziano a muoversi, a giocare e a succhiare tutto quello che trovano intorno a loro: le orecchie dei fratelli, le zampe. L'allattamento dura fino alla fine di luglio, quando gli orsetti iniziano a scoprire il cibo del bosco che li circonda, e quando nel loro comportamento si nota un istinto di difesa e un maggior senso di indipendenza."
+      },
+      {
+        type: "p",
+        text: "Il legame tra la famiglia si mantiene attraverso un sistema di segnali acustici, visivi e soprattutto olfattivi. Generalmente, in caso di pericolo, mamma orsa cerca di portare al riparo i suoi piccoli. Tuttavia, a partire da luglio spesso li lascia soli, e gli orsetti a questa età cominciano a essere in grado di cavarsela, pur rimanendo fermi nello stesso posto per lungo tempo, in attesa del ritorno della mamma. L'istinto materno si rivela anche nel modo di camminare dell'orsa che, a seconda dell'età e delle forze dei piccoli, cammina più o meno lentamente, adattandosi al passo dei più piccoli per non lasciarli mai indietro."
+      },
+      {
+        type: "h2",
+        text: "Verso l'indipendenza"
+      },
+      {
+        type: "p",
+        text: "All'età di 7 mesi i giovani orsi possono considerarsi indipendenti: sono in grado di nutrirsi da soli, le reazioni di difesa sono consolidate, si forma l'istinto predatore insegnato dalla mamma, e tutto ciò permette loro di vivere e di sopravvivere nella natura. Tuttavia, il forte legame degli orsetti con la mamma dura in ogni caso fino all'età di 1,5-2 anni, talvolta anche molto più a lungo."
+      }
+    ]
+  },
+  {
+    id: 13,
+    slug: "maternita-negli-elefanti",
+    title: "La maternità negli elefanti",
+    excerpt: "Ventuno mesi di gestazione, la più lunga tra i mammiferi, e un branco matriarcale che accudisce ogni cucciolo come fosse suo: il legame tra mamma e piccolo nel mondo degli elefanti.",
+    keywords: "maternità negli animali, elefanti, gravidanza elefante, branco matriarcale, istinto materno animale, allattamento elefanti",
+    category: "Maternità negli animali",
+    author: "Francesca Marcone",
+    authorRole: "Volontaria progetti animalisti e ambientalisti",
+    authorAvatar: "FM",
+    authorColor: "#6B8F5A",
+    readTime: "4 min",
+    bgColor: "#4A6741",
+    content: [
+      {
+        type: "img",
+        src: "/blog/maternita-negli-elefanti.jpg",
+        alt: "Elefantessa con il suo cucciolo in un prato",
+        caption: "Foto: Glen Carrie / Unsplash"
+      },
+      {
+        type: "p",
+        text: "Nel regno animale molte sono le specie in cui si osserva un rapporto di grande simbiosi e amore tra la mamma e il suo cucciolo, assolutamente non meno intenso di quello tra la mamma umana e il bambino. Colpisce particolarmente il legame tra mamma elefantessa e il piccolo, tra i quali il cordone ombelicale affettivo spesso non si recide per tutta la vita."
+      },
+      {
+        type: "p",
+        text: "Gli elefanti sono animali dalla straordinaria intelligenza — basta pensare che il loro cervello possiede una quantità di neuroni più di 100 volte maggiore di quello umano ed è in grado di elaborare informazioni estremamente complesse — e di una grandissima memoria spaziale, tanto che anche a distanza di anni ricordano percorsi, situazioni e individui, altri animali e umani, incontrati anche molti anni prima. Oltre all'intelligenza, l'elefante possiede un'estrema sensibilità e un bisogno intrinseco di esprimere il suo affetto con il contatto, che avviene principalmente attraverso la proboscide."
+      },
+      {
+        type: "h2",
+        text: "Corteggiamento e gravidanza"
+      },
+      {
+        type: "p",
+        text: "La maturità sessuale nelle femmine viene raggiunta tra i 9 e i 13 anni, nel maschio tra i 10 e i 15 circa. Generalmente una femmina si accoppia per la prima volta a 15-16 anni, mentre i maschi, prima di essere pronti, devono conquistarsi la loro posizione sociale attraverso la competizione con altri adolescenti e l'attenzione della femmina, e ciò può verificarsi anche solo verso i 28-30 anni. Prima dell'accoppiamento, che avviene durante la notte, tra i due elefanti si ha una fase preliminare in cui le proboscidi esplorano e accarezzano il corpo del partner. Dopo l'accoppiamento, molto spesso la coppia rimarrà vicina per un periodo che può variare da due a cinque anni."
+      },
+      {
+        type: "p",
+        text: "La femmina può arrivare a partorire, nell'arco della sua vita fertile (fino a circa 60 anni), dai 5 ai 12 piccoli. In genere tra una gravidanza e l'altra passano 4-5 anni. La gravidanza dell'elefantessa dura circa 21-22 mesi, ed è la maggior durata tra tutti i mammiferi esistenti. Per queste femmine significa superare due stagioni di siccità, tuttavia non sono mai stati segnalati episodi di nausea o di malessere. La famiglia è sempre vicino e la gravida non viene mai lasciata sola."
+      },
+      {
+        type: "h2",
+        text: "La nascita e il branco matriarcale"
+      },
+      {
+        type: "p",
+        text: "Nel periodo della gestazione la struttura cerebrale del feto raggiunge un avanzato stato di sviluppo: al momento della nascita l'elefantino, dalla pelle rugosa coperta di peli radi, sarà non solo in grado di reggersi sulle zampe entro poche ore, ma anche di avere la precisa percezione della complessa struttura sociale del branco matriarcale in cui è venuto a trovarsi. Il neonato, che pesa circa 90-120 kg ed è alto 1 metro e lungo 1,20 m, si nutrirà esclusivamente del latte materno per i primi tre mesi, e continuerà a poppare per almeno 3 anni, a volte fino a 6, anche se parallelamente comincerà a nutrirsi di foglie, bacche, frutti e corteccia, che sono la principale dieta dell'elefante adulto."
+      },
+      {
+        type: "p",
+        text: "Fin dalla nascita l'elefantino — solo nel 2% dei casi si tratta di parti gemellari — sarà accudito in primis dalla mamma, di cui seguirà ogni passo per molti anni ancora, coadiuvata dalle altre elefantesse del branco: sorelle maggiori, zie e cugine. Un branco di elefanti può essere composto da 5 fino a 70 individui, ed è l'esempio forse più perfetto di un gruppo \"tutti per uno, uno per tutti\", in cui ogni individuo è integrato e solidarietà e collaborazione sono totali sempre e comunque. Nelle prime ore di vita, quando l'elefantino fa goffi tentativi di alzarsi in piedi, la mamma e le zie lo aiutano a sostenersi, per permettergli di alzare la piccola proboscide fino a raggiungere la mammella."
+      },
+      {
+        type: "p",
+        text: "Durante gli spostamenti la matriarca del gruppo segna il passo, e stabilisce l'andatura adatta per ogni singolo membro: il passo sarà per tutti molto lento quando ci sono elefanti bebè. I maschi adolescenti, verso i 14 anni, si staccano dal gruppo matriarcale e formano piccoli gruppi, per poi avvicinarsi in seguito al branco originario per gli accoppiamenti e per un successivo periodo di vicinanza alla femmina prescelta."
+      },
+      {
+        type: "highlight",
+        text: "Il legame tra la mamma e il piccolo è fortissimo. Nel caso in cui una mamma dovesse morire, le altre elefantesse del gruppo se ne prenderebbero cura amorevolmente. Diversa la situazione, che purtroppo si verifica a causa della crudeltà umana, in cui un elefantino viene sottratto alla mamma per essere venduto e utilizzato come attrazione a scopo di lucro. In questo caso il dolore è lancinante sia per la mamma che per il piccolo."
+      }
+    ]
+  },
+  {
+    id: 14,
+    slug: "donna-barbuta",
+    title: "Donna Barbuta",
+    excerpt: "Un capolavoro documentaristico del Seicento: Jusepe de Ribera ritrae Maddalena Ventura, la \"donna barbuta\", mentre allatta il figlio appena nato.",
+    keywords: "maternità nell'arte, Jusepe de Ribera, donna barbuta, Maddalena Ventura, Museo del Prado, allattamento nell'arte, pittura barocca",
+    category: "Maternità nell'arte",
+    author: "Cristina Barbano",
+    authorRole: "Organizzatrice di mostre di arte contemporanea",
+    authorAvatar: "CB",
+    authorColor: "#9C6B4A",
+    readTime: "5 min",
+    bgColor: "#7A4F35",
+    content: [
+      {
+        type: "img",
+        src: "/blog/donna-barbuta-ribera.jpg",
+        alt: "Maddalena Ventura con il marito e il figlio, dipinto di Jusepe de Ribera",
+        caption: "Jusepe de Ribera, «Maddalena Ventura con il marito e il figlio» (1631), Museo del Prado, Madrid. Foto: FouPic / Wikimedia Commons (CC BY 2.0)"
+      },
+      {
+        type: "p",
+        text: "Il pittore Jusepe de Ribera, detto lo Spagnoletto, nacque in Spagna nel 1591 e morì a Napoli nel 1652. Formatosi a Valencia, avvertì ben presto la necessità di andare in Italia, da sempre patria della grande pittura, e visse a Roma, in Puglia e a Napoli, dove molto forti erano le tracce di Caravaggio. A Napoli fu vicino al viceré spagnolo e per oltre un ventennio fu la figura più in vista tra i pittori partenopei, sui quali esercitò una notevole influenza. Il suo stile fu inizialmente vicino al realismo caravaggesco, sottolineando una forte intensità emotiva, ma nella maturità l'influsso di Rubens, Van Dyck e della pittura veneziana determinò una svolta per cui divenne più sensibile ai valori cromatici e luminosi. Il pittore fu estremamente produttivo e vendette opere in tutta Europa. I soggetti erano fondamentalmente religiosi e agiografici, anche se non mancavano temi profani, quale l'importante serie dei filosofi. Negli ultimi anni di vita il pittore fu costretto a limitare la sua attività a causa di una grave malattia, ma la sua fama era ormai diffusa in tutta Europa, come testimonia il fatto che le sue opere sono presenti nei maggiori musei del continente."
+      },
+      {
+        type: "p",
+        text: "Maddalena Ventura con il marito e il figlio (o Donna barbuta) è un dipinto a olio su tela di dimensioni 196×127 cm, conservato presso il Museo del Prado di Madrid."
+      },
+      {
+        type: "p",
+        text: "L'opera si inserisce nel filone dei quadri di soggetto profano dell'autore e, per la rarità del soggetto raffigurato, è uno dei dipinti più insoliti nella pittura europea del Seicento. Il quadro può essere considerato pittura documentaristica. Come è noto, durante il Rinascimento studiosi di vari paesi documentarono ampiamente le ricerche di anatomia e di medicina — basti pensare ai numerosi lavori di Leonardo — con disegni anche molto particolareggiati, ma questa rappresentazione è significativa non solo perché mostra il fenomeno di una donna barbuta (si tratta forse della patologia chiamata «irsutismo»?), ma perché descrive la situazione psicologica e sociale in cui si trovano i personaggi."
+      },
+      {
+        type: "h2",
+        text: "Maddalena Ventura, prodigio di natura"
+      },
+      {
+        type: "p",
+        text: "La protagonista del dipinto si chiamava Maddalena Ventura ed era originaria di un paese del Lazio. Durante la quarta gravidanza, all'età di 37 anni, cominciò a sviluppare una folta barba e a 52 anni, nel 1631, si trasferì a Napoli chiamata dal viceré, dove fu oggetto di curiosità come «grande miracolo della natura». Come è noto, dal XVI al XVIII secolo, reali, nobili e anche privati facevano a gara per raccogliere nelle cosiddette Wunderkammer, o camere delle meraviglie, oggetti o reperti anche di origine animale o umana con caratteri straordinari o addirittura di unicità. È quindi assolutamente naturale che il viceré di Napoli abbia invitato a corte Maddalena, prova vivente di un rarissimo capriccio della natura."
+      },
+      {
+        type: "h2",
+        text: "La composizione del dipinto"
+      },
+      {
+        type: "p",
+        text: "Il dipinto raffigura una donna con il volto coperto da una folta barba e di corporatura massiccia, intenta ad allattare al seno il neonato che porta in braccio. Alla sua destra, in penombra e in posizione arretrata, si trova il marito. Si tratta di un'opera di carattere documentaristico, che vuole ritrarre l'atipicità di una donna con barba e altre fattezze solitamente maschili. Per questo la protagonista viene ritratta con la sua famiglia, in particolare il marito e un figlio neonato che viene allattato al grande seno tondeggiante, unica nota di femminilità assieme all'abito."
+      },
+      {
+        type: "p",
+        text: "I personaggi sono ritratti a figura piena in una stanza scura, mentre guardano con intensità verso lo spettatore. Essi sono immersi in una generale oscurità dalla quale, secondo la classica impostazione caravaggesca, la luce fa emergere alcuni elementi. L'autore ritrae la coppia, avanti con gli anni, con uno stile molto realistico e allo stesso tempo rispettoso. La pelle solcata dai segni del tempo è raffigurata con estrema precisione, così come i dettagli degli abiti, dal grembiule al colletto. L'espressione quasi rassegnata della donna e del marito suscitano nello spettatore simpatia e rispetto, non derisione."
+      },
+      {
+        type: "highlight",
+        text: "Sulla destra del dipinto si scorgono dei blocchi di pietra su cui è incisa la storia di Maddalena con un'iscrizione in caratteri latini, sopra i quali si trovano posati un fuso, un arcolaio e un filo di lana: tipici attributi femminili che ribadiscono la vera identità della figura centrale del ritratto."
+      }
+    ]
+  },
+  {
+    id: 15,
+    slug: "madre-morta-e-la-bambina",
+    title: "La madre morta e la bambina",
+    excerpt: "Edvard Munch aveva cinque anni quando perse la madre. In questo celebre dipinto si immedesima nella bambina disperata davanti al lutto: un'analisi del quadro e della biografia dell'artista.",
+    keywords: "maternità nell'arte, Edvard Munch, la madre morta e la bambina, lutto materno, simbolismo, pittura norvegese",
+    category: "Maternità nell'arte",
+    author: "Cristina Barbano",
+    authorRole: "Organizzatrice di mostre di arte contemporanea",
+    authorAvatar: "CB",
+    authorColor: "#9C6B4A",
+    readTime: "6 min",
+    bgColor: "#7A4F35",
+    content: [
+      {
+        type: "img",
+        src: "/blog/madre-morta-munch.jpg",
+        alt: "La madre morta e la bambina, dipinto di Edvard Munch",
+        caption: "Edvard Munch, «La madre morta e la bambina» (1897-1899)"
+      },
+      {
+        type: "p",
+        text: "Edvard Munch, pittore norvegese, nato nel 1863 e morto nel 1944, è considerato tra i maggiori interpreti della stagione simbolista degli anni Ottanta e Novanta dell'Ottocento, di cui anticipò l'uso esasperato e violento del colore."
+      },
+      {
+        type: "p",
+        text: "Edvard Munch non ha lasciato soltanto il segno con le sue opere nella storia dell'arte, ma con la sua travagliata biografia, che emerge potentemente dalle sue opere, è riuscito a delineare una sorta di percorso psicoanalitico potente e ben definito. Il pittore norvegese trascorse un'infanzia infelice, segnata dalla malattia — la sua salute fin da piccolo è malferma — e dai terribili e ricorrenti lutti familiari: a cinque anni Edvard perse la madre a causa della tubercolosi e quando ne aveva quattordici morì l'amata sorellina Sophie. In seguito il pittore perse l'autoritario padre per un ictus e un'altra sorella venne ricoverata a causa della schizofrenia. In questo quadro familiare desolato, Munch riuscì a esorcizzare paure e nevrosi grazie ai suoi quadri: «La sorellina malata», «L'urlo», «La madre morta e la bambina», «L'insonne», ma anche i numerosi autoritratti non furono altro che regressioni artistiche nel male di vivere, testimonianze eterne di pericolosi percorsi esistenziali. Munch, schivo, misogino e affetto da nevrosi — tanto da causare un breve ricovero in una clinica psichiatrica — non superò mai i suoi vissuti traumatici, ma grazie ai suoi dipinti in qualche modo riuscì a convivere con i fantasmi della mente."
+      },
+      {
+        type: "highlight",
+        text: "Come egli stesso scrisse: «Nella casa della mia infanzia abitavano malattia e morte. Non ho mai superato l'infelicità di allora. E allora ho vissuto con i morti». I lutti e la povertà resero particolarmente cupa l'atmosfera in famiglia e inculcarono nel ragazzo la visione del mondo triste e addirittura macabra che lo renderà poi celebre. Fin dall'infanzia dimostrò, evidentemente anche per resistere al clima depressivo della famiglia, grande propensione per l'arte. Le primissime esperienze artistiche di Munch riprodussero i disagi economici che affliggevano la famiglia, raffigurando gli interni di quegli appartamenti degradati dove essa era costretta a vivere."
+      },
+      {
+        type: "h2",
+        text: "La formazione e lo spirito autobiografico"
+      },
+      {
+        type: "p",
+        text: "A diciassette anni iniziò a studiare scultura e poi fu iscritto a una scuola di arti e mestieri. Durante questo periodo Munch fuse varie influenze, fra cui quelle esercitate dal Naturalismo e dall'Impressionismo (non a caso parecchie delle sue prime opere ricordano molto quelle di Monet), ed entrò in contatto anche con i circoli bohémien di Oslo: da questa cerchia di intellettuali ribelli, che l'artista sovente raffigurò in varie opere, derivò lo spirito autobiografico che avrebbe poi permeato la sua attività artistica, descrivendo nelle sue tele e nelle sue grafiche la propria vita, tanto ricca di episodi dolorosi. Come egli stesso scrisse: «I miei quadri sono i miei diari». Munch si riconosceva pienamente nella «reazione contro il realismo» di Gauguin, e nel suo credo secondo cui «l'arte è frutto dell'uomo e non un'imitazione della natura». Di conseguenza, in una composizione apparentemente realistica, l'artista raffigurava un determinato stato d'animo. Al sentimento profondo e malinconico della natura Munch unì un senso doloroso dell'amore e della morte, in opposizione ai valori borghesi, influenzando molto l'espressionismo tedesco."
+      },
+      {
+        type: "p",
+        text: "Dal 1889 al 1908 viaggiò molto all'estero (a Parigi, Nizza, Berlino, in Italia e in Germania), ma lavorò spesso anche in patria, soggiornando preferibilmente in una casa in uno dei fiordi di Oslo, il cui paesaggio appare spesso nelle sue opere. Negli anni 1908-09 una malattia nervosa lo portò per mesi in una clinica di Copenaghen. Guarito, si stabilì vicino a Oslo, dove fino al 1916 lavorò a importanti commissioni pubbliche, come le grandi composizioni del ciclo pittorico per l'Aula magna dell'Università di Oslo. Dal 1920 si trasferì a Ekely, sempre in Norvegia, dove visse per lo più isolato fino alla morte solitaria."
+      },
+      {
+        type: "h2",
+        text: "La madre morta e la bambina (1897-1899)"
+      },
+      {
+        type: "p",
+        text: "Come si è detto nella breve biografia dell'artista, egli perse la madre a cinque anni. È quindi chiaro che in questo quadro, tra i più noti dell'artista, egli si immedesima completamente nella figura della bambina disperata per la morte della madre."
+      },
+      {
+        type: "p",
+        text: "La solitudine e l'incomunicabilità della bambina sono rappresentate in modo agghiacciante. I familiari sono in un'altra posizione spaziale nel quadro, cioè in un'altra situazione psicologica ed emotiva: sono al di là del letto della madre, oltre la morte; e nessuno ha un volto, nessuno parla, nessuno abbraccia, nessuno guarda la bambina, e nessuno può vedere cosa le sta succedendo. Lei è davanti, al di qua di una perdita così dolorosa, e non può ancora tollerarla (ma imparerà mai a farlo?); inoltre quella morte la separa da tutti gli altri, e l'unico modo per non esplodere, per sopravvivere, è rimuovere, voltare le spalle a quell'oggetto scarno, duro, essenziale, informe, incolore che sembra inciso nella roccia, o comunque in una materia diversa dal resto del quadro. La bambina è davanti, e la figura orizzontale della madre morta pare incrociare, trafiggere la figura verticale della bimba sola, inorridita, disperata, quasi inserita, appoggiata — con-fusa — al letto della mamma, come sembra suggerire il lenzuolo che si inarca dietro di lei, come risentisse del peso della piccola. Il pavimento sotto di lei sembra sprofondare, ha dei sussulti, delle onde sismiche, singhiozza. La bambina, vestita dello stesso colore emotivo, sta vivendo un terremoto interno."
+      },
+      {
+        type: "highlight",
+        text: "Il silenzio della morte è come un urlo che viene dall'interno, un dolore straziante che sbarra gli occhi, che costringe la bambina a tapparsi le orecchie, a bloccare il sentire, a tenersi la testa per timore di andare in frantumi. Una catastrofe per quella bambina di cinque anni che Edvard proietta e lucidamente vede in lei."
+      }
+    ]
+  },
+  {
+    id: 18,
+    slug: "madonna-del-latte-van-eyck",
+    title: "La Madonna del latte di Jan van Eyck",
+    excerpt: "Nella Madonna di Lucca, Jan van Eyck fonde il trono maestoso della regina dei cieli con l'intimità di una mamma che allatta: un capolavoro fiammingo del Quattrocento.",
+    keywords: "maternità nell'arte, Jan van Eyck, Madonna di Lucca, madonna del latte, allattamento nell'arte, pittura fiamminga",
+    category: "Maternità nell'arte",
+    author: "Cristina Barbano",
+    authorRole: "Organizzatrice di mostre di arte contemporanea",
+    authorAvatar: "CB",
+    authorColor: "#9C6B4A",
+    readTime: "5 min",
+    bgColor: "#7A4F35",
+    content: [
+      {
+        type: "img",
+        src: "/blog/madonna-latte-vaneyck.jpg",
+        alt: "Madonna di Lucca, dipinto di Jan van Eyck",
+        caption: "Jan van Eyck, «Madonna di Lucca» (1433-1436), Städel Museum, Francoforte"
+      },
+      {
+        type: "p",
+        text: "La Madonna di Lucca è un piccolo dipinto a olio su tavola (65,5 × 49,5 cm) conservato presso il Museo Städel di Francoforte, in Germania. L'opera, databile tra il 1433 e il 1436 e considerata uno degli ultimi lavori di Van Eyck prima della prematura scomparsa, è chiamata convenzionalmente Madonna di Lucca poiché fece parte della collezione del duca di Lucca e Parma all'inizio del XIX secolo."
+      },
+      {
+        type: "p",
+        text: "Jan van Eyck, nato a Maastricht intorno al 1390 e morto a Bruges nel 1441, fu un pittore fiammingo di cui si hanno poche notizie biografiche certe, ma numerose opere firmate e datate. È considerato non solo il maggiore artista fiammingo, ma anche uno degli iniziatori della pittura moderna, sia dal punto di vista tecnico — fu il perfezionatore della pittura a olio, che gradualmente sostituì in Europa l'uso del colore a tempera — sia per il modo di costruire le immagini."
+      },
+      {
+        type: "p",
+        text: "Della formazione dell'artista non si sa nulla, nemmeno se essa si svolse in Francia o nella sua terra d'origine. Probabilmente si formò nel campo della miniatura, da cui apprese l'amore per i dettagli minuti e per la tecnica raffinata, che si riflette anche nelle sue opere pittoriche."
+      },
+      {
+        type: "h2",
+        text: "Uno stile rivoluzionario"
+      },
+      {
+        type: "p",
+        text: "Apprezzatissimo dai contemporanei, dal 1422 al 1424 Van Eyck visse all'Aia, alla corte di Giovanni di Baviera, con l'incarico di eseguire alcune pitture nel palazzo. Dal 1425 fu a Lille, in Francia, al servizio di Filippo il Buono di Borgogna, per il quale compì anche varie missioni diplomatiche. Dal 1430 fu pittore di corte e della città a Bruges. Tutta la sua carriera restò legata ai poteri ufficiali del mondo fiammingo."
+      },
+      {
+        type: "p",
+        text: "La novità dello stile di Van Eyck può essere definita come capacità di coordinare, in funzione degli aspetti più puramente visivi della realtà — colore, luce, atmosfera — figure e ambiente, siano essi paesaggi o interni, secondo un ordine prospettico non matematico, ma empirico e sensibile, mentre il criterio seguito dal Rinascimento italiano si basava sulla geometria degli insiemi figurativi. La sua arte era rivolta a indagare il mondo reale e il rapporto dei personaggi con l'ambiente."
+      },
+      {
+        type: "p",
+        text: "Delle decorazioni del palazzo di Giovanni di Baviera resta forse traccia in un disegno conservato al Louvre, che ci presenta Van Eyck come pittore della vita di corte. Il mondo cavalleresco, percorso però da un'attenta osservazione del reale, è rappresentato accanto a prodigiose aperture nel paesaggio o nelle rappresentazioni d'interni, che già preannunciano la via della grande pittura olandese del Seicento. Per Jan van Eyck la pittura doveva superare le convenzioni del tardogotico in nome di una concezione «naturalistica», ricondotta alla rappresentazione più verosimile legata alla percezione visiva e all'indagine scientifica della realtà. L'artista può essere considerato il fondatore del «realismo» nella pittura postmedievale; per l'altissimo livello della sua opera è annoverato fra i più grandi pittori di tutti i tempi."
+      },
+      {
+        type: "h2",
+        text: "La Madonna del latte"
+      },
+      {
+        type: "p",
+        text: "Il quadro presenta un'iconografia inconsueta, fondendo il genere della Madonna del Latte (cioè intenta ad allattare il piccolo Gesù) con quello della Madonna Maestà, cioè in trono. La composizione è arricchita da arredi raffinati e sontuosi, come il trono con decori leonini e il baldacchino finemente ricamato. L'acqua e il vetro sulla mensola a destra sono simbolo della purezza «senza macchia» di Maria, mentre le due arance sul davanzale a sinistra richiamano il frutto proibito del peccato originale, spesso dipinto al posto della mela nei paesi nordici."
+      },
+      {
+        type: "p",
+        text: "Un vero protagonista della composizione è l'ampio mantello rosso di Maria, che riempie tutta la parte inferiore del dipinto. Il bellissimo panneggio, abbondante e frastagliato, è una delle caratteristiche tipiche di molte opere di Van Eyck, e la sua sovrabbondanza dà quasi la sensazione di procedere verso lo spettatore, avvicinando a lui l'icona sacra."
+      },
+      {
+        type: "p",
+        text: "Il morbido tappeto ai piedi della Vergine dà a Van Eyck la possibilità di dimostrare le sue capacità in termini di definizione spaziale tramite l'applicazione della prospettiva. Lo spazio degli artisti fiamminghi non è però organizzato come quello degli italiani, poiché la linea dell'orizzonte è più alta e la definizione delle pareti è di solito incompleta: l'effetto che ne deriva è quello di uno spazio più avvolgente, che include lo spettatore nella raffigurazione. Più che in una stanza, la scena è ambientata in un corridoio stretto rispetto al trono, ed è un effetto voluto che accresce l'atmosfera di intimità familiare della rappresentazione."
+      },
+      {
+        type: "highlight",
+        text: "Lo spettatore è portato a pensare che, al momento della poppata, la Madonna — pur vestita come una regina — si sia allontanata dal mondo per isolarsi con il bambino in un angolo tranquillo dove nessuno potesse turbare la loro intimità e la gioia della vicinanza. La Madonna non è più la regina dei cieli, ma semplicemente una mamma che contempla amorosamente il suo bambino mentre gli porge il seno. Dolce lo sguardo della madre, determinato e possessivo quello del bambino, già in grado di stare con la schiena dritta."
+      },
+      {
+        type: "p",
+        text: "La donna rappresentata è una tipica fiamminga, di pelle chiara e capelli rossi. Forse non è un caso che praticamente tutte le Madonne di Van Eyck si somiglino per tratti del viso e colore dei capelli. Si è portati a pensare che, con questa scelta, Van Eyck volesse sottolineare l'universalità delle caratteristiche del rapporto tra madre e figlio."
+      }
+    ]
+  },
+  {
+    id: 19,
+    slug: "madonna-della-seggiola-raffaello",
+    title: "La Madonna della Seggiola di Raffaello",
+    excerpt: "Niente aureole né sfarzo regale: Raffaello ritrae una madre popolana che stringe il figlio, forse ispirandosi a una scena di vita vera intravista per strada.",
+    keywords: "maternità nell'arte, Raffaello Sanzio, Madonna della Seggiola, Palazzo Pitti, iconografia mariana, pittura rinascimentale",
+    category: "Maternità nell'arte",
+    author: "Cristina Barbano",
+    authorRole: "Organizzatrice di mostre di arte contemporanea",
+    authorAvatar: "CB",
+    authorColor: "#9C6B4A",
+    readTime: "5 min",
+    bgColor: "#7A4F35",
+    content: [
+      {
+        type: "img",
+        src: "/blog/madonna-seggiola-raffaello.jpg",
+        alt: "Madonna della Seggiola, dipinto di Raffaello",
+        caption: "Raffaello Sanzio, «Madonna della Seggiola» (1514), olio su tavola, diametro 71 cm, Galleria Palatina di Palazzo Pitti, Firenze"
+      },
+      {
+        type: "p",
+        text: "Raffaello Sanzio (1483-1520), pittore e architetto, nacque a Urbino, dove studiò dapprima nella bottega del padre Giovanni Santi, anch'egli pittore, e in seguito in quella di Pietro Perugino. Già in giovanissima età si affermò nel mondo artistico di Urbino per il grande talento."
+      },
+      {
+        type: "p",
+        text: "Nelle opere dei primi anni fu influenzato dalla pittura tipicamente umbra del Perugino e del Pinturicchio, a cui seguì una tendenza sempre più chiara a distaccarsi dai motivi troppo decorativi dei maestri, per una maggiore consistenza plastica nella costruzione delle figure. Il primo esempio grandioso di questa concezione costruttiva fu Lo sposalizio della Vergine, oggi conservato alla Pinacoteca di Brera."
+      },
+      {
+        type: "p",
+        text: "Alla fine del 1504, intenzionato a studiare le opere di Leonardo e di Michelangelo, Raffaello si trasferì a Firenze. La sua evoluzione artistica nel corso del soggiorno fiorentino può essere ripercorsa esaminando i numerosi dipinti sul tema della Madonna con il Bambino. Ancora di ispirazione umbra è la Madonna del Granduca, mentre alcune prove successive mostrano l'influenza di Leonardo (ad esempio La belle jardinière o la Madonna del Cardellino) e in seguito quella di Michelangelo, sempre mediate però dalla sua straordinaria personalità, incline alla morbidezza e alla mitezza delle figure. Nel 1508 si trasferì a Roma, dove gli venne affidato l'incarico di affrescare alcune pareti della Stanza della Segnatura in Vaticano. Dopo queste opere, l'artista realizzò nel 1511 altre decorazioni delle Stanze Vaticane, dipingendo la stanza detta di Eliodoro. Contemporaneamente realizzò ritratti e altre scene sacre, tra cui, nel 1514, La Madonna della Seggiola."
+      },
+      {
+        type: "p",
+        text: "Proprio nel 1514, dopo la morte del Bramante — che aveva progettato San Pietro — Raffaello fu nominato dal Papa responsabile della cura dei lavori per la costruzione della basilica, e lavorò anche alla realizzazione delle logge del palazzo Vaticano nel cortile di San Damaso."
+      },
+      {
+        type: "p",
+        text: "Questa sua attitudine alle opere architettoniche viene spesso posta in secondo piano, ma costituisce in realtà una parte fondamentale dell'attività del genio cinquecentesco. Realizzò anche la cappella Chigi in Santa Maria del Popolo e studiò la facciata di San Lorenzo e del palazzo Pandolfini a Firenze. Anche in questo campo, pur mantenendo l'astratta armonia compositiva tipica delle sue opere pittoriche, fu sempre influenzato dallo stile rigoroso del Bramante."
+      },
+      {
+        type: "p",
+        text: "Raffaello morì a Roma nel 1520, a soli 37 anni, ed è considerato uno dei più grandi artisti di tutti i tempi. La sua opera segnò un tracciato imprescindibile per tutti i pittori successivi e fu di vitale importanza per lo sviluppo del linguaggio artistico dei secoli a venire, dando vita tra l'altro a una scuola che dipinse «alla maniera» sua, nota come manierismo."
+      },
+      {
+        type: "h2",
+        text: "La Madonna della Seggiola"
+      },
+      {
+        type: "p",
+        text: "Prima di commentare quest'opera è utile una premessa: pittori come Frida Kahlo, Pablo Picasso e Gustav Klimt sono esponenti del mondo artistico contemporaneo, nel quale la committenza è rappresentata in gran parte da amatori, collezionisti, mercanti d'arte e gallerie, e le opere hanno un tema fondamentalmente laico. È noto, però, che la ritrattistica, la natura morta o la paesaggistica comparvero solo a partire dal XV secolo, mentre in precedenza ad acquistare i quadri erano in primo luogo le entità religiose — la Chiesa in generale, dal papato agli ordini monastici, alle associazioni di carità — e queste opere erano destinate quasi sempre a luoghi di culto. Ciò spiega perché i soggetti non erano laici, ma strettamente mistici, e la figurazione era condizionata da antiche tradizioni: si dipingevano episodi della Bibbia e dei Vangeli, agiografie, apologie di santi e beati e, naturalmente, la vita di Gesù e della Madonna, secondo un'iconografia formatasi nel corso dei secoli e rigidamente basata sulle Sacre Scritture e sui Vangeli, canonici e apocrifi."
+      },
+      {
+        type: "p",
+        text: "La Madonna della Seggiola di Raffaello, il cui titolo deriva dalla spalliera in cuoio a cui si appoggia la Vergine, molto simile alle sedie usate dai papi, non si inserisce nell'iconografia canonica di questo tema. L'opera raffigura la Madonna col Bambino in braccio e San Giovannino che, un po' arretrato come in segno di dovuto rispetto, con le mani giunte fissa la Mamma e il Figlio."
+      },
+      {
+        type: "p",
+        text: "L'opera fu commissionata nel 1514 a Raffaello, che dal 1508 era a Roma per realizzare la decorazione ad affresco delle stanze vaticane. Il committente fu Papa Leone X, uomo colto e appassionato d'arte, che intendeva donarla a parenti fiorentini, come testimonia la forma circolare — non frequente all'epoca — e la dimensione contenuta, che fanno pensare che sia stata concepita per una specifica ambientazione privata."
+      },
+      {
+        type: "highlight",
+        text: "La leggenda vuole che Raffaello si sia ispirato a una scena intravista a Velletri, dove incontrò una popolana che coccolava il suo bambino e ne fu colpito. Le figure dell'opera hanno una struttura circolare e sembrano ruotare intorno al centro costituito dal gomito del Bambino. La naturalezza della posizione della madre e del piccolo è lontana da ogni cognizione aristocratica dell'agiografia mariana. Le vesti della Madonna sono quelle di una semplice popolana. Il sentimento di affetto che traspare dalla vicinanza dei corpi della madre e del bambino non assume sacralità, ma si manifesta in un gesto palese di affettuosa protezione, come era all'epoca caratteristico nelle classi più umili. La figura del piccolo Giovanni bilancia la composizione e riempie un vuoto dal punto di vista visivo, ma rimane estranea al coinvolgimento affettivo che lega gli altri due personaggi, e ne sottolinea l'intensità e l'esclusività."
+      },
+      {
+        type: "p",
+        text: "Raffaello perse la madre a undici anni, e in quest'opera si legge la sua nostalgia per la dolcezza dell'affetto materno."
+      },
+      {
+        type: "p",
+        text: "In una visione moderna, magari influenzata da aspetti medici e psicologici, la struttura circolare e circoscritta e l'intima fusione delle due figure non possono che richiamare alla mente la condizione del bambino nel ventre della madre durante la gravidanza."
+      }
+    ]
+  },
+  {
+    id: 20,
+    slug: "giochi-di-fanciulli-bruegel",
+    title: "Giochi di fanciulli di Pieter Bruegel il Vecchio",
+    excerpt: "Ottanta giochi diversi affollano una piazza fiamminga in questo capolavoro del 1560: ma i volti dei bambini hanno tratti da adulti. Un quadro che è anche una metafora, quasi un sogno.",
+    keywords: "maternità nell'arte, Pieter Bruegel, giochi di fanciulli, infanzia nell'arte, Kunsthistorisches Museum, pittura fiamminga",
+    category: "Maternità nell'arte",
+    author: "Cristina Barbano",
+    authorRole: "Organizzatrice di mostre di arte contemporanea",
+    authorAvatar: "CB",
+    authorColor: "#9C6B4A",
+    readTime: "6 min",
+    bgColor: "#7A4F35",
+    content: [
+      {
+        type: "img",
+        src: "/blog/giochi-fanciulli-bruegel.jpg",
+        alt: "Giochi di fanciulli, dipinto di Pieter Bruegel il Vecchio",
+        caption: "Pieter Bruegel il Vecchio, «Giochi di fanciulli» (1560), olio su tavola, 118×161 cm, Kunsthistorisches Museum, Vienna"
+      },
+      {
+        type: "p",
+        text: "Secondo Karel van Mander, il Vasari del Rinascimento nordico, Pieter Bruegel il Vecchio nacque attorno al 1527 a Breda, in Olanda. Della sua infanzia non si sa nulla, ma pare che abbia studiato ad Anversa, dove nel 1551 fu accolto come «maestro» nella corporazione dei pittori. Fu apprendista presso la bottega di Pieter Coecke, pittore, architetto e disegnatore di arazzi estremamente colto, che contribuì in modo determinante alla sua formazione. Nel 1552 intraprese un viaggio in Italia. Tornato ad Anversa nel 1554, lavorò presso Hieronymus Cock, incisore e venditore di stampe, per il quale Bruegel eseguì innumerevoli disegni a penna che venivano stampati con la tecnica dell'acquaforte e venduti a un vasto pubblico, proprio come qualche decennio prima aveva fatto Albrecht Dürer."
+      },
+      {
+        type: "p",
+        text: "Nel 1563 Bruegel si sposò e, probabilmente per sfuggire alle persecuzioni religiose, si trasferì da Anversa a Bruxelles. Poco meno di cinquant'anni dopo la Riforma di Lutero (1517), l'Europa era tormentata da grandi conflitti religiosi. Nelle Fiandre, governate dalla Spagna cattolica, l'opposizione alla politica religiosa dispotica del re di Spagna aveva un largo fronte, che abbracciava in modo trasversale calvinisti, protestanti, nobili, borghesi, artigiani e persino cattolici dissidenti. Erano sorte numerose sette che protestavano contro alcuni principi e regole della Chiesa, e che la Chiesa stessa aveva proclamato eretiche. A una di queste, chiamata «Scuola della Carità», che contestava lo sfarzo della Chiesa di Roma e professava una visione religiosa più rigorosa e austera, aveva aderito anche Bruegel. Molte delle allegorie e delle metafore che compaiono praticamente in tutte le opere dell'artista, e che le rendono ermetiche e simboliche, possono essere ricondotte agli argomenti professati dalla setta. Erano gli anni dell'Inquisizione, e i nemici della Chiesa rischiavano arresti, supplizi e morte, tanto che in punto di morte, per paura di ritorsioni sui suoi familiari, Bruegel fece bruciare buona parte di quelle che egli definiva «strane e complicate allegorie». Nel 1569 l'artista morì nel fiore degli anni, dopo aver dato origine a una feconda dinastia di artisti — ed è proprio per distinguere il capostipite dai discendenti che viene chiamato «Pieter Bruegel il Vecchio»."
+      },
+      {
+        type: "p",
+        text: "Fino al 1555 Pieter Bruegel lavorò solo come incisore e visse della vendita delle tirature delle sue opere. All'attività di pittore si dedicò praticamente solo nell'ultimo decennio della sua vita. In quegli anni la differenza tra bravo artigiano e artista era ancora sfumata: l'artista, infatti, raramente lavorava di propria iniziativa, ma molto più spesso eseguiva quanto ordinato dalla committenza. Nell'opera grafica di Bruegel è evidente l'importanza del mercato: i suoi disegni a penna venivano stampati nella bottega di Hieronymus Cock, mercante esperto che ben conosceva i gusti del pubblico, e di conseguenza spesso modificava alcuni aspetti degli originali, eliminando le immagini più semplici e genuine e sostituendole con particolari più raffinati. Nelle grafiche di Bruegel, per esempio, sono spesso presenti abiti sontuosi e ricchi di drappeggi secondo la moda dell'epoca, che non si ritrovano nei quadri realizzati direttamente dalla mano dell'artista."
+      },
+      {
+        type: "p",
+        text: "Alcuni storici dell'arte considerano Bruegel un seguace di Hieronymus Bosch, ma ciò non è del tutto corretto, anche se nei primi anni della sua attività non pochi temi ricordano quelli del maestro olandese: come Bosch, Bruegel ha rappresentato non una realtà attuale, ma un intero mondo. Quasi tutti i suoi quadri sono pieni di personaggi e sono l'espressione di una sua visione del mondo — in quegli anni erano diffuse le cosiddette «summe» di nozioni diverse, che con un termine moderno potremmo definire «enciclopedie», teologali o scientifiche, e i quadri dei due artisti, così pieni di personaggi e di eventi, vanno letti in questa chiave. Ma mentre per Bosch la decadenza, il dolore, il peccato e la guerra sono una manifestazione del destino, per Bruegel essi sono la conseguenza del comportamento umano. Bruegel è profondamente democratico: rappresenta il suo popolo che soffre, che vive miseramente, sfruttato dai dominatori spagnoli e dilaniato dalle guerre di religione. Il popolo diventa protagonista — a popolare le sue tele non sono i cavalieri, i nobili e le famiglie reali, ma i contadini, i cacciatori, i ladri, le madri di famiglia, i bambini che giocano e, naturalmente, anche le vittime delle continue guerre e delle pestilenze. Per la prima volta, con Bruegel, la vita del popolo acquista importanza in tutte le sue forme, anche in quelle più banali o volgari, come nei contemporanei François Rabelais, autore del celebre «Gargantua e Pantagruel», ed Erasmo da Rotterdam. In molti dipinti di Bruegel è presente l'aspetto burlesco, quasi comico, proprio delle tradizioni popolari."
+      },
+      {
+        type: "h2",
+        text: "Giochi di fanciulli"
+      },
+      {
+        type: "p",
+        text: "Il quadro «Giochi di fanciulli», olio su tavola di dimensioni 118×161 cm, conservato nel Kunsthistorisches Museum di Vienna, fu dipinto da Bruegel nel 1560 come primo episodio di una serie di opere dedicate alla vita dell'uomo, che tuttavia non ebbe seguito. L'opera è realizzata in modo estremamente realistico e con il massimo dettaglio, come è tipico nei dipinti di Bruegel."
+      },
+      {
+        type: "p",
+        text: "La scena, osservata da un punto rialzato rispetto al piano in cui si svolge, è ambientata al centro di una città che si stende lungo un corso d'acqua, ed è letteralmente invasa da uno stuolo di bambini e ragazzi impegnati nei giochi più svariati. Gli storici dell'arte ne hanno contati ottanta, molti dei quali ancora esistenti. La veduta, realizzata secondo i canoni della prospettiva quattrocentesca, è popolata da gruppi di figure e personaggi singoli sapientemente sparpagliati, con un'organizzazione per zone distinte da macchie di colore sul terreno, ora polveroso, ora asciutto, ora fangoso o bagnato, in luce o in ombra. Come sempre, Bruegel non tralascia alcun dettaglio: per lui tutto è interessante, e fissa nel quadro tutto ciò che lo interessa. La rappresentazione dei giochi infantili era molto praticata nel Medioevo, e questa tavola di Bruegel li riunisce in una sola immagine. Bambini e bambine fanno correre grossi cerchi, camminano sui trampoli, fanno finta di cavalcare, inscenano buffi tornei di cavalieri, imitano ciechi e mendicanti, soffiano in pelli di animali, lanciano trottole, si sfidano alla morra, si trastullano con le bambole e fanno infiniti altri giochi. Ci sono anche imitazioni palesi della vita degli adulti, come un matrimonio o una processione religiosa. I piccoli hanno completamente invaso la scena e sembrano addirittura aver conquistato il palazzo del governo della città, l'edificio grigio che occupa il centro della scena, realizzato in uno stile diverso dalle case circostanti, a significarne in modo inconfondibile l'importanza."
+      },
+      {
+        type: "h2",
+        text: "Il significato nascosto"
+      },
+      {
+        type: "p",
+        text: "Ma qual è il significato della rappresentazione? L'osservatore attento noterà due aspetti: i visi dei bambini hanno in realtà tratti adulti, e su di essi non è presente la spensieratezza infantile. I giochi di questi fanciulli sono metafore della vita adulta. Sono i «grandi» a muoversi in modo febbrile verso una meta spesso confusa, i «grandi» a governare in modo irresponsabile, i «grandi» a perpetuare inganni perdonabili nei piccoli, ma inammissibili in loro. Bruegel guarda il suo mondo e ne evidenzia i difetti, ne denuncia le ingiustizie, ne mette in ridicolo gli aspetti buffi o deteriori. È probabile che dietro alla maschera di vecchio con cui il ragazzo alla finestra in primo piano si copre il viso si nasconda l'autore stesso."
+      },
+      {
+        type: "p",
+        text: "L'opera di Bruegel può essere letta anche in un altro modo, cioè come un precedente della rappresentazione del sogno, così come l'avrebbe spiegata la psicoanalisi quattro secoli dopo. Nei sogni, infatti, è tipica la sostituzione di un'immagine con una apparentemente opposta, ma in realtà coincidente — per esempio l'immagine dell'adulto con quella del bambino. Come già detto, i bambini del quadro hanno le proporzioni di fanciulli, ma i tratti degli adulti, e ne ripetono le azioni: non sono bambini, ma adulti. Secondo lo stesso principio, ognuno di noi ha fatto esperienza di sogni in cui sembra di essere circondati da personaggi esageratamente grandi, mentre ciò che il sogno esprime è che, per tornare alla condizione dell'infanzia, vediamo noi stessi con le dimensioni che avevamo da bambini rispetto a coloro che ci circondavano. Per nascondere verità dolorose che non riusciamo ad accettare, ma che abbiamo bisogno di rivivere, nel sogno è spesso rappresentata una situazione assurda. Nel quadro «Giochi di fanciulli» l'utilizzo di elementi apparentemente assurdi o contraddittori, come anche l'incongruenza delle strutture architettoniche, è evidentissimo, come del resto in molte altre opere di Bruegel. Ritengo pertanto di poter dire che gran parte della forza di questo quadro, e di altre opere dello stesso autore — ciò che rende allo spettatore difficile distoglierne lo sguardo — sia la componente onirica che esse fanno risuonare nel nostro mondo interiore."
+      }
+    ]
+  },
+  {
+    id: 21,
+    slug: "speranza-klimt",
+    title: "Speranza di Gustav Klimt",
+    excerpt: "Due quadri, entrambi intitolati Speranza, danno due visioni completamente opposte della gravidanza: uno inquietante e minaccioso, l'altro dolce e meditativo. Un confronto tra le due opere di Klimt.",
+    keywords: "maternità nell'arte, Gustav Klimt, Speranza, gravidanza nell'arte, simbolismo viennese, iconografia della maternità",
+    category: "Maternità nell'arte",
+    author: "Cristina Barbano",
+    authorRole: "Organizzatrice di mostre di arte contemporanea",
+    authorAvatar: "CB",
+    authorColor: "#9C6B4A",
+    readTime: "7 min",
+    bgColor: "#7A4F35",
+    content: [
+      {
+        type: "artwork-link",
+        text: "Le due opere di Klimt discusse in questo articolo contengono figure femminili nude e non vengono riprodotte su questa pagina. Puoi vederle sulle pagine di riferimento:",
+        href: "https://en.wikipedia.org/wiki/Hope_I",
+        linkText: "Speranza I (Hope I) su Wikipedia →"
+      },
+      {
+        type: "p",
+        text: "Qualche mese fa è stata esaminata l'opera Abbraccio del famoso pittore Gustav Klimt, che visse a Vienna tra il 1862 e il 1918. La donna, in tutti i suoi aspetti, è stato un tema molto trattato dall'artista, che dipinse, tra gli altri, due quadri in cui sono rappresentate donne in avanzato stato di gravidanza. Entrambe le opere, create rispettivamente nel 1903 e nel 1907, sono intitolate Speranza e offrono due visioni completamente diverse dell'imminente maternità."
+      },
+      {
+        type: "h2",
+        text: "Speranza I (1903)"
+      },
+      {
+        type: "p",
+        text: "Già la disposizione delle figure del quadro del 1903, Speranza I — un'opera rettangolare alta 186 cm e larga 67 — suscita nell'osservatore un senso di inquietudine. La Speranza viene rappresentata allegoricamente nella figura di una giovane donna incinta, completamente svestita. È posizionata sul lato sinistro della tela (a destra, per l'osservatore) e sembra imprigionata in quella posizione. Evidentemente la nudità della donna allude all'incontro intimo da cui è sorto il corpo che ora lei contiene nel suo. Nell'iconografia tradizionale il corpo di una gestante è morbido e accogliente, opulento e tenero; lo sguardo e il sorriso testimoniano un intimo dialogo amoroso tra madre e figlio, al punto che spesso l'osservatore si sente indiscreto di fronte alla scena che si svolge davanti a lui. In questo quadro di Klimt l'approccio iconografico tradizionale è sovvertito, e non troviamo nulla di tutto questo: la donna è di una magrezza e di un pallore malsani, sotto una massa di capelli rossi il viso appare ossuto, gli zigomi sporgenti, gli occhi cerchiati, le labbra serrate. Il seno appare leggermente cadente e piccolo, privo del latte necessario a nutrire il nascituro; le braccia e le gambe sono magre. Su tutto prevale un ventre sproporzionatamente prominente, esaltato dalla posizione di profilo, quasi estraneo al resto del corpo."
+      },
+      {
+        type: "p",
+        text: "Le braccia della donna, intrecciate sotto il seno, non sono nell'abituale posa delle future madri, che appoggiano le mani sul ventre in un atto spontaneo di carezza affettuosa verso il nascituro, ma fanno pensare a un gesto di protezione e di difesa di sé stessa da qualcosa d'altro da sé. È come se la donna fosse a disagio, e infatti la testa è girata verso l'osservatore: negli occhi cerulei si legge un'espressione vagamente interrogativa. L'immagine non esprime dolcezza, ma appare pervasa da un senso di stupore, forse quasi di dispetto per quanto sta accadendo, e comunque di grande inquietudine, denunciata dalle irregolarità del corpo, della posizione e dello sguardo. Non viene in mente di definire questa donna una futura madre. Nella parte alta del quadro aleggiano tre presenze, volti femminili più o meno deformati, e un teschio all'altezza della rossa massa dei capelli della donna. Il critico Ludwig Hevesi, che conosceva Klimt di persona e ha scritto molto su di lui, definiva queste figure «demoni della vita»: oscure minacce alla vita del nascituro, ma non del tutto estranee alla stessa madre, che, ambiguamente, porta una corona di fiori bianchi — simbolo di purezza — sulla chioma fiammeggiante, tipica delle donne-sirene sensuali e provocanti di Klimt, che aspirano soprattutto a suscitare desiderio e a soddisfare l'amore carnale."
+      },
+      {
+        type: "p",
+        text: "Queste tetre figure potrebbero rappresentare le Parche, le divinità della mitologia classica che attendono di iniziare a tessere il filo della vita del nascituro: una vita che si intuisce non facile, non di gioia, ma ricca di ansia e disagio. I tre visi possono anche raffigurare le tre età della donna, tema presente in molti quadri di Klimt. La donna non trepida affatto per il nascituro, mentre ad attendere la nascita del bambino sembra piuttosto un mostro incappucciato di nero, con la coda di serpente, che occupa la parte centrale del quadro, che imprigiona in un laccio le caviglie della madre, protendendo verso il suo ventre una minacciosa zampa con artigli aguzzi. Anche sulla testa del mostro l'artista colloca una misteriosa fila di fiorellini bianchi: una metamorfosi, un presagio di trasformazione della donna? In maniera piuttosto curiosa, questa figura sembra anticipare di qualche anno l'archetipo della Grande Madre di Jung (1912): da una parte il polo positivo della femminilità, che riassume in sé fecondità, nutrimento, protezione (la madre buona); dall'altra il polo negativo, l'abisso, il segreto, l'oscuro, il mondo dei morti, ciò che seduce, divora, intossica (la madre cattiva), simbolo dell'inquietudine e delle ombre dell'inconscio. Il teschio sospeso sulla testa della donna, con la sua stessa inclinazione, suggerisce un presagio di quella morte che è una componente inscindibile dalla vita stessa."
+      },
+      {
+        type: "p",
+        text: "Sono noti, di Klimt, la profonda conoscenza e l'uso frequente dei linguaggi arcaici: molti critici spiegano i segni geometrici ricorrenti nelle sue decorazioni come un riferimento a immagini e linguaggi preistorici che esprimono l'eterno sentire primordiale che sta al fondo della natura umana. Molti di questi segni sono presenti in quest'opera e costituiscono probabilmente l'anello di congiunzione con mondi rimossi dalla coscienza, legati alle esperienze più primarie e paurose della vita che durante una gravidanza inevitabilmente si riaffacciano alla mente."
+      },
+      {
+        type: "p",
+        text: "Klimt sapeva che la Vienna benpensante avrebbe difficilmente accettato un soggetto così scabroso e inquietante, e l'opera Speranza I venne esposta al pubblico solo sei anni dopo la sua creazione, in occasione di un'imponente mostra che riunì molti artisti e che è considerata cruciale nella storia dell'arte moderna di Vienna: l'evento coincise con le celebrazioni del sessantesimo anniversario del regno dell'imperatore Francesco Giuseppe. L'opera continuò comunque a destare scalpore e scandalo a lungo, e si racconta che il primo proprietario di Speranza I la tenne coperta per qualche tempo dopo l'acquisto."
+      },
+      {
+        type: "h2",
+        text: "Speranza II (1907)"
+      },
+      {
+        type: "artwork-link",
+        text: "Anche questa seconda opera contiene nudo femminile e non viene riprodotta qui.",
+        href: "https://en.wikipedia.org/wiki/Hope_II",
+        linkText: "Speranza II (Hope II) su Wikipedia →"
+      },
+      {
+        type: "p",
+        text: "Quattro anni dopo, nel 1907, Klimt riprende il tema con Speranza II, accompagnata dal sottotitolo Visione, fecondità, leggenda, con una percezione della maternità assolutamente antitetica alla precedente. La tela è di formato quadrato, tipica degli anni della maturità dell'artista, così come è tipico il fondo d'oro puntinato, che annulla la percezione dello spazio fisico reale ponendo la figura in un'ambientazione «cosmica», che verrà utilizzata anche nel celebre Bacio dello stesso periodo. La figura della madre è in posizione centrale, come nella maggior parte delle opere classiche, quale la Madonna di Van Eyck di cui si è parlato in un altro articolo. A differenza dell'iconografia classica, la figura è di profilo, ma qui la protagonista può essere definita una «madre» nel vero senso della parola. Lo sguardo, questa volta, è abbassato sul ventre, i seni scoperti e pieni. La visione include solo la madre e il figlio che si sta sviluppando nel suo ventre: l'osservatore rimane esterno alla scena e non è chiamato in causa. La mano destra della donna è leggermente sollevata, quasi a scandire con il gesto le parole di un dialogo silenzioso fra madre e figlio."
+      },
+      {
+        type: "p",
+        text: "Lo sfondo dorato, i colori accesi, l'atteggiamento dolce e meditativo della madre sono quanto di più lontano possa esserci dalla prima versione di questo tema. Quando lo sguardo scende nella parte inferiore del dipinto scopre, in realtà, alcuni elementi che riconducono all'opera del 1903: fra gli arabeschi dell'abito, tre figure femminili in atteggiamento di dolente preghiera, a capo chino, a occhi chiusi, con le mani alzate forse per coprirsi il volto. Ma è un dolore misurato, non il presagio disperato di una sciagura. Risalendo sul ventre della madre si scopre ancora una volta un teschio sospeso, appena appoggiato, per così dire, ridotto a pura decorazione ma evidentissimo — forse si tratta ancora una volta della consapevolezza della morte, che nasce insieme alla vita. La figura, costruita in gran parte dall'incastro di tasselli con motivi floreali stilizzati, non perde la sua solidità e soprattutto la sua dimensione psicologica, di meditazione compunta."
+      },
+      {
+        type: "highlight",
+        text: "Un particolare curioso: la modella delle due opere è la stessa, Herma, una delle preferite del pittore, che compare più spesso nelle sue opere."
+      }
+    ]
+  },
+  {
+    id: 22,
+    slug: "pablo-picasso-maternita",
+    title: "Pablo Picasso — Maternità",
+    excerpt: "Nel 1905, nel pieno del suo periodo rosa, Picasso dipinge una madre e un figlio fusi in un unico scialle: un'immagine classica, universale ed eterna della maternità.",
+    keywords: "maternità nell'arte, Pablo Picasso, periodo rosa, allattamento nell'arte, cubismo, arte del Novecento",
+    category: "Maternità nell'arte",
+    author: "Cristina Barbano",
+    authorRole: "Organizzatrice di mostre di arte contemporanea",
+    authorAvatar: "CB",
+    authorColor: "#9C6B4A",
+    readTime: "6 min",
+    bgColor: "#7A4F35",
+    content: [
+      {
+        type: "artwork-link",
+        text: "L'opera discussa in questo articolo è ancora protetta da copyright e non viene riprodotta su questa pagina. Puoi vederla qui:",
+        href: "https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1905,_Maternit%C3%A9_(Mother_and_Child).jpg",
+        linkText: "Picasso, «Maternité» (1905) su Wikipedia →"
+      },
+      {
+        type: "p",
+        text: "Maternità (1905) di Pablo Picasso (1881-1973). Del dipinto non si conoscono le dimensioni né a quale collezione privata appartenga."
+      },
+      {
+        type: "p",
+        text: "Solo in una delle opere più note, la Maternità del 1905, Picasso sembra approdare alla trattazione diretta dell'argomento. L'opera rappresenta in primo piano una giovane donna che allatta il suo bambino. Madre e figlio sono avvolti e uniti nello stesso scialle; del piccolo si scorgono solo la testa e una manina appoggiata sulla mammella destra della madre. Si intuisce che il piccolo sta succhiando il latte con voluttà. La madre ha il capo chinato verso destra e gli occhi socchiusi. I capelli sono raccolti in uno chignon ornato da un fiore dello stesso rosa tenero dello scialle. Al dito medio della donna si nota un anello con una pietra ovale verde. I lineamenti della donna sono sottili e le mani sono lunghe e affusolate. Le figure sono dipinte nelle tonalità di rosa e grigi su uno sfondo blu-grigio indistinto, che non è né cielo, né mare, né parete, ma è funzionale alla rappresentazione della maternità in sé. È come se il male oscuro del vivere, l'angoscia legata al futuro in un mondo di miseria e squallore, la profonda tristezza degli sguardi fossero superati e lontani. Madre e figlio si amano in modo incondizionato e costituiscono un'unità inscindibile: si donano l'uno all'altra in una fusione completa, al punto che le figure rappresentate sulla tela sembrano tridimensionali, e la giovane donna — forse un'acrobata del circo amata dall'artista? — assurge al livello dell'immagine classica, universale ed eterna della maternità."
+      },
+      {
+        type: "h2",
+        text: "Un percorso artistico lungo una vita"
+      },
+      {
+        type: "p",
+        text: "Pablo Picasso nasce a Malaga nel 1881 e inizia giovanissimo a disegnare. Dalla seconda metà degli anni Novanta partecipa alla vita intellettuale di Barcellona, dove la famiglia si era nel frattempo trasferita, aderisce a tutte le correnti d'avanguardia, lavora con frenesia e sperimenta varie tecniche, come presentendo la sua vocazione di innovatore assoluto dell'arte contemporanea."
+      },
+      {
+        type: "p",
+        text: "Dopo un primo soggiorno a Parigi nel 1901, torna più volte nella capitale francese, dove si stabilisce a partire dal 1904. In questi anni le sue opere, che ripropongono nei temi espressioni dolenti di tragiche condizioni umane e sociali, sono caratterizzate da un disegno stilizzato e pungente, da un'intonazione monocroma blu che definisce duramente i volumi (periodo blu). Dal 1904 acrobati, suonatori ambulanti e personaggi legati al mondo della Commedia dell'Arte fanno la loro comparsa nelle sue opere, con note di tenera malinconia, mentre il blu è sostituito da tonalità grigio-rosa (periodo rosa)."
+      },
+      {
+        type: "p",
+        text: "Seguono anni di influenza dell'arte africana sull'artista, che portano Picasso alla scomposizione dei volumi della figura umana e al trattamento schematico dei piani. Anche sotto l'influenza di Cézanne, Picasso approda al cosiddetto Cubismo, cioè alla rappresentazione simultanea in piano delle varie facce scomposte dell'immagine, e al superamento della tradizionale contrapposizione tra piano dell'immagine e sfondo. Queste prime esperienze, che abbracciano anche la scultura, sono i presupposti della cosiddetta arte non oggettiva e precorrono l'astrattismo."
+      },
+      {
+        type: "p",
+        text: "Dal 1915 ritorna per un certo periodo alla rappresentazione oggettiva, con chiari riferimenti al classicismo di Ingres, mentre durante gli anni Venti e i primi anni Trenta si rivolge spesso alla scomposizione cubista e allo studio di tutte le forme rappresentative dell'immagine, quali l'ingrandimento smisurato dei soggetti o la poetica surrealista. Dal 1929 al 1934 Picasso approda a opere di alto valore espressivo, in cui la deformazione diventa rappresentazione morale delle angosce e delle contraddizioni dell'uomo moderno."
+      },
+      {
+        type: "p",
+        text: "Durante la guerra civile spagnola Picasso vive con forte impegno il dramma del suo paese e per un breve periodo è direttore del Museo del Prado di Madrid. La spietata denuncia degli orrori del fascismo e della guerra raggiunge i toni più alti nel quadro Guernica, espressione dello sdegno più intenso dopo il bombardamento tedesco della cittadina basca, avvenuto nell'aprile del 1937. L'opera, la cui denuncia va oltre l'episodio contingente che l'ha originata, viene presentata nel padiglione spagnolo dell'Esposizione Universale di Parigi del 1937 e suscita profonda commozione e consensi. Anche durante la seconda guerra mondiale appaiono spesso simboli dell'orrore e del disorientamento, come donne mostruosamente deformi e nature morte scomposte."
+      },
+      {
+        type: "p",
+        text: "Dopo la guerra, Picasso vive un periodo di distensione. Iscritto al Partito Comunista Francese dal 1944, partecipa a vari congressi della pace ed esegue la famosa affiche con la colomba per quello di Parigi del 1949. Dal 1947 soggiorna a Vallauris, sulla costa meridionale della Francia, dove si dedica prevalentemente alla ceramica, poi a Cannes, e dal 1961 si stabilisce a Mougins, dove trascorre il resto della sua vita e dove muore nel 1973. Nella sua lunga vita, intensa anche dal punto di vista sentimentale, Picasso ha avuto da mogli e compagne diverse due figli maschi e due figlie femmine."
+      },
+      {
+        type: "highlight",
+        text: "In età matura, pur senza abbandonare la scomposizione violenta della forma, Picasso arriva a piegarla a esprimere affetti familiari, limpidi sentimenti umani. Con maggiore serenità ricerca nei miti classici e nell'antichissima tecnica della ceramica il senso profondo dell'anima mediterranea. La produzione di Picasso è estremamente vasta e spazia con uguale successo dalla pittura alla grafica, dalla scultura alla ceramica. Le opere raffiguranti la maternità sono assai numerose e riflettono il percorso artistico dell'autore dalla figurazione all'astrattismo: in molti quadri dei periodi rosa e blu, madre e figlio sono inseriti in scene di gruppo e sono funzionali a rappresentare i temi del dolore, della povertà, dello sfruttamento che all'epoca Picasso stava trattando. Picasso non rappresenta la maternità in sé e per sé, ma la usa per testimoniare una società ingiusta — un carattere «sociale» che prevale anche quando la maternità è l'unico soggetto del quadro."
+      }
+    ]
+  },
+  {
+    id: 23,
+    slug: "la-mia-balia-e-io-frida-kahlo",
+    title: "La mia balia e io di Frida Kahlo",
+    excerpt: "Frida Kahlo dipinge sé stessa neonata, col volto da adulta, allattata da una balia india dal viso coperto da una maschera funeraria: un quadro pieno di contraddizioni sul suo rapporto con la maternità e con la terra.",
+    keywords: "maternità nell'arte, Frida Kahlo, la mia balia e io, allattamento nell'arte, arte messicana, autoritratto",
+    category: "Maternità nell'arte",
+    author: "Cristina Barbano",
+    authorRole: "Organizzatrice di mostre di arte contemporanea",
+    authorAvatar: "CB",
+    authorColor: "#9C6B4A",
+    readTime: "6 min",
+    bgColor: "#7A4F35",
+    content: [
+      {
+        type: "artwork-link",
+        text: "L'opera discussa in questo articolo è ancora protetta da copyright e non viene riprodotta su questa pagina. Puoi vederla qui:",
+        href: "https://www.fridakahlo.org/my-nurse-and-i.jsp",
+        linkText: "Frida Kahlo, «La mia balia e io» (1937) →"
+      },
+      {
+        type: "p",
+        text: "Frida Kahlo, La mia balia e io (mentre sto poppando), 1937, olio su metallo, 30,5×34,7 cm, Collezione Dolores Olmedo, Città del Messico."
+      },
+      {
+        type: "p",
+        text: "Frida Kahlo (1907-1954) è una pittrice messicana, moglie del famoso artista Diego Rivera. Colpita dalla poliomielite a sei anni e vittima di un gravissimo incidente stradale a diciotto, per tutta la vita soffrì di dolori e di una progressiva riduzione della mobilità. Fu proprio la protratta immobilità forzata seguita all'incidente a spingerla a cominciare a dipingere. Con il marito Diego Rivera, sposato nel 1929, ebbe un rapporto tanto intenso e passionale quanto conflittuale: lo amò follemente per tutta la vita e non riuscì a staccarsi da lui neanche dopo le più palesi e umilianti infedeltà. Diego incoraggiò la sua attività artistica, che le diede col tempo larga fama e indipendenza economica. Nonostante la salute precaria e le pesanti lesioni al ventre subite durante l'incidente, tentò per tre volte di avere un figlio, ma dovette subire tre aborti. Da un punto di vista stilistico, Frida Kahlo sfugge a un inquadramento netto: nelle sue tele sono presenti elementi primitivi, naïf, surreali, onirici, ma al tempo stesso estremamente concreti e realistici («ho sempre dipinto la mia realtà, non i miei sogni»). È una pittura istintiva, con colori forti e contrastanti, molto legata al Messico e alla sua natura, di cui Frida si sentiva parte integrante, nonostante il padre fosse un immigrato tedesco di origine ungherese ed ebraica. Basti pensare che, per sottolineare la sua appartenenza al Messico, preferiva indicare la propria data di nascita non nel 1907, ma nel 1910, anno di inizio della rivoluzione messicana, che rappresentò la rinascita del Paese."
+      },
+      {
+        type: "p",
+        text: "La maggior parte delle circa 200 opere di Frida Kahlo sono autoritratti («io sono la persona che conosco meglio»), che costituiscono la sua autobiografia pittorica e rappresentano i momenti significativi della sua vita: la nascita, l'allattamento, i dolori che la salute malferma le provocava, la famiglia e il suo albero genealogico, il rapporto col marito, gli aborti, la paura della morte, l'appartenenza al suo Paese e la fede nell'ideologia comunista. Frida avvertiva un forte legame con la natura e con il creato, temi ricorrenti nella sua opera, usati talvolta come sfondi, altre volte come soggetti principali o elementi decorativi."
+      },
+      {
+        type: "h2",
+        text: "Io e la mia balia (1937)"
+      },
+      {
+        type: "p",
+        text: "Quest'opera del 1937 è, a prima vista, piena di contraddizioni, e di conseguenza può apparire molto ermetica."
+      },
+      {
+        type: "p",
+        text: "Frida Kahlo fu allattata dalla madre per poco tempo, poiché la sorella Cristina (la stessa con cui il marito di Frida, il pittore Diego Rivera, ebbe una appassionata relazione diventata di pubblico dominio) aveva solo undici mesi meno di lei. Per l'allattamento di Frida fu assunta una balia india, con cui la bambina non ebbe un rapporto armonico: la balia non amava la piccola e non ne era riamata. Si può quindi pensare che, se le sofferenze fisiche di Frida iniziarono a sei anni, quando si ammalò di poliomielite, quelle emotive legate alla solitudine cominciarono molto prima."
+      },
+      {
+        type: "p",
+        text: "Il quadro, come quasi tutte le opere di Frida di piccole dimensioni (30,5×34,7 cm), rappresenta in primo piano la piccola che succhia il latte da una delle mammelle della nutrice che la tiene in braccio. La balia è monumentale, a petto nudo, con il volto celato da una maschera simile agli attributi funerari degli indigeni messicani, che le nasconde anche gli occhi. La parte inferiore del suo corpo visibile è di colore grigiastro, come una roccia. Frida ha il suo volto da adulta, con le tipiche folte sopracciglia nere e una lieve peluria scura sopra il labbro superiore: il viso è in dissonanza con il suo corpicino. Non emerge alcun indizio di un contatto affettivo tra le due."
+      },
+      {
+        type: "p",
+        text: "Un altro elemento interessante è la mancanza di logica temporale tra le due figure: la nutrice appare antica come una roccia, e Frida è una bimba col volto da adulta. Una simile dissonanza è un elemento tipico del sogno, nel quale le persone compaiono come entità scollegate dal tempo e dall'età, e un adulto può essere «visto» come bambino, e viceversa."
+      },
+      {
+        type: "p",
+        text: "Sullo sfondo, la lussureggiante vegetazione tropicale. Il cielo è grigio chiaro, ma cupo, con grosse gocce di pioggia bianca come il latte. La mammella da cui Frida succhia il latte è rappresentata come un albero con fronde e fiori, e ricorda gli intrichi arborei ricorrenti nei quadri della pittrice."
+      },
+      {
+        type: "highlight",
+        text: "Come in altri quadri, anche in questo si evidenzia il rapporto di Frida con la sua terra, che ha tra i suoi attributi proprio quello di dare la vita e nutrire. La terra è per definizione la «grande madre», e questo aspetto non poteva non essere sottolineato in un'opera di Frida Kahlo, legata così intimamente alla natura del suo Paese da rappresentarla infinite volte nei suoi quadri. La nutrice assomiglia a una roccia o a un albero, cioè a un elemento naturale di un macrocosmo di cui Frida si sente parte imprescindibile, e che non abbandonerà mai, qualunque cosa accada."
+      }
+    ]
+  },
+  {
+    id: 24,
+    slug: "io-e-la-mia-bambola-frida-kahlo",
+    title: "Io e la mia bambola di Frida Kahlo",
+    excerpt: "Seduta su un letto vuoto, con una bambola al posto del figlio che non potrà mai avere, Frida Kahlo non mostra disperazione: mostra sfida.",
+    keywords: "maternità nell'arte, Frida Kahlo, io e la mia bambola, infertilità nell'arte, arte messicana, autoritratto",
+    category: "Maternità nell'arte",
+    author: "Cristina Barbano",
+    authorRole: "Organizzatrice di mostre di arte contemporanea",
+    authorAvatar: "CB",
+    authorColor: "#9C6B4A",
+    readTime: "3 min",
+    bgColor: "#7A4F35",
+    content: [
+      {
+        type: "artwork-link",
+        text: "L'opera discussa in questo articolo è ancora protetta da copyright e non viene riprodotta su questa pagina. Puoi vederla qui:",
+        href: "https://www.fridakahlo.org/me-and-my-doll.jsp",
+        linkText: "Frida Kahlo, «Io e la mia bambola» (1937) →"
+      },
+      {
+        type: "p",
+        text: "Frida Kahlo, Io e la mia bambola, 1937, olio su tela, 40×31 cm, Collezione Jacques e Natasha Gelman, Città del Messico."
+      },
+      {
+        type: "p",
+        text: "Frida Kahlo (1907-1954) è una pittrice messicana, moglie del famoso artista Diego Rivera (la biografia completa è nell'articolo «La mia balia e io»)."
+      },
+      {
+        type: "highlight",
+        text: "Frida sa di non poter avere figli. La sua vita è irrimediabilmente vuota e squallida, come il letto su cui è seduta. La bambola che le sta accanto è nuda come un bimbo appena nato, e si potrebbe pensare che Frida la intenda come un surrogato del figlio negato. Ma è un sostituto di ben poca importanza, tanto è vero che Frida ha in mano una sigaretta, cosa che una madre non farebbe quando è insieme al suo bambino. Ma sul viso di Frida non c'è un'espressione di infelicità, o peggio ancora di disperazione, bensì di sfida, come se dicesse: il mondo che mi circonda è vuoto e squallido, mi viene negato un figlio, ma io non mi arrendo, sono una donna viva e bella e capace di essere madre di una creatura in carne e ossa e non di una bambola. Non mi arrenderò, e la speranza — anzi la certezza — dà luce al mio sguardo e armonia alla mia figura."
+      },
+      {
+        type: "p",
+        text: "Mi sembra sia un segno di forza, di speranza, e anche un po' della follia che caratterizza le madri."
+      }
+    ]
+  },
+  {
+    id: 25,
+    slug: "radici-frida-kahlo",
+    title: "Radici di Frida Kahlo",
+    excerpt: "Sdraiata sulla terra arida, dal costato di Frida nascono rami verdi che si impiantano nel suolo: un'immagine di autofecondazione e di pace ritrovata, dipinta a 36 anni.",
+    keywords: "maternità nell'arte, Frida Kahlo, radici, autoriproduzione, arte messicana, autoritratto",
+    category: "Maternità nell'arte",
+    author: "Cristina Barbano",
+    authorRole: "Organizzatrice di mostre di arte contemporanea",
+    authorAvatar: "CB",
+    authorColor: "#9C6B4A",
+    readTime: "3 min",
+    bgColor: "#7A4F35",
+    content: [
+      {
+        type: "artwork-link",
+        text: "L'opera discussa in questo articolo è ancora protetta da copyright e non viene riprodotta su questa pagina. Puoi vederla qui:",
+        href: "https://www.fridakahlo.org/roots.jsp",
+        linkText: "Frida Kahlo, «Radici» (1943) →"
+      },
+      {
+        type: "p",
+        text: "Radici, 1943, olio su tela, 30,5×49,9 cm, collezione privata."
+      },
+      {
+        type: "p",
+        text: "Frida Kahlo (1907-1954) è una pittrice messicana, moglie del famoso artista Diego Rivera (la biografia completa è nell'articolo «La mia balia e io»)."
+      },
+      {
+        type: "highlight",
+        text: "Nell'opera Radici, Frida è protagonista. È sdraiata per terra con un vestito arancione, sostiene la testa con un braccio appoggiato su un cuscino bianco, e dal costato aperto fuoriescono solidi rami verdi che vanno a impiantarsi nell'arido suolo circostante. Questa immagine esprime il desiderio di autoriprodursi al di fuori di sé, fecondando un terreno privo di vita e aggrappandosi allo stesso con un legame bidirezionale di dare e ricevere. Il collegamento, l'aggancio al suolo, rappresenta non solo l'autoriproduzione, ma anche il legame massimamente intimo, addirittura organico, con l'immortalità del creato."
+      },
+      {
+        type: "p",
+        text: "Dal costato aperto non sgorga il sangue che spesso appare nelle tele della Kahlo e che talvolta fa pensare a una martire. L'immagine è perfettamente naturale, e il viso di Frida — spesso rappresentato contratto dalla sofferenza fisica o rabbuiato dal dolore, dalla solitudine e dalla paura — in quest'opera è radioso ed emana serenità e dolcezza, come se fosse completamente appagata e si sentisse vicina alla perfezione e all'eternità. L'opera è stata dipinta nel 1943, quando Frida aveva 36 anni, ma il volto radioso, il sorriso spensierato, i capelli sciolti e liberi, il corpo rilassato e morbido trasmettono l'immagine di una Frida bambina che ha ritrovato la sua infanzia e la sta rivivendo diversa da quella che fu, cioè serena, sicura e indolore."
+      }
+    ]
+  },
+  {
+    id: 16,
+    slug: "matrioshka",
+    title: "La matrioshka, un oggetto d'arte applicata popolare",
+    excerpt: "Dietro il souvenir più famoso della Russia si nasconde una storia recente e un simbolismo profondo legato alla maternità: dalle origini ottocentesche al significato dei sette corpi.",
+    keywords: "maternità nell'arte, matrioshka, arte popolare russa, simbolismo materno, Sergei Malyutin, artigianato russo",
+    category: "Maternità nell'arte",
+    author: "Cristina Barbano",
+    authorRole: "Organizzatrice di mostre di arte contemporanea",
+    authorAvatar: "CB",
+    authorColor: "#9C6B4A",
+    readTime: "7 min",
+    bgColor: "#7A4F35",
+    content: [
+      {
+        type: "img",
+        src: "/blog/matrioshka.jpg",
+        alt: "Set di cinque matrioshke di dimensioni decrescenti",
+        caption: "Foto: Jorge Campos / Unsplash"
+      },
+      {
+        type: "p",
+        text: "Uno dei souvenir più frequenti che ogni turista si porta a casa dalla Russia è la matrioshka: una bambola di legno dipinto a colori vivaci, con la forma stilizzata di un corpo femminile, il viso dai tratti tipicamente slavi e un costume nazionale. È scomponibile in due metà e al suo interno c'è una bambola simile, ma più piccola, anch'essa divisa in due parti, e così di seguito fino ad arrivare generalmente a sette pezzi, il più piccolo dei quali è intero e non si smonta."
+      },
+      {
+        type: "p",
+        text: "In oltre trent'anni di lavoro con i russi ho collezionato almeno cento matrioshke delle più svariate dimensioni e tipi di finitura, e ho sempre pensato che fosse un giocattolo popolare antico. Solo poco tempo fa ho scoperto che la comparsa della matrioshka risale al tardo XIX secolo."
+      },
+      {
+        type: "h2",
+        text: "Le origini della matrioshka"
+      },
+      {
+        type: "p",
+        text: "La sua storia è iniziata a Mosca in un laboratorio di falegnameria chiamato «Studio per l'educazione infantile», dove si fabbricavano bambole e manichini destinati a illustrare l'abbigliamento tipico delle varie etnie del grande impero russo, una specie di propaganda nazionale etnografica. L'uso dei torni per legno era già ben noto in Russia per fabbricare, con legni morbidi come tiglio, pioppo o betulla, stagionati all'aria aperta per almeno due anni, le tradizionali uova di Pasqua colorate inserite una entro l'altra."
+      },
+      {
+        type: "p",
+        text: "Un giorno del 1892 qualcuno portò al laboratorio una bambolina-portafortuna giapponese di cartapesta, cava all'interno e divisibile in due metà, dalla forma tondeggiante e completamente liscia, su cui erano disegnati il viso allegro di Fukurama, con la testa calva come i monaci buddisti, le manine e i piedini, colorata con tinte vivaci e composta da sette figure una dentro l'altra. Ispirandosi allo stesso principio, Sergei Malyutin — un pittore bravo, ma al momento poco conosciuto, che evidentemente per aumentare le sue entrate lavorava come decoratore nel laboratorio — inventò una bambola divisibile in due metà raffigurante una contadina con i tratti del viso tipici della donna russa e vestita con costume tradizionale: il classico abito senza maniche indossato sopra una camicia ricamata, un grembiule bianco e uno scialle in testa annodato sotto il mento. In mano la contadina reggeva un gallo nero."
+      },
+      {
+        type: "p",
+        text: "La bambola venne chiamata Matrioshka, vezzeggiativo del nome Matriona, che deriva dal latino «matrona», definizione usata nell'antica Roma per indicare le donne sposate, non schiave, di ineccepibile reputazione e di buona famiglia. In Russia, anticamente, il nome veniva usato per indicare una rispettabile madre di famiglia. Dal termine «matrona» nasce il nome «Matriona», che evoca appunto l'immagine di una madre di famiglia con tanti figli, che ha tuttavia conservato una figura snella nonostante le molte maternità."
+      },
+      {
+        type: "p",
+        text: "La prima matrioshka conteneva sette pezzi e fu fabbricata partendo dalla figura più piccola, a cui seguivano quelle sempre più grandi. Si racconta che il tornitore chiamato a realizzare l'idea di Malyutin non abbia preso alcuna misura, ma che grazie alla sua esperienza e alla sua maestria sia comunque riuscito nel suo intento. Appare così una mamma con sette figlie."
+      },
+      {
+        type: "h2",
+        text: "Dalla Russia al mondo"
+      },
+      {
+        type: "p",
+        text: "Verso la fine del secolo il laboratorio viene chiuso e la produzione viene trasferita fuori Mosca. L'oggetto diventa famoso a livello internazionale nel 1900, quando viene esposto alla Fiera Internazionale di Parigi. Ogni anno le matrioshke vengono esposte a Lipsia, Berlino e Londra e riscuotono grande successo per la forma originale e la colorazione allegra e sgargiante. Le matrioshke erano dipinte a mano, con grande accuratezza, spesso da artigiani famosi che provenivano dalla tradizione della pittura su legno tipica della parte europea della Russia, ed erano prodotti molto costosi. Oltre alle bambole «contadine» venivano talvolta realizzati pezzi speciali con i personaggi delle favole popolari o di testi letterari particolarmente famosi."
+      },
+      {
+        type: "p",
+        text: "Gradualmente in Russia sorsero molti laboratori per la produzione delle matrioshke, ciascuno dei quali dava al proprio prodotto caratteristiche tipiche legate fondamentalmente ai tipi fisici e ai costumi tradizionali del luogo, ben riconoscibili; ma la figura più frequente resta quella di una contadina con gli occhi azzurri e i capelli biondi, con abiti dai colori sgargianti che riprendono le stesse tonalità delle decorazioni degli scialli, dei vassoi e degli utensili di legno tipici dell'artigianato russo."
+      },
+      {
+        type: "h2",
+        text: "Un giocattolo, un simbolo"
+      },
+      {
+        type: "p",
+        text: "Ma la matrioshka è da considerare un souvenir, un giocattolo o un oggetto decorativo? Le mamme russe affermano che la matrioshka è anche un eccellente supporto educativo e di sviluppo per i bambini, che li aiuta a imparare i concetti di colore, dimensione e volume. Smontando e rimontando le matrioshke i bambini sviluppano la coordinazione occhio-mano; i più piccoli affinano le loro capacità di pensiero logico assemblando le figure e imparando a contare."
+      },
+      {
+        type: "highlight",
+        text: "Ma questo giocattolo ha anche un significato simbolico. La bambola dipinta simboleggia sette corpi umani, a cui sono legati sette colori corrispondenti ai colori dei chakra o a quelli dell'arcobaleno. Anche se il concetto di «corpo» in questo caso non sembra del tutto familiare, è corretto dire che le matrioshke simboleggiano gusci, o livelli, del sistema umano di informazione energetica, corrispondenti alle diverse fasi dello sviluppo della persona."
+      },
+      {
+        type: "p",
+        text: "La matrioshka più piccola, che per tradizione è rossa, rappresenta il corpo fisico: l'essere umano vi è attaccato e pensa erroneamente che esso sia tutto ciò che possiede. Questo guscio funge da difesa dai pericoli esterni, ma consente anche di assorbire l'energia della terra; la sua formazione si conclude al raggiungimento dell'anno di vita. Segue la matrioshka arancione, che contiene la precedente e ne ripete esattamente la forma: rappresenta il corpo eterico, che si forma intorno ai tre anni. La matrioshka seguente è gialla e rappresenta il corpo astrale, che si forma intorno ai sette anni — la sua frequenza di vibrazione energetica è molto più alta delle precedenti, e in questo corpo sono collocati i sentimenti e le emozioni; esso dà resistenza e salute. Segue la matrioshka verde, che simboleggia il corpo mentale, nel quale si svolgono i processi intellettuali, la capacità di strutturare l'informazione ricevuta e la memoria: si forma completamente intorno ai 14 anni. Segue il corpo causale, che si forma intorno ai 21 anni e permette di analizzare, comprendere e comporre come in un puzzle gli eventi della propria vita, esprimersi e comunicare; a esso si associa l'azzurro. Al corpo successivo, il corpo buddico, si lega il blu: si forma in età adulta e, unendosi al corpo causale, arriva a costituire l'energia ideale chiamata anima, che favorisce la percezione dei processi dello spirito. L'ultimo corpo è quello atmico, a cui si associa il colore viola: è responsabile dell'armonia nella distribuzione dell'energia, è legato allo spirito in senso puro, e viene raggiunto in età anziana."
+      },
+      {
+        type: "h2",
+        text: "Il volto femminile della Russia"
+      },
+      {
+        type: "p",
+        text: "Nel corso degli ultimi vent'anni sono apparse sul mercato matrioshke con soggetti sempre nuovi: in alcune si avvicendano le personalità che hanno governato la Russia, da Ivan il Terribile fino ai giorni nostri, oppure i presidenti degli Stati Uniti, o ancora i cantanti pop più famosi della musica inglese. Ma le vere matrioshke restano quelle che raffigurano figure femminili. Naturalmente, la prima cosa a cui si pensa smontando l'oggetto è il susseguirsi infinito delle generazioni in una società matriarcale, cioè una Russia che si regge sulle donne. In Russia, molto più che altrove, la donna è l'elemento più affidabile, laborioso e responsabile della società, anche se quest'ultima appare un organismo prettamente al maschile: sono gli uomini che fanno carriera nelle aziende, che occupano i posti di potere, che guadagnano di più. In questo la Russia, che spesso viene definita un ponte tra Occidente e Oriente, manifesta uno dei suoi tratti meno occidentali."
+      }
+    ]
+  },
+  {
+    id: 17,
+    slug: "san-giuseppe-nellarte",
+    title: "L'evoluzione dell'immagine di San Giuseppe nell'arte",
+    excerpt: "Da vecchio defilato appoggiato a un bastone fiorito a padre giovane e presente: come è cambiata nei secoli l'immagine di San Giuseppe, fino alla dolcezza della Sacra Famiglia col cagnolino di Murillo.",
+    keywords: "maternità nell'arte, San Giuseppe, iconografia religiosa, Murillo, Sacra Famiglia, paternità nell'arte, Museo del Prado",
+    category: "Maternità nell'arte",
+    author: "Cristina Barbano",
+    authorRole: "Organizzatrice di mostre di arte contemporanea",
+    authorAvatar: "CB",
+    authorColor: "#9C6B4A",
+    readTime: "5 min",
+    bgColor: "#7A4F35",
+    content: [
+      {
+        type: "img",
+        src: "/blog/san-giuseppe-murillo.jpg",
+        alt: "La Sacra Famiglia col cagnolino, dipinto di Bartolomé Esteban Murillo",
+        caption: "Bartolomé Esteban Murillo, «La Sacra Famiglia col cagnolino» (1650), olio su tela, 144×188 cm, Museo del Prado, Madrid"
+      },
+      {
+        type: "p",
+        text: "I testi biblici relativi a Giuseppe, sposo di Maria e padre putativo di Gesù, sono piuttosto scarsi, al punto che le caratteristiche della sua figura sono emerse soprattutto attraverso lo studio dei vangeli apocrifi: la maggior parte del materiale utilizzato per le sue immagini proviene dal cosiddetto Protovangelo di Giacomo, del II secolo, sulla base del quale nel corso dei secoli si sono formate le immagini canoniche del santo."
+      },
+      {
+        type: "h2",
+        text: "Il bastone fiorito e la colomba"
+      },
+      {
+        type: "p",
+        text: "Il Protovangelo di Giacomo spiega, per esempio, l'origine dell'immagine canonica per eccellenza: il santo che si appoggia a un bastone fiorito. Maria era stata portata nel Tempio di Gerusalemme nella prima infanzia e viveva nel Tempio dedita a Dio. Quando raggiunse i dodici anni, un angelo apparve ai sacerdoti ordinando loro di convocare tutti i vedovi: Dio avrebbe dato un segno per indicare il prescelto a diventare sposo di Maria. Il segno che portò alla scelta di Giuseppe tra i candidati si verificò quando una colomba si alzò in volo dal suo bastone. Nella Leggenda aurea, il testo composto nel XIII secolo dal frate domenicano Jacopo da Varazze (che ancora oggi costituisce il riferimento indispensabile per interpretare la simbologia e l'iconografia nelle opere di contenuto religioso), prima che la colomba si alzi in volo dal bastone, dallo stesso nascono dei fiori. L'episodio del bastone è talvolta raffigurato in gruppi di immagini dedicate alla Natività, ad esempio in una tavola degli affreschi della Cappella degli Scrovegni di Giotto. Nelle immagini del periodo successivo il bastone diventa un gambo di giglio, simbolo di castità, che fa riferimento all'immacolata concezione di Maria e al fatto che ella sia rimasta vergine per tutta la sua vita terrena."
+      },
+      {
+        type: "h2",
+        text: "Una presenza defilata"
+      },
+      {
+        type: "p",
+        text: "San Giuseppe, naturalmente, è anche raffigurato nelle molte immagini relative alla nascita di Gesù. Praticamente in tutte le natività egli appare, perché fa parte della storia, ma gli artisti — come fa notare lo scrittore inglese Alan Bennett nel suo divertentissimo Una visita guidata — spesso raffigurano addirittura il bue e l'asinello in modo più rigoroso e dettagliato dello stesso Giuseppe. A significare la sua partecipazione inattiva alla generazione del figlio, spesso egli è rappresentato addormentato, e in ogni caso la sua figura non distoglie mai l'attenzione dell'osservatore dal vero centro del quadro, costituito da Maria, Gesù Bambino e i pastori o i Magi. In altri termini, il fatto che San Giuseppe sia poco visibile enfatizza l'evento glorioso della venuta tra gli uomini del Figlio di Dio. Praticamente lo stesso approccio si ripete nelle immagini della fuga in Egitto."
+      },
+      {
+        type: "p",
+        text: "Insomma, San Giuseppe è sempre defilato rispetto a Maria e a Gesù, e in questo senso il Tondo Doni di Michelangelo — con Gesù sulle ginocchia del padre putativo e Maria che si volta per prendere il figlio — è una sconvolgente eccezione, e un'ulteriore prova di quanto Michelangelo fosse un artista poco allineato alla tradizione. L'arte medievale aveva mostrato raramente San Giuseppe singolarmente o alla pari degli altri santi. L'atteggiamento comincia a cambiare a metà del XV secolo, quando si inizia a vederlo nelle vesti del padre di un Gesù Bambino che sta crescendo, e talvolta viene raffigurato mentre lo istruisce al lavoro di falegname. La popolarità del santo cresce, e all'inizio del XVI secolo Sisto IV, il papa che aveva ordinato la creazione della Cappella Sistina, istituisce la festa di San Giuseppe il 19 marzo."
+      },
+      {
+        type: "h2",
+        text: "La Sacra Famiglia col cagnolino"
+      },
+      {
+        type: "p",
+        text: "Dall'inizio del XVI secolo le immagini della Sacra Famiglia, con San Giuseppe, la Madonna e il Bambino Gesù, entrano in favore. Questa stessa epoca vede un notevole aumento del numero di immagini raffiguranti Giuseppe singolarmente e del numero di chiese e cappelle a lui dedicate. In questo periodo cambia anche l'aspetto del santo: precedentemente raffigurato, al fine di mantenere fede nella verginità perpetua di Maria, come un vecchio calvo e canuto e spesso appoggiato a un bastone, Giuseppe diventa più giovanile, e si sottintende che egli, pur giovane uomo, sia in grado di dominare le proprie passioni nei confronti della sposa."
+      },
+      {
+        type: "highlight",
+        text: "A questo periodo risale il dolcissimo quadro che ho scelto, La Sacra Famiglia col cagnolino, realizzato da Bartolomé Esteban Murillo nel 1650 e conservato al Museo del Prado di Madrid. Al centro del quadro, Gesù — un bimbo molto umanizzato, a piedi scalzi e intento a giocare con un uccellino e con un cagnolino — è appoggiato al padre, dietro al quale si intravedono gli strumenti della sua professione, che lo osserva fiero e compiaciuto. La posizione di Giuseppe nel quadro è centrale rispetto a quella di Maria, e nel suo complesso l'immagine è quella di una famiglia umile, ma armoniosa e felice, di cui San Giuseppe è custode."
+      }
+    ]
   }
 ];
