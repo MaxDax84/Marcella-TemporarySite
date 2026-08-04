@@ -221,4 +221,24 @@ export const teamTranslations = {
       "Degree in Philosophy, University of Milan",
     ],
   },
+  "alba-dagostino": {
+    name: "Alba D'Agostino",
+    role: "Holistic Practitioner, Reiki Master, Hypnologist, Intuitive Healer",
+    category: "Holistic Therapies",
+    bio: "Holistic Practitioner, Reiki Master, Hypnologist and Intuitive Healer with over fifteen years of experience in energetic and emotional support. A graduate in Communication Sciences, she built a long career in training and communication before dedicating herself fully to energy work. She has taught the Usui Reiki Method at every level since 2007 and created «Bioenergetic Paths», seminars devoted to specific energy topics. She also practices Harmonic Alignment and regressive hypnosis, guiding people through a journey of awareness and energetic rebalancing.",
+    specialties: [
+      "Deep and aura Reiki",
+      "Harmonic Alignment",
+      "Regressive hypnosis",
+      "Guided meditations",
+    ],
+    modes: ["In person – Milan"],
+    experience: "Over 15 years of experience",
+    education: [
+      "Degree in Communication Sciences",
+      "Usui Reiki Method, all levels, since 2007",
+      "Certification in Harmonic Alignment (2015)",
+      "Training in regressive hypnosis, deep meditation, family and systemic constellations, metamorphic technique, Theta Healing",
+    ],
+  },
 };
