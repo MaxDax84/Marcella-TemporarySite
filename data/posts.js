@@ -2130,4 +2130,663 @@ export const posts = [
       }
     ]
   },
+  {
+    id: 40,
+    slug: "ruolo-funzione-padre-sviluppo-neuropsicomotorio-prima-parte",
+    title: "Il ruolo e la funzione del padre nello sviluppo neuropsicomotorio del bambino (prima parte)",
+    excerpt: "Dalla diade madre-bambino alla triade con l'ingresso del padre: le 4 fasi, correlate a precise età, attraverso cui il bambino costruisce la propria indipendenza grazie alla relazione con il papà.",
+    keywords: "ruolo del padre, paternità, sviluppo neuropsicomotorio, diade, triade, relazione padre figlio",
+    category: "Paternità",
+    author: "Dott.ssa Sonia Pallocca",
+    authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
+    authorAvatar: "SP",
+    authorColor: "#6E8C7A",
+    readTime: "5 min",
+    bgColor: "#4F6B5A",
+    content: [
+      {
+        type: "p",
+        text: "Da sempre la figura genitoriale meno considerata nello sviluppo del bambino, il «padre», ha assunto, a livello storico e sociale, varie connotazioni: dall'arcaico «pater familias» al più attuale «mammo»."
+      },
+      {
+        type: "p",
+        text: "Ma qual è realmente il ruolo del padre nello sviluppo del bambino? Quale funzione ricopre per favorire una crescita equilibrata ed armoniosa?"
+      },
+      {
+        type: "p",
+        text: "Il padre è il perno che si inserisce in quella relazione primaria e simbiotica rappresentata dalla diade madre-bambino, traghettando quest'ultimo verso una progressiva separazione e contemporanea identificazione di sé. È grazie alla presenza del padre e alla costruzione della relazione triadica che il bambino si affaccia al mondo e all'altro, preparato e pronto all'apprendimento."
+      },
+      {
+        type: "p",
+        text: "Nel corso del tempo, la letteratura rivolta allo sviluppo del bambino, in particolare alla strutturazione della relazione con le figure parentali, si è quasi sempre soffermata sulle dinamiche relazionali mamma-bambino piuttosto che sulla triade mamma-papà-bambino o sulla specifica relazione papà-bambino. È invece indispensabile, soprattutto in una società come quella attuale, in cui le dinamiche familiari sono spesso fragili e vacillanti e i ruoli dei caregiver sempre meno definiti, riequilibrare il focus attentivo."
+      },
+      {
+        type: "p",
+        text: "Alla luce dei recenti studi che rivalutano il padre e la paternità fin dalla nascita, è quindi necessario aprire un capitolo sulla figura paterna, sul suo ruolo e sulla sua funzione all'interno del percorso evolutivo del bambino."
+      },
+      {
+        type: "p",
+        text: "Per questi motivi, care mamme e cari papà, ho deciso di accompagnarvi in questo breve percorso alla scoperta del legame tra la funzione del padre e lo sviluppo psicomotorio dei vostri bimbi."
+      },
+      {
+        type: "h2",
+        text: "Dalla diade alla separazione dalla madre: la funzione del padre nel processo evolutivo"
+      },
+      {
+        type: "p",
+        text: "Durante la gravidanza e nell'immediato periodo post-natale, la mamma ed il suo bambino si trovano in uno stato fusionale: la diade. Si tratta di un mondo chiuso all'esterno, ma che si costruisce come luogo interno di interazione e comunicazione affettiva: non esiste altro al di fuori dei due partecipanti e delle loro espressioni facciali, dei loro vocalizzi e della loro emotività. È attraverso questa prima e profonda relazione con la mamma che il bambino pone le fondamenta di una delle più sviluppate aree della sua competenza: la lettura e l'interpretazione dei segnali e delle espressioni emotive dei comportamenti altrui (Barone, 2009). Ed è grazie a questa costante interazione che, per il bambino, il contributo materno è significativo e fondamentale per lo sviluppo sociale, emotivo e cognitivo."
+      },
+      {
+        type: "p",
+        text: "All'esterno di questa relazione totalizzante tra la mamma ed il suo bambino, vi è il papà che, per primo, ricopre il ruolo dell'ambiente e come tale si inserisce dal primo periodo post natale, in maniera progressiva, all'interno della diade, trasformandola in una triade. Il padre, con la sua presenza e le sue interazioni con il bambino, promuove, e successivamente aiuta a superare, una fase di sviluppo necessaria ed importantissima: la «fase di individuazione e separazione». Si tratta di una fase che consente al bambino di riconoscersi come individuo «altro», separato dalla figura materna, e psichicamente autonomo, capace di abbandonare la fusionalità con la mamma ed evitare così, in seguito, la creazione di una dipendenza emotiva nei confronti delle future figure significative (es. insegnanti, compagni, amici)."
+      },
+      {
+        type: "p",
+        text: "Ma quando avviene nel bambino questa transizione? Esiste una correlazione tra lo sviluppo neuropsicomotorio e la progressiva affermazione della figura paterna nella relazione con il bambino?"
+      },
+      {
+        type: "p",
+        text: "Comunemente, si individuano 4 fasi attraverso le quali si innesca e gradualmente si evolve il processo di indipendenza dalla figura materna grazie alla maturazione della relazione padre-figlio. Tali fasi sono strettamente correlate a specifiche fasce d'età e a particolari passaggi che caratterizzano lo sviluppo neuropsicomotorio."
+      },
+      {
+        type: "ul",
+        items: [
+          "4/8 mesi. Il bambino acquisisce numerose competenze motorie: movimenti del capo, degli arti e del tronco, passaggi posturali, nuove posture e differenti modalità di spostamento. È proprio attraverso queste maggiori possibilità di movimento che il bambino sviluppa la propria immagine corporea.",
+          "8/14 mesi. Il bambino, sempre più capace di riconoscere e ricostruire la propria immagine corporea, acquisisce anche la più importante tra le modalità di spostamento: il cammino."
+        ]
+      },
+      {
+        type: "p",
+        text: "Con tali competenze si assiste ad un enorme salto di sperimentazione: il bambino decide consapevolmente di avvicinarsi o allontanarsi dalla madre, e questo gli permette di gestire in modo autonomo l'angoscia della separazione. In questo nuovo modo di relazionarsi ed esplorare l'ambiente circostante, il padre rappresenta un pilastro cruciale, poiché racchiude in sé la duplice funzione di accoglienza, data dal suo essere genitore, e di novità, in quanto rappresentante del mondo esterno alla madre."
+      },
+      {
+        type: "ul",
+        items: [
+          "14/24 mesi. Il bambino consolida l'abilità del cammino e questo contribuisce a renderlo sempre più sicuro di sé stesso. È tale sicurezza, unita alla curiosità verso l'ambiente, che porta il bambino a passare da momenti di allontanamento a momenti di riavvicinamento dalla madre e, di conseguenza, si verifica il consolidamento percettivo di sé stesso, il rafforzamento del senso di indipendenza e la solidificazione relazionale della coppia padre-figlio.",
+          "24/36 mesi. Si tratta dell'ultima fase, denominata «costanza dell'oggetto libidico»: il bambino ha acquisito una rappresentazione stabile della madre che gli permette di sopportarne adeguatamente la lontananza. È possibile affermare che in questa fascia d'età il bambino si sente veramente separato dalla figura materna ed instaura, con entrambi i genitori, una relazione paritaria, ma comunque peculiare."
+        ]
+      }
+    ]
+  },
+  {
+    id: 41,
+    slug: "ruolo-funzione-padre-sviluppo-neuropsicomotorio-seconda-parte",
+    title: "Il ruolo e la funzione del padre nello sviluppo neuropsicomotorio del bambino (seconda parte)",
+    excerpt: "Esperienza pratica, limiti e norme, responsabilità, disponibilità, coinvolgimento: le caratteristiche che rendono una figura paterna equilibrata ed efficace, e perché il gioco è lo strumento principale per costruirla.",
+    keywords: "ruolo del padre, paternità, gioco padre bambino, figura paterna, sviluppo neuropsicomotorio",
+    category: "Paternità",
+    author: "Dott.ssa Sonia Pallocca",
+    authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
+    authorAvatar: "SP",
+    authorColor: "#6E8C7A",
+    readTime: "5 min",
+    bgColor: "#4F6B5A",
+    content: [
+      {
+        type: "h2",
+        text: "Il bambino è nel mondo: il ruolo del padre nel processo evolutivo"
+      },
+      {
+        type: "p",
+        text: "Conclusosi il periodo della diade e conquistata l'indipendenza dalla fusionale relazione materna, il bambino è nel mondo esterno: sperimenta sé stesso e l'ambiente, lo esplora e si interfaccia con nuove figure, mantenendo però sempre come riferimento primario la madre e il padre. Madre e padre hanno ruoli differenti, ma complementari, nel percorso evolutivo del bambino. La madre, solitamente per sua natura, accudisce e protegge, mentre il padre tende ad assumere il ruolo di guida, attraverso la praticità e l'esempio."
+      },
+      {
+        type: "p",
+        text: "Nel corso degli anni, numerose ricerche hanno evidenziato una serie di caratteristiche che contribuiscono ad identificare una figura paterna equilibrata ed efficace nella relazione con il bambino. Di seguito ne analizziamo alcune insieme."
+      },
+      {
+        type: "p",
+        text: "La figura paterna è:"
+      },
+      {
+        type: "h3",
+        text: "Esperienza pratica"
+      },
+      {
+        type: "p",
+        text: "È solitamente il padre che, per indole, si dedica ad accompagnare il bambino nelle scoperte e nell'esecuzione di attività concrete: ad esempio arrampicarsi, tuffarsi, andare in bicicletta."
+      },
+      {
+        type: "h3",
+        text: "Limiti e norme"
+      },
+      {
+        type: "p",
+        text: "Inconsciamente rappresenta il mondo esterno con il quale il bambino si deve e si dovrà interfacciare costantemente nel corso del suo sviluppo, e per questo è colui che pone limiti e confini, anche con l'obiettivo di assicurarsi che vengano mantenute le giuste distanze tra genitori e figli. Concretamente è il padre che, nel caso in cui il bambino dorma in camera con i genitori o nello stesso letto di mamma e papà, tende a voler cambiare questa situazione, incentivando il bambino a dormire nella sua camera e ripristinando così il giusto equilibrio e i giusti spazi tra le parti."
+      },
+      {
+        type: "h3",
+        text: "Responsabilità"
+      },
+      {
+        type: "p",
+        text: "Un padre capace di prendersi responsabilità e di portarle avanti, nonostante questo valga anche per la madre, soprattutto al giorno d'oggi, è sempre un esempio positivo per i bambini."
+      },
+      {
+        type: "h3",
+        text: "Disponibilità"
+      },
+      {
+        type: "p",
+        text: "Si tratta di una caratteristica fondamentale per lo sviluppo cognitivo ed emotivo del bambino. Un padre che costruisce una relazione stabile e positiva con il proprio bambino è un padre che dedica del tempo al proprio figlio per il puro piacere di stare insieme. La principale attività che permette di attivare la «disponibilità» è il gioco. Per i papà, spesso «giocare» non è semplice: si sentono poco flessibili, poco creativi ed enfatici, troppo pragmatici. Ma è attraverso l'azione del «giocare» che il papà può ritagliarsi quel momento particolare ed unico per «stare» con il proprio bambino e non «fare» con il proprio bambino."
+      },
+      {
+        type: "highlight",
+        text: "Il gioco padre-bambino è un momento necessario ed unico. Un'esperienza differente dal gioco con la madre, di cui il bambino ha bisogno, proprio perché sperimenta un'altra modalità ludica, tendenzialmente più dinamica, fisica e improntata sul movimento. Il padre non deve sentirsi incapace, ma deve mettersi in gioco nel gioco… con il proprio bambino."
+      },
+      {
+        type: "h3",
+        text: "Coinvolgimento"
+      },
+      {
+        type: "p",
+        text: "Se il papà si mostra coinvolto e disponibile, il bambino avrà maggior possibilità di maturare autonomia ed indipendenza. La modalità più concreta è sempre il gioco, che porta il padre ad essere partecipe fin da subito nella vita del bambino."
+      },
+      {
+        type: "p",
+        text: "È chiaro che mettere in pratica tutto questo appare difficile nella realtà quotidiana, ma ciò che risulta fondamentale è conoscere. Conoscere il ruolo paterno per le madri, conoscere il proprio ruolo per i padri. Solo così è possibile porre attenzione, nei momenti giusti, alle proprie condotte, affinché lo sviluppo del bambino possa essere il più armonioso possibile."
+      }
+    ]
+  },
+  {
+    id: 42,
+    slug: "giochi-e-giocattoli-prima-parte",
+    title: "Giochi e giocattoli, un mondo a misura di bambino (prima parte)",
+    excerpt: "La differenza tra gioco e giocattolo, e le prime due tipologie di gioco — tonico emozionale e sensomotorio — con i consigli della neuropsicomotricista su cosa proporre nei primi mesi di vita.",
+    keywords: "gioco bambino, giocattoli neonato, gioco tonico emozionale, sviluppo del gioco, neuropsicomotricità",
+    category: "Neonato/Lattante",
+    author: "Dott.ssa Sonia Pallocca",
+    authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
+    authorAvatar: "SP",
+    authorColor: "#6E8C7A",
+    readTime: "5 min",
+    bgColor: "#4F6B5A",
+    content: [
+      {
+        type: "p",
+        text: "È necessario avere ben chiara la differenza tra giochi e giocattoli, ancora troppo spesso confusi tra loro, ma soprattutto comprendere l'esistenza di diverse tipologie di gioco alle quali è buona prassi accompagnare e proporre giocattoli (intesi nel più ampio concetto di «materiali») differenti. L'adeguata corrispondenza tra gioco e giocattolo permette di offrire al bambino un'esperienza ottimale e su misura per il suo percorso di crescita."
+      },
+      {
+        type: "p",
+        text: "Sonagli, palle, macchinine, bambole… e ancora maracas, costruzioni, cubi…"
+      },
+      {
+        type: "p",
+        text: "Se ci pensiamo bene, esiste un'immensa varietà di giocattoli che acquistiamo ed offriamo ai bambini, e questo voi mamme lo sapete bene. Quante volte, soprattutto durante la primissima infanzia, voi, ma anche nonni, zii, amici, fate trovare, in meravigliosi pacchetti regalo, giocattoli di ogni genere: sonori, luminosi, da incastrare o da manipolare, da comporre o lanciare? La risposta la conosciamo entrambi: molte volte! Questo, chiaramente quando non va incontro ad una sovrastimolazione, non è un male! I giocattoli, alcuni più di altri, sono utili all'evoluzione del vostro bambino, perché strumenti necessari a quella famosa attività chiamata GIOCO."
+      },
+      {
+        type: "p",
+        text: "Il gioco si configura come un vero e proprio lavoro, indispensabile per la crescita del bambino, e proprio come ogni lavoro ha bisogno di materiali e strumenti adeguati, utili e funzionali: per l'appunto, i giocattoli. Il binomio gioco-giocattoli è pertanto indissolubile, ma non così scontato."
+      },
+      {
+        type: "h2",
+        text: "Quale gioco? Quali giocattoli?"
+      },
+      {
+        type: "p",
+        text: "Quando parliamo di «gioco» immediatamente pensiamo ai bambini. Ma vi siete mai soffermati a pensare a quale immagine richiama nella vostra mente questa attività? Quanti di voi immaginano il gioco come l'utilizzo delle bambole o della pista delle macchinine? E ancora, quanti associano al gioco l'immagine di due bambini che si passano la palla o di uno solo che costruisce una torre di Lego? E chi di voi, invece, ricollega al gioco uno scambio di sorrisi tra una mamma ed il suo bimbo o il dondolio tra le braccia di papà?"
+      },
+      {
+        type: "p",
+        text: "I bambini, come stiamo vedendo assieme nel corso degli articoli, crescono e maturano, acquisendo competenze sempre nuove e sempre più evolute per ogni area di sviluppo: motoria, cognitiva, comunicativa, ma anche relazionale e, per l'appunto, di gioco. Per questo motivo è possibile pensare al gioco come ad un'attività in continuo aggiornamento ed arricchimento, che procede di pari passo con lo sviluppo del bambino."
+      },
+      {
+        type: "p",
+        text: "Seguendo questo filone, sono state convenzionalmente individuate 4 tipologie di gioco che si susseguono e si intrecciano nell'arco dei primi 2 anni di vita. Di seguito vedremo insieme le peculiarità di ciascuna e i giocattoli/materiali consigliati per delle proposte ludiche adeguate e ottimali."
+      },
+      {
+        type: "h3",
+        text: "Gioco tonico emozionale (0-2 mesi)"
+      },
+      {
+        type: "p",
+        text: "Si tratta delle prime forme piacevoli di scambio e comunicazione che si presentano attraverso il contatto corporeo tra il bambino e la sua mamma. Il gioco avviene anche tramite il dialogo relazionale faccia a faccia con sguardi, sorrisi, il sostegno ed il contenimento offerto (holding), le manipolazioni posturali del corpo del bimbo nello spazio (handling) e grazie alle variazioni di ritmo, tono ed emozioni."
+      },
+      {
+        type: "p",
+        text: "Con il trascorrere dei mesi (2-6 mesi) il gioco tonico emozionale si raffina e si manifesta sempre di più come un'attività ludica di postura e movimento in relazione con il corpo dell'adulto. Il tono muscolare è un vero e proprio veicolo di espressione. I giochi d'interazione faccia a faccia presentano sempre più vocalizzi e l'attenzione comincia ad indirizzarsi anche verso gli oggetti."
+      },
+      {
+        type: "highlight",
+        text: "Il consiglio della neuropsicomotricista: il corpo della mamma e del papà, le vostre espressioni del volto, la voce, il contenimento fisico sono i primi e più importanti strumenti di gioco con il vostro bimbo. Accompagnate le vostre parole, poche ma chiare, a gesti delicati, accoglienti, a carezze e massaggi nelle diverse parti del corpo. Utilizzate solitamente un tono di voce pacato (no urla), ma in grado di modularsi alla situazione e all'interazione; accompagnate sempre una mimica del volto chiara, ma variegata e teatrale (es. felicità: grandi sorrisi; stupore: occhi molto sgranati e bocca in chiusura a «O»). Consigliabili sono: libricini sensoriali e in tessuto, sonagli e materiali semplici, facilmente reperibili e di uso quotidiano, giochini da mettere in bocca, tappeti morbidi e, soprattutto per i primissimi mesi, materiali con evidenti contrasti visivi (es. bianco e nero)."
+      }
+    ]
+  },
+  {
+    id: 43,
+    slug: "giochi-e-giocattoli-seconda-parte",
+    title: "Giochi e giocattoli, un mondo a misura di bambino (seconda parte)",
+    excerpt: "Gioco sensomotorio, protosimbolico e simbolico: come si sviluppano dai 6 ai 36 mesi, con i consigli pratici della neuropsicomotricista su materiali e attività da proporre in ogni fase.",
+    keywords: "gioco sensomotorio, gioco simbolico, gioco protosimbolico, giocattoli bambino, sviluppo del gioco",
+    category: "Neonato/Lattante",
+    author: "Dott.ssa Sonia Pallocca",
+    authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
+    authorAvatar: "SP",
+    authorColor: "#6E8C7A",
+    readTime: "5 min",
+    bgColor: "#4F6B5A",
+    content: [
+      {
+        type: "h3",
+        text: "Gioco sensomotorio (6-12 mesi)"
+      },
+      {
+        type: "p",
+        text: "Il bambino inizia a ricercare sensazioni piacevoli attraverso il proprio corpo e non più tramite quello dell'adulto (es. movimento/immobilità, equilibrio/disequilibrio, tensione/distensione, tirare/spingere). Si assiste ad una sperimentazione tonico-posturale in maniera del tutto autonoma, ad esempio il bambino che da seduto prova a non utilizzare più le mani come base di appoggio e si sbilancia posteriormente (ricerca di vertigine), ma anche ad una ricerca di stimolazioni sensoriali piacevoli e ad una nuova conquista dello spazio. (12-24 mesi) Quest'ultimo viene investito pienamente quando il bambino acquisisce maggior sicurezza, competenza e creatività. (24-36 mesi) Progressivamente, attraverso il gioco sensomotorio, il bambino sperimenta in maniera sempre più decisa la propria motricità e si assiste così all'affermarsi di abilità quali l'arrampicata, la salita, la caduta libera e il salto in profondità. Le performance motorie assumono gradualmente la forma di gioco di abilità e prestazione, solitaria o in piccolo gruppo."
+      },
+      {
+        type: "highlight",
+        text: "Il consiglio della neuropsicomotricista: proponete tappeti in gommapiuma rivestiti, solidi in gommapiuma colorati (i famosi «cubotti») e di diverse dimensioni: rettangolari, quadrati, ma anche cilindrici o concavi, affinché il bambino possa sperimentare oscillazioni, disequilibri e cadute. Cuscini, piccoli ostacoli da superare (es. mattoncini colorati), palle morbide di diverse dimensioni, scalette, scivoli, discese, salite, tunnel, casette dove entrare e uscire. Gli spazi devono essere il più possibile sicuri e liberi dai troppi oggetti. Sì anche a ludoteche ed ambienti adatti alla sperimentazione motoria autonoma."
+      },
+      {
+        type: "h3",
+        text: "Gioco protosimbolico (6-24 mesi)"
+      },
+      {
+        type: "p",
+        text: "(6-12 mesi) È il momento in cui l'attenzione e l'interesse del bambino si focalizzano sull'oggetto, ed il gioco è profondamente incentrato sull'esperienza che egli ha del mondo circostante e dalle sue opposizioni. È l'esplosione di attività legate al dentro/fuori, presenza/assenza, apertura/chiusura, vicinanza/lontananza, costruzione/distruzione, attivo/passivo, grande/piccolo… (12-24 mesi) In maniera del tutto graduale, il gioco protosimbolico diventa sempre più legato alla manipolazione e alla trasformazione di oggetti e all'utilizzo e la trasformazione di spazi (es. angoli della casa da abitare o in cui stipare i propri oggetti preferiti)."
+      },
+      {
+        type: "p",
+        text: "Il consiglio della neuropsicomotricista: adatti a questa tipologia di gioco sono i materiali per i travasi, come pasta di vario tipo, legumi, farina gialla, bicchieri, pentole, cucchiai, contenitori di vario genere. Ma anche il «famoso» cestino dei tesori: catenelle, carta da riciclo (es. delle uova di Pasqua), teli, nastri, ma anche incastri in Lego, costruzioni morbide per torri da abbattere e successivamente da ricostruire. Utilizzate, quanto più vi è possibile, «giocattoli fai da te», quindi creati con materiali di uso comune, così che siano il più possibile appartenenti al vostro quotidiano. Questo, oltre ad essere importante per giocare e sperimentare con elementi reali e propri del suo contesto di vita, favorisce e stimola la curiosità e la creatività del bambino."
+      },
+      {
+        type: "h3",
+        text: "Gioco simbolico (12-36 mesi)"
+      },
+      {
+        type: "p",
+        text: "(12-24 mesi) Si tratta dei famosi «giochi di finzione» e simulazione condivisa, attraverso codici simbolici gestuali, sonori, mimici, codici d'uso degli oggetti e codici verbali: es. fare finta di mangiare, bere, fare la nanna. (24-36 mesi) L'attività ludica simbolica si declina via via verso la messa in scena improvvisata di piccole storie e successivamente di sequenze narrative sempre più articolate."
+      },
+      {
+        type: "highlight",
+        text: "Il consiglio della neuropsicomotricista: è il gioco del «fare finta», quindi sono ben accetti bambole, cibi in legno, tessuto o plastica, macchinine, ma anche teli, morbide spade, travestimenti. Sono necessari giocattoli/materiali che consentano al bambino di inscenare momenti di vita quotidiana e via via sempre più fantastica."
+      }
+    ]
+  },
+  {
+    id: 44,
+    slug: "sviluppo-motricita-9-18-mesi-prima-parte",
+    title: "Lo sviluppo della motricità dai 9 ai 12/18 mesi (prima parte)",
+    excerpt: "La posizione eretta, la «navigazione costiera» e l'imparare a cadere: le tappe che, tra i 9 e i 18 mesi, preparano il bambino al primo grande atto di indipendenza, il cammino.",
+    keywords: "sviluppo motricità, cammino bambino, deambulazione, navigazione costiera, 9-18 mesi",
+    category: "Neonato/Lattante",
+    author: "Dott.ssa Sonia Pallocca",
+    authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
+    authorAvatar: "SP",
+    authorColor: "#6E8C7A",
+    readTime: "4 min",
+    bgColor: "#4F6B5A",
+    content: [
+      {
+        type: "p",
+        text: "Indipendenza. «Libertà da una condizione di subordinazione», la lingua italiana la definisce così."
+      },
+      {
+        type: "p",
+        text: "Ma è possibile associare il concetto di «indipendenza» ad un bambino? Può un bimbo piccolo, soprattutto in una fascia d'età compresa tra i 9 e i 18 mesi, essere definito «indipendente»? Probabilmente la maggior parte di voi mamme dissentirebbe inorridita. I nostri bambini hanno bisogno di noi, della nostra presenza, del nostro riferimento. Certo, è vero, assolutamente vero. Ma se vi dicessi, care mamme, che nel quarto trimestre di vita dei vostri bimbi avete assistito o assisterete al primo grande atto di indipendenza? Se la curiosità è dalla vostra parte, continuate a leggere, perché vi porto alla scoperta di una grande conquista: il cammino!"
+      },
+      {
+        type: "p",
+        text: "Come illustrato nel precedente articolo (cfr. Il bambino 6-9 mesi: la ricchezza del movimento), il bambino dai 9 ai 12/18 mesi ha ormai strutturato, nel trimestre antecedente, diversi spostamenti orizzontali, che utilizza per muoversi per terra da solo, per esplorare il mondo che lo circonda ed apprendere in maniera progressivamente più autonoma sotto ogni punto di vista: cognitivo, sensoriale e motorio."
+      },
+      {
+        type: "p",
+        text: "Unitamente a ciò, anche i passaggi posturali vengono praticati ed esperiti con maggior frequenza, poiché consentono al bambino di variare la propria posizione, sperimentare le varie altezze e comprendere meglio le diverse distanze. Tutto questo permette al bambino di affacciarsi a nuove sensazioni, avere diverse percezioni di sé ed approcciarsi ai nuovi oggetti che l'ambiente gli propone, inventando così attività ludiche sempre nuove. Ma la prima vera nuova sfida di questa fase è il raggiungimento di una competenza sensomotoria importantissima: la posizione eretta. Tale postura è un vero e proprio appuntamento funzionale rilevante e gratificante sia per il bambino, che la sperimenta in prima persona «tirandosi su in piedi e rimettendosi nuovamente giù», sia per gli adulti che lo circondano."
+      },
+      {
+        type: "p",
+        text: "La posizione eretta è preludio del successivo spostamento in piedi con l'ausilio delle mani; entrambe queste competenze consentono l'aprirsi di nuovi ed incredibili orizzonti per il bambino."
+      },
+      {
+        type: "p",
+        text: "Difatti, con la conquista della postura eretta, il bambino si trova a poter sperimentare la cosiddetta «navigazione costiera», meglio nota come «cammino laterale», nel quale si avvale delle mani per sostenersi ad appoggi stabili presenti in casa (es. mobili bassi, divani). Proprio come per lo spostamento orizzontale, la statica eretta e la navigazione costiera sono fasi necessarie che il bambino deve attraversare al fine di allenare i movimenti che serviranno al cammino autonomo e per imparare a gestire le perdite di equilibrio e a cadere senza farsi male."
+      },
+      {
+        type: "highlight",
+        text: "La possibilità di caduta mette infatti il bambino nella condizione di «imparare a cadere» e a difendersi adeguatamente nel momento di perdita dell'equilibrio. Solitamente il bambino, in queste situazioni, tende a buttarsi giù sul sedere in quanto percepisce che sta perdendo l'equilibrio; progressivamente inizierà ad adottare le famose reazioni paracadute. Queste basi preparano il bambino a lasciare i sostegni e a «lanciarsi» con abilità verso la deambulazione autonoma."
+      }
+    ]
+  },
+  {
+    id: 45,
+    slug: "sviluppo-motricita-9-18-mesi-seconda-parte",
+    title: "Lo sviluppo della motricità dai 9 ai 12/18 mesi (seconda parte)",
+    excerpt: "Dalla marcia in quadrupedia alla deambulazione autonoma: come cambia lo schema del passo, e cosa fare (e non fare) in casa per accompagnare questa fase — niente girello, niente fretta.",
+    keywords: "deambulazione autonoma, primi passi bambino, girello, sviluppo psicomotorio, schema crociato",
+    category: "Neonato/Lattante",
+    author: "Dott.ssa Sonia Pallocca",
+    authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
+    authorAvatar: "SP",
+    authorColor: "#6E8C7A",
+    readTime: "4 min",
+    bgColor: "#4F6B5A",
+    content: [
+      {
+        type: "p",
+        text: "Locomozione: a partire dal 9°/10° mese, come illustrato nell'articolo precedente (cfr. Lo sviluppo della motricità dai 9 ai 12/18 mesi, prima parte), compare tendenzialmente la marcia in quadrupedia. Inizialmente gli arti superiori sono estesi e servono solo da supporto per il peso del tronco, mentre gli arti inferiori sono in flessione e non coordinati con gli arti superiori: strisciano quando le braccia vengono portate in avanti. Progressivamente gli arti si coordinano, fino a generare il famoso «schema crociato»."
+      },
+      {
+        type: "p",
+        text: "È intorno ai 12 mesi che il bambino inizia a deambulare con l'appoggio delle mani (navigazione costiera), ma già attorno al 13° mese si può assistere alla deambulazione con l'appoggio di una sola mano (appoggio psicologico)."
+      },
+      {
+        type: "p",
+        text: "La deambulazione autonoma, nella maggioranza dei casi, compare invece tra i 13/14 mesi: il range normotipico varia dai 9 ai 18 mesi e tendenzialmente dipende dal livello maturativo e dalle stimolazioni ambientali."
+      },
+      {
+        type: "p",
+        text: "Nella deambulazione, inizialmente lo schema motorio è caratterizzato da un intero appoggio della pianta del piede senza flesso-estensione, poi da appoggio sul tallone e solo successivamente da appoggio digitigrado (con le dita): il piede prima appoggia tutto, poi si flette, e nel momento del passo appoggiano solo le punte. Durante la prima deambulazione, il bambino solitamente compie più passi singoli, dopo ogni passo si ferma e spesso fa «passi falsi» (i piedi si muovono senza spostamento) per paura di perdere l'equilibrio. Gradualmente il baricentro si raddrizza e la base si stringe. Anche in questo caso lo schema crociato compare in maniera graduale: inizialmente gli arti superiori sono abdotti ed estesi per mantenere l'equilibrio, poi gli arti si flettono ma sono sempre abdotti (20-24 mesi). Solo successivamente la conquista del cammino diventa più fluida ed il bambino è realmente pronto a camminare nel mondo."
+      },
+      {
+        type: "h3",
+        text: "Un consiglio per le mamme: cosa fare"
+      },
+      {
+        type: "ul",
+        items: [
+          "Creare un ambiente sicuro: controllare i nuovi luoghi dove il bambino può arrivare o cadere (mobili, soprammobili, fili), avvalendosi anche di possibili precauzioni (es. paraspigoli).",
+          "Adeguare la casa al bambino: lo spazio domestico deve essere «su misura del bambino che si muove».",
+          "Predisporre elementi d'arredo per il bambino: è importante mettere a disposizione del bambino poltrone, tavolini bassi e stabili, e soprattutto, se possibile, il divano, con cuscini rialzati. Si tratta di «materiali» fondamentali per creare un piano di appoggio adeguato, che favorisca la navigazione costiera e che funga da base per posizionare i giocattoli, permettendo al bambino di giocare in piedi.",
+          "Utilizzare buone scarpe: le prime scarpe per il bambino vanno acquistate solo quando il bimbo sta in piedi per lunghi periodi. Le prime scarpe infatti servono quando il bambino cammina da solo (in particolare fuori casa); dovranno essere leggere di peso, offrire alla caviglia un buon sostegno, avere pianta larga e possibilmente una suola antiscivolo. È importante acquistarle di qualità e non sulla base della marca."
+        ]
+      },
+      {
+        type: "h3",
+        text: "Cosa non fare"
+      },
+      {
+        type: "ul",
+        items: [
+          "Accelerare i tempi è dannoso: il bambino è pronto a mantenere la posizione eretta quando questo avviene spontaneamente e in autonomia. Mettere il bambino in piedi prima del tempo e farlo camminare non lo stimola, anzi può rallentare queste acquisizioni, provocando uno sforzo eccessivo delle gambe.",
+          "Non utilizzare il girello: non aiuta ad acquisire una reale autonomia e favorisce movimenti e posizioni delle gambe inadeguate (es. possibile sviluppo piede ad equino). Inoltre il girello impedisce di imparare a gestire le perdite fisiologiche di equilibrio.",
+          "Evitare di camminare con l'adulto, soprattutto tenendolo dalle mani o «solo con un dito», posizionandoci dietro di lui. È controproducente per lo sviluppo dell'equilibrio e non permette al bambino di «imparare a cadere». Inoltre l'eccessivo supporto dell'adulto limita la progressiva conquista di indipendenza, che consente al bambino di separarsi naturalmente dall'adulto, permettendogli una corretta maturazione di autostima e sicurezza in sé stesso."
+        ]
+      }
+    ]
+  },
+  {
+    id: 46,
+    slug: "bambino-6-9-mesi-ricchezza-movimento-prima-parte",
+    title: "Il bambino 6-9 mesi: la ricchezza del movimento (Parte prima)",
+    excerpt: "Postura seduta, presa radio-palmare e pointing gestuale: cosa succede nello sviluppo motorio del bambino tra i 6 e i 9 mesi, e perché è tra i trimestri più significativi della crescita.",
+    keywords: "sviluppo motorio 6-9 mesi, postura seduta bambino, presa a pinza, pointing gestuale, motricità fine",
+    category: "Neonato/Lattante",
+    author: "Dott.ssa Sonia Pallocca",
+    authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
+    authorAvatar: "SP",
+    authorColor: "#6E8C7A",
+    readTime: "4 min",
+    bgColor: "#4F6B5A",
+    content: [
+      {
+        type: "p",
+        text: "Scoperta. Avere un bambino porta, come ben saprete voi mamme, alla continua e incessante scoperta di novità: emergono nuove competenze, si affacciano nuovi progressi, si innestano nuove abilità… insomma, ogni mese non è mai uguale a quello precedente ed il «nuovo» è sempre alla porta! Così, se il secondo trimestre di vita del vostro bimbo è stato caratterizzato da un grande cambiamento che ha visto sopperire i riflessi a favore di una motricità più consapevole, il periodo successivo rende quest'ultima più variegata, articolata e sempre più finalizzata al piacere e all'esplorazione."
+      },
+      {
+        type: "p",
+        text: "Se siete interessate a scoprire tutte le novità motorie che lo sviluppo psicomotorio del vostro bimbo riserva, continuate nella lettura: vi accompagno nella «ricchezza del movimento»."
+      },
+      {
+        type: "h2",
+        text: "Lo sviluppo della motricità dai 6 ai 9 mesi"
+      },
+      {
+        type: "p",
+        text: "A livello motorio, l'arco evolutivo dai 6 ai 9 mesi risulta tra i più importanti e significativi per lo sviluppo del bambino: i passaggi posturali emersi nei mesi precedenti si consolidano e compaiono nuove ed importanti modalità di spostamento, che permettono al bambino, per la prima volta, di esplorare autonomamente lo spazio."
+      },
+      {
+        type: "p",
+        text: "Con l'avvento di questo trimestre il bambino acquisisce la capacità di modificare in maniera del tutto autonoma la propria postura, rotola da ambo le parti e da supino si dimostra in grado di raggiungere la postura seduta, portandosi gradualmente in quadrupedia. Contemporaneamente a tale acquisizione, si assiste alla progressiva maturazione delle cosiddette «reazioni paracadute»: risposte motorie di difesa che il bambino mette in atto per ripararsi da perturbazioni e cadute utilizzando gli arti superiori. Le prime a svilupparsi, attorno ai 6/7 mesi, sono le reazioni anteriori, seguite tra i 7 e gli 8 mesi dalle reazioni laterali e infine dalle reazioni posteriori, che compaiono dai 9/10 mesi in avanti."
+      },
+      {
+        type: "p",
+        text: "Postura seduta: a partire dal 6° mese la posizione seduta sarà caratterizzata da un'evidente cifosi: il busto infatti sarà flesso in avanti, gli arti inferiori flessi e quelli superiori appoggiati anteriormente tra le gambe. Inizialmente braccia e mani saranno ancora impegnati in una funzione di sostegno, solo successivamente il bambino sarà in grado, per brevi momenti, di svincolarli, prima uno e poi entrambi. Quest'ultimo passaggio gli permetterà di avere libere le mani e quindi di agire direttamente e in prima persona sulla realtà, riuscendo contemporaneamente ad osservare in modo più ravvicinato l'ambiente circostante. Il raggiungimento della postura seduta tra i 6 e gli 11 mesi è sinonimo di buona maturazione e di un adeguato processo di sviluppo."
+      },
+      {
+        type: "p",
+        text: "Il raggiungimento della postura seduta dà nuova disponibilità alle mani, gradualmente più libere dall'impegno di appoggio. Questo consente un'ulteriore maturazione della manipolazione e della motricità fine distale. Per il bambino sarà ora possibile afferrare oggetti di dimensioni più piccole, adattando la propria presa in modo funzionale: si assisterà alla comparsa della presa radio-palmare e a pinza superiore."
+      },
+      {
+        type: "p",
+        text: "Le mani diventano un vero e proprio strumento di conoscenza, percezione e comunicazione. Infatti, l'emergere della singolarizzazione delle dita non solo permetterà al bambino di infilare le dita in piccole cavità, come fori di scatole e materiali vari, ma anche di indicare (pointing gestuale), in maniera sempre più precisa, attraverso l'utilizzo dell'indice, oggetti e/o persone desiderati e a lui distanti, esprimendo così un bisogno materiale o emotivo. Nuovi schemi motori, come scuotere, sbattere, mettere «dentro», si svilupperanno dall'imitazione di azioni compiute dall'adulto o dai pari in contesti educativi come l'asilo nido."
+      },
+      {
+        type: "highlight",
+        text: "Un consiglio per le mamme. Cosa fare: proporre oggetti «normali», meglio se legati al quotidiano, sicuri e di materiali naturali, ad esempio il «cestino dei tesori». Cosa non fare: limitare l'uso di giochi meccanici, che tendono a non stimolare né potenziare abilità quali manipolazione, coordinazione occhio-mano, afferramento; evitare di proporre troppi oggetti contemporaneamente, in questo modo il bambino potrebbe essere sovrastimolato, non dedicando tempo ed attenzione necessari alla sperimentazione e all'esplorazione dell'oggetto prescelto."
+      }
+    ]
+  },
+  {
+    id: 47,
+    slug: "bambino-6-9-mesi-ricchezza-movimento-seconda-parte",
+    title: "Il bambino 6-9 mesi: la ricchezza del movimento (Parte seconda)",
+    excerpt: "Strisciamento, pivoting, shuffling e gattonamento: le diverse forme di spostamento orizzontale, e perché box, girello e jumper andrebbero evitati in questa fase dello sviluppo.",
+    keywords: "gattonamento, spostamento orizzontale bambino, girello, box neonato, sviluppo motorio 6-9 mesi",
+    category: "Neonato/Lattante",
+    author: "Dott.ssa Sonia Pallocca",
+    authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
+    authorAvatar: "SP",
+    authorColor: "#6E8C7A",
+    readTime: "4 min",
+    bgColor: "#4F6B5A",
+    content: [
+      {
+        type: "p",
+        text: "Le conquiste però non sono finite: il bambino costruisce e acquisisce anche forme di spostamento orizzontali funzionali e variate, come lo strisciamento o lo spostamento sul sedere in posizione seduta, fino al gattonamento. Queste nuove competenze hanno un ruolo significativo poiché corrispondono ad un maggior piacere, da parte del bambino, ad esplorare e conoscere. A sua volta, la consapevolezza di poter padroneggiare le cose e l'ambiente costituisce un costante incentivo a muoversi e a sperimentare nuovi spostamenti."
+      },
+      {
+        type: "p",
+        text: "Strisciamento: permette sicuramente maggior controllo rispetto al rotolo, oltre che una maggior possibilità di agire sulla realtà circostante. Tra le varie modalità di spostamento orizzontale è però quella più faticosa; ciò nonostante alcuni bambini diventano molto abili."
+      },
+      {
+        type: "p",
+        text: "Pivoting o spostamento ad orologio: consiste nella capacità del bambino, in posizione prona, di ruotare in entrambe le direzioni, facendo perno con una parte del corpo, tendenzialmente un braccio."
+      },
+      {
+        type: "p",
+        text: "Shuffling: noto anche come «spostamento su sedere», è una modalità non particolarmente diffusa ma, se presente, tendenzialmente duratura, poiché vantaggiosa rispetto alle altre. Lo sguardo è già in una posizione ottimale, le mani libere di afferrare, esplorare e trasferire gli oggetti; non vi è timore dell'instabilità e delle cadute, poiché il bambino già domina la posizione seduta."
+      },
+      {
+        type: "p",
+        text: "Andatura quadrupedale o gattonamento: tappa non obbligatoria per l'accesso al cammino, ma solitamente molto diffusa e di rilevante importanza ai fini della coordinazione motoria. Compare generalmente al termine del terzo trimestre, attorno agli 8/9 mesi. Il bambino che comincia a gattonare avanza con le mani e con le ginocchia (gli arti inferiori sono in flessione) che fungono da appoggio. Questo tipo di andatura può essere: simmetrica omolaterale, se arto superiore ed inferiore di uno stesso emilato si muovono contemporaneamente, oppure asimmetrica crociata, se arto superiore ed inferiore di emilati diversi si muovono assieme, predisponendo così il futuro schema crociato del cammino."
+      },
+      {
+        type: "h3",
+        text: "Un consiglio per le mamme: cosa fare"
+      },
+      {
+        type: "ul",
+        items: [
+          "Creare una stanza «box», o ancora meglio «una stanza a misura di bambino». È importante infatti che riusciate ad individuare uno spazio, all'interno dell'ambiente domestico, che permetta al bambino di muoversi liberamente, di sperimentare i diversi passaggi posturali e le varie forme di spostamento senza grossi pericoli.",
+          "Utilizzare il tappeto o la coperta per favorire nel vostro bimbo la sperimentazione posturale e spaziale. È importante che il bambino, a casa, durante il «tempo libero», stia a terra per scoprire il movimento e giocare. È infatti consigliato porre sul tappeto o la coperta materiali attraenti, adatti alla manipolazione dinamica e all'esplorazione orale, magari posizionandoli in punti differenti, così da invitare il bambino a muoversi per raggiungerli."
+        ]
+      },
+      {
+        type: "h3",
+        text: "Cosa non fare"
+      },
+      {
+        type: "p",
+        text: "Evitare, in questa fase, l'utilizzo della «palestrina» con i giocattoli appesi: il vostro bambino necessita di spazio, e la palestrina, idonea per i primi mesi, risulta adesso troppo riduttiva, limitando il bambino e costringendolo a stare troppo fermo. Disincentivare l'utilizzo di strumenti come box, girelli e jumper."
+      },
+      {
+        type: "highlight",
+        text: "Il box è uno spazio troppo piccolo, non consente al bambino di muoversi e lo isola dall'ambiente, e non permetterebbe a voi mamme o alle figure che interagiscono con il piccolo di entrare e giocare con lui. Il girello, così come il jumper (imbracatura attaccata ad un supporto elastico), sono attrezzi che non rispettano né favoriscono lo sviluppo motorio del bambino. Possono infatti ritardare la deambulazione autonoma o avere ripercussioni negative sulla motricità, ad esempio ostacolando l'emergere delle reazioni di equilibrio o del saper cadere, ma stimolando comportamenti posturo-motori scorretti, come l'irrigidimento sulle punte dei piedi (piede in equino). Non sollecitare la postura eretta prima del tempo: il bambino sarà pronto per stare in piedi nel momento in cui si alzerà autonomamente."
+      }
+    ]
+  },
+  {
+    id: 48,
+    slug: "bambino-3-6-mesi-prima-rivoluzione-motoria-prima-parte",
+    title: "Il bambino 3-6 mesi: «la prima rivoluzione motoria» (prima parte)",
+    excerpt: "Dal terzo mese in poi, i movimenti involontari lasciano spazio a un controllo muscolare sempre più intenzionale: cosa succede nel corpo del bambino, e cosa fare (o evitare) per accompagnarlo.",
+    keywords: "sviluppo motorio 3-6 mesi, controllo del capo, posizione prona, sviluppo neonato, motricità primi mesi",
+    category: "Neonato/Lattante",
+    author: "Dott.ssa Sonia Pallocca",
+    authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
+    authorAvatar: "SP",
+    authorColor: "#6E8C7A",
+    readTime: "3 min",
+    bgColor: "#4F6B5A",
+    content: [
+      {
+        type: "p",
+        text: "«Cambiamento»: sicuramente è la parola chiave che ci accompagna quando si ha un bimbo piccolo. Come ben sapete voi mamme, o come presto vi renderete conto, i primi mesi di vita del bambino sono caratterizzati da numerosi e incredibili cambiamenti: il giorno prima resta volentieri a farsi cullare tra le nostre braccia e il giorno dopo ci sembra già capace di afferrare ogni oggetto disponibile per portarselo alla bocca o di stare seduto con atteggiamento tentennante, ma fiero."
+      },
+      {
+        type: "p",
+        text: "Si tratta di un vero e proprio «processo maturativo» che avviene per «tappe evolutive» e che permette al bambino di acquisire competenze ed abilità motorie, cognitive, relazionali e comunicative. I tempi e le modalità del processo di crescita variano da bambino a bambino, ciò nonostante è possibile individuare una sequenza fisiologica e cronologica di sviluppo."
+      },
+      {
+        type: "h2",
+        text: "Lo sviluppo della motricità — terzo mese"
+      },
+      {
+        type: "p",
+        text: "Con l'avvento del terzo mese, movimenti sempre più intenzionali e dotati di maggior controllo muscolare sostituiscono progressivamente il repertorio di riflessi e di movimenti involontari che hanno caratterizzato le prime settimane di vita del bambino. Il piccolo adesso è in grado di sostenere il capo senza lasciarlo ricadere all'indietro mentre viene sollevato."
+      },
+      {
+        type: "p",
+        text: "Da prono (sdraiato a pancia in giù), appoggiato sopra ad un piano (es. il lettone di mamma e papà), inizia a raddrizzare la testa per guardarsi attorno, utilizzando gli arti superiori in flessione come appoggio."
+      },
+      {
+        type: "p",
+        text: "Messo in posizione supina (sdraiato a pancia in su) inizia ad agitare le braccia nel tentativo, ancora scoordinato, di afferrare gli oggetti che gli si pongono davanti."
+      },
+      {
+        type: "h3",
+        text: "Qualche consiglio per le mamme: cosa fare"
+      },
+      {
+        type: "ul",
+        items: [
+          "Favorire frequentemente la posizione prona e la posizione verticale tra le braccia della mamma per stimolare il controllo del tronco.",
+          "Attirare l'attenzione del bambino, parlargli, canticchiare canzoncine, ponendosi davanti a lui mentre è in posizione prona per incentivarlo a raddrizzare e controllare il capo.",
+          "Utilizzare sdraiette (con moderazione) e passeggino per il trasporto esterno.",
+          "Appendere giostrine sopra la culla per facilitare e stimolare i movimenti delle braccia e la loro graduale coordinazione."
+        ]
+      },
+      {
+        type: "highlight",
+        text: "Cosa non fare: eccedere con l'utilizzo di sdraiette e supporti simili, perché potrebbero rallentare lo sviluppo della motricità globale; posizionare troppi sonagli e carillon sopra il lettino — il bambino non deve essere sovrastimolato."
+      }
+    ]
+  },
+  {
+    id: 49,
+    slug: "bambino-3-6-mesi-prima-rivoluzione-motoria-seconda-parte",
+    title: "Il bambino 3-6 mesi: «la prima rivoluzione motoria» (seconda parte)",
+    excerpt: "Dal quarto al sesto mese: la scoperta di mani e piedi, il rotolo, lo striscio e la conquista della posizione seduta, con i consigli pratici su cosa proporre e cosa evitare.",
+    keywords: "sviluppo motorio 4-6 mesi, posizione seduta bambino, motricità fine, sviluppo neonato",
+    category: "Neonato/Lattante",
+    author: "Dott.ssa Sonia Pallocca",
+    authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
+    authorAvatar: "SP",
+    authorColor: "#6E8C7A",
+    readTime: "4 min",
+    bgColor: "#4F6B5A",
+    content: [
+      {
+        type: "h3",
+        text: "Lo sviluppo della motricità — quarto mese"
+      },
+      {
+        type: "p",
+        text: "Attorno al quarto mese, il bambino mantiene il capo sempre più eretto, e questo gli permette di voltarsi con maggior agilità per inseguire gli spostamenti della mamma all'interno della stanza o per scoprire la fonte di suoni e voci. I movimenti delle braccia iniziano ad essere più controllati e finalizzati. È il momento della scoperta di mani e piedi! Il bambino apre e chiude le mani, le agita, le osserva e le porta alla bocca, e lo stesso avviene con i piedi. Anche gli oggetti risvegliano il suo interesse, e così si sforza di toccarli, afferrarli e «assaggiarli»: le mani diventano anche veri e propri strumenti che il bambino prova ad utilizzare in maniera più consapevole per afferrare, avvicinare e portare alla bocca giochi e oggetti vari. La presa è ancora rudimentale, ma emerge una primitiva bimanualità."
+      },
+      {
+        type: "h3",
+        text: "Qualche consiglio per le mamme: cosa fare"
+      },
+      {
+        type: "ul",
+        items: [
+          "Nel momento di relazione con il vostro bimbo, è auspicabile che giochiate anche voi con le sue manine e i suoi piedini, baciandoli, fingendo di mangiarli: questi gesti, oltre a divertirlo e ad intensificare il vostro legame, contribuiscono ad aiutarlo nella percezione di queste sue «nuove» parti di sé.",
+          "Proporre al bambino oggetti e giochi da afferrare e «assaggiare» né troppo grandi né troppo piccoli, tendenzialmente morbidi e non appuntiti.",
+          "Utilizzare sonagli, giochi sonori o ancor meglio la propria voce per far sì che il bambino ne ricerchi la fonte ruotando il capo."
+        ]
+      },
+      {
+        type: "p",
+        text: "Cosa non fare: impedire al vostro bambino di portare oggetti alla bocca. Ricordatevi che in questa fase «assaggiare» è la modalità con la quale i bimbi esplorano e scoprono il mondo!"
+      },
+      {
+        type: "h3",
+        text: "Lo sviluppo della motricità — quinto mese"
+      },
+      {
+        type: "p",
+        text: "Nella fase tra i 5 ed i 6 mesi il bambino è in grado di modificare la propria posizione sdraiata, solitamente motivato dall'interesse verso oggetti che vorrebbe afferrare e che si trovano posti lateralmente, e questo lo porta ad acquisire l'abilità del «rotolo». Compare ora anche «lo striscio»: il bambino, prono, incuriosito da giochi e materiali che gli risultano lontani da raggiungere, tende a strisciare, inizialmente grazie alla spinta delle sole braccia e successivamente integrando anche la coordinazione delle gambe. Anche la motricità fine si arricchisce: gli oggetti tra le mani del bambino non vengono più solo condotti alla bocca, ma vengono manipolati e passati da una mano all'altra. In questo periodo l'importante maturazione dell'apparato muscolare consente al bambino di mantenere schiena e busto sempre più eretti, tanto da permettergli la posizione seduta, e ciò porta ad una vera e propria svolta, poiché il bambino può maneggiare gli oggetti con maggior facilità e comodità. Inizialmente le braccia vengono utilizzate come appoggio statico se il bimbo risulta ancora incerto e mostra timore di cadere, mentre successivamente il piccolo sarà in grado di stare seduto anche senza questo tipo di supporto."
+      },
+      {
+        type: "highlight",
+        text: "Qualche consiglio per le mamme. Cosa fare: lasciare spesso il bambino in posizione orizzontale (prono, sdraiato sulla schiena o su un fianco); utilizzare tappeti morbidi, ma non molli, o materassini in gommapiuma ricoperti; proporre giochini e materiali stimolanti che il bambino desideri raggiungere, afferrare o manipolare. Cosa non fare: evitare di forzare il raggiungimento di una determinata posizione da parte del bambino, ma aspettare con pazienza e garantire condizioni stimolanti e idonee al suo sviluppo (es. evitare l'utilizzo di seggioline che lo mantengono seduto prima del tempo, perché potrebbero sovraccaricare la parte inferiore della colonna vertebrale, frenando lo sviluppo della muscolatura di braccia, dorso e addome); non sovraccaricare l'ambiente di stimoli — i materiali devono essere pochi, ma desiderabili e adeguati."
+      }
+    ]
+  },
+  {
+    id: 50,
+    slug: "neonato-riflessi-primitivi",
+    title: "Il neonato e i riflessi primitivi: cosa sono e perché sono importanti",
+    excerpt: "Dal riflesso della marcia automatica al riflesso di Moro, dal grasping alla suzione: come riconoscere i principali riflessi neonatali, e perché la loro osservazione aiuta a prevenire fatiche nello sviluppo.",
+    keywords: "riflessi neonatali, riflesso di Moro, riflesso di suzione, marcia automatica, grasping, sviluppo neonato",
+    category: "Neonato/Lattante",
+    author: "Dott.ssa Sonia Pallocca",
+    authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
+    authorAvatar: "SP",
+    authorColor: "#6E8C7A",
+    readTime: "4 min",
+    bgColor: "#4F6B5A",
+    content: [
+      {
+        type: "p",
+        text: "L'arrivo di un bambino significa per una mamma, soprattutto durante i primi mesi di vita, imparare ad approcciarsi ad un universo nuovo, sconosciuto, in cui spesso falsi miti e false credenze, tramandateci da madri e nonne, influenzano il modo in cui osserviamo e ci relazioniamo con il nostro piccolo. Quante volte vi sarà capitato o vi capiterà di sentire frasi del tipo: «Così piccolo e già muove i primi passi!» oppure «Guarda come mi stringe il dito, non vuole che mi allontani!»? Ecco, si tratta di espressioni tipiche, comuni, ma non in grado di spiegare realmente cosa c'è «dietro» ai caratteristici movimenti del neonato, come la «famosa camminata» che fa gioire la nonna o la «tenera stretta del dito» ad un parente."
+      },
+      {
+        type: "p",
+        text: "Se siete curiose, care mamme, scopriamolo insieme…"
+      },
+      {
+        type: "h2",
+        text: "I riflessi: cosa sono?"
+      },
+      {
+        type: "p",
+        text: "I riflessi sono la prima esperienza motoria del bambino. Si tratta di vere e proprie risposte motorie automatiche che si manifestano in risposta ad uno o più stimoli sensoriali o motori. I riflessi governano le abilità motorie e tutte quelle funzioni che regolano il corpo del bambino, comprese quelle automatiche e fisiologiche (es. respirazione, pressione sanguigna). Alcuni riflessi, primitivi, sono presenti già in epoca fetale, mentre altri compaiono al momento della nascita o nel periodo immediatamente successivo."
+      },
+      {
+        type: "h2",
+        text: "Quali sono i principali riflessi neonatali?"
+      },
+      {
+        type: "p",
+        text: "Riflesso della marcia automatica. Si presenta dalla nascita e scompare al 2°-3° mese. Si manifesta sostenendo il bambino per il tronco, in posizione verticale, in modo che la pianta del piede assuma un buon contatto con il piano d'appoggio (es. tavolo, letto). Tale postura, oltre a provocare una leggera inclinazione in avanti del tronco, genera un raddrizzamento degli arti inferiori seguito dalla loro flesso-estensione, realizzando così la «camminata»: la marcia automatica."
+      },
+      {
+        type: "p",
+        text: "Riflesso di prensione della mano o riflesso di grasping. Dalla nascita fino al 10° mese. Appoggiando il nostro dito sul palmo della mano del neonato, quest'ultimo lo afferra immediatamente, senza riuscire a rilasciarlo. Questo movimento riflesso sarà successivamente integrato ed utilizzato nella costruzione dello schema motorio mano-bocca, più finalizzato ed intenzionale. Sarà così che il bambino non stringerà più la nostra mano in maniera istintiva, ma con lo scopo di condurre qualcosa alla bocca con la mano."
+      },
+      {
+        type: "p",
+        text: "Riflesso di Moro. Dalla 28ª settimana di gravidanza al 6°/12° mese d'età. Noto come «riflesso dell'abbraccio»: il bambino apre le braccia e allunga le gambe come se volesse aggrapparsi all'adulto. Si manifesta come una reazione improvvisa e di soprassalto, generata da suoni o rumori particolarmente forti e inaspettati oppure da un movimento brusco ed improvviso. Spesso è seguita da un pianto. Si ritiene che il riflesso di Moro abbia lo scopo primario di reagire alla percezione di un pericolo o di un distacco improvviso dalla madre, nel tentativo di mantenere quest'ultima vicina."
+      },
+      {
+        type: "highlight",
+        text: "Riflesso di cercamento (rooting reflex) e riflesso di suzione. Il primo scompare intorno al 3° mese, mentre il secondo tende a svanire verso l'8°/9° mese e fino al 24° può ancora essere evocato nel sonno. Sfiorando un angolo della bocca del neonato, si ottiene da quest'ultimo una rotazione del capo in direzione dello stimolo (riflesso di cercamento). In seguito, con la lingua ritirata verso l'interno, le labbra si richiudono attorno al «focus d'interesse» (es. il capezzolo della mamma, la tettarella, il ciuccio). Nel momento in cui il «focus» viene a contatto con il palato, si innesca la suzione. È il concatenarsi di questi riflessi, assieme al riflesso di deglutizione, che consente al neonato di alimentarsi durante i primi mesi di vita."
+      },
+      {
+        type: "h2",
+        text: "Perché i riflessi sono importanti?"
+      },
+      {
+        type: "p",
+        text: "Perché rappresentano l'inizio di un naturale ed al tempo stesso complesso ed articolato processo di sviluppo."
+      },
+      {
+        type: "p",
+        text: "Infatti, nel corso dei mesi, la crescita del bambino porta con sé numerosi cambiamenti che coinvolgono anche la progressiva maturazione ed integrazione dei riflessi neonatali con le nuove competenze ed esperienze. Questo favorisce l'emergere di comportamenti motori sempre più complessi, articolati e finalizzati a vere e proprie azioni, come afferrare un sonaglio o gattonare per raggiungere la mamma. In questo senso i riflessi si configurano come possibili segnali di uno sviluppo sano o anomalo, e la loro osservazione e riconoscimento può facilitare la prevenzione di eventuali fatiche in età successiva."
+      }
+    ]
+  },
 ];
