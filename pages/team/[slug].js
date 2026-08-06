@@ -47,9 +47,7 @@ export default function TeamMember({ member, memberPosts }) {
       items: memberPosts.filter((p) => p.category === category),
     }))
     .filter((g) => g.items.length > 0);
-  const [expandedCategory, setExpandedCategory] = useState(
-    articleGroups[0]?.category ?? null
-  );
+  const [expandedCategory, setExpandedCategory] = useState(null);
 
   if (!member) return null;
 
@@ -239,7 +237,9 @@ export default function TeamMember({ member, memberPosts }) {
                             }
                           >
                             <span className="member-article-group-title">{category}</span>
-                            <span className="member-article-group-count">{items.length}</span>
+                            <span className="member-article-group-count">
+                              {items.length} {items.length === 1 ? t.articleCountOne : t.articleCountOther}
+                            </span>
                             <span
                               className={`member-article-group-chevron${isExpanded ? " is-open" : ""}`}
                               aria-hidden="true"

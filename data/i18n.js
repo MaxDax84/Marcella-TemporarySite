@@ -74,6 +74,8 @@ export const ui = {
       sectionSpecialties: "Aree di specializzazione",
       sectionEducation: "Formazione e Abilitazioni",
       sectionArticles: "Articoli",
+      articleCountOne: "articolo pubblicato",
+      articleCountOther: "articoli pubblicati",
     },
     blog: {
       pageLabel: "Risorse",
@@ -200,6 +202,8 @@ export const ui = {
       sectionSpecialties: "Areas of Specialization",
       sectionEducation: "Education and Qualifications",
       sectionArticles: "Articles",
+      articleCountOne: "article published",
+      articleCountOther: "articles published",
     },
     blog: {
       pageLabel: "Resources",
