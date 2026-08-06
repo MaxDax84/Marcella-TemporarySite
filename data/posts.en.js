@@ -5,7 +5,7 @@ export const postTranslations = {
       "How to navigate nurseries, micro-nurseries, and supplementary services to find the right place for your child. A practical guide for informed parents.",
     keywords:
       "nursery school, daycare, settling-in, early childhood, infant nursery, spring sections, education 0-3 years, choosing a nursery, childcare services",
-    category: "Early Childhood",
+    category: "Early Childhood (1-3 years)",
     authorRole: "Early Childhood Educator",
     content: [
       {
@@ -217,7 +217,7 @@ export const postTranslations = {
       "The first interview with the nursery educators is a moment of listening and mutual trust: what to share, what questions to ask, and why it's the start of an educational journey shared with your family.",
     keywords:
       "nursery school, first nursery interview, meeting with educators, settling-in, early childhood, enrolling in nursery, service charter, parents nursery, trust educators",
-    category: "Early Childhood",
+    category: "Early Childhood (1-3 years)",
     authorRole: "Early Childhood Educator",
     content: [
       {
@@ -325,7 +325,7 @@ export const postTranslations = {
       "What it means to be a «good enough mother» from a psychological standpoint: the role of mutual recognition between mother and child, and how the quality of maternal presence shapes the child's growth.",
     keywords:
       "maternal presence, mother-child relationship, good mother, perinatal psychology, maternal identity, psychotherapy, recognizing the child, mother-baby bond",
-    category: "Newborn/Infant",
+    category: "Newborn/Infant (0-1 years)",
     authorRole: "Psychologist and Psychotherapist",
     content: [
       {

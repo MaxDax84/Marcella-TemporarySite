@@ -5,7 +5,7 @@ export const posts = [
     title: "Scegliere il servizio educativo per la prima infanzia",
     excerpt: "Come orientarsi tra nidi, micronidi e servizi integrativi per trovare il posto giusto per il proprio figlio. Una guida pratica per genitori consapevoli.",
     keywords: "asilo nido, micronido, ambientamento, prima infanzia, nido d'infanzia, sezioni primavera, educazione 0-3 anni, scegliere asilo nido, servizi educativi bambini",
-    category: "Prima infanzia",
+    category: "Prima infanzia (1-3 anni)",
     author: "Dott.ssa Chiara Mauri",
     authorSlug: "chiara-mauri",
     authorRole: "Educatrice per la Prima Infanzia",
@@ -242,7 +242,7 @@ export const posts = [
     title: "Il primo colloquio al nido: un passo fondamentale per una nuova avventura",
     excerpt: "Il primo colloquio con le educatrici è un momento di ascolto e fiducia reciproca: ecco cosa condividere, quali domande fare e perché è l'inizio di un percorso educativo condiviso con la vostra famiglia.",
     keywords: "asilo nido, primo colloquio nido, colloquio educatrici, ambientamento nido, prima infanzia, inserimento asilo nido, carta dei servizi, genitori nido, fiducia educatrici",
-    category: "Prima infanzia",
+    category: "Prima infanzia (1-3 anni)",
     author: "Dott.ssa Chiara Mauri",
     authorSlug: "chiara-mauri",
     authorRole: "Educatrice per la Prima Infanzia",
@@ -362,7 +362,7 @@ export const posts = [
     title: "La qualità della presenza materna",
     excerpt: "Cosa significa essere una «buona madre» dal punto di vista psicologico: il ruolo del riconoscimento reciproco tra madre e figlio e come la qualità della presenza materna influisce sulla crescita del bambino.",
     keywords: "presenza materna, relazione madre-figlio, buona madre, psicologia perinatale, identità materna, psicoterapia, riconoscimento del bambino, relazione madre bambino",
-    category: "Neonato/Lattante",
+    category: "Neonato/Lattante (0-1 anni)",
     author: "Dott.ssa Marcella Marcone",
     authorSlug: "marcella-marcone",
     authorRole: "Psicologa e Psicoterapeuta",
@@ -2294,7 +2294,7 @@ export const posts = [
     title: "Giochi e giocattoli, un mondo a misura di bambino (prima parte)",
     excerpt: "La differenza tra gioco e giocattolo, e le prime due tipologie di gioco — tonico emozionale e sensomotorio — con i consigli della neuropsicomotricista su cosa proporre nei primi mesi di vita.",
     keywords: "gioco bambino, giocattoli neonato, gioco tonico emozionale, sviluppo del gioco, neuropsicomotricità",
-    category: "Neonato/Lattante",
+    category: "Neonato/Lattante (0-1 anni)",
     author: "Dott.ssa Sonia Pallocca",
     authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
     authorAvatar: "SP",
@@ -2358,7 +2358,7 @@ export const posts = [
     title: "Giochi e giocattoli, un mondo a misura di bambino (seconda parte)",
     excerpt: "Gioco sensomotorio, protosimbolico e simbolico: come si sviluppano dai 6 ai 36 mesi, con i consigli pratici della neuropsicomotricista su materiali e attività da proporre in ogni fase.",
     keywords: "gioco sensomotorio, gioco simbolico, gioco protosimbolico, giocattoli bambino, sviluppo del gioco",
-    category: "Neonato/Lattante",
+    category: "Neonato/Lattante (0-1 anni)",
     author: "Dott.ssa Sonia Pallocca",
     authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
     authorAvatar: "SP",
@@ -2410,7 +2410,7 @@ export const posts = [
     title: "Lo sviluppo della motricità dai 9 ai 12/18 mesi (prima parte)",
     excerpt: "La posizione eretta, la «navigazione costiera» e l'imparare a cadere: le tappe che, tra i 9 e i 18 mesi, preparano il bambino al primo grande atto di indipendenza, il cammino.",
     keywords: "sviluppo motricità, cammino bambino, deambulazione, navigazione costiera, 9-18 mesi",
-    category: "Neonato/Lattante",
+    category: "Neonato/Lattante (0-1 anni)",
     author: "Dott.ssa Sonia Pallocca",
     authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
     authorAvatar: "SP",
@@ -2454,7 +2454,7 @@ export const posts = [
     title: "Lo sviluppo della motricità dai 9 ai 12/18 mesi (seconda parte)",
     excerpt: "Dalla marcia in quadrupedia alla deambulazione autonoma: come cambia lo schema del passo, e cosa fare (e non fare) in casa per accompagnare questa fase — niente girello, niente fretta.",
     keywords: "deambulazione autonoma, primi passi bambino, girello, sviluppo psicomotorio, schema crociato",
-    category: "Neonato/Lattante",
+    category: "Neonato/Lattante (0-1 anni)",
     author: "Dott.ssa Sonia Pallocca",
     authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
     authorAvatar: "SP",
@@ -2511,7 +2511,7 @@ export const posts = [
     title: "Il bambino 6-9 mesi: la ricchezza del movimento (Parte prima)",
     excerpt: "Postura seduta, presa radio-palmare e pointing gestuale: cosa succede nello sviluppo motorio del bambino tra i 6 e i 9 mesi, e perché è tra i trimestri più significativi della crescita.",
     keywords: "sviluppo motorio 6-9 mesi, postura seduta bambino, presa a pinza, pointing gestuale, motricità fine",
-    category: "Neonato/Lattante",
+    category: "Neonato/Lattante (0-1 anni)",
     author: "Dott.ssa Sonia Pallocca",
     authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
     authorAvatar: "SP",
@@ -2563,7 +2563,7 @@ export const posts = [
     title: "Il bambino 6-9 mesi: la ricchezza del movimento (Parte seconda)",
     excerpt: "Strisciamento, pivoting, shuffling e gattonamento: le diverse forme di spostamento orizzontale, e perché box, girello e jumper andrebbero evitati in questa fase dello sviluppo.",
     keywords: "gattonamento, spostamento orizzontale bambino, girello, box neonato, sviluppo motorio 6-9 mesi",
-    category: "Neonato/Lattante",
+    category: "Neonato/Lattante (0-1 anni)",
     author: "Dott.ssa Sonia Pallocca",
     authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
     authorAvatar: "SP",
@@ -2622,7 +2622,7 @@ export const posts = [
     title: "Il bambino 3-6 mesi: «la prima rivoluzione motoria» (prima parte)",
     excerpt: "Dal terzo mese in poi, i movimenti involontari lasciano spazio a un controllo muscolare sempre più intenzionale: cosa succede nel corpo del bambino, e cosa fare (o evitare) per accompagnarlo.",
     keywords: "sviluppo motorio 3-6 mesi, controllo del capo, posizione prona, sviluppo neonato, motricità primi mesi",
-    category: "Neonato/Lattante",
+    category: "Neonato/Lattante (0-1 anni)",
     author: "Dott.ssa Sonia Pallocca",
     authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
     authorAvatar: "SP",
@@ -2679,7 +2679,7 @@ export const posts = [
     title: "Il bambino 3-6 mesi: «la prima rivoluzione motoria» (seconda parte)",
     excerpt: "Dal quarto al sesto mese: la scoperta di mani e piedi, il rotolo, lo striscio e la conquista della posizione seduta, con i consigli pratici su cosa proporre e cosa evitare.",
     keywords: "sviluppo motorio 4-6 mesi, posizione seduta bambino, motricità fine, sviluppo neonato",
-    category: "Neonato/Lattante",
+    category: "Neonato/Lattante (0-1 anni)",
     author: "Dott.ssa Sonia Pallocca",
     authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
     authorAvatar: "SP",
@@ -2731,7 +2731,7 @@ export const posts = [
     title: "Il neonato e i riflessi primitivi: cosa sono e perché sono importanti",
     excerpt: "Dal riflesso della marcia automatica al riflesso di Moro, dal grasping alla suzione: come riconoscere i principali riflessi neonatali, e perché la loro osservazione aiuta a prevenire fatiche nello sviluppo.",
     keywords: "riflessi neonatali, riflesso di Moro, riflesso di suzione, marcia automatica, grasping, sviluppo neonato",
-    category: "Neonato/Lattante",
+    category: "Neonato/Lattante (0-1 anni)",
     author: "Dott.ssa Sonia Pallocca",
     authorRole: "Terapista della Neuro e Psicomotricità dell'Età Evolutiva",
     authorAvatar: "SP",
@@ -2786,6 +2786,3744 @@ export const posts = [
       {
         type: "p",
         text: "Infatti, nel corso dei mesi, la crescita del bambino porta con sé numerosi cambiamenti che coinvolgono anche la progressiva maturazione ed integrazione dei riflessi neonatali con le nuove competenze ed esperienze. Questo favorisce l'emergere di comportamenti motori sempre più complessi, articolati e finalizzati a vere e proprie azioni, come afferrare un sonaglio o gattonare per raggiungere la mamma. In questo senso i riflessi si configurano come possibili segnali di uno sviluppo sano o anomalo, e la loro osservazione e riconoscimento può facilitare la prevenzione di eventuali fatiche in età successiva."
+      }
+    ]
+  },
+  {
+    id: 51,
+    slug: "cosa-significa-scegliere-di-avere-un-figlio",
+    title: "Cosa significa scegliere di avere un figlio?",
+    excerpt: "Avere un bambino è una scelta irrevocabile che cambia la vita: perché è importante che sia una decisione ponderata dalla coppia, libera da pressioni esterne.",
+    keywords: "scelta di avere un figlio, desiderio di maternità, decisione di diventare genitori, psicologia della genitorialità",
+    category: "Prima di restare incinta",
+    date: "10 gennaio 2025",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "2 min",
+    bgColor: "#345B7A",
+    content: [
+      {
+        type: "p",
+        text: "Avere un bambino può essere una scelta meravigliosa, ma richiede grande consapevolezza da parte dei futuri genitori, perché si tratta di un cambiamento irrevocabile di vita che comporta, almeno inizialmente, una revisione delle proprie abitudini."
+      },
+      {
+        type: "p",
+        text: "Spesso non ci si rende conto che l'investimento emotivo e la disponibilità affettiva che dovrebbero essere rivolte alla crescita di un figlio limitano, almeno temporaneamente e soprattutto per la madre, la possibilità di dedicarsi con intensità e continuità agli impegni che assorbivano le sue energie prima della nascita del bambino (lavoro, vita sociale, creazioni artistiche, attività sportive ecc.). A questo si aggiungono la stanchezza dovuta allo sconvolgimento degli orari e la sensazione di non poter disporre più del proprio tempo, visto che viene scandito dai ritmi del bebè."
+      },
+      {
+        type: "p",
+        text: "Si tratta perciò di una scelta che dovrebbe essere ben ponderata dalla coppia, senza l'interferenza di pressioni esterne (famigliari e sociali) che spesso non ne rispettano i desideri e i tempi. Avere figli non è un obbligo a cui tutti si devono assoggettare per compiacere qualcun altro se non ne provano un profondo desiderio. Anche in questo caso la scelta dovrebbe essere fatta senza interferenze esterne, quando ci si sente nella condizione ideale per viverla con maggiore serenità. La difficoltà procreativa in certi casi si presenta come la risposta a una pressione imposta: un modo per disattendere le aspettative altrui, che viene messo in atto inconsapevolmente da chi non ha altri mezzi per esprimere la propria volontà se non vuole o non è ancora pronto a diventare genitore."
+      }
+    ]
+  },
+  {
+    id: 52,
+    slug: "quello-che-le-mamme-non-osano-confessare",
+    title: "Quello che le mamme non osano confessare",
+    excerpt: "I sentimenti di aggressività verso il bebè esistono in quasi ogni mamma e non vanno negati: riconoscerli è il primo passo per riuscire a gestirli senza farne danno.",
+    keywords: "aggressività materna, sentimenti negativi verso il bebè, puerperio, sensi di colpa materni, psicologia perinatale",
+    category: "Puerperio",
+    date: "18 ottobre 2024",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "5 min",
+    bgColor: "#6B4A5F",
+    content: [
+      {
+        type: "p",
+        text: "La nascita di un bambino, soprattutto se si tratta del primo figlio, costituisce un evento nuovo per i genitori, che la vivono dimenticando spesso che la realtà che devono affrontare si presenta con sfaccettature molto diverse, non tutte facili da gestire e da accettare. Soprattutto quando il figlio è stato cercato, desiderato, a maggior ragione se è stato concepito passando attraverso molteplici difficoltà, o se presenta dei problemi di salute, non ci si pone neanche di fronte all'eventualità che possa suscitare sentimenti diversi dall'amore e dalla tenerezza. Ci si immagina come genitori disponibili, pronti a soddisfare tutte le necessità del proprio cucciolo, instancabili, inesauribili nel prodigargli affetto. E invece questo non sempre capita, soprattutto alle mamme che passano la loro giornata col bebè: la stanchezza, la spossatezza del dopo parto, in certi casi la fatica a riprendersi a causa di qualche inattesa complicazione, la difficoltà nel dover coordinare i ritmi del bambino con quelli della quotidianità famigliare, il cambiamento di vita che per un periodo più o meno lungo si rende necessario, mettono di fronte a scenari che non si erano neanche immaginati, nei quali si fa fatica a riconoscersi e a riconoscere il bebè. In certe occasioni infatti l'amata creatura sembra tramutarsi in una sanguisuga inesauribile, mai soddisfatta, sempre pronta a chiedere di più e a far sentire la mamma inadeguata, inefficiente, priva di energie e di tempo e, inevitabilmente, sempre meno ben disposta verso chi le causa queste sensazioni. Ecco dunque comparire l'aggressività che, nella maggior parte dei casi, non solo non viene riconosciuta ma anche negata. Riconoscerla infatti getterebbe la donna in un baratro di sensi di colpa, la farebbe sentire perfida, perversa, diversa dalle altre mamme con cui si confronta. Meglio quindi nascondere agli altri e a se stessa quello che prova, evitare di dare un nome ai propri sentimenti, soffocarli, rivolgerli a qualcosa o qualcun altro pur di allontanarli da quello a cui sono rivolti."
+      },
+      {
+        type: "p",
+        text: "Ma tentare di cancellare certe sensazioni, fare come se non esistessero non aiuta ad alleggerire la tensione che le accompagna, che si serve perciò di vie alternative per scaricarsi: in particolare attraverso l'iperprotezione o le disattenzioni nei confronti del bambino. Si tratta di azioni svolte in modo inconsapevole, con leggerezza, che possono avere anche conseguenze estremamente gravi in quanto possono minare la sua integrità: lasciarlo cadere dal fasciatoio/seggiolone, non accorgersi della temperatura eccessivamente elevata del latte del biberon o dell'acqua del bagnetto, non dare peso a segnali inequivocabili attraverso cui esprime un problema di salute ecc. Sono situazioni che potrebbero essere evitate se la mamma prendesse coscienza dei suoi passeggeri ma intensi sentimenti aggressivi verso il pargolo."
+      },
+      {
+        type: "p",
+        text: "La maggior parte delle donne li prova in determinati momenti, in base al suo carattere e alla situazione oggettiva che vive. Dunque non deve sentirsi «diversa» dalle altre mamme, anche se a parole affermano il contrario!"
+      },
+      {
+        type: "p",
+        text: "Riconoscere questi sentimenti è il primo passo per cercare di gestirli, limitando le conseguenze che potrebbero avere sul bambino. Meglio lasciarlo piangere nella culla piuttosto che sentirsi in dovere di prenderlo in braccio per calmarlo, se in quel momento si sta maledicendo il fatto di averlo voluto mettere al mondo!"
+      },
+      {
+        type: "p",
+        text: "Avere il coraggio di guardarsi dentro senza camuffare ciò che si prova permette anche di «monitorare» la frequenza, l'intensità, la durata di questi momenti in cui non si è come si vorrebbe essere, sapendo che, se sono eccessivamente invasivi, vale la pena farsi aiutare per cercare di disattivarli."
+      },
+      {
+        type: "highlight",
+        text: "Non esiste una mamma che accetta incondizionatamente il suo bambino, col sorriso sulle labbra sempre."
+      },
+      {
+        type: "p",
+        text: "La buona mamma è quella che ha l'onestà di riconoscere, senza minimizzare, i sentimenti di aggressività che a volte prova per il suo bebè (se le impedisce di realizzare certi desideri o se le provoca intensi momenti di frustrazione), ma che è in grado di gestirli in modo che non gli rechino danno."
+      }
+    ]
+  },
+  {
+    id: 53,
+    slug: "come-godersi-un-bebe-nel-primo-anno-di-vita",
+    title: "Come godersi un bebè nel primo anno di vita",
+    excerpt: "La storia di una mamma che, grazie a un percorso di psicoterapia, ha imparato a godersi la sua seconda maternità dopo aver vissuto la prima come un peso.",
+    keywords: "godersi il bebè, prima infanzia, psicoterapia in maternità, stanchezza materna, primo anno di vita",
+    category: "Neonato/Lattante (0-1 anni)",
+    date: "18 ottobre 2024",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "2 min",
+    bgColor: "#4F6B8A",
+    content: [
+      {
+        type: "p",
+        text: "Ho conosciuto Rossella al termine di un incontro pre-parto (dove aveva accompagnato un'amica), concluso con un augurio fatto alle gravide di trovare coi loro bebè lo stesso piacere provato da bambine giocando con le loro bambole. Uscendo dalla sala e passandomi accanto mi ha fissato in modo poco amichevole boffonchiando «se avesse avuto dei figli saprebbe in che calvario consiste la vita di una neomamma!». Tre giorni dopo mi ha telefonato per un appuntamento: aveva scoperto che ero mamma anche io e voleva capire come fare per godersi una nuova maternità visto il peso che le aveva creato la precedente."
+      },
+      {
+        type: "p",
+        text: "Abbiamo iniziato una psicoterapia durata vari mesi e poi ripresa dopo la nascita della sua seconda bambina. È lei stessa che mi ha chiesto di aiutarla a condividere la sua esperienza per poter far capire a tante mamme che si può godere appieno di un neonato, malgrado tanti momenti di stanchezza e di incertezza, se si ha il coraggio di confrontarsi con la propria storia, di scavare in quei conflitti interiori che altrimenti trovano nella maternità lo scenario ideale per essere proiettati e ripetuti. I piccoli accorgimenti adottati per non renderla riconoscibile nulla tolgono alla spontaneità del racconto della sua seconda maternità, che può essere di aiuto e incoraggiamento a tante mamme o future mamme che aspettano con ansia la crescita dei loro figli per poterseli godere. Se per il neonato è fondamentale avere accanto una mamma serena e non stressata anche per la mamma poter conoscere e scoprire il suo bebè con calma e consapevolezza rappresenta un piacere e un arricchimento di incommensurabile valore di cui troppo spesso, purtroppo, le donne si privano."
+      }
+    ]
+  },
+  {
+    id: 54,
+    slug: "interazione-con-il-bebe-nel-primo-mese-di-vita",
+    title: "L'interazione con il bebè nel primo mese di vita",
+    excerpt: "Perché fin dalle prime settimane di vita l'interazione fisica e non verbale con il bebè è fondamentale per il suo sviluppo affettivo e cognitivo.",
+    keywords: "interazione con il neonato, comunicazione non verbale, primo mese di vita, imprinting materno, sviluppo affettivo",
+    category: "Neonato/Lattante (0-1 anni)",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#3F6B7A",
+    content: [
+      {
+        type: "p",
+        text: "Lo stress del ritorno a casa, la novità e la quantità dell'impegno richiesto da un neonato portano molte mamme a sottovalutare l'importanza dell'interazione col bebè durante le prime settimane di vita, e l'influenza che ha sul suo sviluppo sia affettivo che cognitivo."
+      },
+      {
+        type: "p",
+        text: "Spesso si dimentica che durante il primo mese di vita la comunicazione con il bebè avviene semplicemente attraverso le modalità con cui vengono soddisfatti i suoi bisogni primari. In questo periodo infatti il neonato non ha ancora comportamenti strutturati, finalizzati alla comunicazione, anche se a volte vengono letti in questi termini i contatti visivi che instaura col genitore (soprattutto durante le poppate), i sorrisi o i movimenti della bocca o della lingua. Questo però non significa che non percepisca ciò che ha intorno e che non sia in grado di discernere tra sensazioni di piacere e di dispiacere."
+      },
+      {
+        type: "p",
+        text: "Fin dalla nascita infatti è possibile interagire in modo molto intenso con il bebè essenzialmente attraverso il contatto fisico: come si tiene il piccolo in braccio sia per nutrirlo che per coccolarlo, come lo si tocca e accarezza quando lo si cambia, con quale tono di voce gli si parla. Se lo si osserva attentamente, si può notare che il bebè ha reazioni diverse in base a chi si occupa di lui. Infatti, anche se ancora non è in grado di riconoscere i volti delle persone che lo accudiscono, riesce già a percepire nell'altro la tensione o la tranquillità che stimolano in lui sensazioni diverse, di allarme o di rilassatezza."
+      },
+      {
+        type: "p",
+        text: "Siccome è soprattutto la mamma che si occupa di lui per nutrirlo, che lo cambia, lo lava, lo mette a nanna, è da lei che riceve l'imprinting in base al quale strutturerà in seguito il suo modo di entrare in relazione con l'esterno."
+      },
+      {
+        type: "p",
+        text: "Come è facile intuire, appare fondamentale lo stato d'animo con cui vive il suo ruolo, perché è questo che comunica al bebè. Sentirsi parte di una mamma sicura, serena, appagata è molto diverso e ben più facile e piacevole che imparare a conoscere il mondo tra le braccia di una mamma tesa, insoddisfatta e spaventata!"
+      },
+      {
+        type: "highlight",
+        text: "Ancora una volta perciò si invita la mamma a ricordare che nelle prime settimane di vita il bebè vive in stato di fusione con lei, ne percepisce e assimila gli stati d'animo. Dunque guardarsi dentro con obiettività, riconoscere le sensazioni che prova senza nascondersele, ma piuttosto cercando di rielaborarle, è di fondamentale importanza per offrire al proprio piccolo una base sicura su cui poter costruire le sue relazioni future."
+      },
+      {
+        type: "p",
+        text: "cfr. L. Murray, Le prime relazioni del bambino, ed. Cortina"
+      }
+    ]
+  },
+  {
+    id: 55,
+    slug: "affrontare-il-disagio-del-bebe",
+    title: "Affrontare il disagio del bebè",
+    excerpt: "Fame, fastidio o dolore: tutti i bebè attraversano momenti di malessere. Come comunicare con loro attraverso il linguaggio non verbale per aiutarli a rasserenarsi.",
+    keywords: "disagio del neonato, pianto del bebè, comunicazione non verbale, linguaggio cinestesico, malessere del neonato",
+    category: "Neonato/Lattante (0-1 anni)",
+    date: "6 marzo 2020",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#4C6491",
+    content: [
+      {
+        type: "p",
+        text: "Una delle maggiori difficoltà che incontra la mamma all'inizio della sua «carriera» è quella di non essere preparata ad affrontare il disagio che il neonato esprime e di non sapere come intervenire per placarlo."
+      },
+      {
+        type: "p",
+        text: "Innanzitutto è bene ricordare che tutti i bebè attraversano momenti di malessere legati a sensazioni di fame non immediatamente soddisfatte, o di fastidio a essere lavato, cambiato, vestito, o di dolore (mal di pancia, male alle orecchie), che si esprimono e scaricano con il pianto."
+      },
+      {
+        type: "p",
+        text: "Tuttavia la loro frequenza e intensità variano da un neonato all'altro, in base alla sua reattività agli stimoli e al sostegno che percepisce gli dia chi si prende cura di lui."
+      },
+      {
+        type: "p",
+        text: "Il bebè infatti, anche se appena nato, «sente» la presenza di una mamma in grado di contenere il suo malessere e di comunicargli sicurezza e serenità, attraverso il «linguaggio non verbale», con cui interagisce con lui."
+      },
+      {
+        type: "p",
+        text: "Si tratta di un modo di comunicare fatto di caratteristiche che l'adulto spesso non prende in considerazione, dal momento che è abituato a privilegiare il sistema linguistico. Siccome il bebè non conosce il significato delle parole, reagisce ad altri stimoli, che riguardano per lo più il sistema cinestesico che si esprime attraverso la postura, i movimenti del corpo, la gestualità, lo sguardo. Si tratta di aspetti non razionali, spontanei, che mettono in evidenza lo stato emotivo delle persone e che inconsapevolmente trapelano dal modo in cui tengono in braccio il bambino, lo accarezzano, o stabiliscono con lui un contatto visivo. A questo si aggiungono aspetti paralinguistici, come il ritmo delle parole con cui si rivolgono al piccolo, o l'intonazione usata per parlargli."
+      },
+      {
+        type: "p",
+        text: "Si può dunque capire che non esistono comportamenti «miracolosi» che alleviano il disagio del bebè, ma che quelli dettati dal buon senso (prenderlo in braccio, allattarlo, accarezzarlo, parlargli, cullarlo) hanno maggiore o minore probabilità di successo in base allo stato d'animo di chi li mette in atto."
+      },
+      {
+        type: "highlight",
+        text: "I neonati infatti si rasserenano più in fretta e più facilmente se percepiscono la disponibilità di chi si occupa di loro, che si manifesta a livello corporeo attraverso la rilassatezza muscolare di chi li tiene in braccio o li accarezza, il tono della voce pacato, lo sguardo dolce anche se attento e sicuro. Se questi elementi della comunicazione non verbale sono carenti, se la mamma si irrigidisce diventando «poco contenitiva», l'insicurezza del piccolo prende il sopravvento e va ad alimentare lo stato di malessere in cui già si trovava. Inoltre il pianto, le urla, l'agitazione del bebè rafforzano la tensione e le difficoltà della madre: il suo intervento, che voleva essere di aiuto, ottiene l'effetto contrario!"
+      }
+    ]
+  },
+  {
+    id: 56,
+    slug: "la-qualita-dellattaccamento-del-bambino",
+    title: "La qualità dell'attaccamento del bambino",
+    excerpt: "Cos'è la Strange Situation di Mary Ainsworth e quali sono i quattro stili di attaccamento (sicuro, insicuro evitante, insicuro ambivalente, insicuro disorganizzato) che un bambino può sviluppare verso la madre.",
+    keywords: "qualità dell'attaccamento, Strange Situation, Mary Ainsworth, attaccamento sicuro, attaccamento insicuro, stili di attaccamento",
+    category: "Neonato/Lattante (0-1 anni)",
+    date: "21 febbraio 2020",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#3A5A78",
+    content: [
+      {
+        type: "p",
+        text: "Come è stato detto precedentemente (cfr. L'importanza dell'attaccamento del bambino per il genitore), la qualità dell'attaccamento è stata classificata in base alle sue caratteristiche, studiate grazie alla Strange Situation, che valuta il comportamento infantile di fronte a una situazione di stress da separazione."
+      },
+      {
+        type: "p",
+        text: "Si tratta di una procedura creata da M. Ainsworth (psicologa canadese allieva di Bowlby): consiste in una seduta di 20' che si svolge in una stanza da gioco dove si trova una coppia madre/bambino e un estraneo. Dapprima il piccolo viene lasciato per qualche minuto con l'estraneo, poi da solo, quindi si riunisce con la madre."
+      },
+      {
+        type: "p",
+        text: "In base al suo comportamento alla separazione e al momento della riunione, sono stati evidenziati quattro modi di gestire la situazione di obiettiva difficoltà, che evidenziano tipi diversi di attaccamento:"
+      },
+      {
+        type: "ul",
+        items: [
+          "sicuro, caratterizzato da angoscia di separazione che viene però superata al ritorno della madre. Il bambino trova in lei conforto e rassicurazione e può riprendere serenamente a esplorare l'ambiente e a giocare;",
+          "insicuro evitante, caratterizzato dalla mancanza di disagio che il bambino dimostra quando viene lasciato dalla madre, che poi ignora quando si ripresenta. Questo comportamento viene spesso scambiato con la capacità di saper fronteggiare in modo autonomo situazioni difficili. Vari studi tuttavia dimostrano che anche in questi casi lo stress aumenta, ma il bambino evita di cercare il sostegno del genitore perché sente che non sarebbe in grado di darglielo. Nel suo vissuto (che può anche non corrispondere alla realtà obiettiva) la presenza affettiva della madre e la sua disponibilità non sono sufficienti a dargli conforto e rassicurazione, per cui evita di esprimere il suo bisogno di attaccamento;",
+          "insicuro ambivalente, caratterizzato da una forte angoscia di separazione e da un disagio che non riesce a superare neanche al ritorno della madre. Il piccolo alterna stati di rabbia a momenti in cui si aggrappa a lei come per controllarne la presenza. La paura di perderla gli impedisce di staccarsi in ambienti nuovi o in presenza di estranei;",
+          "insicuro disorganizzato, caratterizzato da comportamenti «confusi» che il bambino mette in atto al momento della riunione col genitore (fare movimenti stereotipati, raggomitolarsi, dondolarsi, restare paralizzati)."
+        ]
+      },
+      {
+        type: "p",
+        text: "Lo stile di attaccamento riflette la qualità della presenza materna, in quanto il bambino interiorizza lo stato d'animo che la madre prova quando lo accudisce e su questo inizia a costruire la sua capacità di reagire alle difficoltà."
+      },
+      {
+        type: "p",
+        text: "È molto diverso per la percezione del bambino avere vicino una mamma serena, tranquilla, appagata dal suo ruolo, rispetto a una persa nel suo mondo interiore fatto di paure e sensi di colpa, o una scalpitante per il desiderio di fare altro piuttosto che occuparsi di lui."
+      },
+      {
+        type: "highlight",
+        text: "È quindi fondamentale, anche per il piccolo, che la madre prenda consapevolezza dei suoi stati d'animo e trovi il coraggio e la voglia di elaborarli se gli possono trasmettere insicurezza e negatività."
+      },
+      {
+        type: "p",
+        text: "cfr. J. Holmes, La teoria dell'attaccamento, Cortina"
+      }
+    ]
+  },
+  {
+    id: 57,
+    slug: "importanza-attaccamento-bambino-per-genitore",
+    title: "L'importanza dell'attaccamento del bambino per il genitore",
+    excerpt: "Dagli studi di Bowlby ai celebri esperimenti di Harlow sulle scimmie Rhesus: perché la relazione di attaccamento tra bambino e genitore è così determinante per lo sviluppo futuro.",
+    keywords: "attaccamento, John Bowlby, esperimento Harlow, scimmie Rhesus, relazione di attaccamento, sviluppo del bambino",
+    category: "Neonato/Lattante (0-1 anni)",
+    date: "12 febbraio 2020",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#4A6B8E",
+    content: [
+      {
+        type: "p",
+        text: "Si chiama relazione di attaccamento il legame affettivo che si instaura tra il bambino e il genitore (o il caregiver). A differenza di altre relazioni pur importanti, si basa sulla dipendenza fisica ed emotiva, sul bisogno di conforto, sulla vulnerabilità del bambino."
+      },
+      {
+        type: "p",
+        text: "Lo psicoanalista J. Bowlby, negli anni 50, ha messo in evidenza quanto sia fondamentale, per l'armonioso sviluppo del piccolo e per la qualità delle sue relazioni future, l'accudimento non solo fisico ma anche emotivo, la sicurezza che gli si infonde e che deriva da una relazione serena e stabile con chi si prende cura di lui."
+      },
+      {
+        type: "p",
+        text: "È interessante sapere che le evidenze rilevate da Bowlby su bambini separati dalle famiglie concordano con i dati ottenuti da Harlow con crudeli esperimenti sulle scimmie Rhesus. Cuccioli di macaco sono stati separati precocemente dalla madre e posti in gabbie con due madri «surrogate»: una fatta di filo di ferro che poteva dare latte tramite un biberon e una di pelouche che non offriva cibo. I piccoli si stringevano alla madre «morbida» per soddisfare il bisogno di calore e protezione, che risultava essere più importante di quello del cibo. Queste stesse scimmie, diventate a loro volta madri (con fecondazione artificiale visto il totale disinteresse per i rapporti con altre scimmie) erano prive di attenzioni verso i cuccioli che abbandonavano: la mancanza di una gratificante relazione di attaccamento vissuta in tenera età le rendeva infatti incapaci di instaurarla con i loro piccoli."
+      },
+      {
+        type: "p",
+        text: "Il modo in cui viene vissuta la relazione di attaccamento influisce dunque, sia nei cuccioli animali che umani, sulla capacità, da adulti, di stringere rapporti e sulla loro qualità."
+      },
+      {
+        type: "p",
+        text: "Vari sono i segni di attaccamento che il bambino evidenzia a partire dalla seconda metà del primo anno di vita. Si manifestano:"
+      },
+      {
+        type: "ul",
+        items: [
+          "con atteggiamenti di turbamento se la madre si allontana;",
+          "con paura verso gli estranei, a dimostrazione che ormai il piccolo è capace di distinguere tra chi lo fa sentire protetto e chi non conosce;",
+          "con la ricerca di una particolare persona se deve essere consolato o se si trova in situazioni nuove che richiedono rassicurazione."
+        ]
+      },
+      {
+        type: "p",
+        text: "L'attenta osservazione dei bambini nella vita quotidiana e l'uso di una procedura standardizzata creata dalla Ainsworth (allieva di Bowlby) ha permesso di definire vari stili di attaccamento, che in base alle sue caratteristiche può essere definito"
+      },
+      {
+        type: "ul",
+        items: [
+          "sicuro",
+          "insicuro",
+          "disorganizzato"
+        ]
+      },
+      {
+        type: "p",
+        text: "Approfondiremo prossimamente cosa sia la Strange Situation e in cosa consistano queste differenze."
+      },
+      {
+        type: "p",
+        text: "cfr. J. Bowlby, Attaccamento e perdita, Bollati Boringhieri, 1999"
+      }
+    ]
+  },
+  {
+    id: 58,
+    slug: "bambini-e-oggetti-del-cuore",
+    title: "Bambini e «oggetti del cuore»",
+    excerpt: "Perché tanti bambini tra i quattro e i dodici mesi si affezionano a un peluche o a uno straccetto: cosa sono gli «oggetti transizionali» descritti da Winnicott e a cosa servono.",
+    keywords: "oggetto transizionale, Winnicott, oggetto del cuore, angoscia di separazione, sviluppo del bambino",
+    category: "Neonato/Lattante (0-1 anni)",
+    date: "30 gennaio 2020",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#6B5A4A",
+    content: [
+      {
+        type: "p",
+        text: "Quasi tutti i bambini tra i quattro e i dodici mesi tendono ad affezionarsi a un oggetto particolare, come un fazzolettino, uno straccetto, il lembo di una copertina o anche un pelouche, che amano succhiare, stringere a sé, avere vicino nei momenti in cui vengono messi a dormire o devono fronteggiare delle difficoltà (per esempio essere separati dalla mamma)."
+      },
+      {
+        type: "p",
+        text: "Questi oggetti con cui il bambino instaura un legame profondo hanno una funzione assai importante nel suo percorso evolutivo: sono rassicuranti, lo aiutano a superare l'angoscia di separazione o la frustrazione che prova in un momento di sconforto. Infatti rappresentano qualcosa di famigliare a cui aggrapparsi, che consola, che permette di superare la paura della novità."
+      },
+      {
+        type: "p",
+        text: "Winnicott, pediatra e psicoanalista inglese vissuto nel XX secolo, ha chiamato questi oggetti transizionali, in quanto compaiono in un periodo particolare di vita del bambino, quello di transizione tra la fase fusionale in cui il piccolo si sente tutt'uno con la madre e quello in cui poco per volta deve imparare ad accettare di esserne distaccato. Nei primi mesi di vita infatti il piccolo si vive come parte della mamma, che se è «sufficientemente buona» si prodiga per soddisfare i suoi bisogni e realizzare i suoi desideri. Crescendo però deve confrontarsi con l'obiettiva impossibilità materna di soddisfare tutti i suoi desideri. Questo crea una sorta di gap tra lui e la madre che lo porta poco per volta a rendersi conto che non ne fa parte ma che è staccato, separato da lei, e che deve accettare questa realtà oggettiva così lontana da quello che credeva."
+      },
+      {
+        type: "p",
+        text: "Per imparare a farlo si serve appunto del cosiddetto «oggetto transizionale», ossia di un giocattolo o quant'altro che gli permette di vivere le sensazioni di sicurezza che gli dava la presenza della mamma, proprio per affrontare la difficoltà della separazione e della sua assenza."
+      },
+      {
+        type: "p",
+        text: "L'oggetto transizionale dunque è un sostituto della madre e allo stesso tempo una parte quasi inseparabile di se stesso."
+      },
+      {
+        type: "p",
+        text: "Un oggetto intermedio «non me» ma percepito come parte di me, in quanto costituisce un mio possesso."
+      },
+      {
+        type: "highlight",
+        text: "Man mano che il bambino cresce e riesce a distinguere l'oggettività dalla soggettività, l'oggetto transizionale perde la sua funzione e viene abbandonato, ma non dimenticato. Ecco perché, anche se al bambino non serve più per riceverne conforto, è preferibile che venga buttato via solo quando sarà lui a decidere di potersene staccare definitivamente."
+      },
+      {
+        type: "p",
+        text: "cfr. D. Winnicott, Oggetti transizionali e fenomeni transizionali, 1953"
+      }
+    ]
+  },
+  {
+    id: 59,
+    slug: "cambiamenti-interazione-bebe-primo-semestre",
+    title: "Cambiamenti nell'interazione col bebè nel primo semestre",
+    excerpt: "Dal secondo al sesto mese di vita l'interazione con il bebè si trasforma: dal contatto visivo ai giochi di rispecchiamento, fino ai primi giochi condivisi.",
+    keywords: "interazione con il bebè, primo semestre, rispecchiamento genitoriale, sviluppo del neonato, contatto visivo",
+    category: "Neonato/Lattante (0-1 anni)",
+    date: "12 gennaio 2020",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#35607A",
+    content: [
+      {
+        type: "p",
+        text: "Per molti genitori l'interazione col bambino diventa più facile a partire dal secondo mese, in cui avvengono dei cambiamenti significativi. Il bebè diventa più attivo nell'osservazione del volto di chi lo avvicina e nel ricercare e mantenere, anche per periodi prolungati, il contatto visivo."
+      },
+      {
+        type: "p",
+        text: "Il piccolo perde l'espressione neutra che aveva caratterizzato le prime settimane di vita e inizia a interagire rispondendo alle espressioni dei genitori con vocalizzi, movimenti della bocca, della lingua, delle mani."
+      },
+      {
+        type: "p",
+        text: "Questi primi scambi sono caratterizzati dal fatto che i genitori, spesso inconsapevolmente, rispondono a questi comportamenti: «rispecchiano», ossia imitano con precisione e riproducono i segnali prelinguistici emessi dal bambino (vocalizzi, sorrisi, movimenti della bocca), creando una sorta di conversazione. Ma non solo: li sottolineano, li mettono in evidenza considerandoli importanti, speciali, li «marcano» con espressioni del viso e/o con osservazioni che esprimono approvazione e incoraggiamento."
+      },
+      {
+        type: "p",
+        text: "Questo aspetto comunicativo è di fondamentale importanza nella creazione del legame: soprattutto il fatto di essere imitati pare divertire i piccoli, che mantengono più a lungo l'interazione e che, grazie alla «risposta di rispecchiamento» del genitore, hanno la possibilità di sviluppare ed ampliare il loro comportamento."
+      },
+      {
+        type: "p",
+        text: "È significativo il fatto che, se il genitore smette di interagire e di rispondere ai segnali del bambino e assume un'espressione immobile e distaccata pur continuando a guardarlo, il piccolo inizia a protestare e a esprimere disagio. Questo però non accade se il contatto si interrompe in modo più naturale, per esempio se distoglie la sua attenzione per parlare con qualcuno o per osservare qualcosa."
+      },
+      {
+        type: "p",
+        text: "Tra 3 e 5 mesi la capacità visiva del bambino migliora: se prima riusciva a mettere a fuoco ciò che si trovava a 20/30 centimetri, ora riesce a vedere all'incirca come un adulto. Questo lo porta a guardarsi intorno, a cercare di afferrare oggetti distanti allungando le braccia, a «studiare» ciò che stringe in mano."
+      },
+      {
+        type: "p",
+        text: "Anche l'interazione con il genitore si modifica, passando dal semplice contatto visivo che aveva come significato quello di stare insieme, ad attività ludiche che divertono il bambino. Si tratta di azioni che possono coinvolgere degli oggetti, che vengono avvicinati o allontanati, fatti sparire e ricomparire; giochi corporei (come fargli muovere gli arti o fargli il solletico); suoni che lo coinvolgono e che riproducono rumori caratteristici di animali o oggetti."
+      },
+      {
+        type: "highlight",
+        text: "Tutti questi cambiamenti che si notano a partire dalla fine del secondo mese indicano che il piccolo si appresta a uscire dalla fase di fusione con la madre, quella in cui la sentiva come parte di se stesso e non come persona diversa, staccata da lui. Se con la nascita era stato tagliato il cordone ombelicale, a livello psicologico la separazione dalla madre avviene lentamente, attraverso diverse tappe che coinvolgono il bambino sia sotto l'aspetto affettivo che cognitivo."
+      },
+      {
+        type: "p",
+        text: "cfr. L. Murray, Le prime relazioni del bambino, Cortina"
+      }
+    ]
+  },
+  {
+    id: 60,
+    slug: "non-anticipare-i-desideri-dei-piccoli",
+    title: "Non anticipare i desideri dei piccoli",
+    excerpt: "Allattare il bebè «a richiesta» è utile nelle prime settimane, ma imparare a rimandare la gratificazione aiuta il bambino a gestire la frustrazione: perché non bisogna anticipare ogni suo desiderio.",
+    keywords: "allattamento a richiesta, frustrazione del bambino, gratificazione ritardata, desideri del bebè, psicologia infantile",
+    category: "Neonato/Lattante (0-1 anni)",
+    date: "3 ottobre 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#4F5D8A",
+    content: [
+      {
+        type: "p",
+        text: "Non anticipare i desideri dei bambini allattandoli ogni volta che piangono significa aiutarli a gestire la frustrazione dovuta al fatto che la gratificazione viene rimandata."
+      },
+      {
+        type: "p",
+        text: "Spesso le donne pensano che essere una buona mamma significhi soddisfare sempre e subito i desideri del bambino che, nel primo periodo di vita, vengono attribuiti soprattutto all'esigenza di mangiare."
+      },
+      {
+        type: "p",
+        text: "Oggi nei reparti di maternità, nei consultori, negli studi di molti pediatri si invitano le madri ad allattare «a richiesta», ovvero a non dar da mangiare al piccolo a orari prestabiliti (cosa peraltro difficile all'inizio vista la variabilità di produzione del latte materno) ma ogni qualvolta lo richieda. Questo è sicuramente molto utile per le prime settimane di vita, sia perché le suzioni frequenti favoriscono la produzione del latte, sia perché madre e bambino devono imparare a conoscersi per poter poi dare un ritmo alle poppate. Sicuramente all'inizio il piccolo ha bisogno di ripetere esperienze di soddisfacimento per interiorizzare una figura di madre gratificante, capace di esaudire i suoi desideri, credibile e rassicurante. In seguito però, a un bambino sano, nato a termine, normopeso, il latte dovrebbe essere dato in modo «ritmico», ossia creando una certa distanza tra i pasti, in modo che il piccolo possa fare delle poppate che lo saziano e che scandiscono la sua giornata, e che permettono anche alla madre di avere degli intervalli di alcune ore sia durante il giorno che la notte."
+      },
+      {
+        type: "p",
+        text: "In genere il seno dovrebbe essere la fonte del nutrimento del bambino e non l'unico mezzo per consolarlo, ogni volta che piange."
+      },
+      {
+        type: "p",
+        text: "Il piccolo si comporta come se la mamma fosse un prolungamento di se stesso, fatto per eliminare la tensione che sorge quando un desiderio tarda a essere soddisfatto. La madre invece deve avere ben presente che crescere significa proprio confrontarsi con momenti di frustrazione legati al ritardo del soddisfacimento. Se questo ritardo avviene ogni tanto, nel contesto di un rapporto soddisfacente, è tutt'altro che negativo per il piccolo. Infatti poco per volta troverà degli escamotage per fronteggiare questi momenti, «allucinando» il soddisfacimento, ovvero rappresentandoselo prima di viverlo. E questo meccanismo che si forma nella primissima infanzia è assai utile anche per l'adulto: quanto è bello assaporare il piacere di qualcosa che si desidera prima ancora di viverlo realmente! Desiderare significa sognare e sviluppa la creatività!"
+      },
+      {
+        type: "highlight",
+        text: "Dunque, anche se molto piccoli, i bambini possono imparare a gestire la frustrazione data dal desiderio non appagato repentinamente. Questo avviene se il rapporto con la madre è gratificante, se è psicologicamente presente, non distratta da ansie e/o depressione che la tengono lontana da lui. In questi casi il piccolo non proverà un senso di abbandono devastante se non sarà nutrito subito come vorrebbe, ma si abituerà a rimandare il soddisfacimento. Sta a lei insegnargli ad affrontare senza paura questi momenti, che si presenteranno spesso nella sua vita infantile e adulta. Certo è molto più semplice e immediato allattarlo e porre fine al suo pianto che non accogliere le sue difficoltà parlandogli, accarezzandolo, cullandolo, tenendolo in braccio, cercando di interessarlo a qualcosa. Ma solo in questo modo gli si offre la possibilità di sperimentare un desiderio, senza appagarlo sempre in anticipo, prima ancora che possa essere riconosciuto."
+      }
+    ]
+  },
+  {
+    id: 61,
+    slug: "metodi-controllare-dolore-parto-prima-parte",
+    title: "Metodi psicologici per controllare il dolore del parto (prima parte)",
+    excerpt: "Un viaggio storico tra i metodi psicologici usati nel Novecento per alleviare il dolore del parto: dall'ipnosi al metodo Dick Read, fino al metodo psicoprofilattico sovietico.",
+    keywords: "dolore del parto, ipnosi in gravidanza, metodo Dick Read, metodo psicoprofilattico, storia dell'ostetricia",
+    category: "Parto",
+    date: "27 agosto 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#5A4A6B",
+    content: [
+      {
+        type: "p",
+        text: "Da sempre il parto è stato associato al dolore e in tutte le epoche e in tutte le culture sono state date indicazioni per cercare di mitigarlo: dai movimenti da fare durante il travaglio (per esempio la danza del ventre sembra aver rappresentato la più antica forma di preparazione al parto) alle posizioni da assumere nella fase espulsiva, dalle diete per favorire la nascita all'uso di miscugli di erbe medicamentose (anche cannabis o oppioidi dei cui effetti si aveva scarsa conoscenza) per alleviarlo."
+      },
+      {
+        type: "p",
+        text: "Dalla fine del XIX secolo e per circa metà del XX, in Francia, Germania e URSS fu utilizzata l'ipnosi, con cui alcuni medici riuscirono a ottenere l'analgesia completa durante il travaglio, dissociando dal dolore la funzione contrattile dell'utero. Tuttavia l'assenza di dolore ottenuta in questo modo si coniugava con la mancanza di partecipazione emotiva della donna alla nascita."
+      },
+      {
+        type: "p",
+        text: "In Gran Bretagna, nel 1933, il dott. G. Dick Read elaborò un metodo per far partorire le donne che si basava sul presupposto che il dolore del parto non fosse fisiologico ma causato da pregiudizi e paure. Era dunque di fondamentale importanza istruire la donna su quanto sarebbe avvenuto durante il parto e aiutarla a trovare la fiducia in se stessa usando anche tecniche di rilassamento legate alla respirazione. La critica mossa a questo metodo riguardava la forte suggestione esercitata dal medico sulle partorienti a causa dell'intenso rapporto che si creava e di cui probabilmente non era del tutto consapevole."
+      },
+      {
+        type: "highlight",
+        text: "Intorno al 1950 in URSS si passò dall'ipnosi al metodo chiamato «psicoprofilattico di preparazione al parto», che si basava sugli studi di riflessologia della scuola russa (Pavlov, Nikolaiev) e sulla scoperta dell'intervento del sistema nervoso superiore in tutte le grandi funzioni dell'organismo. Come sostenuto già nel 1912 dalla dott. Erofleva (allieva di Pavlov), il legame dolore-contrazione era considerato come un riflesso condizionato: quindi, se il dolore veniva sostituito da un altro stimolo da associare alla contrazione uterina (per esempio una respirazione), poteva essere eliminato. Il metodo ebbe una diffusione di massa anche perché la società socialista dell'URSS considerava il dolore del parto come un retaggio borghese che condizionava la donna e che andava eliminato!"
+      }
+    ]
+  },
+  {
+    id: 62,
+    slug: "metodi-controllare-dolore-parto-seconda-parte",
+    title: "Metodi psicologici per controllare il dolore del parto (seconda parte)",
+    excerpt: "La storia del metodo Lamaze, il celebre «parto indolore» nato in Francia negli anni 50 e diffuso poi anche in Italia grazie a Malcovati e Miraglia.",
+    keywords: "metodo Lamaze, parto indolore, accouchement sans douleur, storia dell'ostetricia, preparazione al parto",
+    category: "Parto",
+    date: "17 settembre 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#4A5A7A",
+    content: [
+      {
+        type: "h2",
+        text: "Lamaze e il «parto indolore»"
+      },
+      {
+        type: "p",
+        text: "(cfr. Metodi psicologici per controllare il dolore del parto, prima parte)"
+      },
+      {
+        type: "p",
+        text: "Il metodo psicoprofilattico raggiunse la Francia grazie al dott. F. Lamaze che, nel 1951, durante un viaggio in URSS, aveva assistito a un parto indolore. Lamaze lo rielaborò in modo personale, attingendo anche al metodo Read, e lo chiamò parto indolore (Accouchement sans douleur, ASD)."
+      },
+      {
+        type: "p",
+        text: "Per impararlo le gravide dovevano partecipare a una serie di incontri teorici (in cui venivano date informazioni relative al travaglio e al parto) e pratici (in cui venivano insegnate differenti tecniche di respirazione da utilizzare nelle diverse fasi del parto: lenta e profonda nel travaglio, superficiale e alitante, detta «a cagnolino», nella fase espulsiva)."
+      },
+      {
+        type: "p",
+        text: "A questi incontri erano invitati anche i futuri padri, che per la prima volta potevano partecipare a cose solitamente rivolte solo alle donne."
+      },
+      {
+        type: "p",
+        text: "La diffusione del metodo Lamaze fu tutt'altro che facile, dal momento che fu necessario sottoporre il personale medico e paramedico a una formazione specifica supplementare, che richiedeva più tempo e aumento dei costi. Per questo motivo Lamaze ebbe molti detrattori che lo osteggiarono al punto di convocarlo più volte davanti al Consiglio dell'Ordine dei medici (che tuttavia lo assolse sempre)."
+      },
+      {
+        type: "p",
+        text: "Dopo che, nel 1952, nella clinica di Bluets (dove Lamaze lavorava) più di 500 donne poterono partorire seguendo questo metodo (che permetteva la riduzione dei parti cesarei e una più rapida ripresa delle puerpere), iniziò la battaglia per poterne generalizzare l'applicazione. Grazie all'aiuto del gruppo parlamentare comunista e all'Unione delle donne francesi, nel 1955 la città di Parigi mise a disposizione vari milioni di franchi per realizzare il parto indolore in sei maternità cittadine."
+      },
+      {
+        type: "highlight",
+        text: "Il 1956 segnò una data importante nella storia dell'ostetricia: venne pubblicato il libro scritto da Lamaze e dai colleghi che applicavano il parto psicoprofilattico (o indolore); il Papa Pio XII prese posizione a favore di questo metodo, giudicandolo irreprensibile sotto l'aspetto morale; l'Assemblea Nazionale Francese accettò di rimborsare sei sedute di preparazione al parto indolore."
+      },
+      {
+        type: "p",
+        text: "Anche in Italia, negli anni 50, si diffuse il metodo di Lamaze, importato da P. Malcovati e dal suo allievo F. Miraglia, ancora oggi noto per la pubblicazione del libro «Sarò madre: la donna dall'adolescenza alla maternità. Guida alla preparazione psicoprofilattica al parto» (1957), in cui si rivolge alle donne per spiegarlo."
+      }
+    ]
+  },
+  {
+    id: 63,
+    slug: "dove-nasce-insicurezza-neo-mamme",
+    title: "Dove nasce l'insicurezza di molte neo mamme?",
+    excerpt: "Perché il rientro a casa col bebè mette in crisi tante neomamme: un'ipotesi psicologica che lega l'insicurezza materna al ricordo inconscio della propria «Hilflosigkeit» infantile, descritta da Freud.",
+    keywords: "insicurezza materna, rientro a casa col neonato, Hilflosigkeit, Freud, ansia da neomamma",
+    category: "Prima di restare incinta",
+    date: "6 settembre 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "5 min",
+    bgColor: "#3F5A78",
+    content: [
+      {
+        type: "p",
+        text: "Il tanto atteso momento del ritorno a casa col bebè è considerato dalla maggior parte delle madri molto faticoso e difficile."
+      },
+      {
+        type: "p",
+        text: "L'accudimento di un neonato infatti rappresenta un compito impegnativo e di grande responsabilità, che prevede solo occasionali pause, all'inizio non programmabili. In molti casi chi si occupa di lui (di solito la madre) non è sufficientemente preparata a farlo perché, finché non lo prova, non si rende neanche conto di quanto assorba ogni aspetto della sua esistenza."
+      },
+      {
+        type: "p",
+        text: "Un tempo il ruolo della famiglia, oltre a fornire aiuto e sostegno alla puerpera, permetteva di sperimentarsi, di apprendere con altri neonati prima che con il proprio, cosa e come fare. Oggi invece per molte donne doversi occupare di un bebè rappresenta una sfida per la quale spesso non si è preparate, né dal punto di vista «teorico» né da quello pratico!"
+      },
+      {
+        type: "p",
+        text: "Molte infatti non si rendono conto di quali siano i reali bisogni di una creatura che ha solo pochi giorni di vita, hanno difficoltà nel capire come vengano espressi i suoi desideri, non sanno come e quando soddisfarli."
+      },
+      {
+        type: "p",
+        text: "La maggior parte impara «sul campo» come un neonato debba essere tenuto, nutrito, vestito, lavato. Infatti sono poche le primipare che hanno già avuto occasione di accudire un bambino così piccolo prima della nascita del proprio!"
+      },
+      {
+        type: "p",
+        text: "È comprensibile dunque che provino un senso di incertezza e di ansia quando si rendono conto di dover rappresentare il punto di riferimento di un essere che dipende completamente da loro, a cui dovrebbero comunicare una serenità che non sono in grado di provare."
+      },
+      {
+        type: "p",
+        text: "Ma oltre a queste banali considerazioni, non ci sarà qualcos'altro che rende così insicure queste mamme e che non permette loro di godersi il primo periodo di vita del bambino?"
+      },
+      {
+        type: "p",
+        text: "Non sarà che la totale mancanza di sicurezza del neonato mina quella della madre che, rispecchiandosi nel figlio, viene messa in feedback col suo passato più remoto?"
+      },
+      {
+        type: "p",
+        text: "Ogni essere umano agli albori della vita infatti ha provato quel senso di abissale impotenza e incertezza che Freud ha descritto usando il termine tedesco «Hilflosigkeit». La lingua italiana non è in grado di tradurlo con un'unica parola che indichi al tempo stesso il malessere, la paura, l'insicurezza che il bebè prova dal momento in cui si trova catapultato fuori dall'utero materno."
+      },
+      {
+        type: "p",
+        text: "Un utero che, come abbiamo già scritto, non va considerato come una sorta di paradiso per l'embrione poiché, prima di accettarlo e proteggerlo da tutti gli stimoli (interni ed esterni) con cui dovrà confrontarsi dopo la nascita, gli è stato ostile a causa dell'incompatibilità cellulare delle primissime fasi della gravidanza."
+      },
+      {
+        type: "p",
+        text: "Si può dunque ipotizzare che le donne che hanno vissuto con maggiore intensità questo stato di malessere-insicurezza-paura della prima infanzia, trovandosi dopo il parto a stretto contatto con un neonato, percepiscano che riaffiora, anche se non si rendono conto di cosa si tratti."
+      },
+      {
+        type: "p",
+        text: "Come se mettersi nei panni di un bebè appena nato facesse ritrovare dei vissuti traumatici in grado di determinare la propria capacità di capirlo e di accudirlo!"
+      },
+      {
+        type: "highlight",
+        text: "Questo spiegherebbe il motivo profondo per cui certe mamme, in crisi nelle prime settimane di vita del bambino, cominciano a «funzionare» meglio man mano che il piccolo cresce!"
+      },
+      {
+        type: "p",
+        text: "Per una mamma tuttavia, capire le ragioni per cui queste difficoltà si presentano non basta per superarle, né cancella il rincrescimento di non aver goduto di questo periodo di vita del suo bambino. Periodo di fondamentale importanza per acquisire la sicurezza che gli servirà per affrontare molte situazioni della sua vita futura e che la mamma gli potrà comunque dare in seguito, soprattutto se, lavorando su se stessa, si staccherà da ciò che l'ha condizionata quando era bambina."
+      }
+    ]
+  },
+  {
+    id: 64,
+    slug: "il-cesareo-come-viene-vissuto-dalle-gravide",
+    title: "Il cesareo: come viene vissuto dalle gravide",
+    excerpt: "Perché alcune donne difendono il parto spontaneo «a qualsiasi costo» e altre chiedono di programmare il cesareo fin dall'inizio della gravidanza: due atteggiamenti opposti che nascondono la stessa paura del distacco.",
+    keywords: "parto cesareo, parto spontaneo, paura del parto, distacco dal bambino, vissuto psicologico del cesareo",
+    category: "Parto",
+    date: "2 luglio 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#6B4A4A",
+    content: [
+      {
+        type: "p",
+        text: "È molto diverso lo stato d'animo con cui si pensa al cesareo in gravidanza o se lo si affronta senza preavviso, a causa di qualche imprevisto che non permette (o che rende rischiosa) la nascita fisiologica del bambino. In questi casi è inevitabile che il cesareo sia vissuto con grande ansia, che riguarda soprattutto la salute del piccolo. La madre, spesso stanca e sofferente dopo ore di travaglio improduttivo, lo attende come la soluzione alla sua fatica e alla sua sofferenza: non ha il tempo (e spesso neanche la forza) per tentare di opporsi a qualcosa che è inevitabile, anche se non è il parto che aveva immaginato."
+      },
+      {
+        type: "p",
+        text: "In base alla propria struttura psichica e alle proprie fantasie inconsce, ogni donna ha delle aspettative su come vorrebbe che si svolgesse il suo parto e vive in modo diverso la possibilità di doversi sottoporre a un cesareo, che è demonizzato o desiderato fino al punto di essere preferito a un parto spontaneo che spaventa più dell'operazione chirurgica."
+      },
+      {
+        type: "p",
+        text: "Ma cosa si nasconde dietro queste preferenze? È solo un'esperienza negativa vissuta personalmente o sentita raccontare che porta la donna a schierarsi per un certo tipo di parto?"
+      },
+      {
+        type: "p",
+        text: "Se il desiderio di un parto spontaneo, fisiologico, poco medicalizzato riguarda la maggior parte delle gravide, si distinguono due categorie di donne che, fin da quando restano incinte, esprimono la pretesa di scegliere come partorire, anteponendo la loro richiesta alla valutazione obiettiva che solo il ginecologo che le segue in gravidanza e/o al momento del parto può essere in grado di fare."
+      },
+      {
+        type: "p",
+        text: "Alcune vogliono un parto spontaneo «a qualsiasi costo», per non intralciare lo svolgimento naturale dell'evento: dunque chiedono di evitare l'induzione anche se potrebbero esserci delle ragioni per farla, vogliono partorire spontaneamente anche se il bambino non è ben posizionato, rifiutano l'epidurale anche se potrebbe mitigare il dolore ecc."
+      },
+      {
+        type: "p",
+        text: "Questa presa di posizione, che deve per forza essere abbandonata là dove l'intervento medico diventi indispensabile, è motivata dal fatto che il bisogno di sentirsi protagoniste del loro parto è sentito come fondamentale per stabilire un legame con il bambino. Dimenticano però che, se questo si è creato durante i nove lunghi mesi di gravidanza, non è il «breve» momento del parto a mutarlo, anche nel caso in cui la madre non fosse sveglia e vigile a sentirlo uscire da sé. Sembra quasi che queste mamme abbiano bisogno di partecipare attivamente alla nascita del bambino per rendersi conto del distacco che implica. Tuttavia, se è inevitabile prendere atto della separazione sotto l'aspetto fisico, è ben più difficile accettarla sotto quello psicologico. Quante donne, che pur hanno partorito secondo i loro desideri, continuano a vivere il bambino come se ancora facesse parte di loro, senza cercare di vederlo come essere a sé stante, con caratteristiche e desideri anche diversi dai propri!"
+      },
+      {
+        type: "p",
+        text: "All'opposto ci sono donne che rifiutano l'idea del parto spontaneo e fin dall'inizio della gravidanza chiedono di programmare il cesareo."
+      },
+      {
+        type: "p",
+        text: "Le motivazioni possono essere diverse: non sopportare di vivere nell'incertezza della data della nascita, la paura del dolore fisico, il demandare a un'équipe medica un compito così importante."
+      },
+      {
+        type: "p",
+        text: "È come se il desiderio di controllare e/o saltare il momento del parto, passando dall'essere incinte all'avere il bebè tra le braccia, fosse così forte da non far capire che il cesareo è un'operazione che comporta maggiori rischi e una convalescenza più lunga di un parto fisiologico: perciò andrebbe praticato solo quando c'è una reale necessità."
+      },
+      {
+        type: "highlight",
+        text: "I due modi di considerare il cesareo paiono opposti, ma in realtà prendono origine dalla stessa paura profonda di staccarsi dal bambino, che riattiva le ansie infantili di distacco dalla propria madre, gestite in modo diverso in base ai propri vissuti."
+      },
+      {
+        type: "p",
+        text: "Sarebbe quindi auspicabile darsi la possibilità di approfondire cosa si nasconde dietro a «pretese» rigide e poco adattabili a situazioni che richiedono invece grande elasticità, perché possono evolversi in modo poco prevedibile."
+      }
+    ]
+  },
+  {
+    id: 65,
+    slug: "situazioni-concezionali-particolari",
+    title: "Situazioni concezionali particolari",
+    excerpt: "Concepimento con la spirale, gravidanze sopravvissute a tentativi di aborto, gemelli perduti: come queste circostanze possono lasciare tracce nella psiche del bambino, e perché la presenza del genitore può fare la differenza.",
+    keywords: "concepimento difficile, sopravvissuti prenatali, PMA, gravidanza a rischio, psicologia del concepimento",
+    category: "Prima di restare incinta",
+    date: "4 giugno 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#5A6B4A",
+    content: [
+      {
+        type: "p",
+        text: "Sottolineare la particolarità delle circostanze in cui può avvenire il concepimento non ha certo la finalità di considerare diversi e di svalutare i bambini che hanno cominciato la vita in situazioni difficili. Vuole invece sottolineare che l'influenza di certe situazioni particolari che hanno caratterizzato l'inizio della loro vita può essere modulata dal comportamento genitoriale, che è in grado di influire su quanto è avvenuto in tempi estremamente precoci. Infatti ciò che si è verificato al momento del concepimento o durante la gravidanza lascia inevitabilmente tracce nella psiche dei futuri bambini, che ne possono condizionare lo sviluppo successivo. La qualità della presenza del genitore diventa quindi determinante per migliorare quelle situazioni che hanno avuto un avvio difficile."
+      },
+      {
+        type: "p",
+        text: "Tra le circostanze particolari che si possono verificare al momento del concepimento o durante la gravidanza, vanno annoverate tutte quelle che mettono a repentaglio l'esistenza dell'embrione/feto. Ci si riferisce per esempio ai bambini che sono concepiti malgrado la presenza della spirale, meccanismo mortifero che dovrebbe impedire l'annidamento dell'embrione; a coloro che sopravvivono a pratiche abortive legali o clandestine*, o alla morte (naturale o provocata) di un gemello, o a un parto prematuro; a quelli che in PMA sono selezionati tra vari altri embrioni fecondati in vitro e surgelati per l'impianto in utero, o sfuggiti alla riduzione embrionale avvenuta dopo l'impianto."
+      },
+      {
+        type: "p",
+        text: "In tutti questi casi si tratta di «sopravvissuti prenatali» che, per essersi trovati a confronto con la reale possibilità di essere distrutti e di morire, possono essere paragonati agli adulti che hanno vissuto l'esperienza traumatica di essere sfuggiti a una morte che non ha risparmiato il gruppo di cui facevano parte (per esempio i sopravvissuti a un attacco terroristico, nei campi di concentramento, in un incidente che ha coinvolto più persone)."
+      },
+      {
+        type: "p",
+        text: "È stato osservato che dopo una di queste tragiche esperienze in molti di loro è possibile che si sviluppi una psicopatologia di tipo «tridimensionale», caratterizzata cioè"
+      },
+      {
+        type: "ul",
+        items: [
+          "da sensi di colpa, che si manifestano con sintomi depressivi, come se essere sopravvissuti rendesse responsabili della morte altrui;",
+          "da sensazione di onnipotenza, che si manifesta con il sentirsi eccezionali, come se la sopravvivenza rendesse indistruttibili;",
+          "dal bisogno di mettersi alla prova prendendosi rischi eccessivi."
+        ]
+      },
+      {
+        type: "p",
+        text: "Un genitore che conosce le difficoltà attraversate dal figlio al concepimento o durante la vita intrauterina, e che sa quali sintomi potrebbe manifestare nel corso del suo sviluppo, sarà dunque più attento a non minimizzare certe manifestazioni di per sé stesse non patologiche ma che potrebbero diventarlo, e a offrire perciò al figlio un supporto psicologico. In tal caso infatti è necessario un lavoro in profondità che permetta di scaricare la forte paura di morire che è stata provata, e che aiuti a non rimettersi in situazioni che potrebbero diventare realmente pericolose per la sua vita."
+      },
+      {
+        type: "highlight",
+        text: "* La madre del calciatore Cristiano Ronaldo ha tentato di abortirlo sottoponendosi alla fatica di lunghe corse quando ha scoperto di essere incinta!"
+      },
+      {
+        type: "p",
+        text: "Referenze: Bayle, L'embryon sur le divan, Masson, 2003"
+      }
+    ]
+  },
+  {
+    id: 66,
+    slug: "stress-e-maternita",
+    title: "Stress e maternità",
+    excerpt: "Perché la maternità, pur essendo un evento fisiologico, può diventare fonte di stress: come i traumi inconsci del passato influenzano il modo in cui si vive la gravidanza.",
+    keywords: "stress in gravidanza, psicologia della maternità, ansia in gravidanza, traumi inconsci, stress e feto",
+    category: "Prima di restare incinta",
+    date: "10 maggio 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#4A6B6B",
+    content: [
+      {
+        type: "p",
+        text: "Lo stress può essere definito come la risposta psicofisica messa in atto dall'individuo per adattarsi a una situazione pericolosa o a compiti percepiti come eccessivamente impegnativi. Questo porta a un sovraccarico sia fisiologico che psicologico la cui intensità varia da un individuo all'altro, visto che ognuno ha una diversa capacità di percepire, reagire e sopportare lo stress."
+      },
+      {
+        type: "p",
+        text: "Dal punto di vista fisico la reazione allo stress si associa a una maggiore secrezione di ormoni, tra cui glucocorticoidi, catecolamine, ormone della crescita e prolattina. Questo processo ha come scopo quello di incrementare la mobilizzazione delle fonti energetiche dell'organismo e portare l'individuo ad affrontare questa sua nuova situazione."
+      },
+      {
+        type: "p",
+        text: "Anche se esistono dei fattori di stress oggettivi (malattia/morte di persone vicine, rottura di relazioni, cambiamento di lavoro, problemi economici, trasferimenti, traslochi), è soprattutto il modo soggettivo di viverli che ne determina l'intensità. Questo permette di capire che lo stesso evento viene percepito, gestito, elaborato in modo diverso in base al carattere di ogni persona e al momento della vita in cui compare."
+      },
+      {
+        type: "p",
+        text: "La situazione del presente infatti si presta a essere lo schermo su cui proiettare traumi inconsci legati al passato e non sufficientemente elaborati, che per ognuno (o per la stessa persona in momenti diversi) si presentano con differente intensità."
+      },
+      {
+        type: "p",
+        text: "Lo stesso meccanismo sta alla base dello stress causato da eventi soggettivi, che in genere cioè non sono considerati stressanti: per esempio tutto ciò che riguarda la maternità."
+      },
+      {
+        type: "p",
+        text: "Per certe donne può essere fonte di stress perché risveglia ansie e paure rimosse che emergono a partire da una situazione fisiologica, capace di riportare a galla vissuti e desideri conflittuali inconsci relativi alla sua storia utero-infantile."
+      },
+      {
+        type: "p",
+        text: "Dunque, la domanda «se lo stress vissuto durante la gravidanza possa avere ripercussioni fisiche e/o emotive sul bambino» andrebbe riformulata. Infatti lo stress è solo la spia, la conseguenza dello sconvolgimento profondo che riguarda certe gravide: è soprattutto ciò che lo causa (e di cui spesso non si ha consapevolezza) che può essere nocivo per la salute del feto."
+      },
+      {
+        type: "highlight",
+        text: "Lo stress, malgrado il suo correlato di alterazioni somatiche, può essere visto come un prezioso campanello di allarme che, se si cerca di sopprimere senza aver lavorato sulle cause che lo hanno provocato, rischia di ripresentarsi sia prima che dopo il parto e influenzare negativamente il rapporto con il bambino."
+      },
+      {
+        type: "p",
+        text: "Referenze: Ranabir, 2011, Indian J Endocrinol Metab; S. McEwen, 2008, Eur J Pharmacol"
+      }
+    ]
+  },
+  {
+    id: 67,
+    slug: "allattamento-e-presenza-affettiva",
+    title: "Allattamento e presenza affettiva",
+    excerpt: "Non basta il seno: perché la qualità dell'allattamento dipende soprattutto dalla presenza affettiva, non solo fisica, di chi nutre il bebè.",
+    keywords: "allattamento al seno, presenza affettiva, sviluppo psicoaffettivo del neonato, qualità dell'allattamento",
+    category: "Allattamento",
+    date: "4 maggio 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#3F6B5A",
+    content: [
+      {
+        type: "p",
+        text: "L'allattamento al seno è sicuramente il modo migliore per nutrire e far crescere un neonato e per preservarlo, anche in futuro, da molte malattie. È dunque consigliato a tutte le mamme, perché possano praticarlo almeno nei primi mesi di vita del bebè. Tuttavia spesso non si tiene in considerazione che i benefici dell'allattamento riguardano, oltre alla qualità del latte materno, la disponibilità, soprattutto inconscia, con cui viene dato al bambino."
+      },
+      {
+        type: "p",
+        text: "Il pasto è un momento privilegiato di contatto con la mamma, che se è lontana, distratta da altro e non serenamente focalizzata sul piccolo, non può soddisfare i suoi bisogni affettivi anche se lo allatta al seno. La scarsa presenza materna stempera i benefici dell'allattamento al seno e rende problematico lo sviluppo psicoaffettivo del piccolo."
+      },
+      {
+        type: "p",
+        text: "L'attento esame fotografico fatto durante un lavoro psicoterapeutico permette di valutare la qualità della presenza di chi allatta il bebè e di rendersi conto, attraverso l'esame dei dettagli, di quelle che sono le sue reazioni."
+      },
+      {
+        type: "p",
+        text: "«Guardando attentamente due mie fotografie mentre venivo allattata, ho percepito una differenza che mi ha lasciato a bocca aperta. Una risale alla prima settimana di vita, sono in braccio a mia madre che mi allatta al seno. Questa foto non mi è mai piaciuta perché mi sembra che lei sia assente, poco spontanea, impacciata nel tenermi in braccio. Guardando attentamente il suo viso mi pare che mi dia il seno con distacco, senza guardarmi, senza un gesto d'affetto; forse è distratta da problemi che non mi riguardano e che captano tutta la sua attenzione. Io sembro essere scomoda, non a mio agio, anche se la mia testa è appoggiata contro di lei; come se non apprezzassi il contatto con il suo corpo e il buon latte che sazia la mia fame.»"
+      },
+      {
+        type: "p",
+        text: "«L'altra foto risale a qualche settimana più tardi, devo avere poco più di un mese e sono allattata dalla tata al biberon. Sono nello stesso posto dell'altra foto, ma questa è così diversa che mi sembra un altro luogo, e non solo perché c'è più luce, ho un altro vestitino e qualche capello in più. La differenza non sta neanche nel fatto che c'è un'altra persona al posto di mia madre. In questa foto sono diversa io perché, tra le braccia della mia tata che mi guarda sorridente, sono serena, distesa, rilassata. Faccio tutt'uno con il suo corpo e mentre succhio il biberon ho gli occhi socchiusi, come se stessi sognando, mentre la sua mano mi accarezza. È come se dicessi che bello mangiare, essere accarezzata, sognare!»"
+      },
+      {
+        type: "p",
+        text: "Vicino a una mamma psicologicamente lontana, che pare indifferente e incapace di esprimere un caloroso affetto, la neonata è tesa, rigida, contratta; anziché abbandonarsi sembra volersi allontanare dalle braccia materne."
+      },
+      {
+        type: "p",
+        text: "Ben diversa appare invece nelle fotografie con la tata che la guarda, l'accarezza, le offre il calore e l'affetto che le permettono di rilassarsi durante la poppata."
+      },
+      {
+        type: "highlight",
+        text: "Quello che il neonato chiede, fin dai primi giorni di vita, è la piena soddisfazione dei suoi bisogni: ciò che conta per il suo sviluppo psicologico è la presenza affettiva e non solo fisica della persona che gli sta accanto. Tanto meglio poi, se in condizioni ottimali, gli si offre l'alimento migliore per la sua crescita!"
+      }
+    ]
+  },
+  {
+    id: 68,
+    slug: "il-figlio-in-sostituzione",
+    title: "Il figlio «in sostituzione»",
+    excerpt: "Dopo la perdita di un figlio, concepirne subito un altro non aiuta a elaborare il lutto: i rischi psicologici di un'«identità concezionale» costruita per colmare un vuoto.",
+    keywords: "figlio in sostituzione, lutto perinatale, identità concezionale, perdita di un figlio, psicologia del lutto",
+    category: "Prima di restare incinta",
+    date: "1 maggio 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#6B5A6B",
+    content: [
+      {
+        type: "p",
+        text: "Quando una coppia vive la dolorosa esperienza di perdita di un figlio (già esistente o in fase avanzata di gravidanza) e sprofonda in una situazione di lutto, spesso crede che concepire subito un altro bambino sia il modo migliore per tornare a vivere."
+      },
+      {
+        type: "p",
+        text: "Di fronte alla sofferenza che prova dopo un tale trauma, alla sensazione insopportabile e funesta di non essere in grado di allevare (o fare) un bambino, concepirne un altro porta a guardare avanti senza lasciarsi sopraffare da quanto avvenuto, ma non aiuta a rielaborare il lutto, ossia a effettuare il disinvestimento affettivo dal figlio che non c'è più per poter reinvestire l'affetto su uno che ci sarà."
+      },
+      {
+        type: "p",
+        text: "Questo non significa dimenticarlo o non provare più affetto per lui, ma riuscire ad accettarne la morte, altrimenti il nuovo arrivato esisterà solo come suo sostituto e sarà caricato, fin dal momento del concepimento, dalle problematiche dei genitori, che gli renderanno inevitabilmente difficile e dolorosa la vita."
+      },
+      {
+        type: "p",
+        text: "È facile infatti che un bambino che si porta dietro un'identità concezionale* di «figlio in sostituzione» possa sviluppare dei problemi psicopatologici, legati al fatto di non sentirsi amato per come è ma solo perché è lì al posto dell'altro, di essere paragonato a un fratello con doti irraggiungibili perché idealizzato, di sentirsi in colpa come se fosse stato la causa della morte dell'altro, dal momento che, se non fosse avvenuta, lui non ci sarebbe."
+      },
+      {
+        type: "p",
+        text: "La psicoterapia, per i genitori che vivono la perdita di un figlio e che pensano di concepirne un altro, può essere un valido aiuto per favorire la differenziazione tra quello scomparso e quello che ci sarà, oltre che per velocizzare il lavoro del lutto."
+      },
+      {
+        type: "p",
+        text: "Infatti se questa elaborazione non avviene nel profondo dei genitori, il futuro figlio finirà di essere il sostituto dell'altro, come capita in certe situazioni in cui gli viene dato lo stesso nome o la sua nascita avviene «casualmente» in una data significativa per l'altro."
+      },
+      {
+        type: "p",
+        text: "Anche se un «bambino in sostituzione» ha un inizio della vita più difficile per il contesto in cui è stato concepito, che potrebbe turbare il suo sviluppo, non esiste una sindrome identificabile legata a questa situazione. In base alle sue caratteristiche psichiche e alla intensità e persistenza dell'atmosfera di lutto che lo circonda, la sua evoluzione può essere assolutamente normale."
+      },
+      {
+        type: "highlight",
+        text: "Tuttavia è facile prevedere che incontrerà maggiori difficoltà per riuscire ad affermare la sua identità, dal momento che non è stato concepito per se stesso ma per colmare il vuoto lasciato da qualcun altro, e per superare le diverse fasi di separazione sia dell'infanzia che durante l'adolescenza per raggiungere l'indipendenza. Infatti dopo la perdita di un figlio i genitori che inevitabilmente hanno provato sensi di colpa, anche se questa è avvenuta senza alcuna loro responsabilità, tendono a diventare iperprotettivi, soffocanti, come per evitare che il dramma possa ripetersi."
+      },
+      {
+        type: "p",
+        text: "* L'identità concezionale è l'insieme delle caratteristiche relative alle circostanze in cui un bambino viene concepito."
+      }
+    ]
+  },
+  {
+    id: 69,
+    slug: "il-sadismo-verso-la-donna-incinta",
+    title: "Il sadismo verso la donna incinta",
+    excerpt: "Perché tante persone raccontano alle donne incinte i dettagli più angoscianti di parti difficili: dietro questo «sadismo» si nasconde spesso una gelosia infantile mai elaborata.",
+    keywords: "sadismo verso la gravida, ansie in gravidanza, gelosia infantile, conflitti inconsci, psicologia della gravidanza",
+    category: "Gravidanza",
+    date: "26 aprile 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#7A3F4A",
+    content: [
+      {
+        type: "p",
+        text: "Le donne in genere amano parlare della loro gravidanza (in corso o vissuta precedentemente) e del parto, si confrontano, si danno consigli, con le migliori intenzioni cercano di mettere in guardia le altre dalle difficoltà che hanno vissuto. A volte hanno bisogno di descrivere dettagliatamente le situazioni che hanno affrontato, soprattutto quando sono state difficili per non dire tragiche. E spesso non si rendono conto che le gravide preferirebbero non essere documentate su tutto ciò che non fa altro che stimolare (o incrementare) certe paure, più o meno latenti."
+      },
+      {
+        type: "p",
+        text: "Si può dire che durante la gravidanza, la maggior parte delle donne è vittima di questa esperienza, che può essere definita «sadismo verso la donna incinta»."
+      },
+      {
+        type: "p",
+        text: "Questo tipo di sadismo può essere considerato un vero e proprio «sintomo» che non riguarda ovviamente la gravida ma la sua interlocutrice, in quanto funge da spia di una serie di conflitti rimossi che riemergono di fronte alla gestante che, in quanto tale, ha la capacità di far riaffiorare affetti e immagini lontane e conflittuali."
+      },
+      {
+        type: "p",
+        text: "Durante l'infanzia infatti capita di confrontarsi con la gravidanza di una persona affettivamente più o meno importante: è una situazione che pone di fronte all'eventualità di venir messi in disparte e di perdere l'amore di chi si ama. Questa esperienza è fonte di sentimenti ambivalenti di diversa intensità, che variano da una persona all'altra in base all'età in cui si è verificata, alla qualità del legame con la donna incinta, al modo in cui è avvenuto il coinvolgimento nella sua gravidanza."
+      },
+      {
+        type: "p",
+        text: "L'intensità della gelosia provata causa e alimenta i desideri aggressivi inconsci sia verso la persona amata che verso il nascituro."
+      },
+      {
+        type: "p",
+        text: "Tali desideri, che possono sembrare inaccettabili, celano tuttavia uno smisurato amore per l'oggetto a cui sono rivolti, in quanto esprimono l'utopia di possederlo in modo totale e incondizionato."
+      },
+      {
+        type: "p",
+        text: "L'«attacco sadico», rivolto a una donna incinta, costituisce dunque lo scoppio di questo conflitto inconscio rimosso, che ha come bersaglio un personaggio che appartiene alla propria infanzia. La gravida dunque funge solo da sostituto di qualcun altro, a cui vengono rivolti certi desideri presenti nell'inconscio altrui."
+      },
+      {
+        type: "p",
+        text: "Questa analisi tuttavia non permette ancora di comprendere perché la donna incinta possa restare particolarmente colpita da questi attacchi sadici. Va detto infatti che questo capita se riportano a galla in lei gli stessi desideri infantili inconsci menzionati che, a causa dei sensi di colpa, durante la gravidanza le si ritorcono contro."
+      },
+      {
+        type: "highlight",
+        text: "Molte ansie della gravida derivano dunque dalla paura della «legge del taglione»: tanto più da bambina ha provato desideri aggressivi verso la madre incinta (o un suo sostituto), tanto più durante la gravidanza, temendo la loro possibile realizzazione, tenderà a identificarsi nelle situazioni angosciose che le verranno raccontate."
+      }
+    ]
+  },
+  {
+    id: 70,
+    slug: "importanza-circostanze-concepimento",
+    title: "L'importanza delle circostanze in cui un bambino viene concepito",
+    excerpt: "Ereditarietà, ontogenesi e circostanze del concepimento: come nasce l'«identità concezionale» dell'embrione secondo lo psichiatra perinatale B. Bayle, e perché conta per lo sviluppo futuro del bambino.",
+    keywords: "identità concezionale, Bernard Bayle, circostanze del concepimento, psicologia perinatale, sviluppo psichico del nascituro",
+    category: "Prima di restare incinta",
+    date: "24 aprile 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#4A5A6B",
+    content: [
+      {
+        type: "p",
+        text: "Ogni essere umano ha delle peculiarità che lo rendono unico, sia dal punto di vista somatico che psichico. Queste caratteristiche sono determinate da tre fattori:"
+      },
+      {
+        type: "ul",
+        items: [
+          "l'ereditarietà, ossia la trasmissione alla prole di caratteristiche morfologiche, fisiologiche e psichiche presenti nel patrimonio genetico degli ascendenti;",
+          "l'ontogenesi, ossia l'insieme dei processi di sviluppo che avvengono a partire dalla fecondazione fino alla nascita;",
+          "le circostanze del concepimento."
+        ]
+      },
+      {
+        type: "p",
+        text: "Secondo lo psichiatra perinatale francese B. Bayle l'embrione non è solo un corpo biologico ma è il portatore di una storia che riguarda le circostanze in cui è stato concepito da genitori con specifiche caratteristiche psicosocioculturali, in quel preciso istante della loro vita e del loro rapporto."
+      },
+      {
+        type: "p",
+        text: "Queste caratteristiche ne determinano l'identità concezionale, che l'embrione possiede senza averne coscienza, ma che influisce sull'elaborazione delle rappresentazioni materne. La madre, infatti, durante la gravidanza proietta sull'essere concepito desideri e paure che provengono non solo dalle sue esperienze del passato ma che sono influenzate anche dalle circostanze e dalle modalità del concepimento."
+      },
+      {
+        type: "p",
+        text: "La rappresentazione del bambino, lo spazio mentale che la madre gli costruisce durante la gravidanza, l'investimento affettivo verso il nascituro variano molto in base alle circostanze del concepimento. Per esempio basta pensare alla differenza di sensazioni che una donna può provare verso un figlio concepito in una situazione di amore e di tenerezza con il partner o verso quello che è il frutto di uno stupro o di un incesto."
+      },
+      {
+        type: "p",
+        text: "L'identità concezionale, attraverso il vissuto materno che suscita, influisce e condiziona lo sviluppo psichico del nascituro. Tuttavia, anche se l'inizio della vita si presenta più difficile per il bambino concepito in situazioni particolari come quelle menzionate, non significa che il suo futuro sia negativamente determinato. Infatti, in base alle sue capacità di resilienza* e alla situazione psicoaffettiva in cui vivrà, non necessariamente svilupperà sintomi psicopatologici."
+      },
+      {
+        type: "p",
+        text: "Se le situazioni descritte per chiarire l'impatto che ha l'identità concezionale sul futuro del bambino sono agli antipodi (buon rapporto tra i genitori rispetto a stupro o incesto), ve ne sono anche altre in cui le modalità del concepimento possono influire sullo sviluppo psichico del nascituro e influenzare le sue relazioni affettive."
+      },
+      {
+        type: "highlight",
+        text: "Per esempio quando il concepimento non avviene in modo naturale ma attraverso la fecondazione artificiale, o quando il bambino è concepito per sostituirne un altro che non c'è più. In questi casi, che avremo modo di descrivere prossimamente, è sempre di fondamentale importanza il supporto psicoterapeutico alla madre, per evitare di «caricare» il nascituro di ansia, paura, dolore che non dovrebbero riguardarlo ma che gli conferiscono una identità concezionale evocatrice di tragedie non elaborate che potrà influenzare negativamente la sua vita."
+      },
+      {
+        type: "p",
+        text: "* Capacità «autoriparativa» dello psichismo che riesce a fronteggiare le esperienze traumatiche e a riorganizzarle positivamente malgrado le avversità."
+      }
+    ]
+  },
+  {
+    id: 71,
+    slug: "la-paura-della-madre-di-fare-del-male-al-suo-bambino",
+    title: "La paura della madre di fare del male al suo bambino",
+    excerpt: "Quasi tutte le neomamme provano, almeno una volta, pensieri intrusivi di poter far male al proprio bambino: quando è normale e quando invece si tratta di disturbo ossessivo compulsivo post partum.",
+    keywords: "paura di fare del male al bambino, pensieri intrusivi, DOC post partum, disturbo ossessivo compulsivo, puerperio",
+    category: "Puerperio",
+    date: "19 aprile 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#5A4A6B",
+    content: [
+      {
+        type: "p",
+        text: "Come sosteneva Freud la differenza tra la normalità e la patologia non riguarda tanto la qualità di certe manifestazioni ma la frequenza e l'intensità con cui si presentano: questo significa che, pur evidenziando le stesse caratteristiche, non sempre sono l'espressione di uno stato patologico."
+      },
+      {
+        type: "p",
+        text: "Mi riferisco per esempio alla paura della madre di fare male al suo bambino. Ogni donna che diventa madre la prova, con sfumature diverse ma soprattutto con intensità diversa."
+      },
+      {
+        type: "p",
+        text: "Non ha nulla di patologico nella donna che, priva di esperienza di accudimento, teme di far male al suo piccolo svolgendo gli atti della quotidianità: cambiarlo, vestirlo, nutrirlo, lavarlo. In genere l'iniziale sensazione di estraneità verso il bambino, da cui deriva la paura della mamma, è sostituita dalla capacità di «maneggiarlo» senza timore, fino al sapere come prenderlo per calmarlo se piange o per farlo addormentare. E neppure è patologico il pensiero che a volte attraversa la mente della mamma di fronte al bebè inerme e totalmente dipendente da lei, di potergli fare «qualsiasi cosa», senza che sia in grado di difendersi."
+      },
+      {
+        type: "p",
+        text: "Si tratta di pensieri comuni a tutte le donne, che insorgono all'improvviso e che scompaiono senza che venga elaborata nessuna strategia per metterli in atto o per cercare di reprimerli."
+      },
+      {
+        type: "p",
+        text: "Nonostante ciò ci sono mamme molto angosciate dall'irruzione improvvisa di pensieri di questo tipo, che compaiono in rottura con quello a cui stanno pensando e che richiedono molta energia per essere tenuti a bada. Si spaventano per quello che la loro mente elabora, si sentono in colpa, temono che queste idee (su cui non smettono di rimuginare) possano realizzarsi, tanto che, per mettersi al riparo da nefaste conseguenze, si allontanano dal bambino affidandolo il più possibile ad altri, evitando di occuparsene. Questo atteggiamento ovviamente non permette di godere del tempo da trascorrere insieme e si riflette sulla qualità del legame che creano col bambino."
+      },
+      {
+        type: "p",
+        text: "In questi casi, caratterizzati da pensieri intrusivi intensi, continui, vissuti come se le paure che esprimono potessero realizzarsi, si parla di DOC, disturbo ossessivo compulsivo, che richiede spesso il ricorso a una terapia farmacologica oltre che psicoterapeutica."
+      },
+      {
+        type: "p",
+        text: "Il DOC è caratterizzato da ossessioni che creano ansia (dall'essere la causa di attacchi aggressivi verso il figlio al non essere abbastanza attenta alla sua incolumità) e da compulsioni, ossia da azioni che si sentono obbligate a eseguire per tenere l'ansia sotto controllo. Per esempio la madre che teme di poter buttare il figlio nel vuoto, oltre a evitare di uscire sul balcone col bambino in braccio, deve continuamente accertarsi di avere chiuso ermeticamente tutte le finestre di casa, come a costituire una barriera che lo protegga da un atto che lei stessa potrebbe commettere. Proprio grazie ad accorgimenti di questo tipo, per quanto espressi in modo patologico, si può dire che il bambino non corre dei reali rischi accanto a una madre affetta da DOC, che non ha l'intenzione di fargli del male ma teme di poterglielo fare, spinta da forze che non è in grado di controllare e dalle quali lo deve proteggere."
+      },
+      {
+        type: "highlight",
+        text: "Il DOC, che può già manifestarsi durante la gravidanza, ma che in genere fa la sua comparsa nel post partum, non deve essere trascurato perché influisce pesantemente sulla qualità di vita di questo periodo."
+      }
+    ]
+  },
+  {
+    id: 72,
+    slug: "utilita-psicoterapia-in-gravidanza",
+    title: "Utilità della psicoterapia in gravidanza (soprattutto in certi casi)",
+    excerpt: "Perché la gravidanza, con la sua maggiore «trasparenza psichica», è un momento in cui la psicoterapia può fare la differenza, soprattutto per le donne con una storia di difficoltà psichiche o in cura con psicofarmaci.",
+    keywords: "psicoterapia in gravidanza, trasparenza psichica, psicofarmaci in gravidanza, psicoterapia analitica, salute mentale perinatale",
+    category: "Gravidanza",
+    date: "12 aprile 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#3F5A6B",
+    content: [
+      {
+        type: "p",
+        text: "La gravidanza è un periodo in cui le censure tra i diversi strati della psiche si ammorbidiscono; come sostiene M. Bydlowski (psichiatra e psicoanalista francese esperta in perinatalità), la gravida ha una maggiore «trasparenza psichica», che significa che è più portata a lasciar emergere e a connettersi con la sua storia, non solo presente ma anche passata, e con le figure fondamentali della sua vita."
+      },
+      {
+        type: "p",
+        text: "La gravidanza infatti apre una breccia nel passato più remoto della donna, in quanto riattiva i vissuti che ha provato non solo nella prima infanzia ma anche nella vita intrauterina. È come se, per entrare in feedback con il suo bambino, la donna tornasse, inconsapevolmente, alla sua condizione intrauterina/infantile. Inevitabilmente però questa irruzione del passato riporta a galla, riattualizza anche la conflittualità che ognuna, in base alla propria storia e al proprio terreno psichico, ha vissuto con maggiore o minore intensità."
+      },
+      {
+        type: "p",
+        text: "Se per tutte le donne dunque la psicoterapia in gravidanza è un aiuto di inestimabile valore per prepararsi a essere mamma, per riuscire a scaricare e scindere le proprie problematiche dal rapporto con il bambino, per prevenire un accumulo di tensioni che altrimenti, inevitabilmente, tenderebbe a esprimersi con dei sintomi più o meno gravi, in certi casi si rivela indispensabile."
+      },
+      {
+        type: "p",
+        text: "Mi riferisco alle donne a cui le difficoltà radicate in un lontano passato si sono già ripresentate in momenti della vita precedenti la gravidanza; o a quelle che le avevano tenute sotto controllo fino a quando la spinta pulsionale di questo periodo le ha fatte riemergere, come capita a chi manifesta per la prima volta sintomi psichici mai apparsi prima di essere incinta."
+      },
+      {
+        type: "p",
+        text: "La psicoterapia (soprattutto quella di tipo analitico*) dà la possibilità di «canalizzare» l'affetto che accompagna gli stati d'animo e i ricordi verbalizzati attraverso le parole, o le emozioni provate ricordando certe situazioni, certe persone, certi momenti della propria vita. Tradurre in parole i propri pensieri, dare voce alle proprie emozioni aiuta a far defluire fisiologicamente l'affetto che, se resta bloccato, incistato, finisce per creare i sintomi."
+      },
+      {
+        type: "p",
+        text: "In particolare il ricorso alla psicoterapia dovrebbe essere non solo necessario ma indispensabile (anche se purtroppo non sono molti i ginecologi che la consigliano) per la donna in cura con psicofarmaci che, all'inizio di una gravidanza (programmata o no), deve decidere insieme al suo medico che cosa fare: continuare la cura o sospenderla, con il rischio di una ricaduta che può avere conseguenze anche per il feto. La scelta, non semplice, può essere motivo di ansia, tanto in un caso che nell'altro. Infatti le paure, tipiche di tutte le gravide, di poter partorire un bambino «anormale» possono venire intensificate dall'assunzione degli psicofarmaci. A volte le parole rassicuranti dello psichiatra che, in base agli studi epidemiologici fatti su quel farmaco, sa che le probabilità teratogene non aumentano prendendolo, non bastano a tranquillizzare la gravida. D'altra parte però neanche la gravidanza senza farmaci è priva di rischi a causa delle possibili ricadute."
+      },
+      {
+        type: "highlight",
+        text: "A maggior ragione dunque, per coloro in cui la conflittualità profonda si è già manifestata con sintomi di riconosciuta gravità, poter approfittare regolarmente di una «valvola di scarico» come la seduta con lo psicoterapeuta è di grande aiuto per evitare accumuli di tensione e per prevenire la comparsa o la riacutizzazione di una sintomatologia dolorosa, invalidante e nociva per il piccolo in via di formazione."
+      },
+      {
+        type: "p",
+        text: "* Si tratta di un trattamento psicoterapeutico basato sulla teoria psicoanalitica, ma con modalità di frequenza e durata inferiori."
+      }
+    ]
+  },
+  {
+    id: 73,
+    slug: "madre-sola",
+    title: "Madre sola",
+    excerpt: "Dalla madre nubile che sceglie consapevolmente di avere un figlio da sola alla madre che si ritrova sola per circostanze della vita: cosa significa, dal punto di vista psicologico, allevare un bambino senza un partner.",
+    keywords: "madre single, madre nubile, PMA per single, famiglia monogenitoriale, psicologia della maternità solitaria",
+    category: "Puerperio",
+    date: "29 marzo 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#6B4A5A",
+    content: [
+      {
+        type: "p",
+        text: "Quando si parla di «madre sola» ci si riferisce a situazioni con caratteristiche molto diverse tra di loro. Infatti oltre che alla madre nubile si pensa anche alla madre che, pur essendo inserita in una «regolare» famiglia, nel dopo parto vive uno stato depressivo che condiziona e impoverisce la qualità delle sue relazioni affettive, dandole la sensazione che siano inesistenti; o alla madre che è stata portata in questa situazione da circostanze della vita che non avrebbe scelto: l'interruzione del rapporto col partner a causa della fine di un legame affettivo o del suo decesso. Queste situazioni sono vissute con grande sofferenza dalla donna che si trova a fronteggiare un periodo di inevitabile cambiamento dovuto alla nascita del bambino in condizioni di grande fragilità affettiva, che si manifesta più ancora che durante la gravidanza nel post partum. In questo periodo in cui manca la possibilità di sentirsi accudita e supportata dal partner sia a livello psicologico che pratico, anche la presenza del bambino, per quanto amato e desiderato, può diventare causa di intenso dolore, dal momento che risveglia il ricordo di sogni che non si sono realizzati e/o la nostalgia per la perdita di una persona che non c'è più e che invece si sarebbe voluta vicina."
+      },
+      {
+        type: "p",
+        text: "Ma è soprattutto della madre nubile che ci vogliamo occupare, di quella cioè che decide di mettere al mondo e allevare un bambino senza avere un compagno."
+      },
+      {
+        type: "p",
+        text: "Oggi sono sempre più numerose le donne che fanno questa scelta, spesso perché vedono che il tempo incalza e non vogliono perdere la possibilità di avere un figlio, anche se non riescono a instaurare una relazione soddisfacente e duratura. Per realizzare questo desiderio si rivolgono alla PMA o cercano la gravidanza con un partner occasionale o che rifiuta di assumersi le responsabilità che la paternità comporta."
+      },
+      {
+        type: "p",
+        text: "Ma cosa spinge una donna ad avere un bambino «da sola»?"
+      },
+      {
+        type: "p",
+        text: "Al di là dei motivi razionali che giustificano questa scelta, sarebbe necessario approfondire da quali desideri inconsci sia sostenuta."
+      },
+      {
+        type: "p",
+        text: "Se per qualsiasi persona la procreazione è legata al desiderio di sopravvivere alla propria morte attraverso la continuazione del suo DNA, anche altri desideri la supportano. Primo tra tutti quello di tornare alla propria infanzia per ripetere esperienze di soddisfacimento o per cercare, grazie all'identificazione col bambino, di superare quelle di frustrazione che non sono state metabolizzate."
+      },
+      {
+        type: "p",
+        text: "Per esempio, si può ipotizzare che in coloro che optano per questa scelta si siano ripresentati inconsciamente vissuti della prima infanzia caratterizzati da un forte desiderio narcisistico di completezza sessuale, ossia di essere uomo e donna allo stesso tempo, dunque di poter anche avere un bambino da sola. Nella realtà infatti l'altro viene «usato» solo sotto l'aspetto «tecnico», per raggiungere il risultato, poi viene considerato del tutto inutile."
+      },
+      {
+        type: "p",
+        text: "Queste madri però rischiano di dimenticare che l'uovo/embrione/feto/bambino non è, come vorrebbero, «la parte mancante» di loro stesse, come spesso danno a intendere con il loro comportamento, ma è costituito geneticamente per metà anche da quell'altro che loro cancellano: dunque è un essere con una sua specifica identità che spesso rifiutano di riconoscere."
+      },
+      {
+        type: "p",
+        text: "Il pericolo maggiore che si corre nell'allevare un figlio da sole, a prescindere dalla scelta di averlo voluto anche in mancanza di un partner, sta proprio nella facilità di creare un legame simbiotico col figlio/a, di «inglobarlo» psicologicamente, di non permettergli di uscire dalla fase fusionale."
+      },
+      {
+        type: "p",
+        text: "Proprio a questo serve la figura del padre: ad aiutare il bambino a superare gli stretti confini della diade materna, tanto necessaria durante i primi mesi di vita quanto soffocante in seguito se una terza persona non vi si inserisce."
+      },
+      {
+        type: "highlight",
+        text: "Dunque, affinché l'evoluzione del bambino di una madre «sola» non sia diversa da quella del figlio di una coppia, è necessario che nel rapporto simbiotico iniziale si inserisca un «elemento separatore» (non necessariamente deve essere il compagno della mamma), che sia presente con continuità e regolarità presso il piccolo; e che, in base alle domande che il bambino farà a proposito della sua situazione, gli vengano spiegate le circostanze della sua nascita, perché la non chiarezza relativa alle proprie origini può essere molto più nociva di una verità spiegata con delicatezza e con parole adatte al suo grado di maturità."
+      }
+    ]
+  },
+  {
+    id: 74,
+    slug: "in-che-modo-il-bebe-diventa-una-persona",
+    title: "In che modo il bebè diventa una persona?",
+    excerpt: "Dalla «preoccupazione materna primaria» di Winnicott al legame fusionale dei primi mesi: come la qualità della presenza materna aiuta il bebè a costruire la propria individualità.",
+    keywords: "preoccupazione materna primaria, Winnicott, sviluppo dell'identità, legame fusionale, primi mesi di vita",
+    category: "Neonato/Lattante (0-1 anni)",
+    date: "22 marzo 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#3F6B6B",
+    content: [
+      {
+        type: "p",
+        text: "Quando viene al mondo l'essere umano è un grande prematuro, anche se è nato a termine. Non sa di esistere e non è in grado di sopravvivere senza la presenza di qualcuno che lo accudisca. All'inizio della sua vita le sensazioni negative di dolore, di smarrimento, di angoscia prevalgono: il pianto esprime la sua difficoltà a respirare, il senso di pesantezza che prova dal momento che passa da un ambiente liquido a uno aeriforme, la fame che gli crea una forte dolorosa tensione che non è ancora in grado di alleviare attraverso la rappresentazione del cibo. Se non viene aiutato a superarle, queste sensazioni lasciano nella sua psiche tracce indelebili che possono ripresentarsi in certe malattie mentali."
+      },
+      {
+        type: "p",
+        text: "Si capisce dunque quanto sia importante nei primi 4/5 mesi di vita un gratificante rapporto fusionale con la madre, vissuta come parte di se stesso, come suo prolungamento che gli permette la sopravvivenza. Da questo legame così stretto tuttavia deve poi uscire, altrimenti rimane imbrigliato in uno stato di confusione con la madre che non gli permette di svilupparsi nella sua individualità. Più questa relazione sarà stata soddisfacente per entrambi i membri della diade, più saranno in grado di affrontare senza troppe difficoltà una successiva e necessaria tappa di sviluppo."
+      },
+      {
+        type: "p",
+        text: "Il legame tra la madre e il bebè che caratterizza i primi mesi di vita (e che spesso le mamme dimenticano di aver vissuto) viene chiamato da Winnicott (pediatra e psicoanalista inglese) «preoccupazione materna primaria»."
+      },
+      {
+        type: "p",
+        text: "È descritto come una condizione psicologica particolare della madre che riguarda la fine della gravidanza e le prime settimane di vita del bebè; è caratterizzata da una estrema sensibilità che permette alla donna di sintonizzarsi col suo bambino, di capirne i bisogni, gli stati d'animo. Se non fosse legato alla nascita, questo stato potrebbe sembrare patologico, dissociato; invece costituisce una sorta di «normale malattia» in cui tutta l'attenzione materna si focalizza sul bebè, che occupa il primo posto nei propri pensieri, che fa dimenticare se stessa e ciò che le sta attorno."
+      },
+      {
+        type: "p",
+        text: "Il bambino ha bisogno di questa intensa presenza della madre presso di lui, non solo da un punto di vista pratico per quanto riguarda l'accudimento e la soddisfazione dei bisogni primari. Ha bisogno di sentirsi al centro dei pensieri della madre, del suo sguardo, della sua voce, delle sue parole anche se ancora non le comprende, del contatto con le sue mani che gli fanno poco per volta prendere coscienza del suo corpo. Ha bisogno di sentire la gioia della mamma che si occupa di lui, che soddisfa i suoi desideri, perché solo così diventa capace di anticipare, attraverso la rappresentazione, il soddisfacimento."
+      },
+      {
+        type: "p",
+        text: "Questo significa che la disponibilità iniziale della madre rafforza nel piccolo la certezza di essere amato, desiderato, gratificato, e dunque lo aiuta a non vivere l'attesa con un senso di totale angoscia."
+      },
+      {
+        type: "highlight",
+        text: "Considerando l'importanza vitale di questo primo periodo, in cui diventare un «soggetto», una persona, dipende dalla qualità del legame con la madre, è auspicabile che questa si prepari psicologicamente a vivere con serenità il periodo che segue la nascita (anche se sarà caratterizzato da ritmi di vita diversi) e si organizzi per potersi dedicare completamente al suo cucciolo senza lasciarsi distrarre da troppi altri interessi."
+      }
+    ]
+  },
+  {
+    id: 75,
+    slug: "il-tempo-che-le-neomamme-hanno-difficolta-a-concedersi",
+    title: "Il tempo che le neomamme hanno difficoltà a concedersi",
+    excerpt: "Perché la fretta di tornare produttive dopo il parto danneggia sia le mamme che i bebè: il puerperio è il tempo minimo necessario per «impratichirsi» del proprio ruolo, non un periodo da abbreviare.",
+    keywords: "puerperio, tempo per la neomamma, madre sufficientemente buona, Winnicott, ritmi del neonato",
+    category: "Neonato/Lattante (0-1 anni)",
+    date: "19 marzo 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#4A6B7A",
+    content: [
+      {
+        type: "p",
+        text: "Oggi l'età media delle mamme si è notevolmente alzata perché, grazie ai metodi contraccettivi, la gravidanza viene rimandata fino al momento in cui ci si sente pronte per affrontare la vita da genitore. Questo processo è notevolmente influenzato dalla propria situazione lavorativa, che deve essere «stabile» per cercare una gravidanza, e non deve essere tralasciata per troppo tempo dopo la nascita del bebè. Ma è solo questo il motivo per cui si fa la «mamma a tempo pieno» per il più breve tempo possibile? La ragione principale, pur difficile da esprimere, non è invece che stare vicino a un neonato costa fatica e a molte non dà le soddisfazioni che si aspettavano?"
+      },
+      {
+        type: "p",
+        text: "Nella nostra società, caratterizzata dalla frenesia di ottenere le cose senza saperle aspettare, di bruciare le tappe, di fare fronte a mille impegni contemporaneamente, si cerca dunque di affrettare il tempo di crescita dei bambini. Si pensa infatti che fare svariate esperienze fin dai primi mesi di vita permetta loro di maturare e di rendersi più indipendenti prima. In realtà non tenere in considerazione i loro ritmi, nella speranza di non perdere i propri, porta esattamente al contrario."
+      },
+      {
+        type: "p",
+        text: "Anche se siamo nel terzo millennio, come non si sono accorciati i tempi della gravidanza, così non sono diversi né per i neonati né per le mamme quelli di «adattamento» alla vita e al proprio ruolo. Allevare un bebè infatti significa modificare i propri ritmi per accordarli inizialmente ai suoi. È un modo per conoscerlo, per capirlo, per esprimergli contenimento e disponibilità. Solo quando ci si è sintonizzate sui suoi tempi diventa possibile cercare, poco per volta, senza fretta, di cominciare ad abituarlo ai propri ritmi."
+      },
+      {
+        type: "p",
+        text: "Il primo requisito richiesto a una mamma che desideri essere «sufficientemente buona», come dice Winnicott (pediatra e psicoanalista inglese), è quindi quello di essere disponibile a occuparsi del suo bambino con calma e tranquillità, soprattutto con la mente sgombra da pensieri rivolti ad altre attività o dai sensi di colpa legati al non riuscire a svolgerle come si vorrebbe."
+      },
+      {
+        type: "p",
+        text: "Il periodo del puerperio (indicativamente di 40 giorni) non riguarda solo la ripresa della donna sotto l'aspetto fisico, ma il tempo minimo che si deve concedere per «impratichirsi» del suo ruolo di mamma."
+      },
+      {
+        type: "highlight",
+        text: "Purtroppo invece molte considerano perso o improduttivo questo tempo passato a casa, avendo come unica occupazione l'accudimento del bebè! Sarebbe importante invece che capissero che aiutare il piccolo a superare le prime fondamentali tappe del suo sviluppo psicoaffettivo senza affrettarle lo aiuterà a crescere più serenamente. Infatti non avrà bisogno di tornare sempre indietro per rielaborare quello che non è stato in grado di assimilare al momento giusto."
+      }
+    ]
+  },
+  {
+    id: 76,
+    slug: "anche-i-buoni-genitori-possono-nuocere-ai-loro-figli-parte-seconda",
+    title: "Anche i «buoni» genitori possono nuocere ai loro figli (parte seconda)",
+    excerpt: "Perché anche i genitori più attenti possono, senza volerlo, esporre il bambino a situazioni di sofferenza inconsapevole: il caso del co-sleeping e della «scena primaria» descritta dalla psicoanalisi.",
+    keywords: "co-sleeping, bed-sharing, scena primaria, psicoanalisi infantile, errori educativi involontari",
+    category: "Puerperio",
+    date: "5 marzo 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#5A4A4A",
+    content: [
+      {
+        type: "p",
+        text: "Spesso anche il genitore che cerca di documentarsi su come poter essere più di aiuto alla crescita del proprio figlio commette errori non dovuti a cattiva volontà ma a incompletezza delle informazioni a cui attinge. Infatti sovente i diversi opinion leader sui temi relativi alla prima infanzia non tengono conto dell'importanza della parte inconscia del neonato, quella cioè che si forma nei primi anni di vita (oltre che durante la gravidanza), che registra tutti gli stimoli e le sensazioni a cui il piccolo è sottoposto e che poi ricercherà per tutta la vita, anche se con scenari e personaggi diversi. Questo significa che, se le sensazioni di benessere lasciano tracce che tendono a essere riprodotte, quelle di insoddisfazione e malessere (in quanto la tensione non viene scaricata) lasciano una sorta di buco nero, di lacuna in cui la persona ricadrà ripetitivamente nel tentativo di colmarla. Questo spiega come, nel corso della vita, ci si ritrovi più o meno spesso a ripetere esperienze di sofferenza che, a ben guardare, rivelano caratteristiche simili seppure avvengano in situazioni apparentemente diverse!"
+      },
+      {
+        type: "p",
+        text: "Dunque se si tiene conto di questa realtà si cercherà di evitare al piccolo di trovarsi in situazioni di sofferenza."
+      },
+      {
+        type: "p",
+        text: "Una di queste è costituita dall'essere spettatore della sessualità dei genitori, se dorme nella loro camera da letto."
+      },
+      {
+        type: "p",
+        text: "Di solito quando si consiglia il co-sleeping o il bed-sharing* si trascura questo aspetto, sottovalutando la capacità di percezione del neonato. In realtà invece anche un bambino molto piccolo percepisce cosa avviene attorno a sé, attraverso un canale sensoriale in lui molto più sviluppato e attivo che nell'adulto: l'olfatto. Molte ghiandole si attivano durante l'atto sessuale ed emettono umori che nella nostra società si tende a coprire o mascherare con deodoranti e profumi senza tuttavia eliminarne la produzione, tanto che sono percepibili da chi, come un neonato, ha ancora una capacità olfattiva molto sviluppata."
+      },
+      {
+        type: "p",
+        text: "La sessualità adulta lo eccita, ossia ne aumenta la tensione, che tuttavia non ha modo di scaricare attraverso il contatto con l'altro (in particolare la madre) che, anche se presente nella stessa stanza, è emotivamente lontano da lui. Questa situazione gli crea un forte senso di solitudine che lascia tracce indelebili nella sua psiche e che si traduce spesso (come molti hanno avuto modo di constatare) in tentativi di attirare su di sé la loro attenzione, distogliendoli da quello in cui erano coinvolti. Spesso infatti l'inizio di un rapporto viene interrotto dal risveglio del bambino, dal pianto, dalla tosse o da un rigurgito improvviso!"
+      },
+      {
+        type: "p",
+        text: "La psicoanalisi chiama «scena primaria» la rappresentazione inconscia che il bambino ha dell'intimità dei genitori di cui è stato spettatore. Le sensazioni provate, pur non giungendo alla coscienza, possono avere una tale intensità da causargli, anche in età adulta, problematiche di vario tipo e intensità (fobie, attacchi di panico, disturbi della sessualità). Infatti la sessualità dell'adulto è vissuta soprattutto come una lotta, un'aggressione più o meno violenta dell'uomo sulla donna: inconsciamente il piccolo si identifica con l'uno o con l'altro personaggio, assumendo cioè il ruolo attivo (tipico del persecutore) o passivo (tipico della vittima). Questo influirà sul suo modo di vivere la sessualità, sia per quanto riguarda la scelta del partner che le modalità di ricerca del piacere."
+      },
+      {
+        type: "highlight",
+        text: "Alla luce di questa realtà da molti negata, ma ritrovata immancabilmente dagli psicoanalisti alla base dei sintomi dei loro analizzati, sarebbe preferibile per chi decide di far dormire il bambino nella propria stanza evitare di vivere la propria intimità in sua presenza."
+      },
+      {
+        type: "p",
+        text: "* Il co-sleeping (sonno condiviso) si basa sulla teoria dell'esogestazione, che sostiene l'importanza del contatto fisico col neonato anche durante il sonno, dal momento che alla nascita non ha ancora portato a termine la maturazione del sistema nervoso. Il bed-sharing è la condivisione dello stesso letto dei genitori, scelta che comporta molti fattori di rischio data la grande differenza di dimensioni tra genitori e neonato."
+      }
+    ]
+  },
+  {
+    id: 77,
+    slug: "ipotesi-sulla-vita-intrauterina-dei-gemelli",
+    title: "Ipotesi sulla vita intrauterina dei gemelli",
+    excerpt: "Cosa succede psichicamente quando due gemelli condividono lo stesso utero? Un'ipotesi psicoanalitica su aggressività, sopravvivenza e legame nella vita intrauterina.",
+    keywords: "gemelli, vita intrauterina, gemelli monozigoti, gemelli dizigoti, psicoanalisi della gravidanza gemellare",
+    category: "Gravidanza",
+    date: "22 febbraio 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#4A5A78",
+    content: [
+      {
+        type: "p",
+        text: "La vita dei gemelli è spesso considerata una «vita di coppia» per il profondo legame che li caratterizza, per la dipendenza reciproca, per la comunicazione che, soprattutto nei bambini, si manifesta con una sorta di linguaggio che solo loro sanno interpretare."
+      },
+      {
+        type: "p",
+        text: "Queste caratteristiche stimolano interrogativi che riguardano il loro rapporto durante la gravidanza: quali sono le peculiarità della vita di relazione tra due (o più) ospiti che condividono lo stesso utero fin dalle prime fasi di annidamento?"
+      },
+      {
+        type: "p",
+        text: "Dal momento che obiettivamente, per l'aspetto somatico, la vita intrauterina dei gemelli è più problematica, non lo sarà anche per quello psichico che, come dice Freud, deriva da quello fisico-corporeo, in quanto «tutto ciò che è psichico prima è stato somatico»?"
+      },
+      {
+        type: "p",
+        text: "La neurofisiologia fetale e lo studio mediante sonde ecografiche (che permettono di visualizzare alcuni aspetti peculiari dello sviluppo dei gemelli in utero), come pure il lavoro psicoanalitico svolto con coppie di gemelli, permettono di esprimere ipotesi, spesso contraddittorie, a tal proposito. È presumibile ipotizzare che esista una differenza tra gemelli monozigoti e dizigoti per quanto riguarda la possibilità di percepire e registrare gli impulsi provenienti dal corpo materno nel corso della gravidanza. I primi infatti sono il prodotto di un unico embrione che si divide in fase precoce, dunque hanno lo stesso patrimonio genetico, sono uno lo specchio dell'altro per eredità filo e ontogenetica. Per alcuni questa realtà è sinonimo di facile convivenza, altri al contrario sostengono che più tardi è avvenuta la differenziazione, maggiori sono le difficoltà di relazione. A sostegno di questa tesi portano come esempio di estrema difficoltà di convivenza la grave situazione patologica che si può sviluppare in certi casi di gravidanza monozigote monocoriale e monoamniotica (in cui cioè i gemelli devono sopravvivere nello stesso sacco amniotico avendo a disposizione un'unica placenta). Si tratta della temuta «sindrome da trasfusione feto-fetale», che costituisce una «lotta estrema» tra i gemelli per garantirsi le condizioni indispensabili per la sopravvivenza. Dunque questa situazione fa ipotizzare che il loro rapporto sia influenzato da aspetti relativi alla loro possibilità di sopravvivenza, più che dalla similitudine del patrimonio genetico."
+      },
+      {
+        type: "p",
+        text: "Ma cosa capita nei gemelli dizigoti, che cioè non hanno lo stesso patrimonio genetico (possono essere il frutto di due rapporti sessuali avuti anche con due uomini diversi), si sviluppano in due sacchi amniotici e con due diverse placente? È lecito ipotizzare che lo stare sempre insieme in uno spazio ridotto, che col procedere della gravidanza limita sempre di più le loro possibilità di movimento, li porti a instaurare un rapporto caratterizzato dallo sviluppo di una maggiore aggressività naturale, indispensabile alla propria sopravvivenza?"
+      },
+      {
+        type: "p",
+        text: "Questa ipotesi partirebbe dal presupposto che ogni gemello riconosca l'altro come diverso da sé. Ma è proprio così?"
+      },
+      {
+        type: "highlight",
+        text: "Come emerge dalle evidenze scaturite dal lavoro psicoanalitico, il feto non si percepisce come soggetto a sé stante, ma come parte del corpo materno. In base a questo assunto dunque ogni gemello dovrebbe percepire l'altro come «attributo materno» che limita lo spazio e rende più difficoltosa la sopravvivenza. Se verso la madre ogni embrione/feto vive questa aggressività naturale, non c'è motivo che il gemello, vissuto come parte della madre, ne sia esente. E non è il rapporto di profondo legame tra i gemelli dopo la nascita che lo può smentire, dal momento che, a livello inconscio, dietro al «troppo» di qualsiasi manifestazione affettiva si nasconde il suo contrario. Dunque non si deve escludere una profonda aggressività intrauterina tra i gemelli, che nella maggior parte dei casi, nella vita dopo la nascita, viene sostituita e/o mascherata da un solido legame di amore."
+      }
+    ]
+  },
+  {
+    id: 78,
+    slug: "le-paure-del-parto-3-fase-espulsiva",
+    title: "Le paure del parto – 3 – (fase espulsiva)",
+    excerpt: "Nella fase espulsiva riaffiorano ansie legate allo stadio anale dell'infanzia e, in caso di episiotomia, antiche fantasie inconsce di castrazione: un'analisi psicologica dell'ultima fase del travaglio.",
+    keywords: "fase espulsiva, paure del parto, episiotomia, stadio anale, psicologia del parto",
+    category: "Parto",
+    date: "19 febbraio 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#5A4A6B",
+    content: [
+      {
+        type: "p",
+        text: "Raggiunta la dilatazione completa (circa 10 cm) inizia la terza fase del parto, quella chiamata espulsiva, in cui il feto viene alla luce."
+      },
+      {
+        type: "p",
+        text: "Se durante la fase dilatatoria la donna doveva cercare di favorire le contrazioni senza opporvi resistenza, nella fase espulsiva le contrazioni volontarie dei muscoli addominali (muscolatura striata volontaria) hanno un ruolo importante nel coadiuvare la muscolatura uterina a espellere il feto."
+      },
+      {
+        type: "p",
+        text: "Durante la fase espulsiva la donna è invitata a «spingere» e l'ostetrica, per spiegarle come deve fare, spesso usa la frase «come se andasse di corpo»."
+      },
+      {
+        type: "p",
+        text: "Se da un lato questa precisazione le chiarisce come deve comportarsi, dall'altro può scatenare in lei una forte, profonda paura che può avere un effetto inibitorio sull'espulsione o che le fa «perdere la testa» al punto di non riuscire più a coordinare la respirazione con le contrazioni, con il risultato di sentire molto più dolore."
+      },
+      {
+        type: "p",
+        text: "Per molte donne infatti questa richiesta riporta a galla le difficoltà vissute in un periodo particolarmente conflittuale della propria vita infantile."
+      },
+      {
+        type: "p",
+        text: "Le mette infatti in feedback con i desideri e le paure vissute durante il secondo/terzo anno di vita, durante quello che è definito lo stadio anale. Si tratta del periodo di apprendimento della pulizia, in cui la richiesta materna di controllo dei propri sfinteri cozza con i desideri di trattenere/espellere i prodotti del proprio corpo quando e dove si vuole. Credendo di raggiungere più facilmente l'obiettivo, molte madri celano dietro questa richiesta un ricatto affettivo: adeguarsi per essere amati, in contrapposizione a seguire i propri desideri rischiando di perdere l'affetto materno."
+      },
+      {
+        type: "p",
+        text: "In base ai propri vissuti può dunque risultare inaccettabile fare qualcosa che può portare a defecare «su richiesta», davanti a chi l'assiste per il parto, come pure avere la possibilità di sporcare con le feci il proprio bambino."
+      },
+      {
+        type: "p",
+        text: "Allo scopo di ridurre lacerazioni inopportune e traumatiche del pavimento pelvico durante il passaggio del feto è possibile eseguire l'episiotomia. Si tratta di un piccolo taglio longitudinale, di dimensioni ridotte, che scende verso il retto, o trasversale, più ampio, che scende lateralmente. In questo caso crea più spazio per il passaggio del feto ma danneggia maggiormente la successiva funzionalità del pavimento pelvico a causa della cicatrice che ne deriva."
+      },
+      {
+        type: "highlight",
+        text: "L'episiotomia può suscitare un'intensa paura nella donna, perché riattiva le ansie di castrazione vissute inconsciamente durante una fase della sua vita infantile. L'inevitabile confronto con il maschio, dotato di pene, aveva stimolato la fantasia della bambina di averlo posseduto e di averlo perduto per un castigo che le era stato inflitto. La fase espulsiva del parto, in cui la donna «perde» una parte di sé (il bambino) e spesso subisce un taglio ai genitali, rende attuali queste fantasie, e la mette in diretto feedback con l'angoscia che può averle accompagnate."
+      }
+    ]
+  },
+  {
+    id: 79,
+    slug: "necessita-e-difficolta-di-separazione-tra-madre-e-bebe",
+    title: "Necessità e difficoltà di separazione tra madre e bebè",
+    excerpt: "Uno dei compiti più importanti della madre è aiutare il bambino a diventare una persona indipendente: perché questo processo di separazione, iniziato già in gravidanza, non è mai scontato.",
+    keywords: "separazione madre bambino, individuazione infantile, aggressività materna in gravidanza, rapporto simbiotico",
+    category: "Puerperio",
+    date: "15 febbraio 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#6B5A4F",
+    content: [
+      {
+        type: "p",
+        text: "Uno dei principali compiti della madre consiste nell'aiutare il bambino a diventare una persona indipendente."
+      },
+      {
+        type: "p",
+        text: "Non c'è un momento specifico dello sviluppo in cui questo deve avvenire, in quanto dovrebbe essere un lungo e lento processo che, dalla nascita, si sviluppa in modo armonico durante tutte le fasi della vita infantile e adolescenziale. Si tratta di un processo complesso perché spesso cozza contro il desiderio di non separazione che la madre porta in sé. Desiderio che non solo nasce dai sensi di colpa di quelle madri che hanno accettato con difficoltà il figlio (perché volevano abortirlo o perché non lo hanno investito affettivamente durante la gravidanza), ma che tutte le donne provano, anche se con intensità diversa. Per cercare di spiegarlo bisogna rifarsi a quanto avviene durante la gravidanza: all'inizio l'embrione è l'oggetto della fisiologica aggressività materna, messa in atto per difendersi dall'invasione di un «corpo estraneo»; tuttavia poi, se non viene espulso, il corpo estraneo viene considerato dalla donna come una parte di se stessa, fino a quando, col parto, verrà espulso."
+      },
+      {
+        type: "p",
+        text: "In questa ottica la difficoltà a separarsi dal neonato costituisce il meccanismo reattivo all'aggressività dell'inizio gravidanza: tanto più intensa è stata la loro inconscia «guerra uterina», tanto più la madre tenderà a tenere il figlio attaccato a sé, senza riuscire a separarsene e a vederlo come un essere indipendente. L'indispensabile, necessaria identificazione/confusione che si deve instaurare tra la madre e l'embrione/feto durante la gravidanza condiziona dunque la separazione. Se a livello fisico è sancita dal parto, dal taglio del cordone ombelicale, a livello psicologico può avvenire solo se il bebè è riconosciuto nella sua individualità, ossia come essere separato dalla madre. Riuscire a separarsi e a riconoscere il bambino nella sua identità sono gli elementi che caratterizzano il rapporto sano della madre verso il figlio/a: al contrario, non riuscire a separarsi e non riconoscere il bambino come altro da sé riflette la possessività materna, la non differenziazione, la confusione tra il neonato e se stessa."
+      },
+      {
+        type: "highlight",
+        text: "Un lavoro di psicoterapia intrapreso per superare le difficoltà legate alla maternità aiuta la donna a mettere in feedback il rapporto che ha con il figlio con quello vissuto da piccola con la propria madre, e a rendersi conto, poco per volta, della ripetizione che sta vivendo inconsapevolmente. Come allora era stata una bambina «fusa» con la propria mamma, ossia non riconosciuta nella sua identità e nei suoi desideri, diventata a sua volta mamma si identifica con la propria madre e ripete lo stesso comportamento col figlio. Riconoscere il figlio dunque diventa possibile non solo se è stato elaborato il lutto per la perdita del bambino/parte di se stessa, ma soprattutto del distacco dalla propria mamma. Tanto più la madre ha la possibilità di ritrovarsi e di riconoscersi nella ripetizione dei suoi vissuti e dei suoi desideri infantili, tanto più è in grado di uscire dallo stato di non separazione dal figlio e di riconoscerlo nella sua individualità."
+      }
+    ]
+  },
+  {
+    id: 80,
+    slug: "le-paure-del-parto-2-fase-dilatante",
+    title: "Le paure del parto – 2 – (fase dilatante)",
+    excerpt: "Perché il terrore del parto, a differenza della normale apprensione, è quasi sempre il sintomo di una conflittualità profonda che affonda le radici nella vita intrauterina e nella prima infanzia.",
+    keywords: "fase dilatante, paure del parto, terrore del parto, epidurale, psicologia del travaglio",
+    category: "Parto",
+    date: "12 febbraio 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#5A4A6B",
+    content: [
+      {
+        type: "p",
+        text: "Con il procedere del travaglio, le paure della donna cambiano, rispetto a quelle della fase prodromica."
+      },
+      {
+        type: "p",
+        text: "La seconda fase del parto è detta dilatante perché il collo dell'utero, sotto la spinta delle contrazioni e del feto, si rilascia fino a raggiungere la dilatazione completa (circa 10 cm). Le paure di questa fase riguardano il lasciarsi andare a quello che capita nel proprio corpo e che crea dolore. Si tratta delle contrazioni, spasmi muscolari che avvengono in modo involontario (il viscere uterino è costituito da muscolatura liscia) per accorciare e dilatare il collo dell'utero e consentire la discesa del feto nel canale del parto per la nascita. Le contrazioni della seconda fase del parto si distinguono dalle precedenti perché assumono regolarità, mentre la frequenza e la durata aumentano: si possono presentare anche con intervalli di un minuto e durare circa 45 secondi. Quando la dilatazione del collo dell'utero ha superato i primi centimetri, è possibile alleviare il dolore attraverso l'analgesia peridurale (o epidurale). Si tratta di un'anestesia «regionale» ottenuta attraverso l'instillazione di anestetici nello spazio di pochi millimetri che si trova intorno alla dura madre del midollo."
+      },
+      {
+        type: "p",
+        text: "Le contrazioni andrebbero assecondate assumendo un atteggiamento passivo, che non crei resistenza alla dilatazione. Spesso invece la partoriente è spaventata dalla loro frequenza e intensità. Temendo di essere preda di una forza sconosciuta, che è incapace di controllare e che percepisce come devastante e mortifera, la donna anziché cercare di rilassarsi tende a contrarsi come per resistere, ottenendo il risultato di provare più dolore."
+      },
+      {
+        type: "p",
+        text: "Una certa apprensione nei confronti del dolore del parto è fisiologica e riguarda tutte le donne, sia le primipare che non sanno come reagiranno, sia chi l'ha già vissuto precedentemente. Invece il terrore del parto, che spesso spinge chi lo prova a pretendere un cesareo per non doverlo affrontare, è da considerarsi un sintomo, ossia l'espressione di una conflittualità profonda di cui non si ha consapevolezza perché proviene da un periodo molto lontano della propria vita, relativo non solo all'infanzia ma anche alla vita intrauterina. Affonda cioè le sue radici nella sofferenza dovuta alle difficoltà del rapporto di simbiosi-separazione vissuto allora con la propria mamma. Sofferenza dimenticata e rimossa in una parte della propria mente da cui riemerge quando la donna si confronta con racconti di parti molto dolorosi, difficili, rischiosi."
+      },
+      {
+        type: "highlight",
+        text: "Purtroppo chi divulga informazioni ansiogene sul parto non si rende conto di quanto possano essere traumatizzanti se entrano in feedback con i vissuti che certe donne portano in sé. La parvenza di obiettività con cui costoro giustificano la loro paura in realtà ne maschera la fragilità di fronte a questo argomento."
+      },
+      {
+        type: "p",
+        text: "Nel corso del travaglio il perineo, che normalmente ha la funzione di supporto degli organi interni, deve rilassarsi e attivarsi per contribuire alla nascita del feto. È quindi importante prepararlo durante la gestazione perché possa svolgere questo compito al meglio."
+      }
+    ]
+  },
+  {
+    id: 81,
+    slug: "il-pianto-del-bebe",
+    title: "Il pianto del bebè",
+    excerpt: "Un pre-linguaggio fin dalla nascita: cosa comunica davvero il pianto del neonato e perché imparare a decodificarlo è il primo passo per rassicurarlo.",
+    keywords: "pianto del neonato, comunicazione del bebè, Hilflosigkeit, linguaggio del pianto, primi mesi di vita",
+    category: "Neonato/Lattante (0-1 anni)",
+    date: "8 febbraio 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#3F6B7A",
+    content: [
+      {
+        type: "p",
+        text: "Fin dalla nascita il pianto del bebè, caratterizzato da forti grida per espellere il liquido amniotico che ne riempiva l'apparato respiratorio, ha la funzione di un pre-linguaggio. Da un lato esprime la vitalità, la gioia del neonato di essere uscito indenne dai rischi del parto; dall'altro la sensazione di difficoltà di trovarsi in un ambiente con caratteristiche tanto diverse da quelle a cui era abituato."
+      },
+      {
+        type: "p",
+        text: "Nascendo infatti non è più immerso nel liquido amniotico che lo proteggeva da luci e rumori, che gli garantiva temperatura costante. Si trova in un ambiente nuovo, non più circoscritto come l'utero materno, che lo mette in uno stato di profonda insicurezza, che minaccia la sua stessa sopravvivenza. Freud, che ha definito con il termine di Hilflosigkeit questo stato di totale impotenza del bebè che percepisce di non poter sopravvivere senza l'intervento altrui, lo ha considerato il precursore dell'angoscia che l'adulto vivrà nel corso della vita. Solo il supporto dell'adulto può aiutarlo a trovare conforto: il pianto funge perciò da richiamo, è l'unico modo a sua disposizione per attrarre l'attenzione di chi gli sta vicino, da cui dipende la sua vita."
+      },
+      {
+        type: "p",
+        text: "Il pianto del bebè (senza lacrime le prime settimane perché i canali lacrimali sono ancora chiusi) ha una frequenza sonora più elevata di quello del bambino più grande; nei primi mesi di vita si manifesta spesso, occupando mediamente dai 15 ai 60 minuti nella giornata. Come un linguaggio esprime desideri diversi (di mangiare, di dormire, di essere accudito); ma è anche il modo di comunicare le sue sensazioni di dolore, di insicurezza, di bisogno di contatto affettivo, o semplicemente di scaricare la tensione quando diventa insostenibile."
+      },
+      {
+        type: "p",
+        text: "Tuttavia spesso, e soprattutto se si prolunga, il pianto mette in ansia il genitore che all'inizio non è in grado di decodificarlo, di capire il significato delle variazioni di intensità e tonalità. Ecco il motivo per cui è fondamentale, durante le prime settimane dopo la nascita, dedicare del tempo all'osservazione del bebè per imparare a conoscerlo e a capire cosa il suo pianto esprime. Altrimenti il genitore finisce per attribuirgli una connotazione patologica anche se in realtà esprime altro, o per proiettarvi la sua sensazione di sentirsi inadeguato nella sua capacità di accudimento (che intensifica la sensazione di mancanza di contenimento che prova il bebè)."
+      },
+      {
+        type: "highlight",
+        text: "Il pianto del bebè non va mai ignorato, tuttavia è importante comunicargli anche la propria disponibilità ad accettarlo, senza ansia e con pazienza, consolandolo attraverso il contatto fisico o anche soltanto parlandogli con un tono di voce dolce e pacato che gli fa sentire la propria presenza."
+      },
+      {
+        type: "p",
+        text: "Certi neonati fin dalla nascita manifestano una maggiore capacità di consolarsi da soli, cercando di mettersi una mano in bocca, succhiando il ciuccio o semplicemente ascoltando la voce della madre se riesce a esprimergli tranquillità. Altri invece hanno bisogno di un maggiore contatto fisico, che tuttavia li agita ulteriormente se percepiscono la tensione di chi li prende in braccio."
+      }
+    ]
+  },
+  {
+    id: 82,
+    slug: "come-mai-le-donne-incinte-sognano-animali",
+    title: "Come mai le donne incinte spesso fanno sogni popolati da animali?",
+    excerpt: "Cani, gatti, elefanti, panda: perché durante la gravidanza gli animali compaiono così spesso nei sogni, e cosa rappresentano nella psiche della futura mamma.",
+    keywords: "sogni in gravidanza, sogni di animali, identificazione materna, psicoanalisi dei sogni, gravidanza",
+    category: "Gravidanza",
+    date: "1 febbraio 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#4A5A78",
+    content: [
+      {
+        type: "p",
+        text: "In un periodo della vita in cui è facile che le donne siano concentrate sul loro stato e focalizzate sul futuro bambino, potrebbe sembrare strano che nei loro sogni gli animali appaiano con grande frequenza."
+      },
+      {
+        type: "p",
+        text: "È interessante sapere però che l'embrione umano, nei primi giorni di vita, è molto simile, a occhio nudo, a quello animale: dunque il sogno, prodotto dall'inconscio (in cui simile significa uguale), rappresenta questa identificazione tra il bambino, nel linguaggio comune spesso chiamato cucciolo, e l'animale."
+      },
+      {
+        type: "p",
+        text: "Raccontare i suoi sogni di animali porta Lara a parlare del suo interesse infantile per questo argomento e a ricordare alcuni animali che ha avuto e amato."
+      },
+      {
+        type: "p",
+        text: "«Non ho mai sognato tanti cani, gatti, cavalli, elefanti come in questi ultimi mesi… Di notte mi sembra di tornare bambina, quando avevo la passione per gli animali, che guardavo sulle pagine dei libri o nei video alla tv… adoravo anche i pelouche, soprattutto il panda Yuyu che ho da quando sono nata e che ho conservato per i miei bambini… Da piccola pensavo di fare la veterinaria e di andare in Cina per salvare i panda che si stanno estinguendo… non potendo avere un panda vivo mi accontentavo di portare a casa gli animali che mi capitava di trovare per strada: uccellini, cani o gatti… una volta ho salvato un micetto appena nato, abbandonato dalla mamma, che ho allevato nella carrozzina delle bambole: gli davo il biberon, lo tenevo al caldo sotto le lenzuola… lo vestivo, lo pettinavo, lo trattavo come se fosse stato il mio bebè, anche se forse non era proprio ciò che avrebbe desiderato!»"
+      },
+      {
+        type: "p",
+        text: "Come capita a molti bambini, anche Lara si identifica nell'animale a cui attribuisce desideri e sentimenti che in realtà le appartengono, e che stimola in lei anche sentimenti materni, perché da lei dipendono le sue possibilità di sopravvivenza."
+      },
+      {
+        type: "p",
+        text: "I sogni di animali dunque permettono di realizzare i desideri legati alla doppia identificazione della donna incinta, che durante la gravidanza si vive contemporaneamente come la madre di se stessa e come l'embrione/feto che porta in sé (e che è stata nell'utero di sua madre)."
+      },
+      {
+        type: "highlight",
+        text: "Si tratta sia di desideri di amore/simbiosi che di desideri di odio/distruzione, che si esprimono con molteplici contenuti manifesti che declinano tutte le sfumature del tema «animale». Tema «privilegiato» in gravidanza sia perché in molti casi l'animale rappresenta il sostituto dei figli (soprattutto per chi non ne ha), sia perché capace di suscitare una vasta gamma di sentimenti, che vanno dall'amore e dalla tenerezza all'odio e alla violenza."
+      }
+    ]
+  },
+  {
+    id: 83,
+    slug: "un-modo-insolito-problemi-sonno-bebe",
+    title: "Un modo insolito per affrontare i problemi di sonno del bebè",
+    excerpt: "I problemi di sonno del bebè non riguardano solo lui: spesso sono in relazione con le ansie inconsce di chi se ne occupa. Perché un lavoro su di sé della mamma può aiutare il bambino a dormire meglio.",
+    keywords: "problemi di sonno del neonato, ansia di separazione, angosce arcaiche, psicoterapia e maternità, holding",
+    category: "Neonato/Lattante (0-1 anni)",
+    date: "25 gennaio 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#4A6B7A",
+    content: [
+      {
+        type: "p",
+        text: "Una delle preoccupazioni delle neomamme al ritorno a casa dopo il parto riguarda il sonno del bebè, da cui dipenderà la possibilità di avere quei momenti di riposo di cui ha bisogno, soprattutto durante la notte. Anche se alcuni neonati, fin dai primi tempi, dormono di notte anche per quattro/cinque ore di fila, le mamme devono essere pronte a sapere che è difficile che un bebè riesca a fare pause lunghe, visto che in genere, durante le prime settimane, mangia spesso, soprattutto se viene allattato al seno."
+      },
+      {
+        type: "p",
+        text: "Ma non è tanto lo svegliarsi per nutrirlo che preoccupa, quanto la situazione che molte vivono e che le mette alle corde: non avere mai delle «vere» pause di riposo, perché il piccolo tra un pasto e l'altro resta sveglio, frigna, richiede la sua costante vicinanza o, se riesce a prendere sonno, ha risvegli frequenti in cui piange, vuole essere tenuto in braccio dove magari si addormenta fino a quando non viene messo nella sua culla."
+      },
+      {
+        type: "p",
+        text: "Rapidamente si crea un circolo vizioso in cui lo stress della mamma alimenta lo stato di perenne allerta del bebè e viceversa."
+      },
+      {
+        type: "p",
+        text: "I problemi del sonno (che costituiscono circa il 30% dei problemi psicosomatici del primo anno di vita) tuttavia non riguardano solo il bambino, ma anche le persone che ha vicino, in quanto la tensione che gli impedisce di dormire serenamente è in relazione con le paure e i desideri inconsci di chi si occupa di lui (in particolare della madre). Non è raro infatti che un bambino che di solito ha difficoltà a dormire o frequenti risvegli riesca ad avere delle tranquille pause di sonno se viene messo a nanna da qualcuno che gli offre un «holding» più rassicurante, perché gli permette di gestire più facilmente le sensazioni di angoscia che prova al momento della separazione dall'altro per dormire. Si tratta di angosce arcaiche di caduta, di perdita di contatto, di solitudine, la cui intensità varia non solo in base al «terreno» di ognuno ma anche all'ambiente circostante caratterizzato, soprattutto all'inizio, dal mondo interno della sua mamma. Questa non sempre è in grado di farsene carico e di mandargli messaggi rassicuranti in grado di tranquillizzarlo. Infatti spesso le ansie di separazione del figlio mettono in luce paure, vissuti, desideri infantili inconsci che la maternità ha riportato a galla e che inconsapevolmente creano un ostacolo nel contatto con lui. Ciò significa che, per quanto consciamente la madre cerchi di essergli vicina, il contatto profondo è labile: lo spazio interno, in cui dovrebbe essere accolto il bebè, è occupato dai suoi conflitti irrisolti."
+      },
+      {
+        type: "highlight",
+        text: "Quando invece la madre si dà la possibilità e il tempo di poter rielaborare le sue problematiche inconsce attraverso un lavoro di psicoterapia analitica, trova spontaneamente il modo di sintonizzarsi col bebè, che non stenta a percepirla in grado di contenere le sue ansie, presente, non più distratta da qualcosa che non lo riguardava."
+      },
+      {
+        type: "p",
+        text: "La ripetizione di esperienze positive con la madre permette di interiorizzare l'affidabilità della sua presenza che, durante il sonno, non viene persa. Dal momento che si è creata la sicurezza di vederla riapparire al momento del risveglio, non è più necessario doverla avere sempre vicino per paura che scompaia definitivamente!"
+      }
+    ]
+  },
+  {
+    id: 84,
+    slug: "anche-i-buoni-genitori-possono-nuocere-ai-loro-figli-parte-prima",
+    title: "Anche i «buoni» genitori possono nuocere ai loro figli (parte prima)",
+    excerpt: "Accanto alla violenza conclamata, esistono forme più sottili di trauma inflitte da genitori che amano i propri figli: come l'ignoranza sui reali bisogni del neonato può fargli del male senza volerlo.",
+    keywords: "errori educativi involontari, bisogni del neonato, ritmi del bebè, trauma infantile, genitorialità consapevole",
+    category: "Puerperio",
+    date: "14 gennaio 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#5A4A4A",
+    content: [
+      {
+        type: "p",
+        text: "La violenza sui bambini presenta purtroppo dati statistici allarmanti, evidenziati dall'Unicef e da altre associazioni che tentano di arginarla."
+      },
+      {
+        type: "p",
+        text: "Ma accanto alle «torture» documentate, ce ne sono altre, meno evidenti, subdole, di cui sono vittime molti figli di genitori che pur li amano, li hanno voluti e pensano di trattarli nel modo migliore."
+      },
+      {
+        type: "p",
+        text: "Genitori normali che spesso, e loro malgrado, infliggono traumi per ignoranza, scarsa sensibilità, disattenzione, persino per troppo amore."
+      },
+      {
+        type: "p",
+        text: "Oggi il diventare genitori è da molti considerato uno degli obiettivi da centrare nella vita, come il conseguimento di un diploma o il raggiungimento di un certo status: al bambino perciò si dedicano le stesse energie che ad altri impegni, senza volersi rendere conto che, almeno per un po', un figlio cambia la vita, altera i propri ritmi, orari, impegni, investimenti di tempo e di energia."
+      },
+      {
+        type: "p",
+        text: "Inoltre la maggior parte delle persone diventa genitore senza alcuna preparazione su cosa sia un neonato, quali siano le sue reali esigenze, quali capacità abbia di percepire l'ambiente circostante fin dall'inizio della sua vita. Troppo spesso ancora si dimentica che è durante le prime settimane di vita che si gettano le basi del suo futuro, che il neonato va trattato con grande attenzione e rispetto, e che deve essere l'adulto che all'inizio si adegua ai suoi ritmi e non viceversa. Invece molti pensano sia un bene per il bambino essere abituato ad adattarsi fin dalla nascita al loro ritmo di vita, senza neanche porsi la domanda se è questo l'ideale per la sua crescita. Forse se ci si rendesse conto delle sensazioni di smarrimento e di angoscia che il lattante prova all'inizio della vita, sentendosi incapace di sopravvivere senza l'aiuto di qualcuno, si riuscirebbe più facilmente ad anteporre i suoi bisogni ai propri, evitandogli molti inutili stress dovuti a cambiamenti di abitudini e ambiente."
+      },
+      {
+        type: "p",
+        text: "Il neonato ha bisogno di acquisire la sicurezza che le sue necessità legate alla sopravvivenza saranno soddisfatte. Questo può avvenire solo garantendogli, almeno le prime settimane, un ritmo di vita tranquillo, ripetitivo, prevedibile, fatto di routine, che gli insegna e lo aiuta ad anticipare la soddisfazione, anche quando questa non è immediata come vorrebbe."
+      },
+      {
+        type: "p",
+        text: "Il genitore che non rispetta questo bisogno fondamentale perché spesso non ne conosce l'importanza, inavvertitamente lo ferisce, in quanto lo fa vivere in una situazione priva di punti di riferimento, dunque perennemente in preda al senso di insicurezza legato alla sua sopravvivenza."
+      },
+      {
+        type: "p",
+        text: "È dunque inevitabile che lo stress a cui il neonato è sottoposto si manifesti con comportamenti che ne esprimono il malessere e che richiedono la continua presenza dell'adulto: pianti frequenti, incapacità a stare da solo, interruzioni continue del sonno, difficoltà alimentari."
+      },
+      {
+        type: "highlight",
+        text: "Ma sono soprattutto le tracce che questo tipo di sofferenza lascia nella sua psiche che dovrebbero far riflettere i genitori: non riconoscerne i bisogni profondi fa sentire il piccolo non accettato, non voluto, non amato, anche se la realtà è diversa."
+      },
+      {
+        type: "p",
+        text: "Non serve coprirlo di baci se poi lo si sballotta, senza una valida ragione, da un luogo all'altro solo perché «con un neonato si può girare il mondo». Ciò che lo fa sentire amato è la sensazione che chi gli sta vicino lo aiuta a crescere nel rispetto dei suoi tempi, anche se questo inizialmente può scombinare quelli dell'adulto."
+      }
+    ]
+  },
+  {
+    id: 85,
+    slug: "la-funzione-dei-sogni-che-spaventano-le-donne-incinte",
+    title: "La funzione dei sogni che spaventano le donne incinte",
+    excerpt: "Sogni di violenza, morte o cataclismi durante una gravidanza serena: perché questi incubi hanno in realtà una funzione protettiva e non vanno vissuti come cattivi presagi.",
+    keywords: "incubi in gravidanza, sogni di violenza, funzione dei sogni, guerra uterina, psicoanalisi della gravidanza",
+    category: "Gravidanza",
+    date: "7 gennaio 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#4A5A6B",
+    content: [
+      {
+        type: "p",
+        text: "A tutti è capitato di rendersi conto che a volte lo stato d'animo della giornata è influenzato da ciò che si è sognato la notte precedente. Senza un motivo oggettivo ci si sente fiduciosi e ottimisti, oppure malinconici e arrabbiati. Se nel primo caso non ci si chiede troppo il perché ma si apprezza il proprio stato d'animo, nel secondo si vorrebbe sapere quale sia il nesso, perché si sia infastiditi dallo strascico che un sogno può lasciare, soprattutto se è «in rottura» con ciò che si prova in quel periodo."
+      },
+      {
+        type: "p",
+        text: "È quello che capita a molte donne incinte, che vivendo una gravidanza serena, non si aspettano di poter fare (e anche in modo ripetitivo) sogni che spaventano, terrorizzano (a volte sono presi come anticipazioni di disgrazie), che gettano un'ombra su un periodo tanto positivo."
+      },
+      {
+        type: "p",
+        text: "In realtà questi sogni dal contenuto manifesto a tema distruttivo (sogni di violenza, di lotta, di sangue, di morte, di incidenti, di cataclismi, di attentati ecc.) hanno una funzione di protezione della gravidanza, in quanto permettono la realizzazione di desideri infantili inconsci che potrebbero realizzarsi con situazioni che mettono a repentaglio la gravidanza (aborto) o il benessere materno (sintomi)."
+      },
+      {
+        type: "p",
+        text: "Va ricordato infatti che la donna incinta rivive, senza rendersene conto, le sensazioni provate fin dalla vita intrauterina, in cui era contenuta nell'utero di sua madre. Lì ogni embrione combatte una guerra per sopravvivere ai tentativi che la madre mette in atto inconsciamente per sbarazzarsi di lui, in quanto è un corpo estraneo che le sue cellule non riconoscono «come self». L'uovo, che nasce dalla fusione dell'ovulo materno e dello spermatozoo paterno, è infatti una cellula estranea per il corpo materno, che pur deve ospitarlo per nove mesi. Perché questo possa realizzarsi, le cellule materne devono arrivare a tollerarlo, come se fosse uguale a loro. Ma questo avviene solo dopo una iniziale lotta, che per ogni coppia madre/embrione ha intensità diversa: dipende infatti dalla forza di espulsione della madre e dalla capacità di «attaccarsi» dell'embrione."
+      },
+      {
+        type: "p",
+        text: "Quando una donna resta incinta si riattivano le tracce della guerra uterina vissuta all'inizio della sua vita, che colorano quella che vivrà col suo embrione."
+      },
+      {
+        type: "p",
+        text: "L'inevitabile scontro tra madre e figlio all'inizio della gravidanza si manifesta con situazioni diverse, più o meno compatibili con il suo proseguimento:"
+      },
+      {
+        type: "ul",
+        items: [
+          "l'aborto, che rappresenta la riuscita di questo tentativo ma che spesso si scontra con il desiderio cosciente di avere un figlio;",
+          "i sintomi gastrointestinali, in cui l'espulsione avviene, ma attraverso delle sostituzioni attuate a livello inconscio;",
+          "i sogni, che rappresentano la soluzione più fisiologica per realizzare in modo camuffato i desideri inconsci sorti durante la vita intrauterina e infantile e riattivati dalla gravidanza."
+        ]
+      },
+      {
+        type: "highlight",
+        text: "Nei sogni di violenza (che sono statisticamente quelli più raccontati dalle donne incinte) il contenuto manifesto esprime con particolare trasparenza il processo in corso, permettendo la realizzazione dei desideri infantili inconsci, senza che sia ostacolato il prosieguo della gravidanza."
+      },
+      {
+        type: "p",
+        text: "Dunque per le donne a cui capita di fare sogni di questo tipo, può essere utile e rassicurante ricordare cosa esprimono e perché si fanno, anziché lasciarsi spaventare dalle immagini oniriche che ricordano al risveglio."
+      }
+    ]
+  },
+  {
+    id: 86,
+    slug: "i-no-che-aiutano-a-crescere-parte-prima",
+    title: "I no che aiutano a crescere (parte prima)",
+    excerpt: "Non tutti i «no» sono uguali: perché saperli usare al momento giusto è un alleato della crescita, non un ostacolo, secondo la celebre intuizione di Asha Phillips.",
+    keywords: "i no che aiutano a crescere, Asha Phillips, educazione dei bambini, limiti educativi, frustrazione infantile",
+    category: "Prima infanzia (1-3 anni)",
+    date: "27 dicembre 2018",
+    author: "Dott. O. Vevey",
+    authorRole: "Psicoanalista",
+    authorAvatar: "OV",
+    authorColor: "#6B5A3F",
+    readTime: "2 min",
+    bgColor: "#6B5A3F",
+    content: [
+      {
+        type: "p",
+        text: "In campo educativo e, in particolare nella relazione tra genitori e figli, riuscire a dire «i no che aiutano a crescere» è una sfida che richiede un impegno costante."
+      },
+      {
+        type: "p",
+        text: "Ogni madre, ogni padre sa che aiutare a crescere significa promuovere le potenzialità ancora in nuce nel bambino, rafforzare le sue qualità, stimolare l'espressione creativa, instillare l'amore del bello e del buono, incoraggiare ogni curiosità, sollecitare il gusto della scoperta e della conoscenza, accrescere il senso di responsabilità e la fiducia nelle proprie capacità. Ogni genitore sa anche che, per prendersi cura del proprio bambino e aiutarlo a crescere, sono necessari dei «no», ma non si tratta di «no» qualunque, bensì di quei «no che aiutano a crescere», secondo la felice espressione di Asha Phillips, autrice di un libro pubblicato dalla casa editrice Feltrinelli nel 1999. Già vent'anni fa, l'autrice rilevava quanto fosse importante saper dire di no al momento giusto e sottolineava le conseguenze negative del non saperlo fare, sia nella relazione tra genitori e figli, sia nello sviluppo della personalità dei bambini."
+      },
+      {
+        type: "p",
+        text: "In che modo un «no» diventa un alleato della crescita?"
+      },
+      {
+        type: "p",
+        text: "Per rispondere a questa domanda, possiamo indicare tre punti:"
+      },
+      {
+        type: "ul",
+        items: [
+          "un «no» pone un limite a un desiderio, in modo da creare un tempo d'attesa tra la sua espressione e il suo soddisfacimento;",
+          "nel porre un limite a un desiderio, permette lo sbocciare di un altro desiderio, così come la ricerca e la costruzione di una soluzione alternativa;",
+          "un «no» pratico, contingente, proferito al momento giusto, non pregiudica l'accettazione, l'amore, la fiducia."
+        ]
+      },
+      {
+        type: "p",
+        text: "Certo, esistono anche dei «no» che non solo non cadono al momento giusto, ma sono anche vere e proprie barriere che ostacolano la creatività, il gioco, la libera espressione delle emozioni, dei gusti e preferenze; basti pensare ai «no» perché «non devi sporcarti, non devi perdere tempo, non devi mangiare le patatine» o altri dello stesso tipo."
+      },
+      {
+        type: "highlight",
+        text: "In linea generale, però, essere confrontato a un «no» permette al bambino di dominare gli impulsi più imperiosi, di mettere un freno alla sua onnipotenza, di contemplare esigenze diverse dalle sue, di prendere in considerazione punti di vista disparati, affinché, dalla massa brulicante dei desideri, possano prendere forma quelli meno inconcludenti. Allo stesso tempo, egli potrà essere in grado di affrontare ogni difficoltà con maggior forza ed essere meno vulnerabile agli affronti, alle ostilità e agli eventi negativi. La frustrazione derivante da un «no» e il suo progressivo superamento fanno sì che la tendenza all'autoaffermazione, propria di ogni bambino, possa dirigersi entro binari maggiormente in sintonia con la fase del suo sviluppo: rabbia, ira, paura, invidia, gelosia trovano oggetti adeguati per esprimersi, senza ricadere su persone o situazioni che nulla hanno a che vedere con l'emozione stessa. In tal modo, egli potrà via via imparare a far valere i propri pensieri e le proprie ragioni senza imporsi con prepotenza e arroganza."
+      }
+    ]
+  },
+  {
+    id: 87,
+    slug: "i-no-che-aiutano-a-crescere-parte-seconda",
+    title: "I no che aiutano a crescere (parte seconda)",
+    excerpt: "Perché è così difficile dire di no ai propri figli? Tre ostacoli comuni, e perché dire «sì» per stanchezza o disattenzione non è davvero un atto d'amore.",
+    keywords: "i no che aiutano a crescere, difficoltà a dire di no, educazione dei bambini, Saint-Exupéry, limiti educativi",
+    category: "Prima infanzia (1-3 anni)",
+    date: "2 gennaio 2019",
+    author: "Dott. O. Vevey",
+    authorRole: "Psicoanalista",
+    authorAvatar: "OV",
+    authorColor: "#6B5A3F",
+    readTime: "2 min",
+    bgColor: "#7A6B4F",
+    content: [
+      {
+        type: "p",
+        text: "Quali gli ostacoli che provocano l'incapacità a dire di no? Anche per rispondere a questa domanda potremmo individuare tre punti:"
+      },
+      {
+        type: "ul",
+        items: [
+          "dire di no può risultare faticoso, perché presuppone che si vada alla ricerca di soluzioni alternative e che, per di più, si abbia tempo ed energia per reggere la probabile reazione di malumore o insoddisfazione del bambino; indubbiamente è più facile demandare ad altri o delegare, per esempio, alla Tv;",
+          "dire di no può sembrare pernicioso ai fini dello sviluppo, ma questa è un'opinione che poggia sui condizionamenti che ogni genitore ha ricevuto nella propria educazione e che non necessariamente vanno applicati alla lettera, in quanto ogni situazione è nuova, ogni bambino è unico, ogni essere umano è in perenne evoluzione;",
+          "dire di no può essere assimilato a un conflitto tra desideri, tra i desideri propri del genitore e tra questi e quelli del bambino: andare contro i desideri di un bambino, specialmente quando è vissuto come prolungamento di sé, equivarrebbe pertanto ad andare contro una parte di se stessi."
+        ]
+      },
+      {
+        type: "p",
+        text: "Inoltre, spesso il dilemma tra «dire no» o «dire sì» è sostenuto dalla convinzione che il «sì» sia positivo e il «no» sia negativo. Eppure, quanti «sì» vengono pronunciati semplicemente perché viene meno l'energia per creare situazioni che siano realmente promotrici della crescita e, dunque, della vita? Tutti quei «sì» si tramutano nel loro contrario, poiché sono dettati da disinteresse, mancanza di tempo, di attenzione, di partecipazione empatica e fattiva."
+      },
+      {
+        type: "highlight",
+        text: "Dire «no», al momento giusto e con il tono giusto, denota una presenza vera, non fasulla, una partecipazione valida, una complicità sul piano affettivo e, pertanto, equivale a dire «sì» allo sviluppo armonioso di un bambino e alla sua crescita personale, così come all'evoluzione dell'adulto, nel suo duplice aspetto di persona e di genitore. In ambito educativo, la saggezza di Saint-Exupéry, tratta da straordinarie esperienze di vita, si traduce in un'esortazione che può accompagnare chiunque nel cammino di crescita: «Se vuoi costruire una barca, non radunare uomini per tagliare legna, dividere i compiti e impartire ordini, ma insegna loro la nostalgia per il mare vasto e infinito» (Citadelle, 1948)."
+      }
+    ]
+  },
+  {
+    id: 88,
+    slug: "se-la-mamma-si-allontana-psicologicamente",
+    title: "Se la mamma si allontana psicologicamente…",
+    excerpt: "Cos'è la «madre morta» descritta dallo psicoanalista André Green: quando la madre è fisicamente presente ma psicologicamente lontana, e come questo condiziona lo sviluppo affettivo del bambino.",
+    keywords: "madre morta, André Green, psicosi bianca, distacco emotivo materno, depressione materna",
+    category: "Puerperio",
+    date: "14 dicembre 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#5A4A6B",
+    content: [
+      {
+        type: "p",
+        text: "Per lo sviluppo psichico del bambino è fondamentale il rapporto che instaura con la madre. Se la presenza materna è carente sotto l'aspetto qualitativo, il bambino può sviluppare una sorta di depressione spesso non riconosciuta come tale, che può sfociare, in età adulta, in una sindrome specifica, la «psicosi bianca». Si tratta di una psicosi atipica, che non si manifesta con delirio o depressione, ma con la paralisi del pensiero, la sensazione di vuoto, di «avere un buco dentro»."
+      },
+      {
+        type: "p",
+        text: "Lo psicoanalista francese Green analizza le cause di questa patologia in un saggio intitolato «La madre morta». In realtà la madre di cui parla non è morta, ma è lontana come se non ci fosse e si occupa del bambino «senza metterci il cuore», perché totalmente coinvolta in altre problematiche su cui si concentrano la sua attenzione e i suoi sentimenti."
+      },
+      {
+        type: "p",
+        text: "Questo significa che anche se la madre è fisicamente presente, ma a livello psicologico lontana, il figlio sente inconsciamente di non poter fare affidamento su di lei perché c'è ma è come se non ci fosse. Di solito questo avviene dopo che il bambino ha sperimentato un buon rapporto con la madre. Poi però questo muta perché una situazione imprevista (come un lutto reale o simbolico, o l'assenza, la lontananza, la mancanza di una persona amata) viene a turbare la madre. La sua profonda tristezza e distrazione si riflettono nella diminuzione dell'interesse verso il piccolo, che può provare l'angosciante sensazione di averla perduta per sempre."
+      },
+      {
+        type: "p",
+        text: "Non essendo in grado di darsi una spiegazione di questo cambiamento, spesso repentino, lo vive come una vera catastrofe, di cui sentirsi colpevole, perché ritiene che possa essere stata causata dal suo modo di comportarsi."
+      },
+      {
+        type: "p",
+        text: "Di questo stato di malessere è possibile evidenziare due fasi:"
+      },
+      {
+        type: "ul",
+        items: [
+          "la prima, caratterizzata dall'ansia, in cui il bambino cerca di lottare per non perdere la mamma, sollecitandola e richiamandola nella relazione attraverso tutti i mezzi somatici che ha a sua disposizione: rifiuto del cibo, disturbi gastrointestinali, problemi del sonno, irriducibile oppositività;",
+          "la seconda, in cui compare lo stato depressivo, caratterizzato da regressione o perdita delle abilità acquisite nelle diverse aree dello sviluppo affettivo, cognitivo, fisico. Il bambino mostra un ritardo significativo nel raggiungimento di tappe importanti quali sorridere al volto umano, seguire un oggetto, ecc."
+        ]
+      },
+      {
+        type: "p",
+        text: "Di fronte al disinvestimento materno il bambino dunque all'inizio lotta, poi disinveste a sua volta l'oggetto (madre), quindi, nell'impossibilità di riconquistarlo, vi si identifica, ossia cerca di diventare come esso è. Sarebbe portato a lasciarsi morire, non potendo spostare sulla madre, debole e vulnerabile, la sua aggressività, che allora viene rivolta a qualcun altro (padre, un fratello/sorella) considerato il presunto responsabile della depressione materna, di cui lui è la vittima."
+      },
+      {
+        type: "highlight",
+        text: "Il rapporto con una «madre morta che morta non è» condiziona a tal punto gli investimenti affettivi, che le persone che nell'infanzia lo hanno vissuto spesso, durante la psicoterapia, esprimono intensi sentimenti di rancore verso qualche persona della propria famiglia, sentita come il proprio persecutore, il responsabile di tutto il loro malessere infantile. Con il procedere del lavoro però prendono coscienza che quella persona è solo uno schermo dietro il quale si nasconde la madre. Esaurita da un rapporto ambivalente con tale persona, non è più stata in grado di investire affettivamente l'altro figlio, che, attribuendo al suo cattivo comportamento l'allontanamento materno, vive sopraffatto da sensi di colpa che condizionano anche in età adulta il suo modo di essere."
+      }
+    ]
+  },
+  {
+    id: 89,
+    slug: "le-paure-del-parto-1-fase-prodromica",
+    title: "Le paure del parto – 1 – (fase prodromica)",
+    excerpt: "Dalla paura di non riconoscere l'inizio del travaglio a quella di rompere le acque in pubblico: come riconoscere la fase prodromica del parto e gestirne le ansie più comuni.",
+    keywords: "fase prodromica, paure del parto, travaglio, tappo mucoso, rottura delle membrane",
+    category: "Parto",
+    date: "16 novembre 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#4A5A78",
+    content: [
+      {
+        type: "p",
+        text: "Quando si parla di paura del parto bisogna riconoscere che questo termine nasconde diversi tipi di paura che hanno a che fare con l'evento, presenti nell'una o nell'altra accezione e con intensità diversa nelle gravide, in base alle proprie caratteristiche e alla propria storia."
+      },
+      {
+        type: "p",
+        text: "Una paura molto comune tra le donne incinte è quella di non essere in grado di riconoscere i segnali dell'inizio del travaglio, anticipando troppo o ritardando l'andata in ospedale."
+      },
+      {
+        type: "p",
+        text: "Per controllare questo tipo di paura è di grande aiuto la conoscenza precisa del momento in cui generalmente avviene il parto (tra le 38 e 42 settimane di gravidanza) e le peculiarità della prima delle quattro fasi che lo caratterizzano, chiamata prodromica, in quanto prepara le tre successive."
+      },
+      {
+        type: "p",
+        text: "La fase prodromica è assai variabile da donna a donna e si caratterizza per contrazioni molto irregolari per intensità, per durata ma soprattutto per frequenza. Durante questa fase avviene l'espulsione del tappo mucoso (di cui molte donne non si accorgono), che durante la gravidanza ha sigillato il collo dell'utero per proteggerne il contenuto. Il tappo si presenta come una piccola massa gelatinosa a volte striata di sangue. La sua eliminazione di solito segna l'inizio delle modificazioni del collo uterino. Quest'ultimo infatti si deve «centralizzare» rispetto alla vagina, per permettere alla forza di gravità di aiutare la progressione del feto. Quindi il collo inizia a raccorciarsi e successivamente a dilatarsi (seconda fase del parto, o dilatante)."
+      },
+      {
+        type: "p",
+        text: "Le contrazioni preparatorie possono anche essere avvertite come dolorose e, per un certo tempo, ritmiche. Nel dubbio rispetto a cosa fare, le vecchie ostetriche consigliavano un bagno caldo o, in alternativa, lo svolgimento di un'attività rilassante (musica, lettura, meditazione ecc.) che consenta di vedere se, nello spazio di un'ora, l'attività contrattile dell'utero si acquieta o aumenta l'intensità, la durata e la regolarità delle contrazioni. In questo caso è consigliabile recarsi là dove si vuole partorire."
+      },
+      {
+        type: "p",
+        text: "Un'altra paura tipica è quella di rompere le membrane (con conseguente perdita di liquido) in un luogo pubblico. L'imbarazzo che si teme di provare se questo dovesse capitare non è legato solo all'attualità, ma può riportare in superficie sensi di colpa, di vergogna, di paura di perdere l'affetto della mamma, legati alle vicende vissute nel periodo infantile di apprendimento della pulizia."
+      },
+      {
+        type: "highlight",
+        text: "In una certa percentuale di donne infatti il travaglio inizia proprio con la rottura intempestiva (cioè fuori tempo, in anticipo) delle membrane. In questo caso si avverte una perdita di liquido di solito trasparente (che potrebbe essere confuso con urina), che bagna gradualmente un assorbente utilizzato per controllo. Se il liquido è «tinto» (colorato) ci si deve recare subito in ospedale perché potrebbe indicare sofferenza fetale; altrimenti ci si può preparare con calma al ricovero, perché non è detto che il travaglio inizi subito. Non sono rari i casi in cui la donna arriva in ospedale a dilatazione già iniziata. Siccome ogni parto ha la propria storia, è buona regola rivolgersi al Pronto Soccorso in presenza di qualsiasi anomalia: perdite di sangue, riduzione dei movimenti fetali, insorgenza di dolori in epoca anticipata."
+      }
+    ]
+  },
+  {
+    id: 90,
+    slug: "il-cibo-nei-sogni-delle-gravide",
+    title: "Il cibo: come e perché compare nei sogni delle gravide",
+    excerpt: "Mele che sostituiscono l'ecografia, pere che diventano bambini: perché il tema del cibo è così presente nei sogni delle donne incinte, e cosa rivela sulla regressione infantile della gravidanza.",
+    keywords: "sogni in gravidanza, cibo e gravidanza, teorie sessuali infantili, regressione infantile, psicoanalisi della gravidanza",
+    category: "Gravidanza",
+    date: "13 novembre 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#4A6B7A",
+    content: [
+      {
+        type: "p",
+        text: "Durante la gravidanza il tema cibo è molto presente, sia per quanto riguarda le regole alimentari a cui la gravida dovrebbe attenersi, sia per i disturbi gastrointestinali che spesso accompagnano i primi mesi."
+      },
+      {
+        type: "p",
+        text: "Vari studi antropologici compiuti in diverse parti del mondo descrivono regole alimentari ben precise che le donne incinte devono seguire, per partorire senza difficoltà o per far nascere un bambino in perfetta salute. Anche nella nostra società una corretta nutrizione è finalizzata, oltre che allo sviluppo del bambino, anche al benessere della madre. Sono superati i tempi in cui le gravide venivano esortate a «mangiare per due», mettendo a rischio la loro salute (oltre alla loro linea, che difficilmente recuperavano dopo il parto) e anche quella del neonato, mangiando in modo sconsiderato ed eccessivo."
+      },
+      {
+        type: "p",
+        text: "Dal momento che il cibo è un tema molto presente in gravidanza, è comprensibile che compaia spesso nel contenuto manifesto di certi sogni delle donne in attesa."
+      },
+      {
+        type: "p",
+        text: "Sogni in cui il cibo non è solo visto come nutrimento ma soprattutto rappresenta/sostituisce il bambino, come illustra il racconto di alcune gravide che parlano di questo argomento: «ho sognato che nell'ecografia al posto del bambino vedevo una bella mela rossa… che mi sedevo a tavola e mi veniva presentato un piatto con del cibo a forma di embrione… che andavo a fare la spesa e mettevo nel carrello delle pere, poi però mi accorgevo che erano dei bambini piccolissimi… che toglievo il pane dal forno e mi ritrovavo ad avere in mano un bebè…»"
+      },
+      {
+        type: "p",
+        text: "Ma c'è un motivo, a livello profondo, per cui questa analogia cibo/bambino che compare nei sogni si presenti più spesso in gravidanza che in altri momenti della vita?"
+      },
+      {
+        type: "highlight",
+        text: "La confusione tra il cibo e il bambino avviene più spesso in questo periodo in quanto legata alla fisiologica e inconsapevole regressione allo stato infantile della donna incinta. Questo significa che aspettando un bambino torna bambina, ossia «ammorbidisce» quelle barriere tra i diversi strati della sua psiche che impedivano ai contenuti più profondi di emergere e di raggiungere la coscienza. A livello inconscio, il modo di pensare infantile (che esiste anche nell'adulto, seppure rimosso e quindi non riconoscibile) spiega la gravidanza come se derivasse dalla fecondazione orale, come sottolineato anche dalle favole in cui il restare incinta avveniva in seguito all'ingestione di certi cibi. La confusione tra cibo e bambino dunque riporta alle teorie sessuali infantili, non solo di fecondazione ma anche di nascita. L'interno del corpo infatti è immaginato come una cavità indifferenziata, un tubo che ha come estremità la bocca e l'ano, dove non c'è distinzione tra l'apparato gastrointestinale e quello uro-genitale e da dove il cibo e i bambini fuoriescono come escrementi. La gravidanza dunque è legata all'ingestione e la nascita all'evacuazione."
+      },
+      {
+        type: "p",
+        text: "Fare sogni su questo argomento riporta perciò la donna al periodo della prima infanzia (in particolare dai 3 ai 5 anni) in cui, bambina, si era posta il quesito di come avvenisse la nascita. Sognare le permette di rielaborare i vissuti legati alla sua esperienza e riattivati dalla gravidanza: di soddisfazione/insoddisfazione delle spiegazioni avute su questo argomento o legati alla nascita di un fratello/sorella o al rapporto con donne incinte affettivamente importanti nella sua vita."
+      }
+    ]
+  },
+  {
+    id: 91,
+    slug: "cosa-puo-nascondersi-dietro-a-frequenti-sintomi-dei-bambini",
+    title: "Cosa può nascondersi dietro a frequenti sintomi dei bambini?",
+    excerpt: "Quando un bambino si ammala con frequenza insolita, il vero «malato» potrebbe essere il rapporto con la madre: cos'è la Sindrome Pediatrica di Evitamento Materno (SPEM).",
+    keywords: "SPEM, sindrome pediatrica di evitamento materno, difficoltà a separarsi dal bambino, somatizzazioni infantili, ansia materna",
+    category: "Neonato/Lattante (0-1 anni)",
+    date: "8 novembre 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#3F6B6B",
+    content: [
+      {
+        type: "p",
+        text: "Uno dei problemi che può incontrare la madre dopo la nascita del bambino riguarda la difficoltà a separarsene. Inconsciamente molte donne continuano a vivere il figlio come una parte di se stesse, come era avvenuto durante la gravidanza. Il distacco fisico avvenuto con il parto sembra non cambiare nulla nella psiche della madre, che rifiuta di staccarsi dal bambino evitando di lasciarlo ad altri per qualche breve periodo (in certi casi persino rifiutando di farlo prendere in braccio anche da persone della famiglia), accampando ogni sorta di paure nel metterlo a dormire da solo, cercando di averlo sempre in braccio o sotto gli occhi per prevenire qualsiasi sua difficoltà."
+      },
+      {
+        type: "p",
+        text: "Questo ingiustificato atteggiamento ansiogeno della madre tradisce una forma di depressione spesso non riconosciuta, in cui la madre confonde il bebè con se stessa e proietta su di lui il malessere che invece la riguarda. Malessere che nasce dalla ripetizione, con il figlio, della relazione avuta da bambina con sua madre, da cui non era stata in grado di separarsi per costituire la propria identità. Diventata mamma a sua volta si ritrova invischiata nel suo rapporto confusivo e ambivalente con sua madre, sostituita nel presente dal bebè."
+      },
+      {
+        type: "p",
+        text: "Nell'impossibilità di riconoscere che il problema la riguarda lo proietta sul bambino."
+      },
+      {
+        type: "p",
+        text: "Non è un caso che i figli di queste madri sviluppino con frequenza problemi somatici che richiedono continue consultazioni dal pediatra e continua presenza materna per garantire loro le cure necessarie."
+      },
+      {
+        type: "p",
+        text: "Questi problemi di salute causati inconsciamente dalle difficoltà materne a instaurare un rapporto sano con il bambino costituiscono la Sindrome Pediatrica di Evitamento Materno (SPEM)."
+      },
+      {
+        type: "highlight",
+        text: "I pediatri, che la conoscono bene, spesso si rendono conto che il vero «malato» della diade non è il bambino ma la madre, a cui dovrebbero essere rivolte le cure se si rendesse conto e accettasse la realtà dei fatti."
+      },
+      {
+        type: "p",
+        text: "Questo non significa colpevolizzare le madri per qualcosa che avviene in loro inconsciamente (cioè che non sono in grado di riconoscere), ma semplicemente renderle consapevoli che il ripetersi con frequenza di situazioni di malattia del bambino può essere migliorato o risolto anche grazie all'approfondimento del loro mondo interiore, anche se non denunciano sintomi che le spingano a intraprendere un lavoro su se stesse."
+      }
+    ]
+  },
+  {
+    id: 92,
+    slug: "alcuni-effetti-della-depressione-materna-sullo-sviluppo-del-bebe",
+    title: "Alcuni effetti della depressione materna sullo sviluppo del bebè",
+    excerpt: "Come il distacco emotivo di una madre depressa viene percepito dal bebè, e attraverso quali segnali — pianti, difficoltà di crescita, ipotonia — il bambino esprime il disagio.",
+    keywords: "depressione post partum, effetti sul neonato, distacco emotivo materno, segnali di disagio del bebè",
+    category: "Neonato/Lattante (0-1 anni)",
+    date: "30 ottobre 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#4F6B5A",
+    content: [
+      {
+        type: "p",
+        text: "Il malessere che molte madri vivono dopo il parto, non giustificato da situazioni obiettive di difficoltà ma solitamente attribuito all'eccessiva stanchezza, oltre a coinvolgere non solo la donna ma tutta la famiglia, incide sullo sviluppo psico-affettivo del bambino."
+      },
+      {
+        type: "p",
+        text: "Questa ragione dovrebbe indurre le madri in grado di riconoscere il loro stato a cercare un aiuto per risolverlo al più presto, senza illudersi che il passare del tempo e la crescita del bambino permettano di superarlo."
+      },
+      {
+        type: "p",
+        text: "Infatti le prime settimane di vita sono fondamentali nella costruzione della propria psiche, e vicino a una madre depressa il bambino ha molta più difficoltà a mettere delle basi solide al proprio mondo interiore, che potranno essergli di aiuto nel prosieguo della vita."
+      },
+      {
+        type: "p",
+        text: "La donna depressa vive una sorta di distacco emotivo dal figlio, che non le impedisce di occuparsene con attenzione, di prendersene cura per quanto riguarda gli aspetti pratici: il bambino è nutrito e accudito ma da qualcuno che svolge questi compiti in modo distaccato, con scarsa partecipazione, senza provare una vera gioia, senza risonanze emotive positive. La madre si occupa di suo figlio perché deve farlo, ma non vive i suoi gesti con piacere, anzi si sente «invasa» dai ritmi incalzanti a cui è sottoposta e non ha che il desiderio che questo periodo finisca il più presto possibile!"
+      },
+      {
+        type: "p",
+        text: "Il suo stato d'animo è percepito dal bambino che reagisce a questa scarsa sintonizzazione con la madre richiedendo continuamente contatto e attenzioni attraverso pianti frequenti, irritabilità, problemi legati all'alimentazione (sia al seno che al biberon), difficoltà di addormentarsi e numerosi risvegli durante la notte, richiesta continua di essere tenuto in braccio perché incapace di gestire i momenti in cui viene lasciato nella culla."
+      },
+      {
+        type: "p",
+        text: "È come se il bambino, non sentendo la presenza affettiva della madre, non riuscendo a introiettarla, vivesse in uno stato di perenne tensione e avesse continuamente bisogno di sollecitarla per potersi affidare a lei e rilassarsi. Questo comportamento crea un circolo vizioso, in quanto più la madre si sente «in gabbia», meno riesce a essere disponibile affettivamente per il bambino."
+      },
+      {
+        type: "p",
+        text: "Nel bebè questa situazione è messa in evidenza da una serie di «sintomi» a cui spesso non si dà una lettura corretta:"
+      },
+      {
+        type: "ul",
+        items: [
+          "ipotonia o estremo irrigidimento del corpo quando viene preso in braccio;",
+          "somatizzazioni a carattere digestivo (coliche, rigurgiti frequenti), respiratorio o dermatologico;",
+          "difficoltà di crescita, con curva inferiore alla media dell'età."
+        ]
+      },
+      {
+        type: "highlight",
+        text: "Da alcuni bebè invece il disagio può essere espresso attraverso un comportamento irreprensibile: troppo bravi, si rifugiano spesso nel sonno o si adattano all'umore serio o allegro della madre, a cui sembrano fare da specchio."
+      }
+    ]
+  },
+  {
+    id: 93,
+    slug: "linevitabile-gelosia-fraterna",
+    title: "10 – L'inevitabile gelosia fraterna",
+    excerpt: "Perché la nascita di un secondo figlio è sempre fonte di gelosia per il primogenito, e perché più i fratelli sono vicini d'età più il disagio può essere intenso.",
+    keywords: "gelosia fraterna, secondo figlio, rivalità tra fratelli, differenza di età tra fratelli, psicologia infantile",
+    category: "Prima infanzia (1-3 anni)",
+    date: "23 ottobre 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#6B4A5A",
+    content: [
+      {
+        type: "p",
+        text: "Spesso è sulla base della propria esperienza personale che vengono fatte le scelte, anche quella di quando avere un secondo figlio. Come racconta Rossella, lei ha preferito aspettare che la sua bambina avesse 4 anni prima di iniziare una seconda gravidanza, per non farle vivere le stesse sensazioni angosciose che ha provato lei quando è nata sua sorella. E ha avuto la fortuna di riuscire a restare di nuovo incinta al momento desiderato, cosa che a molte non capita!"
+      },
+      {
+        type: "p",
+        text: "«Mia sorella è nata che io avevo poco più di due anni. Ero troppo piccola per avere un ricordo preciso delle impressioni di allora, ma un'immagine mi è rimasta fissata nella mente, chiara e precisa come se la vedessi proiettata su uno schermo cinematografico: quella di mia madre distesa su un letto altissimo che probabilmente mi sarà parso irraggiungibile, visto che ero così piccola e incapace di arrampicarmi fin lassù. La nonna mi raccontava che sono andata insieme a lei a vedere la sorellina, ma sono scappata nel corridoio piangendo, dicendo che la sorellina era brutta, cattiva, non la volevo, non doveva venire a casa mia… avrei voluto buttarla via, venderla, gettarla nella pattumiera in modo da eliminarla per sempre! Quante volte durante il mio lavoro psicoterapeutico ho ripercorso questa scena che mi faceva riprovare tutta la gelosia per quella intrusa che polarizzava gli sguardi e l'interesse di tutti, soprattutto della mia mamma che forse non si era neanche accorta di me.»"
+      },
+      {
+        type: "p",
+        text: "Anche se spesso ci si illude del contrario, la nascita di un secondo figlio è sempre causa di forte gelosia nel bambino più grande, che prova nei confronti dell'intruso un'aggressività più o meno intensa, dipendente da vari fattori: il modo in cui è stato preparato all'evento, il suo carattere, la sua età, la situazione familiare."
+      },
+      {
+        type: "p",
+        text: "A differenza di quello che si può credere, la gelosia è tanto maggiore quanto inferiore è la differenza di età tra i due, soprattutto se la donna resta incinta quando il primo figlio ha pochi mesi, ovvero quando è ancora in quella fase «fusionale» che caratterizza il primo periodo di vita. Siccome iniziare una gravidanza significa investire sul nuovo figlio parte dei desideri che erano rivolti prima solo sul bimbo già nato, gli toglie, senza rendersene conto e inevitabilmente, un supporto di cui ha ancora molto bisogno per costruire la sua identità. Pur senza venir meno ai suoi compiti perché è incinta, deve inevitabilmente suddividere le sue energie tra il nascituro e il figlio esistente, che si trova a condividere la mamma con un altro in un periodo della vita in cui avrebbe ancora bisogno di averla in modo esclusivo. Se il distacco tra i due fratelli è maggiore la situazione cambia. Anche se la possessività infantile è sfrenata a tutte le età, essere un po' più grande aiuta il primogenito a trovare nella realtà che lo circonda possibilità di investimento affettivo su altri personaggi e su altre situazioni (l'asilo, gli amici, le maestre, le attività del tempo libero)."
+      },
+      {
+        type: "highlight",
+        text: "Dunque minore è il distacco di età tra i fratelli, maggiore può essere il disagio per il primogenito. Anche se è più facile condividere molte situazioni con un fratello vicino di età, inevitabilmente il rapporto è caratterizzato da una forte ambivalenza: da un lato aggressività verso chi gli ha usurpato il ruolo privilegiato che aveva in famiglia, dall'altra affetto e protezione per il più piccolo."
+      },
+      {
+        type: "p",
+        text: "Troppa vicinanza di età spesso rende le cose più difficili anche al secondogenito. Infatti più che a vedere in lui un modello da imitare, un ideale a cui aspirare, tenderà a vivere con rivalità il rapporto, cercando di fare meglio per ottenere un elogio, un bacio, un sorriso, prova tangibile per sentirsi più amato dai genitori."
+      }
+    ]
+  },
+  {
+    id: 94,
+    slug: "una-tipologia-materna-la-madre-vulnerabile",
+    title: "Una tipologia materna: la «madre vulnerabile»",
+    excerpt: "Sempre stanca, sempre sopraffatta, sempre bisognosa di essere consolata: perché la «madre vulnerabile» rischia di ostacolare, senza volerlo, la separazione e l'autonomia del figlio.",
+    keywords: "madre vulnerabile, tipologia materna, sensi di colpa materni, possessività materna, separazione dal figlio",
+    category: "Puerperio",
+    date: "18 ottobre 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#5A4A5A",
+    content: [
+      {
+        type: "p",
+        text: "La tipologia materna che si può definire della «madre vulnerabile» si caratterizza soprattutto per la presenza vittimistica della madre, sopraffatta dal quotidiano, sommersa dalla fatica, da una stanchezza paralizzante che la blocca, che le impedisce di vivere serenamente e di godersi la maternità perché costretta a farsi carico di tutti i problemi di chi le sta vicino, anche quando il suo aiuto non è richiesto."
+      },
+      {
+        type: "p",
+        text: "La madre vulnerabile, anche se presente e vicina al bambino, anziché essere percepita come una persona protettiva, rassicurante, capace di infondere sicurezza, è vissuta come un essere debole, fragile, da proteggere, da consolare per le sofferenze che le persone, o i casi della vita, le hanno procurato. È una vittima che spesso vuole immolarsi per i figli anche quando non sarebbe necessario. Questo atteggiamento crea nell'altro disagio, forti sensi di colpa e molte difficoltà a staccarsi da lei anche quando lo vorrebbe fare."
+      },
+      {
+        type: "p",
+        text: "Il comportamento di queste madri «poverine», sofferenti, insoddisfatte, stanche è assai nocivo per i figli, perché le rende inconsapevolmente ricattatorie, incapaci di separarsi da loro, di riconoscerne l'individualità, di favorirne l'autonomia. Riflette la possessività nei confronti dell'altro, la non differenziazione, la confusione tra il figlio e loro stesse."
+      },
+      {
+        type: "p",
+        text: "Se si approfondisce l'analisi sotto l'aspetto inconscio si arriva a capire che queste donne ripetono con i figli il comportamento che da bambine avevano avuto con la propria madre, da cui erano state incapaci di prendere le distanze per affermare la propria personalità e realizzare i propri desideri."
+      },
+      {
+        type: "p",
+        text: "Dopo la maternità si sentono alla mercé dei figli come lo erano state della propria madre: entrambi infatti esercitano (o hanno esercitato) su di loro un ruolo soffocante, che le frustra ma dal quale non riescono a liberarsi a causa di forti sensi di colpa."
+      },
+      {
+        type: "p",
+        text: "Rivelatore di questa situazione è lo stesso atteggiamento che hanno sia verso i figli che verso i genitori: cercando di esaudirne ogni richiesta, esprimendo devozione e sottomissione soffocano se stesse ma non l'inevitabile aggressività che provano, e che viene pagata con sensi di colpa, causa di sintomi sia psichici che somatici, a volte anche di forte intensità. Riconoscendosi soltanto nel dovere materno o figliale, che un Super-io severo (per non dire sadico) obbliga a espletare senza tenere conto dei propri desideri, vivono ripiegate su loro stesse e sempre insoddisfatte."
+      },
+      {
+        type: "highlight",
+        text: "Diventa quindi vitale, per le donne che ritrovano in loro stesse tratti di questa frequente tipologia, poter rielaborare i vissuti e i desideri infantili riattivati dalla nascita del bambino, altrimenti la storia vissuta con le proprie madri rischia di ripetersi con i figli."
+      },
+      {
+        type: "p",
+        text: "La «vulnerabilità materna», che come si è detto si basa sul sacrificio di sé e che si manifesta con un «masochismo eroico», presenta aspetti comuni con la tipologia delle «supermadri» descritte dalla psicoanalista francese D. L. Haineault. Anche se possono sembrare madri esemplari, le «supermadri» si impongono per la violenza della loro rabbia e l'intensità del loro malessere, che le rende possessive e invadenti. Sono persone che hanno sofferto molto durante l'infanzia, vittime di ferite narcisistiche che hanno messo a repentaglio la loro identità, che tendono a recuperare attraverso la maternità."
+      },
+      {
+        type: "p",
+        text: "Per quanto concerne il bambino, il vissuto della vulnerabilità materna rende più difficile la separazione perché blocca le manifestazioni aggressive verso la madre e suscita forti sensi di colpa. Al bambino si impone infatti la necessità di proteggere la «madre vulnerabile», di starle vicino, di non staccarsene. Per fare questo deve però soffocare, inibire, bloccare i fisiologici tentativi di esprimere le proprie pulsioni aggressive che mirano alla separazione da lei. Non riuscire a separarsi dalla madre infatti condiziona la sua possibilità di essere riconosciuto (e dunque di riconoscersi) nella propria identità di persona: ciò influisce sul suo sviluppo e sulla sua capacità di affrontare in modo soddisfacente la propria vita."
+      }
+    ]
+  },
+  {
+    id: 95,
+    slug: "un-incubo-tipico-della-gravidanza-13",
+    title: "Un incubo tipico della gravidanza",
+    excerpt: "Un incubo ricorrente sulla salute del bambino, raccontato durante una seduta di psicoterapia, rivela sensi di colpa infantili mai del tutto elaborati: gli incubi in gravidanza non sono mai presagi.",
+    keywords: "incubi in gravidanza, psicoterapia in gravidanza, sensi di colpa infantili, sogni premonitori, ansia per la salute del bambino",
+    category: "Gravidanza",
+    date: "12 ottobre 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#4A5A6B",
+    content: [
+      {
+        type: "p",
+        text: "A molte mamme capita di avere degli incubi, ossia di fare dei sogni caratterizzati da sensazioni di ansia e angoscia dai quali si svegliano in uno stato di prostrazione, di malessere e di stanchezza. Spesso li raccontano con stupore, non trovando un nesso con le sensazioni di benessere e di serenità che accompagnano la loro gravidanza. L'approfondimento individuale dei pensieri latenti collegati al contenuto manifesto riduce la frequenza di questi sogni, assai dispendiosi a livello energetico per la sognatrice. Infatti raccontare i ricordi che associativamente il sogno porta a galla significa poter diluire il conflitto soggiacente, permettendogli di scaricarsi in modo più fisiologico attraverso la verbalizzazione."
+      },
+      {
+        type: "p",
+        text: "Vediamo come Lara, a partire da un incubo relativo alla nascita di un bambino malato, riesca durante una seduta di psicoterapia a metterlo associativamente in relazione con certi desideri della sua infanzia."
+      },
+      {
+        type: "p",
+        text: "«Da quando sono incinta ho sognato spesso mia zia. Non ricordo bene il contesto, ma tutte le volte mi sono risvegliata con il timore che qualcosa nella mia gravidanza non procedesse come doveva, e che si presentassero dei problemi per la salute del bambino. Anche stanotte mi sono svegliata tutta sudata, con il batticuore, in preda al panico."
+      },
+      {
+        type: "p",
+        text: "Ho sognato che nel salotto di casa mia c'era una signora che parlava con lo stesso accento straniero di mia zia; indossava un abito simile a uno che ricordo addosso a lei quando era incinta. Questa persona, che dovevo conoscere bene perché si comportava con me in maniera molto familiare, mi consigliava di abortire perché aveva saputo che il mio bambino era affetto da una malattia incurabile. (Questo è il contenuto manifesto del sogno)"
+      },
+      {
+        type: "p",
+        text: "Anche se al risveglio cercavo di calmarmi dicendomi che si trattava soltanto di un sogno, mi pareva davvero un cattivo presagio averlo fatto proprio la notte prima della morfologica!"
+      },
+      {
+        type: "p",
+        text: "Mi sono presentata in ospedale tesissima e, anche se cercavo di non pensare al sogno, mi aspettavo che da un momento all'altro mi venisse comunicata una diagnosi nefasta. Solo le parole del medico (che mi sono fatta ripetere due volte!) e le immagini che, con pazienza, mi illustrava sullo schermo, mi hanno permesso di prendere le distanze dal mio sogno, radicato non nella realtà ma nel mondo dei miei vissuti infantili, e di lasciarmi andare alle più tenere e serene fantasie riguardanti il bambino."
+      },
+      {
+        type: "p",
+        text: "Se penso a mia zia mi viene in mente che da piccola ero molto legata a lei, una giovane spagnola allegra, piena di vita, solare. Abitavamo sullo stesso pianerottolo così andavo spesso a giocare a casa sua: era più disponibile della mamma, mi faceva divertire e con lei mi sentivo una principessa, fino a quando… è rimasta incinta. Da quel momento ha cominciato a occuparsi meno di me perché spesso stava male o aveva meno tempo da dedicarmi. Non poteva neanche più prendermi in braccio… Io, la nipotina preferita messa in disparte… mi sembrava di non contare più niente da quando esisteva quel maledetto bebè… che non c'era ancora!"
+      },
+      {
+        type: "p",
+        text: "Per quanto mi assicurasse che avrebbe continuato a portarmi in vacanza con lei anche dopo la nascita del bambino, sentivo che ormai era lontana, perduta per sempre, così distante e strana al punto che una volta mi aveva persino messa in castigo per una «brutta cosa» che avevo detto! Che speravo che il suo bambino fosse orribile, malfatto, malato o addirittura che morisse, così sarei tornata a essere la preferita e non avrei dovuto dividere il suo affetto con nessuno!» (È bene ricordare che per un bambino l'augurio di morte significa semplicemente desiderare che il rivale si tolga di mezzo)."
+      },
+      {
+        type: "p",
+        text: "L'approfondimento del sogno attraverso i pensieri del contenuto latente esprime dunque il grido disperato di Lara, che si sente messa in disparte (anche se lo è solo nella sua fantasia e non nella realtà). Una bambina che spera che l'altro (il rivale) si tolga di mezzo, muoia, o che sia così brutto, malato, cattivo da non essere in grado di entrare in competizione con lei, che può così mantenere indisturbata il suo primato affettivo."
+      },
+      {
+        type: "highlight",
+        text: "Sapendo queste cose si può facilmente intuire che anche il sogno fatto prima dell'ecografia, e che ha tanto spaventato Lara, come qualsiasi sogno, non ha alcun significato di predizione. Evidenzia soltanto i forti sensi di colpa per i sentimenti aggressivi provati da bambina verso il cuginetto: identificandosi con la zia teme infatti che possa capitare a lei ciò che le aveva augurato!"
+      }
+    ]
+  },
+  {
+    id: 96,
+    slug: "una-paura-tipica-della-futura-mamma-la-salute-del-nascituro",
+    title: "Una paura tipica della futura mamma: la salute del nascituro",
+    excerpt: "Perché l'ansia ossessiva per la salute del bambino, spesso sproporzionata rispetto ai dati oggettivi, può nascondere antichi sentimenti di gelosia infantile mai del tutto elaborati.",
+    keywords: "ansia in gravidanza, paura per la salute del bambino, gelosia infantile, ambivalenza materna, psicologia della gravidanza",
+    category: "Gravidanza",
+    date: "24 settembre 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "2 min",
+    bgColor: "#4A5A78",
+    content: [
+      {
+        type: "p",
+        text: "Qualsiasi donna nel corso della gravidanza a volte è sfiorata dalla paura che il suo bambino possa non essere sano. Se la maggior parte riesce ad allontanare dalla propria mente questa triste eventualità non appena vi si affaccia, a pensarci il meno possibile, a sviare la propria attenzione su altre cose per evitare di crearsi ansie inutili, per alcune questo pensiero si sovrappone a tutte le altre fantasie serene, diviene martellante, ossessivo, incontrollabile, tanto che a nulla servono le rassicurazioni date dal medico o l'esito di esami specifici."
+      },
+      {
+        type: "p",
+        text: "L'intensità di questa paura, che ben di rado è motivata da situazioni oggettive, dipende dall'intensità con cui nell'infanzia certi desideri specifici di gelosia e di odio, e i sensi di colpa a essi legati, siano stati vissuti dalla donna nei confronti di chi si è intromesso in una relazione affettiva gratificante, apportandone dei cambiamenti: per esempio un fratellino o una sorellina che nascendo inevitabilmente modifica il rapporto con la mamma."
+      },
+      {
+        type: "p",
+        text: "Tanto più questi sentimenti sono stati allontanati dalla coscienza, dimenticati, rimossi, tanto più continuano ad agire nell'inconscio di chi li ha provati, e a rivolgersi verso oggetti che li possono soddisfare. Durante la gravidanza l'oggetto privilegiato è il nascituro, il piccolo intruso che, come si è già detto, per quanto desiderato, voluto, cercato, modifica con la sua presenza in utero i rapporti che la madre ha instaurato fino a quel momento: con il partner e con eventuali altri figli."
+      },
+      {
+        type: "p",
+        text: "Su di lui si concentrano gli ambivalenti desideri materni (di solito negati), difficili da riconoscere perché più sono intensi a livello inconscio più arrivano alla coscienza camuffati."
+      },
+      {
+        type: "p",
+        text: "Uno dei tipici mascheramenti dell'ambivalenza è proprio l'eccessiva e immotivata preoccupazione della madre per lo stato di salute del bambino."
+      },
+      {
+        type: "highlight",
+        text: "È come se la donna che è stata una bambina gelosa verso un fratellino (o altra figura capace di suscitare questi sentimenti), senza rendersene conto, temesse che si realizzino su di lui quei desideri che, in un tempo lontano e dimenticato, aveva provato verso qualcuno di cui ora il bambino ha preso il posto."
+      }
+    ]
+  },
+  {
+    id: 97,
+    slug: "gravidanza-parto-e-ambivalenza-inconscia",
+    title: "Gravidanza, parto e ambivalenza inconscia",
+    excerpt: "Dalle gravide «falsamente presenti» a quelle che vivono la gravidanza come una malattia: come il grado di ambivalenza inconscia verso il nascituro condiziona anche la scelta di come partorire.",
+    keywords: "ambivalenza in gravidanza, gravidanza negata, gravidanza come malattia, scelta del parto, psicologia della gravidanza",
+    category: "Gravidanza",
+    date: "13 settembre 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#5A4A6B",
+    content: [
+      {
+        type: "p",
+        text: "Per ambivalenza si intende l'insieme dei sentimenti di amore e di odio, per lo più inconsci, che si provano verso qualcosa o qualcuno. Anche verso il proprio futuro figlio, che come si è detto, rappresenta un corpo estraneo per la madre che nel corso della gravidanza, per salvarlo dai suoi biologici attacchi distruttivi, arriva a considerarlo una parte del proprio corpo. Di quel corpo su cui si concentra la sua attenzione, perché nei nove mesi di attesa si modifica e reagisce in modo diverso da prima."
+      },
+      {
+        type: "p",
+        text: "Il modo in cui la donna vive la gravidanza è rivelatore del grado di ambivalenza inconscia che nutre per il futuro bambino. Essa è particolarmente intensa soprattutto in due tipi di gestanti: quelle che si possono definire «falsamente presenti», in quanto negano in modo parossistico il loro stato, e quelle che invece drammatizzano ed esasperano i sintomi della gravidanza «subita» come se fosse una malattia."
+      },
+      {
+        type: "p",
+        text: "Le prime continuano a vivere come se non fossero incinte, senza apportare alcun cambiamento ad abitudini di vita non proprio compatibili con la gravidanza: fumano, si affaticano eccessivamente anche quando avrebbero la possibilità di evitarlo, commettono gravi errori dietetici, svolgono attività sportive controindicate e anche rischiose. Sono scarsamente coinvolte in ciò che stanno vivendo, a cui concedono poco spazio anche a livello psichico. Considerano una perdita di tempo concedersi fantasie, pensieri, immagini sul bambino e sulla loro vita dopo che sarà nato. In modo molto pragmatico pensano che non sia necessario prepararsi a qualcosa che affronteranno al momento in cui si presenterà. La loro vita procede normalmente «nonostante» la gravidanza; si rendono conto di essere incinte solo quando non possono più ignorare i cambiamenti del loro corpo, o fare cose che prima erano in grado di fare."
+      },
+      {
+        type: "p",
+        text: "Le altre, da quando scoprono di essere incinte, lamentano forti e incontrollabili sintomi che si alternano durante tutto il periodo della gravidanza e che le costringono a una vita da malate, limitata negli spostamenti, intervallata da un susseguirsi di visite, analisi, esami. Per alcune il malessere e i rischi sono reali, non inventati, dunque risulta difficile ipotizzare che siano la manifestazione di una conflittualità profonda che si serve del corpo per esprimersi. Altre invece, anche in assenza di sintomatologia, vivono la gravidanza «sotto una campana di vetro», temendo che qualsiasi normale attività possa nuocere al bambino. Un atteggiamento di eccessiva precauzione, di ingiustificata paura «per tutto», che nasconde il desiderio profondo di mettersi al riparo dalla propria sconosciuta aggressività."
+      },
+      {
+        type: "p",
+        text: "È interessante notare che anche le ragioni della scelta di come partorire rispecchiano il modo in cui è stata vissuta la gravidanza. Un parto non medicalizzato, naturale, autogestito, che magari si svolge in casa, motivato dal desiderio di garantire al bambino uno stretto e precoce contatto, è richiesto soprattutto dalle donne del primo gruppo, che dimostrano di non sapere (o di aver dimenticato) che il rapporto con il bambino si costruisce giorno dopo giorno fin dall'inizio della gravidanza."
+      },
+      {
+        type: "p",
+        text: "È come se costoro volessero delegare a un momento particolare come quello del parto la presenza mancata durante la gravidanza."
+      },
+      {
+        type: "p",
+        text: "L'intervento medico spesso è accettato più facilmente (o addirittura sollecitato), come logica conseguenza di una gravidanza-malattia, dalle donne che si ritengono incapaci di partorire spontaneamente."
+      },
+      {
+        type: "highlight",
+        text: "In entrambi i casi è facile che la conflittualità inconscia, che ha caratterizzato l'attesa, si ripresenti nel periodo del puerperio con stati di malessere di varia intensità che rendono inevitabilmente più difficile il contatto con il bebè."
+      }
+    ]
+  },
+  {
+    id: 98,
+    slug: "i-sogni-in-gravidanza",
+    title: "I sogni in gravidanza",
+    excerpt: "Perché durante la gravidanza si sogna di più, e cosa significa davvero interpretare un sogno: la differenza tra contenuto manifesto e contenuto latente secondo la psicoanalisi.",
+    keywords: "sogni in gravidanza, contenuto manifesto, contenuto latente, interpretazione dei sogni, Freud",
+    category: "Gravidanza",
+    date: "6 settembre 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#4A6B7A",
+    content: [
+      {
+        type: "p",
+        text: "Spesso le donne incinte raccontano che con la gravidanza la loro vita onirica si è intensificata: hanno la sensazione di sognare di più e/o di ricordare meglio i sogni al risveglio, come se il loro stato le mettesse più in sintonia con quell'aspetto della mente a cui di solito viene rivolta scarsa attenzione."
+      },
+      {
+        type: "p",
+        text: "Prima di parlare di sogni tipici fatti dalle gravide (a cui saranno dedicati i prossimi articoli) e per evitare di aspettarsi interpretazioni che non hanno nulla di scientifico, è necessario capire che il sogno è un argomento assai complesso, che ci parla attraverso un suo linguaggio particolare (basato su regole estranee alla nostra coscienza) della nostra vita infantile, dei nostri desideri più intimi, dei nostri affetti più profondi. Ci rivela cioè un mondo sommerso conservato nell'inconscio, che ci riguarda ma del quale non siamo (e non possiamo essere) consapevoli, caratterizzato dalla registrazione di ricordi troppo lontani nel tempo perché vi possiamo accedere e da aspetti di noi stessi tanto reali quanto difficili da accettare in base ai nostri canoni morali."
+      },
+      {
+        type: "p",
+        text: "Il sogno perciò è una manifestazione dell'inconscio che per raggiungere la coscienza deve subire delle deformazioni, una sorta di traduzione che avviene seguendo regole complesse, dalla cui conoscenza non può prescindere l'interpretazione."
+      },
+      {
+        type: "p",
+        text: "Qui ci limiteremo a dire che il sogno è costituito da due parti: le scene che si ricordano e che si possono raccontare al risveglio (che spesso ricalcano situazioni del quotidiano ma che possono anche essere assurde) costituiscono il contenuto manifesto. Per esempio, può capitare spesso di riconoscere in un personaggio del sogno più persone, o di sognare un luogo che ha le caratteristiche di vari posti conosciuti ecc. Il contenuto manifesto dunque rappresenta una sorta di involucro che racchiude l'insieme di tutti i pensieri che si connettono in qualche modo al sogno, in modo diretto o associativo, e che costituiscono il «contenuto latente». È in esso che si cela il nucleo del sogno, ossia i desideri infantili di origine inconscia che lo hanno creato per trovare una via di scarica."
+      },
+      {
+        type: "highlight",
+        text: "Cercare delle interpretazioni basate sul contenuto manifesto è inutile e fuorviante come cercare attraverso le caratteristiche di una maschera l'identità della persona che la indossa. In esso infatti gli elementi del sogno appaiono camuffati e deformati, tanto da renderne incomprensibile il significato. Dunque, pensare che fare certi sogni abbia un significato specifico non ha alcun valore scientifico: riguarda il contenuto manifesto, non l'essenza del sogno, che si desume solo attraverso l'approfondita analisi del contenuto latente, attraverso cui è possibile riconoscere i desideri inconsci che l'hanno creato."
+      },
+      {
+        type: "p",
+        text: "Come dice Freud: «una collezione di sogni senza associazioni né conoscenza del contesto in cui sono stati fatti non mi dice niente e immagino che per chiunque difficilmente possa significare qualcosa»."
+      }
+    ]
+  },
+  {
+    id: 99,
+    slug: "le-voglie-in-gravidanza",
+    title: "Le «voglie» in gravidanza",
+    excerpt: "Da dove nasce il desiderio improvviso e irrefrenabile di un cibo particolare durante la gravidanza? Un'ipotesi psicoanalitica lega le «voglie» all'ambivalenza inconscia verso il nascituro.",
+    keywords: "voglie in gravidanza, desideri alimentari, ambivalenza materna, possessività materna, psicologia della gravidanza",
+    category: "Gravidanza",
+    date: "31 agosto 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#6B5A4A",
+    content: [
+      {
+        type: "p",
+        text: "«Da quando non ho più avuto paura di vomitare e quindi ho superato la nausea, ho ritrovato il piacere di mangiare, anzi a volte sento un desiderio irrefrenabile di certi cibi che mi costringe anche a uscire per andarmeli a comperare. Tuttavia, pur sentendomi a volte obbligata a concedermi delle soddisfazioni alimentari, non mi sono più lasciata andare ai peccati di gola dell'infanzia, per cui fortunatamente non ho preso troppi chili e non vivo con i sensi di colpa!»"
+      },
+      {
+        type: "p",
+        text: "Lara menziona qui le ben note «voglie» della gravida, ossia i desideri intensi di un cibo particolare che sorgono all'improvviso e che a volte spingono la donna (e chi le sta vicino!) a una ricerca affannosa pur di soddisfarli."
+      },
+      {
+        type: "p",
+        text: "Secondo un detto popolare, se la voglia non viene soddisfatta e la donna si tocca una parte del corpo, in quella stessa parte, nel bambino, potrà comparire una macchia, la voglia, che avrà lo stesso colore del cibo desiderato."
+      },
+      {
+        type: "p",
+        text: "Voglia dunque è sinonimo di desiderio provato dalla madre e di macchia che si inscrive, si concretizza sul corpo del figlio."
+      },
+      {
+        type: "p",
+        text: "Ma da dove nasce questo desiderio smodato di un cibo particolare? Dal punto di vista psicologico è legato al complesso, ambivalente rapporto che lega la donna incinta al figlio. Come si è visto, l'uovo da cui si svilupperà il futuro bambino è un corpo estraneo per la madre, che biologicamente mette in atto tentativi di rigetto per eliminarlo."
+      },
+      {
+        type: "p",
+        text: "Per certe donne questi forti desideri aggressivi inconsci, aventi come bersaglio il nascituro, si trasformano nel loro esatto contrario: in amore eccessivo che mira all'incorporazione dell'oggetto a cui sono diretti. Inconsapevolmente sono dirottati sul cibo, che a livello inconscio è un equivalente del bambino, in particolare su certi cibi che attraggono la gravida."
+      },
+      {
+        type: "p",
+        text: "Il «troppo amore per il cibo» (desiderare spasmodicamente certi alimenti, o mangiare in continuazione, giustificato dalla pretesa di nutrire bene il bambino, di farlo bello grosso) può determinare un eccessivo aumento ponderale della madre, con conseguenti disturbi che si possono ripercuotere anche sul feto, mettendone in certi casi anche a repentaglio la vita. Inoltre può rappresentare un'aggressione orale nei confronti del bambino-cibo, che si desidera tanto fino a possederlo. Ma possedere qualcuno significa negargli la possibilità di avere una vita indipendente: è quello che capita ai figli che vengono soffocati dal troppo ed esagerato amore della madre, tragicamente patologico."
+      },
+      {
+        type: "highlight",
+        text: "Le voglie sono quindi l'espressione della possessività materna che si inscrive sul corpo del figlio."
+      },
+      {
+        type: "p",
+        text: "In altri casi invece il desiderio inconscio di rigetto dell'embrione (inconsciamente sostituito dal cibo) si manifesta in modo più diretto, con la repulsione verso determinati alimenti. Per alcune donne può arrivare fino al rifiuto di nutrirsi, mettendo a repentaglio il proseguimento della gravidanza e lo sviluppo dell'embrione/feto."
+      },
+      {
+        type: "p",
+        text: "Si tratta di situazioni opposte, determinate però dagli stessi desideri aggressivi inconsci nei confronti del concepito, che in entrambi i casi trovano nel cibo un sostituto privilegiato. Risultano simili anche le conseguenze in cui si incorre, a dimostrazione che la scarsità come l'eccesso di amore (che diventa possessività) sono altrettanto nocivi per la sopravvivenza e il benessere del futuro bambino."
+      }
+    ]
+  },
+  {
+    id: 100,
+    slug: "la-donna-di-fronte-allecografia",
+    title: "La donna di fronte all'ecografia",
+    excerpt: "Dallo stetoscopio ai raggi X fino agli ultrasuoni: come l'ecografia ha cambiato il rapporto tra genitori e nascituro, e perché non c'è un buon modo di comunicare una diagnosi difficile.",
+    keywords: "ecografia in gravidanza, diagnosi prenatale, vissuti parentali, ecografista, psicologia della gravidanza",
+    category: "Gravidanza",
+    date: "21 agosto 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#3F5A6B",
+    content: [
+      {
+        type: "p",
+        text: "Prima che esistesse l'ecografia si sapeva ben poco dell'embrione/feto: fino all'inizio del XIX secolo la donna aveva la certezza di essere incinta* solo quando sentiva il feto muoversi dentro di lei, poi lo stetoscopio appoggiato sul ventre della gravida ha permesso di sentirne i battiti del cuore e i raggi X ne hanno mostrato lo scheletro."
+      },
+      {
+        type: "p",
+        text: "Messa a punto a partire dagli anni 40 ma utilizzata per la prima volta nel 1964 a Glasgow, l'ecografia è entrata nella routine ostetrica negli anni 80, cambiando l'approccio alla gravidanza sia per il medico che per i futuri genitori, per cui costituisce un'esperienza di primaria importanza per il costituirsi del processo di parentalità."
+      },
+      {
+        type: "p",
+        text: "È costituita da ultrasuoni a frequenze senza effetti biologici negativi per l'essere umano. Si basa sulla tecnologia bellica di cui erano dotati i sommergibili (ecoscandagli radar, cioè sistemi a impulsi sonori che permettevano di conoscere la posizione del nemico). All'inizio era praticata su donne distese in una vasca piena d'acqua."
+      },
+      {
+        type: "p",
+        text: "L'ecografia, mostrando la reale esistenza dell'embrione/feto, rivela alla donna la sua impotenza di fronte a ciò che si sviluppa dentro di lei, rendendola spettatrice di qualcosa su cui non ha possibilità di intervenire, e permette al padre di prendere coscienza di una gravidanza anche quando non presenta ancora segni visibili."
+      },
+      {
+        type: "p",
+        text: "Quella fatta in gravidanza è molto diversa dalle altre ecografie in quanto c'è un confronto tra l'obiettività e l'immaginazione. Di solito le immagini che compaiono sullo schermo, commentate dall'ecografista in un contesto affettivo positivo, arricchiscono l'immaginazione del genitore, la rappresentazione che si fa del nascituro."
+      },
+      {
+        type: "p",
+        text: "Tuttavia di fronte all'ecografia possono anche sorgere sensazioni perturbanti, legate all'estraneità del feto. Un forte gap tra il bambino immaginario e quello reale può inibire le fantasie sul bambino della fantasia, o le immagini possono ravvivare fantasmi di un embrione/feto parassita, pericoloso, divorante dall'interno. Questo permette di capire perché certe donne rifiutino di guardare lo schermo.**"
+      },
+      {
+        type: "p",
+        text: "Se l'ecografia rappresenta il primo incontro con il bambino, è fondamentale il modo in cui si comporta l'ecografista che lo presenta ai genitori, instaurando una relazione profonda soprattutto con la donna per l'intenso scambio emotivo che si crea tra loro attraverso il contatto, lo sguardo, la parola."
+      },
+      {
+        type: "highlight",
+        text: "Atteggiamento molto più difficile se la diagnosi prenatale evidenzia anomalie da comunicare ai genitori. Metterli di fronte a una malformazione che prevede l'interruzione della gravidanza o a una patologia che può essere curata ma che richiede una particolare preparazione psicologica ad accogliere un bambino malato, significa infliggere loro una ferita, un'umiliazione che li colpirà violentemente per tutta la vita. Non c'è un buon modo di comunicare una catastrofe, ma almeno si può evitare di commettere sbagli macroscopici rispettando il silenzio di chi sta vivendo uno shock, accogliendo e supportando un dolore che deve trovare modo di uscire e di essere elaborato."
+      },
+      {
+        type: "p",
+        text: "L'ecografista, in questo caso, deve accettare il ruolo di oggetto persecutore, come se avesse creato lui stesso il problema: non deve aspettarsi riconoscenza per una diagnosi ben fatta! Deve avere ben presente che nel suo lavoro non può sbagliare ma non può godere delle sue performance: l'errore per eccesso crea ansie inutili, ma quello per difetto è perseguibile!"
+      },
+      {
+        type: "p",
+        text: "Se dunque l'ecografia mette di fronte alla realtà, positiva o difficile da accettare, va ricordato che in molti casi una diagnosi precoce può salvare la vita di un bambino e dare al genitore il tempo necessario per prepararsi ad accettarlo per quello che è."
+      },
+      {
+        type: "p",
+        text: "* I test di gravidanza sono comparsi solo negli anni 30/40."
+      },
+      {
+        type: "p",
+        text: "** Questo atteggiamento «sintomatico» dovrebbe indurle a lavorare un po' su se stesse e sulle proprie fantasie con una psicoterapia."
+      }
+    ]
+  },
+  {
+    id: 101,
+    slug: "tipologia-della-presenza-della-madre-con-il-bambino",
+    title: "Tipologia della presenza della madre con il bambino",
+    excerpt: "Carenze quantitative, carenze qualitative e discontinuità interattive: la classificazione di Mary Ainsworth sui vari modi in cui una madre può essere presente accanto al proprio bambino.",
+    keywords: "presenza materna, Mary Ainsworth, falsa presenza materna, depressione anaclitica, John Bowlby",
+    category: "Neonato/Lattante (0-1 anni)",
+    date: "7 agosto 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#4F6B5A",
+    content: [
+      {
+        type: "p",
+        text: "Nella letteratura, in particolare nei lavori di M. Ainsworth, viene proposta una classificazione dei vari modi di essere della madre in base alla presenza presso il bambino. Vengono evidenziate carenze quantitative, qualitative e discontinuità interattive."
+      },
+      {
+        type: "p",
+        text: "Le carenze quantitative sono legate all'assenza reale, fisica della madre, e sono state messe in evidenza negli anni 60 soprattutto attraverso i lavori degli psicoanalisti J. Bowlby (1907-1990, britannico) e R. Spitz (1887-1974, austriaco)."
+      },
+      {
+        type: "p",
+        text: "Bowlby è noto soprattutto per la «teoria dell'attaccamento», che approfondisce come si crea, di quale tipo può essere il legame madre/figlio, in che modo influenza lo sviluppo del bambino."
+      },
+      {
+        type: "p",
+        text: "Spitz sottolinea l'effetto devastante, chiamato «depressione anaclitica», che ha sul bambino la separazione dalla madre (o da un suo sostituto che lo accudiva). I sintomi che il bambino manifesta (pianto, dolore, rabbia, perdita di peso, rifiuto di contatto, ritardo motorio), se il ricongiungimento con l'oggetto non avviene entro poche settimane, si acuiscono fino a portarlo a uno stato letargico, e spesso anche alla morte."
+      },
+      {
+        type: "p",
+        text: "Le carenze qualitative si producono quando la madre è fisicamente presente ma psichicamente assente o poco disponibile. In questo contesto la depressione materna, in particolare quella del post partum, ha un ruolo di primaria importanza."
+      },
+      {
+        type: "p",
+        text: "Fa parte delle carenze qualitative la «falsa presenza materna», ossia l'atteggiamento assente della madre verso il lattante."
+      },
+      {
+        type: "highlight",
+        text: "Nella relazione con il bambino la madre falsamente presente si dimostra poco attenta alle sue richieste, distratta da problematiche interne che non le permettono di vedere e soddisfare i desideri dell'altro. Questa indifferenza emotiva, che le impedisce di immedesimarsi nel bambino, di vivere quella che Winnicott definisce «preoccupazione materna primaria», funge da meccanismo di difesa che inibisce, blocca le pulsioni aggressive inconsce particolarmente intense e distruttive in certe madri. La falsa presenza diventa dunque l'espressione dell'inibizione dell'aggressività (così intensa da non poter essere gestita) rivolta verso il figlio, che ne è l'oggetto ma non la causa. Tale aggressività infatti nasce nell'inconscio della madre, nel quale il figlio non esiste, se non come sostituto di oggetti legati alla sua vita intrauterina e infantile. Verso di essi è rivolta la sua aggressività, il figlio ne è solo un sostituto."
+      },
+      {
+        type: "p",
+        text: "La falsa presenza costituisce un fattore di rilevante importanza nello sviluppo infantile. In base al terreno del bambino, la relazione con una madre falsamente presente può rappresentare un fattore eziologico determinante della psicosi."
+      },
+      {
+        type: "p",
+        text: "Le discontinuità interattive riguardano sia gli aspetti quantitativi che qualitativi della presenza della madre. Sono caratterizzate dalla presenza discontinua della madre presso il bambino, che viene sballottato senza che i suoi ritmi siano rispettati, ed esposto a double bind, ossia a stimoli contraddittori. La madre alterna momenti di affettuosa interazione, in cui è calorosa e presente, a momenti di assenza legati a problemi e difficoltà interiori, di tipo depressivo o semidelirante. L'ambiente in cui il piccolo cresce non gli garantisce dunque la continuità, sinonimo di fiducia, e non favorisce l'organizzazione degli schemi di attaccamento."
+      },
+      {
+        type: "p",
+        text: "Oggi sono soprattutto le carenze qualitative e le discontinuità interattive a «ferire» (e spesso in modo grave) il bambino. Tutte le madri infatti sanno quanto sia importante la loro presenza presso il figlio, ma non si preoccupano della sua qualità: a poco serve una madre che c'è fisicamente ma che vorrebbe essere altrove, che gioca con suo figlio pensando a ciò che vorrebbe o dovrebbe fare per provare soddisfazione, che «si sente in prigione a fare la mamma a tempo pieno, anche se solo per qualche tempo»."
+      },
+      {
+        type: "p",
+        text: "Nel caso della discontinuità interattiva, la mamma troppo coinvolta dalle sue problematiche personali è incapace di offrire al bambino una continuità affettiva, creandogli confusione e mancanza di riferimenti sicuri."
+      }
+    ]
+  },
+  {
+    id: 102,
+    slug: "la-gravidanza-un-ritorno-alle-origini",
+    title: "La gravidanza, un ritorno alle origini",
+    excerpt: "Perché la gravidanza sembra riportare le donne a uno stato fetale: il rapporto insolito con l'acqua e l'ipersensibilità olfattiva che molte gestanti raccontano di provare.",
+    keywords: "regressione allo stato fetale, gravidanza e acqua, ipersensibilità olfattiva, liquido amniotico, psicologia della gravidanza",
+    category: "Gravidanza",
+    date: "24 luglio 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#4A6B8A",
+    content: [
+      {
+        type: "p",
+        text: "La gravidanza rappresenta il tentativo di tornare alla propria origine, là donde si viene, al tempo che precede la nostra esistenza di esseri umani."
+      },
+      {
+        type: "p",
+        text: "I nove mesi di gestazione riassumono infatti le grandi tappe animali dello sviluppo dell'uomo, i milioni di anni che ci sono voluti per passare dalla vita acquatica a quella terrestre, dal pesce al rettile, poi al mammifero e da questo all'uomo."
+      },
+      {
+        type: "p",
+        text: "È interessante sottolineare, a questo proposito, che durante le prime due settimane dalla fecondazione, a occhio nudo non vi è differenza tra l'embrione animale e quello umano!"
+      },
+      {
+        type: "p",
+        text: "Questa regressione allo stato fetale, che riassume le tappe della propria origine, nella donna incinta si può manifestare attraverso segni più o meno evidenti, per esempio relativi al suo rapporto con l'acqua."
+      },
+      {
+        type: "p",
+        text: "Ecco come alcune donne incinte intuiscono, senza rendersene consapevolmente conto, che la gravidanza le ha riportate allo stato fetale in cui erano immerse nel liquido amniotico, vissuto in modo più o meno ambivalente: «Da quando sono incinta non desidero che l'acqua, da bere, dove immergermi e stare per ore; … quando ero al mare ero sempre in acqua, come un pesce!… anche il bambino nell'utero, dove il liquido amniotico fa le veci del grande oceano, è come un pesciolino… e dopo la nascita ne conserva le caratteristiche visto che può stare sott'acqua senza bisogno di respirare…; … da quando sono incinta sogno spesso di nuotare, mare, laghi, piscine o fiumi… luoghi sempre diversi, ma sempre acqua…; … di solito mi faccio la doccia, ma dall'inizio della gravidanza preferisco stare nella vasca da bagno, anche ore se ho tempo!; … con l'inizio della gravidanza qualcosa è cambiato nel mio rapporto con l'acqua: mi dà fastidio immergermi, faccio veloce persino la doccia per evitarne il contatto»."
+      },
+      {
+        type: "highlight",
+        text: "Anche un altro aspetto delle gravide sottolinea la regressione allo stato fetale: l'ipersensibilità olfattiva, che per molte donne arriva a essere così intensa e fastidiosa da indurle a evitare determinati luoghi. Alcune frasi tipiche di donne incinte si riferiscono proprio a questo: «mi sono resa conto di essere incinta quando ho notato un'insolita sensibilità a certi odori, in particolare a quello del caffè che mi dava proprio fastidio; … quando ero incinta «sentivo» i bidoni della spazzatura a distanza di vari isolati; … a volte sentivo all'improvviso un profumo di fiori; … non sopportavo più l'odore dei mobili di casa mia, che però sentivo solo io!»"
+      },
+      {
+        type: "p",
+        text: "Durante la vita intrauterina sembra che il feto sia in grado di analizzare olfattivamente la composizione molecolare del liquido amniotico che beve in continuazione, di notarne le variazioni che sono legate allo stato emotivo della madre, e di metterle in rapporto con lo stato di piacere o dispiacere che prova. Si tratta di sensazioni primordiali che tuttavia restano inscritte nella sua psiche: le circostanze della vita adulta possono riattivarle facendo riemergere, a volte anche in modo intenso e incomprensibile, i vissuti provati nel ventre materno."
+      }
+    ]
+  },
+  {
+    id: 103,
+    slug: "aspetti-psicologici-dellaborto-volontario",
+    title: "Aspetti psicologici dell'aborto volontario",
+    excerpt: "L'aborto volontario, anche quando è una scelta ponderata, può lasciare un malessere non riconosciuto che riaffiora anche a distanza di tempo: perché elaborarlo psicologicamente conviene a tutti.",
+    keywords: "aborto volontario, aspetti psicologici dell'aborto, sensi di colpa, elaborazione del lutto, sterilità secondaria",
+    category: "Difficoltà",
+    date: "13 luglio 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#6B4A5A",
+    content: [
+      {
+        type: "p",
+        text: "Purtroppo anche oggi molte donne ricorrono al ginecologo perché «risolva un imprevisto», anche se dovrebbero essere ben informate e consapevoli che anche un solo rapporto non protetto (a volte neppure completo) può causare una gravidanza!"
+      },
+      {
+        type: "p",
+        text: "La situazione si presenta in modo trasversale per età e per livello culturale, riguarda sia la giovanissima che la donna matura, che spesso ha già dei figli e non se la sente di ricominciare da capo."
+      },
+      {
+        type: "p",
+        text: "A livello psicologico per tutte la scelta di abortire, per quanto ponderata, non è esente da un malessere che molte non riconoscono o non vogliono ammettere, che si può manifestare prima dell'aborto, subito dopo, o anche a distanza di tempo, e che può condizionare eventuali gravidanze successive e il rapporto con i futuri bambini."
+      },
+      {
+        type: "p",
+        text: "Per quanto sicure, decise in una scelta che ritengono inevitabile, molte si presentano in sala operatoria piangendo, vacillanti nelle loro convinzioni che fino a poco prima erano certezze. Altre invece paiono non accusare il colpo, mantengono la serenità e la sicurezza anche al momento dell'evento, ma poi spesso a distanza anche di qualche mese, se una situazione richiama quel trauma che credevano di aver superato, possono cadere in uno stato depressivo, che magari non collegano neanche al precedente aborto."
+      },
+      {
+        type: "p",
+        text: "Non sono soltanto i sensi di colpa a causare questo stato di malessere, ma anche il riemergere dell'angoscia dell'abbandono che molte persone possono aver provato durante l'infanzia, anche se non sono mai state abbandonate. La mancanza o la discontinuità dell'investimento affettivo infatti può aver fatto sentire la bambina inerme e fragile, in una situazione di pericolo, di deprivazione affettiva, anche se questo non corrisponde alla realtà dei fatti. L'aborto mette in feedback la madre con queste sensazioni del passato che amplificano i sensi di colpa grazie alla sua identificazione con l'embrione abortito. È come se tutta l'aggressività provata nell'infanzia verso i personaggi che l'hanno fatta sentire abbandonata fosse rivolta verso se stessa, adulta che rigetta un bambino che non nascerà, in cui si identifica."
+      },
+      {
+        type: "p",
+        text: "A questo si aggiungono le paure di aver causato dei danni al suo corpo con l'aborto, che possono mettere in serio pericolo la sua possibilità di procreare di nuovo. Spesso infatti la sterilità si presenta in seguito a uno o più aborti provocati. Senza disinnescare i sensi di colpa, per qualcuna diventa difficile restare di nuovo incinta e portare a termine una gravidanza. Per altre, che ci riescono, è il rapporto con il bambino che può essere condizionato da quanto avvenuto in precedenza. La «cattiva madre» che ha abortito si tramuta in madre eccessivamente protettiva verso il neonato, come se dovesse farsi perdonare da questo figlio ciò che ha fatto all'altro. Va però ricordato che la possessività della madre nasconde una forte dose di aggressività da cui comunque il bambino si deve difendere!"
+      },
+      {
+        type: "highlight",
+        text: "Considerando le ricadute psicologiche che può avere un aborto volontario, sarebbe auspicabile che potesse essere metabolizzato attraverso un lavoro psicologico di rielaborazione dell'evento, con benefici non solo personali ma anche per la prole."
+      }
+    ]
+  },
+  {
+    id: 104,
+    slug: "una-paura-allinizio-della-gravidanza-perdere-il-bambino",
+    title: "Una paura all'inizio della gravidanza: perdere il bambino",
+    excerpt: "Perché soprattutto dopo un aborto precedente o una lunga attesa per restare incinte, l'inizio della gravidanza può essere vissuto con la paura costante di perdere il bambino.",
+    keywords: "paura di abortire, ansia in gravidanza, aborto precedente, infertilità, psicologia della gravidanza",
+    category: "Difficoltà",
+    date: "6 luglio 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#6B4A4A",
+    content: [
+      {
+        type: "p",
+        text: "«Il comportamento ansioso dei miei genitori durante la gravidanza non ha certo creato un clima disteso e sereno, che sarebbe stata la cosa di cui avevo più bisogno. Sentirmi dare consigli su tanti aspetti della mia vita da gravida o invitarmi a fare attenzione a qualsiasi cosa come se fossi in costante pericolo, o sentirmi raccontare la storia di aborti avvenuti in situazioni normali come la mia non faceva che aumentare quel lieve e celato timore che avevo di perdere il bambino."
+      },
+      {
+        type: "p",
+        text: "In fondo, anche senza essere ossessionata dalla paura di abortire, ogni volta che provavo il minimo dolore al ventre pensavo al peggio e spesso controllavo di non avere perdite di sangue. Abortire sarebbe stato terribile, tanto che evitavo il più possibile l'argomento e cercavo di non chiedermi quanto avrei sofferto se mi fosse capitato. Oltre a desiderare molto il bambino, se lo avessi perso mi sarei sentita menomata, incapace di essere del tutto donna. Non avevo motivi reali per nutrire simili paure, cercavo di non pensare a questa infausta eventualità e, pur conducendo una vita più tranquilla e riguardata del solito, non mi comportavo né da malata né da convalescente. Non rischiavo inutilmente di abortire giocando a tennis o facendo passeggiate a cavallo come prima della gravidanza, né mi stressavo con lunghi percorsi in automobile solo per il gusto di andare a ballare in una discoteca lontana, ma andavo in bicicletta, in barca, nuotavo e guidavo normalmente tutte le volte che ne avevo voglia e bisogno.»"
+      },
+      {
+        type: "p",
+        text: "È tipico di molte gestanti vivere l'inizio della gravidanza con la paura di perdere il bambino. In genere questo si verifica"
+      },
+      {
+        type: "ul",
+        items: [
+          "quando la donna ha già avuto una o più esperienze di interruzione di gravidanza; fino a quando non viene superata la settimana del precedente aborto sussistono maggiori difficoltà a investire affettivamente il bambino per paura di nuove delusioni. Oltrepassato incolume il periodo a rischio, la donna diviene cosciente della realtà del suo stato che prima negava e non teme più di fantasticare sul suo futuro di mamma;",
+          "in coloro che hanno avuto particolari difficoltà a restare incinte, attendendo per anni una gravidanza che non arrivava mai. Quando finalmente si verifica l'evento tanto atteso — per il quale si erano perse le speranze — provano una tale incredulità da non riuscire a rendersi conto della realtà per un periodo più o meno lungo. Prima vivono il loro stato come un sogno a cui non vale la pena credere, perché sul più bello potrebbe subire un'interruzione."
+        ]
+      },
+      {
+        type: "highlight",
+        text: "La paura di perdere il bambino dunque può rappresentare, in base alla sua intensità e alla sua durata, un ostacolo nell'investimento affettivo del figlio, con conseguenze anche gravi sul suo sviluppo. Per questo motivo sarebbe auspicabile che le donne «a rischio» per le vicende vissute in precedenza trovassero il coraggio di elaborarla con un lavoro su se stesse, per vivere più serenamente la gravidanza e per offrire al nascituro le condizioni affettive ideali per uno sviluppo sano e armonioso."
+      }
+    ]
+  },
+  {
+    id: 105,
+    slug: "allattare-consapevolmente",
+    title: "Allattare consapevolmente",
+    excerpt: "Perché intorno ai sei mesi allattare «a domanda» non basta più: come accompagnare il bambino nel passaggio dalla fase fusionale a un graduale, sano distacco dalla mamma.",
+    keywords: "allattamento a domanda, fase fusionale, distacco dal seno, allattamento consapevole, sviluppo del neonato",
+    category: "Allattamento",
+    date: "3 luglio 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#3F6B5A",
+    content: [
+      {
+        type: "p",
+        text: "«Allattare al seno è stata una scelta ponderata, che ho fatto dopo averci pensato a lungo. Aver visto certe amiche in tilt a causa dell'allattamento, con figli perennemente attaccati al seno e privi di orari anche dopo mesi o, al contrario, sempre piagnucolosi e affamati perché costretti in rigidi orari, mi invogliava a optare per il biberon. Orari stabiliti fin dall'inizio, possibilità di essere sostituita da qualcun altro per sentire meno il peso di essere indispensabile."
+      },
+      {
+        type: "p",
+        text: "Durante la gravidanza ho letto vari libri sull'allattamento, ma soprattutto mi sono chiesta perché mi sembrasse impossibile dedicarmi totalmente per qualche settimana a mia figlia, sapendo che poi le cose si sarebbero modificate. Poco per volta ho accantonato l'idea di fare altro nel periodo del puerperio per potermi godere la gioia di occuparmi a tempo pieno della neonata, per imparare a capire i suoi bisogni, i suoi ritmi, e per cercare dolcemente di accordarli ai miei. Ora, dopo cinque mesi dalla nascita, posso dire che per me è un'esperienza fantastica, che mi ha dato la possibilità di godere momenti di intimità irripetibili, di rilassarci insieme, di conoscersi meglio…. Attenta a rispettare le sue necessità, poco per volta ho cercato di portarla ad avere un orario di massima, che dà un ritmo al nostro quotidiano rendendolo molto più facile da gestire e permettendo a entrambe delle pause più lunghe tra le poppate in cui spesso ci facciamo delle belle, rigeneranti dormite!»"
+      },
+      {
+        type: "p",
+        text: "La prima fase di vita di un neonato si chiama «fusionale» e sottolinea la dipendenza totale dalla mamma, a cui continua a essere legato, fuso, anche per quanto riguarda l'alimentazione se il latte viene dato dal seno. È un periodo che dura 4/5 mesi, in cui all'inizio allattare al seno a domanda permette di soddisfare varie esigenze di entrambi:"
+      },
+      {
+        type: "ul",
+        items: [
+          "alla mamma di migliorare e aumentare la sua produzione di latte, grazie a stimolazioni ripetute e ravvicinate;",
+          "al neonato di costruirsi un'immagine di seno gratificante, che compare ogni volta che ha fame, evitando di essere lacerato dall'ansia legata alla mancanza di soddisfacimento;",
+          "a entrambi per poter mantenere ancora per qualche tempo una sorta di cordone ombelicale: se a livello fisico è stato reciso al momento del parto, a livello psicologico l'allattamento permette un distacco graduale, passando dalle poppate a domanda all'acquisizione di un ritmo che permetta alla mamma una maggiore libertà e al bambino di imparare a rimandare il soddisfacimento dei suoi bisogni."
+        ]
+      },
+      {
+        type: "highlight",
+        text: "Molte mamme non sono d'accordo su questo e continuano per ancora molti mesi ad allattare «a domanda», pensando di fare il bene dei propri bambini, e trascurando il fatto che intorno ai sei mesi il latte materno non è più sufficiente a soddisfarne tutte le esigenze nutritive (in particolare di ferro) e che il piccolo inizia a mettere i denti. Questi segnali indicano che il bambino è cresciuto, la fusionalità è finita, ha superato una prima tappa di sviluppo, e va aiutato a iniziare un graduale distacco dalla mamma. Non è che si debba sospendere l'allattamento, ma semplicemente va continuato con un'ottica un po' diversa, che tiene conto e rispetta le esigenze psicofisiche del bebè: non più a domanda e non più in modo esclusivo."
+      },
+      {
+        type: "p",
+        text: "Purtroppo però molte mamme non sono preparate a questo e proiettano sul bambino il loro desiderio di continuare a vivere con lui in modo fusionale, attraverso il proseguimento di un tipo di allattamento che rimanda la separazione e interferisce in modo più o meno grave sul processo di indipendenza del bambino."
+      }
+    ]
+  },
+  {
+    id: 106,
+    slug: "ansie-intorno-alla-gravida",
+    title: "Ansie intorno alla gravida",
+    excerpt: "Perché le premure eccessive di familiari e amici verso una donna incinta, per quanto dettate dall'affetto, nascondono spesso sentimenti ambivalenti mai del tutto riconosciuti.",
+    keywords: "ansia dei familiari, gravidanza a rischio, ambivalenza, sentimenti ambivalenti, psicologia della gravidanza",
+    category: "Gravidanza",
+    date: "28 giugno 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#4A5A78",
+    content: [
+      {
+        type: "p",
+        text: "Spesso all'inizio della gravidanza la donna è costretta a subire le immotivate ansie di chi le sta intorno, anche se nulla del suo stato le giustifica. Diversa è la situazione di chi presenta una gravidanza a rischio: in questo caso è lo stesso ginecologo che consiglia, almeno per i primi mesi, misure preventive per agevolare il proseguimento della gravidanza (stare tranquilla, limitare viaggi in macchina, non portare pesi, interrompere le attività sportive, limitare i rapporti sessuali)."
+      },
+      {
+        type: "p",
+        text: "Come dice Lara: «Da quando sono incinta i miei genitori hanno cominciato a trattarmi come mia sorella che dopo tre aborti ha rinunciato a cercare un bambino. Anche se io sto bene, i miei familiari, in particolare i miei genitori (molto desiderosi di diventare nonni!), vorrebbero tenermi sotto una campana di vetro per tutto il periodo della gravidanza! Io, donna adulta e indipendente ormai carica anche delle responsabilità di futura mamma, in certi momenti mi sono sentita trattata come una bambina, a cui vietare o permettere anche le cose più ovvie. Il loro modo di agire, pur dettato dall'affetto, è comunque inaccettabile per me, dato che non sono abituata a rendere conto delle mie attività.»"
+      },
+      {
+        type: "p",
+        text: "Se con la gravidanza la donna si sente «adulta», investita di maggiori responsabilità quale madre di suo figlio, dall'altro spesso regredisce a uno stato di dipendenza da chi le sta accanto (marito, genitori, ecc.). Il prevalere dell'uno o dell'altro atteggiamento dipende dal carattere di ognuna e dal riattivarsi, come si è già detto, di situazioni vissute nell'infanzia. Mentre alcune donne trovano molto gratificante essere oggetto di attenzioni e di cure anche a scapito della loro indipendenza, per altre è insopportabile sentirsi condizionate dalle premure e dalle ansie altrui."
+      },
+      {
+        type: "p",
+        text: "Ma cosa si nasconde dietro un comportamento immotivatamente ansioso verso qualcuno?"
+      },
+      {
+        type: "p",
+        text: "Per scoprirlo bisogna ricordare che in ogni rapporto affettivo si fondono, a livello profondo, sentimenti opposti, di amore ma anche di odio, dei quali spesso non si è consapevoli."
+      },
+      {
+        type: "p",
+        text: "Per ammettere l'esistenza dell'ambivalenza bisogna accettare il fatto che una parte della nostra mente sfugga all'attenzione della mente stessa. È ciò che capita nell'inconscio, che ha regole diverse da quelle della logica e della razionalità, e che per esempio prevede la coesistenza degli opposti."
+      },
+      {
+        type: "p",
+        text: "In base a tutto questo diventa possibile capire che la persona ansiosa cerca di difendersi dalle sue inconsce spinte aggressive verso un determinato oggetto proiettandole all'esterno: situazioni di pericolo reale o presunto da cui tener lontano l'oggetto (in questo caso la gravida) sostituiscono la loro aggressività, quella da cui desiderano salvaguardarla!"
+      },
+      {
+        type: "highlight",
+        text: "Le ingiustificate paure dei genitori menzionate da Lara sono quindi l'esteriorizzazione di sentimenti ambivalenti (di amore e di odio) che esprimono la situazione conflittuale di chi li vive, a prescindere dalla persona a cui sono rivolti."
+      },
+      {
+        type: "p",
+        text: "Le attenzioni eccessive rivolte alla donna incinta con il pretesto di allontanarla dalle difficoltà hanno dunque la stessa matrice degli atti «sadici» con cui a volte invece la si angoscia (racconti traumatici inerenti la gravidanza o il parto, insinuazioni sullo stato di salute suo o del bambino ecc.)."
+      }
+    ]
+  },
+  {
+    id: 107,
+    slug: "influenza-degli-aborti-sul-malessere-del-post-partum",
+    title: "Influenza degli aborti sul malessere del post partum",
+    excerpt: "Perché il malessere legato a un aborto precedente, se non elaborato, tende a riaffiorare con particolare intensità nel periodo del post partum di una gravidanza successiva.",
+    keywords: "post partum dopo aborto, elaborazione dell'aborto, puerperio difficile, psicoprofilassi infantile, malessere post partum",
+    category: "Puerperio",
+    date: "21 giugno 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#5A4A6B",
+    content: [
+      {
+        type: "p",
+        text: "Spesso ci si rende conto che le gravidanze portate a termine dopo uno o più aborti sono condizionate da questi eventi che le hanno precedute, non solo per quanto riguarda la qualità dell'investimento sul bambino, ma anche per l'intensità del malessere che condiziona la mamma nel periodo del post partum."
+      },
+      {
+        type: "p",
+        text: "Le difficoltà a portare avanti una gravidanza infatti celano dei conflitti profondi, onto e filogenetici, legati in particolare ai rapporti che la donna, quando era bambina, ha vissuto con la madre, il padre, i fratelli e le sorelle. Questi conflitti sono inconsci, ossia appartengono a quella parte della mente che non è possibile conoscere con la razionalità e la logica, ma che costituisce il motore che spinge in una direzione o nell'altra a prescindere dalla volontà del soggetto. Proprio per questo motivo sarebbe importante che dopo un aborto la donna potesse lavorare su se stessa, per cercare di elaborarli, ossia di diminuirne l'intensità che potrebbe manifestarsi con altre situazioni spiacevoli, come un successivo aborto. Tuttavia anche nel caso in cui non compromettano la capacità procreativa, tanto che all'aborto/i segue la nascita di un bambino, restano latenti e trovano facilmente una via di scarica nel periodo del post partum."
+      },
+      {
+        type: "p",
+        text: "Si tratta di un momento fisiologicamente difficile, in cui i cambiamenti di vita che un neonato richiede avvengono quando la donna è particolarmente fragile perché deve accettare la separazione dal bambino che non è più una parte di se stessa e deve ritrovare la sua nuova identità, diversa da quella di gravida e da quella che aveva prima della gravidanza."
+      },
+      {
+        type: "highlight",
+        text: "Spesso il malessere vissuto dalle donne dopo uno o più aborti (spontanei o volontari), trascurato in quei frangenti, si ripresenta in modo particolarmente intenso dopo la nascita del bambino. Il puerperio infatti rappresenta la cartina di tornasole della conflittualità legata alla maternità, presente in ogni donna ma con intensità diversa, tanto che in certi casi i sintomi possono diventare così dolorosi e invalidanti da dover essere finalmente presi in considerazione. Probabilmente se la loro elaborazione avvenisse dopo il primo aborto, queste neomamme vivrebbero in modo diverso le future gravidanze. Soprattutto i loro figli avrebbero un rapporto diverso con la mamma già a partire dalla vita intrauterina. La psicoprofilassi infantile infatti inizia da prima del concepimento, attraverso la preparazione di un «ambiente materno» meno conflittuale, dunque più adatto a ospitare un embrione/feto e a occuparsi poi di un bambino."
+      }
+    ]
+  },
+  {
+    id: 108,
+    slug: "puerperio-particolarmente-difficile-la-psicosi-puerperale",
+    title: "Puerperio particolarmente difficile: la psicosi puerperale",
+    excerpt: "Dal fisiologico baby blues alla rara ma grave psicosi puerperale: come riconoscere i segnali di un disturbo che richiede un intervento tempestivo.",
+    keywords: "psicosi puerperale, baby blues, depressione post partum, disturbi psichici post partum, salute mentale perinatale",
+    category: "Puerperio",
+    date: "15 giugno 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "2 min",
+    bgColor: "#6B4A5A",
+    content: [
+      {
+        type: "p",
+        text: "Il periodo che segue la nascita di un bambino presenta per tutte le mamme momenti difficili: devono abituarsi alla presenza di un neonato e ai suoi ritmi quando sono indebolite dalle fatiche del parto e alla ricerca di una nuova identità dopo i cambiamenti portati dalla gravidanza."
+      },
+      {
+        type: "p",
+        text: "In questa situazione la maggior parte delle donne (circa l'80%) è soggetta a fisiologiche ed episodiche manifestazioni di baby blues, il 18/20% sviluppa la depressione post partum e lo 0,1% è colpita dalla psicosi puerperale."
+      },
+      {
+        type: "p",
+        text: "La psicosi puerperale è una grave malattia psichica con esordio improvviso che colpisce soprattutto le primipare e che compare nelle prime settimane dopo il parto, anche se la sintomatologia spesso si manifesta già durante la gravidanza. Il rischio è maggiore per le donne che hanno già avuto precedenti episodi psicotici o sintomi bipolari o con familiarità schizofrenica."
+      },
+      {
+        type: "highlight",
+        text: "È caratterizzata da insonnia che crea una profonda stanchezza, rifiuto del cibo, alternanza di momenti depressivi e maniacali, perdita di contatto con la realtà e stato confusionale (difficoltà a orientarsi nello spazio e nel tempo, vuoti di memoria, angoscia), manifestazioni deliranti e persecutorie (allucinazioni visive e uditive, difficoltà di percezione). Il delirio può negare la maternità, assumere toni religiosi (identificarsi con la madre di Dio), attribuire a se stessa o al bambino poteri malefici: questo rende possibile sia il suicidio che l'omicidio."
+      },
+      {
+        type: "p",
+        text: "Uno dei motivi della gravità della situazione consiste nel fatto che la donna non è consapevole dell'assurdità dei suoi pensieri e dei suoi comportamenti, per cui non sente il bisogno di chiedere aiuto, anzi spesso lo rifiuta. Sta alla sensibilità dei suoi familiari rendersi conto di certe stranezze del suo modo di fare (senza pensare che col tempo tutto si risolverà) e intervenire per convincerla ad accettare di farsi curare, anche se questo comporta il ricovero ospedaliero, l'assunzione di farmaci, l'inizio della psicoterapia."
+      },
+      {
+        type: "p",
+        text: "La psicosi puerperale, se presa all'inizio, ha prognosi favorevole, altrimenti può ripresentarsi in svariate situazioni in cui la donna è sottoposta a stress."
+      }
+    ]
+  },
+  {
+    id: 109,
+    slug: "in-vacanza-con-il-bebe",
+    title: "In vacanza con il bebè",
+    excerpt: "Perché portare un neonato ovunque, alla stessa frenesia dei genitori, non è sempre la scelta migliore: come organizzare una vacanza «a portata di bambino» senza rinunciare al proprio bisogno di riposo.",
+    keywords: "vacanze con il neonato, routine del bebè, ritmi del neonato, viaggiare con un bambino piccolo, stabilità materna",
+    category: "Neonato/Lattante (0-1 anni)",
+    date: "12 giugno 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#4A6B7A",
+    content: [
+      {
+        type: "p",
+        text: "Molte coppie prima della nascita di un figlio si illudono che la sua presenza non scardini troppo i ritmi della loro vita quotidiana e delle loro vacanze. È comune pensare che un bambino, dovendo abituarsi ai ritmi della sua famiglia, vada immerso fin dall'inizio nelle routine altrui. Situazioni reali o fotografie pubblicate su varie riviste confermano questa opinione e documentano la presenza di neonati nel marsupio, in carrozzina, in braccio, in svariati luoghi più o meno affollati (ristoranti, centri commerciali, stadi), su qualsiasi mezzo di trasporto (aerei, barche, gommoni, persino in mongolfiera!!!) o portati a tutte le latitudini ed esposti a tutti i climi."
+      },
+      {
+        type: "p",
+        text: "Se la necessità giustifica alcune di queste scelte, non si deve pensare che non siano causa di un notevole disagio per il bebè che, almeno nei primi mesi della sua vita, ha bisogno di essere circondato da un ambiente variegato ma costante, caratterizzato soprattutto da ritmi ripetitivi, che lo aiutino a formarsi punti di riferimento stabili. Questa costanza iniziale si rivela molto utile anche alla madre, che in assenza di troppe variabili ambientali è facilitata nel riconoscere le reazioni del piccolo, nel decodificarne le richieste, nel riuscire a soddisfarle in modo gratificante. Inutile preoccuparsi o lamentarsi se non dorme, non mangia, piange continuamente, se non gli si offre, all'inizio, un ambiente tranquillo e sereno, che possa imparare a riconoscere e nel quale quindi riesca ad adattarsi. Ovviamente anche la mamma viene vissuta come parte dell'ambiente, nel senso che la sua serenità e stabilità di umore è la variabile principale tra quelle che circondano il bambino. È quella che mitiga o intensifica gli effetti negativi delle altre, che permette di vivere serenamente le situazioni di cambiamento, che crea la continuità quando questa manca. La stabilità psicologica della mamma la rende paziente ed empatica verso il bebè, dunque la porta a scelte sintoniche con i suoi bisogni primari. Scelte di vacanze per esempio, in cui le necessità primarie del bimbo dovrebbero essere anteposte a quelle degli adulti, in un tentativo di compromesso che permetta ai genitori di assaporare la tranquillità e il riposo che anche una vacanza «a portata di bambino» può offrire."
+      },
+      {
+        type: "p",
+        text: "Ecco cosa racconta Rossella a questo proposito: «Quest'anno l'organizzazione delle vacanze, che ho sempre vissuto come un momento piacevole con mio marito, è stata un po' più complicata e meno serena del solito. Infatti non è stato semplice fargli capire che era assurdo, con una figlia di pochi mesi, progettare le vacanze «itineranti» che avevamo cominciato a rifare con la bimba più grande. Memore delle vicissitudini di mia cognata, bloccata per ore con un neonato in aeroporto a causa di uno sciopero, ho escluso mete lontane, per evitare sia l'aereo che lunghi viaggi in auto. Nei brevi tragitti che siamo soliti fare, di solito la piccola si addormenta, ma a volte capita che strilli per tutto il viaggio. Come la settimana scorsa, tornando dalla campagna, dove ero stata a trovare un'amica. La piacevolezza di quel pomeriggio è stata cancellata dall'ansia del ritorno: da sola, nell'impossibilità di alleviare l'inconsolabile pianto della bimba che forse aveva mal di pancia. Meglio la solita tranquilla (e forse monotona) giornata ai giardini, piuttosto che quello che era capitato, che le aveva sconvolto anche gli orari di pappa e nanna!"
+      },
+      {
+        type: "p",
+        text: "Mi sono detta che, se ci rechiamo in un luogo in cui la routine della cucciola non subisce troppi cambiamenti, lei è tranquilla e soddisfatta, e noi possiamo contare su qualche momento di libertà, che ci permette di dedicarci di più alla sorella, di fare una nuotata o una partita a tennis. Se poi «in zona» ci fosse una nonna che si prestasse a tenerla qualche ora la sera… magari una volta riusciremmo anche ad andare a ballare, giusto per non dimenticarci che, oltre a mamma e papà, siamo anche due giovani che hanno ancora voglia di divertirsi!"
+      },
+      {
+        type: "highlight",
+        text: "Per quest'anno perciò abbiamo scelto una vacanza ritagliata sulle priorità della più piccola, molto diversa da quelle a cui eravamo abituati, fiduciosi però che se ora noi rispettiamo le sue esigenze in seguito riuscirà più facilmente ad adattarsi alle nostre!»"
+      }
+    ]
+  },
+  {
+    id: 110,
+    slug: "aspetti-ambivalenti-del-rapporto-con-la-madre-durante-la-gravidanza",
+    title: "Aspetti ambivalenti del rapporto con la madre durante la gravidanza",
+    excerpt: "Come il rapporto, amore e odio, vissuto con la propria madre durante l'infanzia riaffiora durante la gravidanza e colora l'ambivalenza inconscia verso il proprio bambino.",
+    keywords: "ambivalenza materna, rapporto madre-figlia, periodo edipico, inconscio, psicologia della gravidanza",
+    category: "Gravidanza",
+    date: "1 giugno 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#4A5A6B",
+    content: [
+      {
+        type: "p",
+        text: "Per molte gestanti il legame con la madre può assumere tinte anche molto forti durante la gravidanza. La donna, infatti, nel periodo in cui sta per diventare madre a sua volta, è portata più o meno consapevolmente a confrontarsi con l'immagine di madre che ha dentro di sé, che può corrispondere anche solo parzialmente a quella reale. Questa immagine dipende, oltre che dal modo in cui la madre ha realmente soddisfatto i desideri della figlia, anche dalla loro forza. Le volte in cui questi si sono presentati con particolare intensità, qualsiasi risposta materna può essere stata insufficiente a esaudirli. Il rapporto dunque può essere risultato frustrante non per la scarsa disponibilità della madre, ma per la sua reale impossibilità a soddisfare delle richieste eccessive."
+      },
+      {
+        type: "p",
+        text: "A volte, sentendo come una persona parla della propria madre, si può essere tratti in inganno e valutare il rapporto in modo erroneo: spesso infatti emergono soprattutto gli aspetti conflittuali, aggressivi, che possono nascondere la presenza e l'intensità dell'amore."
+      },
+      {
+        type: "p",
+        text: "L'alternanza tra lati materni «negativi» e lati materni «positivi» si ripropone spesso nei discorsi della donna incinta, che rivive con particolare intensità in questo periodo tutte le ambivalenti sfaccettature del rapporto con sua madre. In particolare, durante la gravidanza, torna in primo piano la conflittualità sorta in età infantile (tra i 3 e i 5 anni circa), durante il periodo edipico, in cui la figlia vuole prendere il posto della mamma e sostituirsi a lei nel suo ruolo di moglie del papà. La madre, in questo periodo infantile, è vissuta come un'intrusa contro cui rivolgere la propria aggressività, una rivale che da un lato si vorrebbe distruggere ed eliminare, ma che dall'altro costituisce anche una forte fonte di affetto e un modello da imitare. Il profondo legame con la figura materna è caratterizzato dall'ambivalenza, ossia dalla compresenza di affetti opposti provati simultaneamente verso la stessa persona."
+      },
+      {
+        type: "p",
+        text: "L'ambivalenza vissuta in età infantile verso la propria madre è proporzionale a quella che colora, in modo più o meno intenso, le sensazioni che la gravida prova per suo figlio, a prescindere dalla sua volontà."
+      },
+      {
+        type: "highlight",
+        text: "Spesso però i sentimenti di aggressività e di rifiuto per il bambino non arrivano fino alla coscienza della donna perché causano forte angoscia, per cui vengono isolati e repressi: la gravida evita di riconoscerli e di prenderne atto e si comporta come se non esistessero. In ogni caso la tensione che sta alla base di questa «complessità affettiva» ha bisogno di una via di sfogo che, per esempio, può essere costituita da sintomatologie somatiche o psichiche. Pur rendendo meno sereno il periodo della gravidanza, sono non solo necessarie ma indispensabili nel caso in cui le tensioni interne siano così forti da poterne pregiudicare l'esito."
+      },
+      {
+        type: "h2",
+        text: "Cos'è la psiche?"
+      },
+      {
+        type: "p",
+        text: "La psiche può essere definita come «quella parte della persona che non deriva dal somatico e che si spiega diversamente che con le leggi della biologia». Se una volta equivaleva alla coscienza, da Freud (1856-1939) va al di là del cosciente e comprende anche i processi dell'inconscio, ossia di quella parte della mente che sfugge all'attenzione della mente stessa."
+      },
+      {
+        type: "p",
+        text: "L'inconscio è una memoria rimossa di esperienze di soddisfazione e di frustrazione registrate durante la vita intrauterina e infantile. Si tratta cioè di desideri e trascrizioni di vissuti remoti (che hanno accessibilità alla coscienza solo in forma deformata) che costituiscono il motore che spinge verso direzioni anche diverse da quello che pensiamo razionalmente. L'inconscio si manifesta attraverso le ripetizioni, i sogni, i sintomi, ma anche con dimenticanze, lapsus, atti mancati che realizzano desideri profondi di cui si è ignari."
+      },
+      {
+        type: "p",
+        text: "È importante avere presente l'esistenza dell'inconscio, per capire che spesso, anche per quanto riguarda la gravidanza, certe situazioni legate a desideri profondi sono estranee alla coscienza della donna, che le vive senza rendersene conto, dunque senza poterle influenzare con la sua volontà. Offrire una lettura «diversa» di situazioni altrimenti incomprensibili, spesso dolorose, può aiutare ad accettarle con maggiore serenità o indurre a modificarle attraverso interventi idonei per raggiungere questo scopo come la psicoanalisi o la psicoterapia."
+      }
+    ]
+  },
+  {
+    id: 111,
+    slug: "essere-una-madre-sufficientemente-buona",
+    title: "Essere una madre «sufficientemente buona»",
+    excerpt: "Cos'è la «preoccupazione materna primaria» descritta da Winnicott, e perché questa accresciuta sensibilità, per quanto preziosa, non deve mai sostituire tutte le altre relazioni della madre.",
+    keywords: "madre sufficientemente buona, preoccupazione materna primaria, Winnicott, sensibilità materna, relazione madre-neonato",
+    category: "Puerperio",
+    date: "29 maggio 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#5A4A5A",
+    content: [
+      {
+        type: "p",
+        text: "«Da quando sono diventata mamma la mia piccola occupa tutti i miei pensieri, anche nei momenti in cui non è presente. Mi assorbe completamente, come se il cordone ombelicale che ci ha unito per i nove mesi della gravidanza non fosse stato reciso alla nascita ma ci facesse sentire ancora legate. Come spiegare altrimenti i miei risvegli notturni prima ancora che pianga? O indovinare la posizione giusta per farla addormentare? O con che tono parlarle quando è agitata?"
+      },
+      {
+        type: "p",
+        text: "Credo che usare il mio «fiuto» costituisca il modo migliore per entrare in sintonia con lei, senza pensare troppo a cosa devo fare ma semplicemente comportandomi nel modo che sento più adatto a me e, di conseguenza, a lei. Certamente avere già una figlia e aver letto molto sui neonati e su come vanno trattati mi è di aiuto, ma soprattutto credo, in base alla mia esperienza, che più una mamma è serena e positiva più le è facile affrontare nel modo giusto le diverse situazioni che ogni giorno le si presentano che richiedono comportamenti immediati e spontanei.»"
+      },
+      {
+        type: "p",
+        text: "La nascita di un bambino costituisce un'esperienza così intensa e profonda che influenza i pensieri, le fantasie, le paure, le emozioni della donna, che ne affina il sistema sensoriale rendendolo più ricettivo."
+      },
+      {
+        type: "p",
+        text: "L'accresciuta sensibilità della madre, che le permette di sintonizzarsi con i bisogni del bambino, di decodificarne le richieste, è chiamata da Winnicott (pediatra e psicoanalista inglese che approfondì lo studio del rapporto madre/bambino) «preoccupazione materna primaria»."
+      },
+      {
+        type: "p",
+        text: "Si tratta di un'identificazione della madre al bebè, «una gestazione psichica del neonato», un totale investimento affettivo, tanto necessario nelle prime settimane dopo il parto quanto potenzialmente deleterio per il bambino se si prolunga troppo nel tempo e se sostituisce le altre relazioni della madre: col compagno, con altri eventuali figli, con le sue attività."
+      },
+      {
+        type: "highlight",
+        text: "Questo stato psicologico, che varia da una donna all'altra (e che può presentarsi con caratteristiche diverse anche con l'uno o l'altro figlio), rende la madre «sufficientemente buona», ossia capace, istintivamente, di accudire il bambino, dosando in modo ottimale le gratificazioni e le frustrazioni a cui lo sottopone."
+      }
+    ]
+  },
+  {
+    id: 112,
+    slug: "nausea-e-vomito-in-gravidanza",
+    title: "Nausea e vomito in gravidanza",
+    excerpt: "Per Lara, il sintomo più comune della gravidanza riattiva un ricordo d'infanzia legato ai sensi di colpa: un esempio di come i sintomi fisici della gestazione possano parlare del passato.",
+    keywords: "nausea in gravidanza, vomito in gravidanza, sensi di colpa, ricordi d'infanzia, psicologia della gravidanza",
+    category: "Gravidanza",
+    date: "22 maggio 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#6B4A5A",
+    content: [
+      {
+        type: "p",
+        text: "«Essere incinta mi sembra una cosa meravigliosa e allo stesso tempo incredibile. Accetto di buon grado i sintomi, anche le nausee delle prime settimane: è uno stato fisico che mi permette di rendermi conto di aspettare realmente un bambino. Addirittura i giorni in cui sto bene sono quasi preoccupata. Mi viene il dubbio che qualcosa nella mia gravidanza non proceda regolarmente. In genere i sintomi si presentano fin dal momento del risveglio con un senso di nausea per qualsiasi tipo di cibo: anche le cose che prima della gravidanza mi piacevano di più in questo periodo mi ripugnano, tanto che a volte mi capita di digiunare. La situazione però non migliora perché a stomaco vuoto la voglia di vomitare è ancora più intollerabile; eppure cerco di trattenermi come se avessi paura di lasciarmi andare. Una volta, mentre controvoglia cercavo di mangiare una fetta di carne, non sono riuscita a controllarmi e ho cominciato a vomitare. Non ricordo più nulla di quel momento: per un attimo, che mi è parso un'eternità, mi è sembrato di aver perso tutti i contatti con l'esterno. Mi sono ritrovata distesa su di un divano, sudata, stravolta, con accanto mio marito che cercava di rincuorarmi. Era capitato l'episodio che temevo e che fino ad allora avevo considerato irreparabile, e invece mi aveva lasciato una sensazione di sollievo, di distensione, tanto che mi chiedevo perché a tutti i costi cercassi sempre di non vomitare. Forse per costringermi a digiunare tutto il giorno? Anch'io, come tante donne incinte, temevo che l'aumento di peso rovinasse irrimediabilmente la mia linea?"
+      },
+      {
+        type: "p",
+        text: "La paura di vomitare mi riporta alla mente tanti ricordi di infanzia in cui il vomito è stato un sintomo ricorrente. Da bambina sono stata soggetta a crisi di acetone e avrei dovuto seguire una dieta abbastanza rigida. Io ero così golosa e ingorda che non volevo ammettere che certi alimenti mi facessero male, tanto che ne mangiavo avidamente di nascosto per non farmi scoprire. Ricordo per esempio che, se sapevo che in casa c'erano dei dolci, rovistavo ovunque mentre mia madre era fuori e, se riuscivo a trovarli, li mangiavo tutti senza controllarmi. Ovviamente alla fine vomitavo ed ero costretta a confessare la mia marachella. La cosa peggiore era che al malessere fisico si aggiungevano le sgridate di mia madre, che invece di prestarmi le amorevoli cure che avrei preteso, mi sgridava perché era quello che mi meritavo!"
+      },
+      {
+        type: "p",
+        text: "Il vomito era dunque l'espressione della mia colpevolezza e la mia condanna, mi lasciava il mal di testa, una forte debolezza e soprattutto una mamma molto nervosa perché avevo di nuovo disubbidito.»"
+      },
+      {
+        type: "highlight",
+        text: "È interessante notare che un sintomo tipico della gravidanza è associato per Lara a una situazione «di compromesso» che la riporta al periodo dell'infanzia. Allora il vomito era l'espressione di un desiderio (mangiare i dolci) e dei sensi di colpa quando disubbidiva al divieto di farlo."
+      },
+      {
+        type: "p",
+        text: "Il tentativo di controllarsi per non vomitare durante la gravidanza diventa dunque un modo per evitare di riprovare i sensi di colpa di allora, che la facevano sentire in conflitto con la sua mamma."
+      },
+      {
+        type: "p",
+        text: "Per la donna infatti il buon rapporto con la madre (intesa oltre che come madre del presente anche e soprattutto come immagine materna che porta dentro di sé) è fondamentale sia per riuscire a iniziare una gravidanza che per portarla a termine in modo sereno e fisiologico."
+      }
+    ]
+  },
+  {
+    id: 113,
+    slug: "perche-sintomi-gastrointestinali-in-gravidanza",
+    title: "Perché sintomi gastrointestinali in gravidanza?",
+    excerpt: "Dal punto di vista medico e da quello psicoanalitico: perché la gravidanza si accompagna così spesso a nausea e disturbi digestivi, e cosa c'entrano le teorie sessuali infantili.",
+    keywords: "sintomi gastrointestinali in gravidanza, teorie sessuali infantili, Freud, gonadotropina corionica, psicologia della gravidanza",
+    category: "Gravidanza",
+    date: "13 maggio 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#4A5A78",
+    content: [
+      {
+        type: "p",
+        text: "Tutti sanno che all'inizio della gravidanza (ma a volte anche dopo) può capitare che la donna soffra di disturbi gastrointestinali, in particolare di nausea e vomito. Pochi però si chiedono quale sia il nesso tra la gravidanza, che riguarda l'apparato genitale, e i sintomi, che riguardano l'apparato digerente. Le risposte a questo interrogativo possono essere di aiuto alla gestante perché, venendo a conoscenza dell'origine dei suoi malesseri, può accettarli con maggiore serenità."
+      },
+      {
+        type: "p",
+        text: "Dal punto di vista medico, la causa del problema è data dall'aumento degli ormoni gravidici, in particolare della gonadotropina corionica prodotta dall'embrione in circolazione nella donna a partire dal momento della fecondazione, che intensificano la peristalsi degli organi dell'apparato digerente. La conseguente insorgenza di fastidiosi disturbi è perciò sinonimo e garanzia di un buon proseguimento della gravidanza."
+      },
+      {
+        type: "p",
+        text: "Dal punto di vista psicologico i sintomi gastrointestinali della gravidanza mettono in feedback con le teorie sessuali infantili che fanno parte dell'inconscio dell'adulto. Note alla psicoanalisi fin dal 1905 (quando furono enunciate da Freud nei Tre saggi sulla teoria sessuale), evidenziano le spiegazioni che i bambini si danno a proposito di fecondazione e nascita per rispondere alla fatidica domanda «come il bambino entra/esce dal corpo della mamma?», dal momento che non conoscono la funzione del seme fecondativo né l'esistenza della vagina. L'interno del corpo viene semplicemente immaginato come una grande cavità vuota (capace di contenere indifferentemente cibo, bambini, escrementi) collegata con l'esterno da un'unica apertura comprendente ano, meato urinario, vagina: la cloaca.*"
+      },
+      {
+        type: "p",
+        text: "La fecondazione e il parto sono perciò associati ad atti quotidiani come mangiare e defecare, come sottolineano molte favole in cui all'ingestione di qualche particolare sostanza fa seguito la nascita di un bambino."
+      },
+      {
+        type: "highlight",
+        text: "Questa logica infantile si riattiva durante la gravidanza per l'inconsapevole regressione della donna allo stato embrionale indifferenziato. È come se tracce dimenticate ma indelebili si riattivassero nella donna incinta con l'effetto di cancellare il tempo trascorso dalla gravidanza in cui è stata gestata a quella in cui è a sua volta gestante. Da ciò deriva la confusione tra i due apparati, per cui molte gravide reagiscono con un apparato allo sconvolgimento che la fecondazione ha creato nell'altro. Il futuro bambino infatti, per quanto desiderato e voluto, è comunque un insieme di cellule diverse da quelle materne perché è formato dalla fusione di un ovulo e di uno spermatozoo, un innesto estraneo all'utero che lo deve ospitare, che se ne difende mettendo in atto tentativi di rigetto e di espulsione. Si tratta di meccanismi fisiologici, neutri, che non hanno nulla a che vedere con l'affetto per il futuro bebè, presenti con maggiore o minore intensità in ogni donna incinta che li vive a sua insaputa, senza rendersene conto e senza avere la possibilità di influenzarli."
+      },
+      {
+        type: "p",
+        text: "Tali tentativi, presenti in ogni donna incinta, si realizzano diversamente in base alla loro intensità e alla strutturazione psicobiologica della futura mamma: in modo diretto con l'espulsione attraverso l'aborto, in modo indiretto con sintomi gastrointestinali, o senza che la donna se ne renda conto attraverso sogni tipici della gravidanza."
+      },
+      {
+        type: "p",
+        text: "* Nella scala evolutiva varie specie animali al di sotto dei mammiferi presentano la cloaca come unica apertura verso cui confluiscono le terminazioni dell'intestino, dell'apparato urinario e genitale."
+      },
+      {
+        type: "p",
+        text: "** Fino al 25° giorno dalla fecondazione, i gonociti primordiali (che danno origine a ovuli e spermatozoi) non si differenziano dalla parete dell'intestino primitivo."
+      }
+    ]
+  },
+  {
+    id: 114,
+    slug: "lembrione-un-corpo-estraneo-per-la-madre",
+    title: "L'embrione, un corpo estraneo per la madre?",
+    excerpt: "Come un innesto da tollerare: la reazione biologica di rigetto con cui il corpo materno accoglie inizialmente l'embrione, raccontata attraverso l'immagine di una tempesta.",
+    keywords: "embrione corpo estraneo, rigetto immunitario embrione, natural killer, aggressività materna, psicologia della gravidanza",
+    category: "Gravidanza",
+    date: "8 maggio 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#5A4A6B",
+    content: [
+      {
+        type: "p",
+        text: "«Oggi al corso preparto che ho iniziato a frequentare con un certo anticipo, è stato affrontato un argomento sul quale non avevo mai riflettuto: l'embrione è per la madre un corpo estraneo! La cellula uovo, da cui si sviluppa il bambino, ha un patrimonio genetico diverso da quello della madre che lo ospita perché è un mix di quello paterno e materno. È un po' come se si trattasse di un trapianto, di un innesto, e come tale è soggetto a una reazione di rigetto da parte delle cellule della madre che lo vivono come estraneo."
+      },
+      {
+        type: "p",
+        text: "Si tratta di una reazione biologica, che spiega però il fatto che certe donne all'inizio della gravidanza provino una spiacevole sensazione di invasione."
+      },
+      {
+        type: "p",
+        text: "La spiegazione di questa situazione è un po' complicata per me che non so nulla di biologia. Tuttavia ho cercato di immaginare attraverso un'immagine quello che avviene: non sarà molto scientifico, ma a me «rende l'idea». Allora io ho pensato a un bambino piccolissimo, in miniatura (l'embrione), che si attacca a una parete rocciosa (l'utero materno) mentre una tempesta cerca di spazzarlo via (le natural killer materne) perché è un estraneo in questo ambiente. Questa tempesta si placa se il piccolo riesce a emettere un segnale che lo fa riconoscere dall'ambiente, come a dire: faccio parte di te, non buttarmi via!"
+      },
+      {
+        type: "p",
+        text: "La sua sopravvivenza dunque dipende dall'interazione di due fattori: l'intensità della tempesta (cioè della reazione materna) e la forza con cui si aggrappa. Tutto questo non è legato a sentimenti di accettazione o no da parte della madre, tanto che spesso abortiscono quelle che desiderano più intensamente un bambino e proseguono la gravidanza quelle che non lo vogliono ma non hanno il coraggio di abortire! Si tratta di una reazione naturale, fisiologica, che ogni essere umano vive nell'utero della propria madre e che ripete come madre quando resta incinta. Ciò che varia da una persona all'altra è l'intensità di queste vicissitudini legate alla sopravvivenza (dunque neutre, né buone né cattive) che restano inscritte nelle proprie cellule e che costituiscono la base dell'aggressività."
+      },
+      {
+        type: "p",
+        text: "Dopo le prime settimane dalla fecondazione ho capito che tra corpo materno ed embrione si instaura un modus vivendi che permette la sopravvivenza: è come se l'embrione venisse considerato un insieme di cellule materne, dunque facesse tutt'uno con la madre, alla stregua di un organo, una parte di se stessa, da cui si staccherà con il parto.»"
+      },
+      {
+        type: "p",
+        text: "Queste considerazioni, espresse in modo molto semplice e comprensibile da Lara, sono fondamentali per capire che ogni interazione madre/embrione è caratterizzata da tentativi di sopraffazione reciproca, che varia quantitativamente in ogni coppia in base alle caratteristiche individuali."
+      },
+      {
+        type: "p",
+        text: "La fisiologica lotta per la sopravvivenza, che caratterizza gli albori della vita di ogni essere umano, determina dunque le vicissitudini della gravidanza e lascia tracce indelebili nell'inconscio del futuro individuo."
+      },
+      {
+        type: "highlight",
+        text: "Che il rapporto mamma-bambino non sia fatto solo di amore e tenerezza come si potrebbe pensare prima di averlo vissuto è cosa nota a ogni mamma onesta con se stessa, che a volte può provare anche verso il più amato dei bimbi forti sentimenti di aggressività, di non sopportazione. Sapere da dove provengono, imparare a riconoscerli aiuta a gestirli senza conseguenze per il bambino e senza sensi di colpa, ma con la consapevolezza che fanno parte della nostra natura umana."
+      }
+    ]
+  },
+  {
+    id: 115,
+    slug: "il-bisogno-di-mamma-del-bebe",
+    title: "Il bisogno di mamma del bebè",
+    excerpt: "Cos'è la «neotenia» e perché il neonato, immaturo rispetto agli altri mammiferi, ha un bisogno assoluto di una presenza materna che sappia calibrare presenza e piccole frustrazioni.",
+    keywords: "neotenia, bisogno del neonato, pianto del bebè, ansia materna, sviluppo del neonato",
+    category: "Neonato/Lattante (0-1 anni)",
+    date: "2 maggio 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#4F6B5A",
+    content: [
+      {
+        type: "p",
+        text: "Alla nascita, il bambino è immaturo: le informazioni fornite dal suo corredo genetico non lo dotano, come avviene per gli animali, di modelli di comportamento innati (istinti) che gli permettono, in tempi brevi, di sopravvivere in modo autonomo."
+      },
+      {
+        type: "p",
+        text: "Questo stato di incompiutezza rispetto all'ambiente esterno e al suo corpo si chiama «neotenia»."
+      },
+      {
+        type: "p",
+        text: "La neotenia genera nel neonato una sensazione di forte disagio legata all'eccessivo bombardamento che subisce il suo sistema nervoso attraverso le vie sensoriali, dal momento che gli stimoli acustici, visivi, di fame, termici sono molto diversi dalle sensazioni vissute nell'utero materno. Lo stress perinatale si esprime con segni obiettivi più o meno evidenti (tachi/bradicardie, pause respiratorie, apnee, protrusioni della lingua, perturbazioni del ritmo sonno-veglia) e può essere attenuato solo dalla presenza e dall'aiuto di qualcuno che si occupi di lui, che ne soddisfi i bisogni: la mamma o un suo sostituto (caregiver)."
+      },
+      {
+        type: "p",
+        text: "Il suo intervento, che permette di scaricare la tensione e di mantenere l'omeostasi, lascia una traccia mnestica che si consoliderà con ripetitive azioni di soddisfacimento, che poco per volta aiuteranno il bambino a gestire l'attesa."
+      },
+      {
+        type: "p",
+        text: "Se dunque una mamma presente e gratificante è necessaria per creare «tracce di benessere», non va dimenticato che anche «l'eccesso di presenza» influisce negativamente sullo sviluppo del bambino."
+      },
+      {
+        type: "p",
+        text: "Piccole frustrazioni, vissute in un contesto in cui il piccolo si sente amato e accettato, sono necessarie per il suo sviluppo e permettono a chi se ne prende cura di non esaurirsi cercando di soddisfare ogni sua richiesta."
+      },
+      {
+        type: "p",
+        text: "Il bambino deve avere la possibilità di piangere per scaricarsi senza avvertire l'angoscia e i sensi di colpa di sua madre, riattivati dalla situazione attuale, ma radicati in epoche ben più remote della sua vita."
+      },
+      {
+        type: "p",
+        text: "Come ha modo di rendersi conto Rossella, l'atteggiamento materno determina il comportamento del bebè. Non a caso mamme stressate hanno bimbi che piangono di più e che pretendono disponibilità totale, creando un circolo vizioso dove l'ansia materna alimenta il pianto del figlio e viceversa."
+      },
+      {
+        type: "p",
+        text: "«Dopo la nascita della mia prima bimba mi sono sentita stanca e delusa perché immaginavo la maternità diversa, più ricca di soddisfazioni, meno stressante. Il pianto della neonata mi metteva in crisi, non riuscivo a sopportarlo, mi sentivo impotente, inadeguata, in colpa perché avevo la sensazione di essere una cattiva mamma."
+      },
+      {
+        type: "p",
+        text: "Ripensando ora a quei momenti mi sono resa conto del modo diverso con cui mi relaziono con questa seconda cucciola, e mi chiedo quanto questo influisca sul suo comportamento. Ricordo che al primo vagito interrompevo ciò che stavo facendo per prenderla in braccio: per cercare di consolarla la sballottavo da una parte all'altra della casa, col risultato che la piccola si metteva a strillare ancora più forte, contagiata dalla mia ansia… che alla fine si tramutava in lacrime…"
+      },
+      {
+        type: "p",
+        text: "Quando mi consigliavano di lasciare la bimba a qualcuno per ritagliarmi qualche momento di riposo (come faccio adesso quando il papà è a casa o una nonna ci viene a trovare) quasi mi offendevo: neanche a parlarne, non potevo perdere il controllo della situazione!"
+      },
+      {
+        type: "p",
+        text: "Per fortuna ora non vivo più con tale negatività il pianto del bebè: osservando con calma mia figlia ho imparato a riconoscere i motivi per cui piange: se ha fame, se deve essere cambiata o se è stanca, e agisco di conseguenza. Non provo sensi di colpa se la lascio sfogare per qualche minuto, soprattutto se sto facendo qualcosa."
+      },
+      {
+        type: "highlight",
+        text: "Per lei è l'unico modo di esprimere il suo disagio, per me non sentirmi soffocata dalle sue richieste è fondamentale per essere serena e disponibile verso di lei. Il risultato è… che piange molto meno di sua sorella, e di certo non solo perché sono diverse di carattere!»"
+      }
+    ]
+  },
+  {
+    id: 116,
+    slug: "il-rapporto-con-il-partner",
+    title: "Il rapporto con il partner",
+    excerpt: "Come cambia l'intimità di coppia durante la gravidanza: il racconto di una donna che si sente più vicina al marito ma, allo stesso tempo, sola in un'esperienza che sente di poter vivere solo lei.",
+    keywords: "coppia in gravidanza, sessualità in gravidanza, rapporto col partner, desiderio femminile in gravidanza",
+    category: "Gravidanza",
+    date: "1 maggio 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#4A6B8A",
+    content: [
+      {
+        type: "p",
+        text: "«Spesso da quando sono incinta, mi soffermo a riflettere sulla mia vita coniugale. Mi pare che il rapporto con mio marito si sia maggiormente approfondito, visto che abbiamo deciso insieme di cercare un bambino che volevamo entrambi. Mi piace come mio marito si comporta in questo periodo perché, a differenza dei miei genitori, non è apprensivo e mi considera una persona e non soltanto il contenitore di suo figlio. Con certe amiche o parenti mi dà noia essere messa al centro dell'attenzione solo per il fatto che sono una donna incinta e io mi sento imbarazzata e infastidita. A volte in queste situazioni mi pare di essere priva di una vera identità."
+      },
+      {
+        type: "p",
+        text: "Lui invece si dà da fare per partecipare alla mia gravidanza: è disponibile ad ascoltare i miei discorsi sul bambino, mi accompagna alle visite di controllo, mi tranquillizza con pazienza ogni volta che sono ansiosa e, pur senza dare troppo peso ai miei repentini cambiamenti di umore, non mi dimostra mai quella accondiscendenza un po' ironica con cui tanti uomini trattano le mogli incinte."
+      },
+      {
+        type: "p",
+        text: "Tuttavia, anche se mi pare che il nostro rapporto sia più che soddisfacente, mi accorgo che in certe situazioni lo sento distante, diverso da come lo vorrei. Nella sfera della sessualità, per esempio, le cose non sono come prima."
+      },
+      {
+        type: "p",
+        text: "Da quando sono incinta ho notato che il mio desiderio è aumentato, mentre lui, a volte, è un po' inibito dai miei cambiamenti fisici e dal timore di poter fare male al bambino."
+      },
+      {
+        type: "p",
+        text: "Questo non significa che non facciamo più l'amore, ma che lui mi cerca meno di prima e di quanto io vorrei. In questo periodo, infatti, mi sento più bella, attraente, femminile, e dato che non sono più angosciata dal desiderio spasmodico di restare incinta, vivo la sessualità in modo più intenso, piacevole e gratificante, mentre lui mi pare un po' impacciato e a disagio."
+      },
+      {
+        type: "highlight",
+        text: "Pur ritenendomi soddisfatta del rapporto con mio marito, perché mi sembra di essere molto più fortunata di tante donne per le quali neanche il periodo della gravidanza è esente da litigi, ricatti e persino botte, devo tuttavia ammettere con me stessa che vorrei ancora qualcosa di più. Quando gli faccio appoggiare una mano sulla mia pancia per fargli sentire il bambino che si muove, vorrei fosse meno distratto, più coinvolto e lasciasse trapelare le emozioni che lui sicuramente prova in questo periodo. Nello stesso momento mi rendo conto che la gioia intensa, viscerale, che vivo io non può essere condivisa con nessuno, tanto che a volte mi sento un po' sola, anche se lui mi è vicino ed è dolce e affettuoso con me. In fondo, almeno per adesso, questo bambino appartiene solo a me, con lui vivo un rapporto così intenso e gratificante che mi assorbe completamente, mi allontana dagli altri, anche dai familiari o dagli amici intimi coi quali pensavo di poter dividere tutte le mie sensazioni."
+      },
+      {
+        type: "p",
+        text: "Questo mio desiderio incolmabile di amore che pare essersi intensificato ora che sono incinta, forse è radicato in un periodo molto più remoto della mia vita. Se ripenso a me bambina, so di essere stata molto amata dalla mia famiglia: ero la primogenita e anche la prima nipote, insomma un esserino unico per tante persone che facevano a gara per occuparsi di me. Eppure, ricordo che in certi momenti mi pareva di non ricevere abbastanza affetto, o meglio di riceverne meno di quanto ne avrei desiderato, soprattutto da parte di mia madre… Era come se per lei non fossi mai abbastanza, come se da me si aspettasse sempre qualcosa più di quello che facevo… insomma come se non corrispondessi al suo ideale di figlia!»"
+      }
+    ]
+  },
+  {
+    id: 117,
+    slug: "il-dopo-parto",
+    title: "Il dopo parto",
+    excerpt: "Chi sono adesso che ho finito di essere la gravida degli ultimi nove mesi? Il difficile lavoro di ritrovare la propria identità nei primi giorni dopo la nascita del bambino.",
+    keywords: "identità dopo il parto, puerperio, dopo parto, cambiamento di identità, rassicurazione della neomamma",
+    category: "Puerperio",
+    date: "25 aprile 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#5A4A5A",
+    content: [
+      {
+        type: "p",
+        text: "Il periodo che segue la nascita di un bambino è sempre assai complesso sotto l'aspetto psicologico e richiede molte energie alla neomamma. Deve riprendersi dalle fatiche del parto, che le ha tolto, in modo repentino, l'identità di donna incinta costruita lentamente durante i nove mesi di gravidanza, e costruire giorno per giorno la relazione col neonato. Le fatiche poi aumentano se c'è anche un altro bambino da gestire."
+      },
+      {
+        type: "p",
+        text: "«Ci sono volute diverse settimane prima di «vedermi» incinta, anche se dal primo giorno, per strada, ho «spiato» la mia silhouette nelle vetrine sperando di cogliere delle differenze. Poi la pancia ha cominciato a farsi notare, all'inizio appena un accenno, poi sempre più evidente. Anche questa volta, prima della gravidanza temevo di vedere il mio corpo modificarsi, mi chiedevo se mi sarei riconosciuta con la pancia… invece i cambiamenti sono avvenuti in modo così graduale e lento che mi sono abituata giorno per giorno a una nuova me stessa… quella che in poche ore il parto ha cancellato, lasciandomi di nuovo un interrogativo a cui non so rispondere: chi sono adesso che ho finito di essere la gravida degli ultimi nove mesi? Certamente non sono più la donna che ero prima di essere incinta, non solo perché la mia taglia al momento si è modificata… anche questa gravidanza ha portato molti cambiamenti nel mio mondo interiore… come se facendo riemergere tanti aspetti della mia infanzia mi avesse resa più matura, più consapevole di essere ormai adulta, proprio io che pur essendo già mamma, negli ultimi tempi mi sono sentita tanto figlia, tanto bambina, tanto bisognosa di rassicurazione, di protezione…. io, che fino al momento del parto ero il centro dell'attenzione della mia famiglia, quasi quanto la mia prima bimba, dalla nascita del bebè mi sono sentita un po' dimenticata… in un momento in cui, anche se sono felice, mi sento spesso insicura, bisognosa di essere rassicurata che sono in grado di soddisfare i bisogni sia della neonata che della bimba più grande, che deve abituarsi alla presenza di una sorellina con cui condividere l'affetto della famiglia.»"
+      },
+      {
+        type: "p",
+        text: "Quello di cui parla Rossella capita a molte donne, anche se l'intensità dei vissuti varia da una persona all'altra. È importante che anche l'ambiente circostante (compagno, familiari) sia consapevole di queste fisiologiche ma complesse dinamiche, per offrire alla neomamma, e non solo al neonato, la giusta attenzione, fatta di accudimento, comprensione e pazienza. Aiutare la donna ad affrontare i doveri quotidiani le permette di risparmiare tempo ed energie per ritrovare se stessa e acquisire la sicurezza e la tranquillità necessarie per imparare a relazionarsi in modo piacevole con il proprio bambino. Per alcune donne questo avviene facilmente perché rappresenta la continuazione, l'evoluzione del rapporto che avevano stabilito durante la gravidanza. Per altre invece il parto rappresenta una cesura rispetto ai mesi precedenti, ed evidenzia il gap esistente tra l'immagine del bambino, investita affettivamente durante l'attesa, e il bambino reale che hanno partorito, vissuto come uno sconosciuto, un estraneo."
+      },
+      {
+        type: "highlight",
+        text: "Per tutte è fondamentale, al ritorno a casa, poter dedicare del tempo a se stesse e al proprio bambino, cercando, almeno per un po', di alleggerirsi dagli impegni del quotidiano e del lavoro. Potersi dedicare all'osservazione serena e tranquilla del bebè senza aver la mente rivolta ad altre problematiche aiuta a imparare a conoscerlo, a essere in grado di soddisfarne i desideri al momento giusto, senza anticiparli e senza frustrarli. Significa gettare le basi per una relazione soddisfacente e solida che nel tempo si rivelerà anche più facile da gestire."
+      }
+    ]
+  },
+  {
+    id: 118,
+    slug: "aspetti-emotivi-della-gravidanza",
+    title: "Aspetti emotivi della gravidanza",
+    excerpt: "Perché in gravidanza si passa da un'insolita indifferenza a un'emotività fuori controllo: cosa provoca questi bruschi mutamenti d'umore e perché sono del tutto fisiologici.",
+    keywords: "emotività in gravidanza, mutamenti d'umore, sensibilità emotiva, distacco emotivo, psicologia della gravidanza",
+    category: "Gravidanza",
+    date: "23 aprile 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#4A5A6B",
+    content: [
+      {
+        type: "p",
+        text: "Molte donne notano, fin dall'inizio della gravidanza, di essere soggette a frequenti mutamenti dell'umore e dicono di avere difficoltà a controllare le proprie reazioni. In certi casi si accorgono di allontanare, come se fossero diventate insensibili, certi avvenimenti che fino a poche settimane prima le coinvolgevano emotivamente. Pur rendendosi conto dell'assurdità della situazione, qualcosa le spinge ad accantonarli come per evitare che eventi esterni amareggino un momento così bello e intimo come la loro gravidanza. In altri casi riconoscono di dare eccessiva importanza a situazioni, anche banali, che smuovono dentro di loro una forte emotività, tanto da non riuscire a trattenere le lacrime, anche se poi magari si vergognano e si sentono ridicole."
+      },
+      {
+        type: "p",
+        text: "Lara racconta:"
+      },
+      {
+        type: "p",
+        text: "«Quando il mio capo mi ha comunicato che dopo il congedo per maternità le mie mansioni sarebbero cambiate e avrei perso la parte del lavoro che più mi piace, mi sono accorta di non aver provato nessuna particolare emozione, come se la cosa riguardasse qualcun altro. Razionalmente mi rendo conto che non sarà facile investirmi con altrettanto interesse in qualcos'altro, ma dal punto di vista emotivo non provo nulla, come se la cosa non mi riguardasse. Ieri sera invece, guardando un film alla televisione, mi sono commossa seguendo la storia di un cane che, morto il padrone, si è lasciato morire nonostante qualcuno si occupasse di lui. Piangevo come se mi fossi trovata io sola e inerme, senza riuscire a spiegarmi cosa mi stesse capitando.»"
+      },
+      {
+        type: "p",
+        text: "Non tutte le donne incinte vivono lo stesso coinvolgimento emotivo sulla gravidanza."
+      },
+      {
+        type: "p",
+        text: "Per alcune ciò che non ha attinenza con il loro stato è vissuto con un certo distacco perché appare di secondaria importanza, fino a diventare poco interessante e faticoso, troppo lontano da loro per meritare il giusto interesse. Questo mutamento che la gravidanza ha portato nella loro vita (soprattutto nella loro percezione della realtà) e che le aiuta a prevedere le modificazioni della quotidianità che apporterà la nascita del bambino, non è però esente da rischi. Un eccessivo disinvestimento di ciò che le circonda potrebbe infatti acuire l'inevitabile gap tra il bambino reale e le fantasie/illusioni con cui hanno convissuto per nove mesi."
+      },
+      {
+        type: "p",
+        text: "Altre donne invece continuano a vivere fino al momento del parto come se la gravidanza non avesse cambiato nulla nella loro vita e nella loro attività e soprattutto nei loro pensieri. Il rischio in cui possono incorrere, non avendo trovato il tempo e il modo di creare uno spazio mentale per il nascituro, è di essere travolte, dopo la nascita del bambino, da un improvviso cambiamento di vita e di abitudini, su cui non si erano mai soffermate a fantasticare."
+      },
+      {
+        type: "p",
+        text: "Spesso il processo psico-biologico che la gestante sta vivendo influenza anche le sue percezioni e spiega perché la sua attenzione sia «calamitata» da tutto ciò che ha a che fare col suo stato: negozi di articoli infantili, riviste per l'infanzia, neomamme o gravide incontrate per la strada."
+      },
+      {
+        type: "p",
+        text: "Ecco come Lara vive questa situazione:"
+      },
+      {
+        type: "highlight",
+        text: "«Da quando sono incinta ho notevolmente ridotto i miei impegni di lavoro e dedico anche meno tempo ai miei hobby; spesso mi sento stanca e affaticata, come se questa fase della mia vita si stesse succhiando tutte le mie energie. A volte sono un po' preoccupata di non ritrovare in me la donna attiva di prima, ma poi mi dico che quello che provo è naturale e non mi deve stupire: aspettare un bambino infatti significa, per dirla scherzosamente, essere in produzione per ventiquattro ore al giorno! Prima di essere incinta ero entrata di rado in negozi di roba per bambini e sempre di fretta; ultimamente invece vi ho passato interi pomeriggi provando grande eccitazione a cercare, scegliere, comprare giocattoli, vestitini, tutte cose che mi avvicinano al mio bebè. Queste ore che gli dedico sono per me un modo di renderlo più reale, più vero, più tangibile. Mi rendo conto con un certo stupore che, mentre prima della gravidanza non notavo neanche i negozi di articoli infantili, ora ne scopro dappertutto, come se calamitassero il mio sguardo. La stessa cosa capita anche nei confronti delle donne incinte o delle carrozzine che incontro in giro per la città; non ne ho mai viste tante, anche se so dalle statistiche che le nascite non sono aumentate, anzi!»"
+      }
+    ]
+  },
+  {
+    id: 119,
+    slug: "partorire-per-la-seconda-volta",
+    title: "Partorire per la seconda volta",
+    excerpt: "Un primo parto vissuto come faticoso e medicalizzato, un secondo affrontato con più serenità: come il lavoro su di sé può cambiare profondamente il modo di vivere il travaglio.",
+    keywords: "secondo parto, elaborazione del primo parto, episiotomia, induzione del parto, psicologia del parto",
+    category: "Parto",
+    date: "19 aprile 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#6B4A4A",
+    content: [
+      {
+        type: "p",
+        text: "Affrontare il parto avendo già dei figli non sempre è più facile: l'esperienza vissuta in precedenza condiziona molto l'attesa dell'evento che, in genere, avviene in tempi più brevi rispetto alla prima volta."
+      },
+      {
+        type: "p",
+        text: "Come racconta Rossella: «la nascita della mia prima bambina era stata piuttosto faticosa: avevano dovuto indurre il parto perché la gravidanza aveva superato il termine e il liquido era scarso; l'uscita della bimba, grossa rispetto alle mie dimensioni minute, aveva richiesto l'episiotomia. Una situazione un po' diversa da quella che avevo immaginato, di travaglio nell'acqua e di parto secondo i tempi della natura. L'ossitocina, utilizzata per indurre contrazioni più efficaci, le aveva rese subito molto intense e frequenti e, nonostante io sia riuscita a partorire in poche ore, mi sono sentita stremata e con una sensazione di profondo malessere addosso perché mi sembrava di non essere stata capace di farcela da sola. A questo si aggiungeva un certo risentimento verso il ginecologo, un po' troppo interventista secondo me: pur avendo capito razionalmente i motivi del suo agire provavo un forte senso di insoddisfazione, perché mi aveva privata di qualcosa a cui tenevo molto. Tutto questo non aveva favorito il rapporto con mia figlia che fin dall'inizio mi pareva un'estranea vorace di cui mi sentivo in totale balia. I sentimenti di amore per la bimba che pensavo nascessero spontanei nella mamma tardavano a presentarsi: mi sentivo apatica, priva delle sensazioni positive che avevo immaginato, ma soprattutto stanca, tanto tanto stanca, senza possibilità di riposarmi a causa dei pressanti ritmi della piccola.»"
+      },
+      {
+        type: "p",
+        text: "Senza un lavoro su se stessa come quello che ha fatto Rossella, questa esperienza avrebbe potuto condizionarla e farle affrontare la seconda maternità con maggiore ansia. Invece, quando ricorda quei momenti, le pare impossibile essere stata lei a viverli, come se la rielaborazione dei suoi vissuti le avesse fatto dimenticare le ansie immotivate e improvvise che spesso avevano condizionato profondamente il suo umore in passato."
+      },
+      {
+        type: "p",
+        text: "In una situazione di maggiore serenità non è per caso che anche il parto si sia svolto in modo più fisiologico, qualche giorno prima del termine, senza bisogno di ricorrere all'induzione e senza problemi causati dall'episiotomia."
+      },
+      {
+        type: "highlight",
+        text: "«Questa volta mi pare tutto diverso, e non solo perché sono più organizzata dal lato pratico rispetto a quando avevo solo una figlia da accudire! Ciò che è cambiato è il mio stato interiore, non più gravato da un peso dai contorni sconosciuti che la maternità aveva fatto emergere in me. Più serena e rilassata riesco a concedermi più tempo per il mio bebè, a godermelo, senza sacrificarmi per quell'assurdo senso del dovere che mi obbligava a essere una buona casalinga più che una buona mamma!»"
+      }
+    ]
+  },
+  {
+    id: 120,
+    slug: "il-sesso-del-nascituro",
+    title: "Il sesso del nascituro",
+    excerpt: "Dalle credenze popolari del passato alle teorie sull'acidità vaginale: perché il desiderio di un maschio o di una femmina affonda le radici in un rapporto inconscio con i propri genitori.",
+    keywords: "sesso del nascituro, desiderio di un maschio, desiderio di una femmina, credenze popolari, psicologia della gravidanza",
+    category: "Gravidanza",
+    date: "17 aprile 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#4A5A78",
+    content: [
+      {
+        type: "p",
+        text: "Uno dei vantaggi offerti dalla scienza moderna sta nella possibilità di conoscere in anticipo il sesso del nascituro grazie a esami che ormai danno risultati affidabili. Questo permette a chi ha delle spiccate preferenze di arrivare al parto preparato ad accogliere il bambino, anche se non è del sesso desiderato. In passato, in mancanza di strumenti scientifici, si cercava di indovinarlo attraverso l'osservazione attenta di certe caratteristiche della donna incinta."
+      },
+      {
+        type: "p",
+        text: "La comparsa di macchie sul viso della donna (il cloasma gravidico) veniva associata all'attesa di una femmina, come pure la forma arrotondata del ventre o il movimento circolare che compie un pendolino sul palmo della mano di una futura mamma. Ci si rifaceva al simbolismo sessuale per cui tutto ciò che è arrotondato richiama alla mente la forma della vulva ed è attinente al femminile, in contrasto con la forma dritta e appuntita, fallica, dunque attinente al maschile."
+      },
+      {
+        type: "p",
+        text: "I proverbi e i detti popolari rispecchiano le teorie scientifiche del passato, secondo cui il sesso del feto dipendeva dalla maniera in cui il bambino si era formato nel corpo della madre: maschio se era stato concepito dall'ovaio destro, femmina da quello sinistro, dunque legata a qualcosa di negativo fin dal momento della fecondazione."
+      },
+      {
+        type: "p",
+        text: "Se presto si arriverà a programmare il sesso dei nascituri attraverso ingegnosi interventi di biogenetica, per ora si tenta di influenzarlo in modi poco più evoluti di quelli del passato, attraverso diete da seguire prima della fecondazione. Come si può leggere in antichi manuali di ostetricia, già nei secoli passati si consigliavano alimenti specifici alla coppia, in base alle preferenze del sesso del bambino. Oggi in alcuni studi (non ancora scientificamente convalidati) viene evidenziata l'influenza dell'acidità del ph vaginale sul sesso del neonato. Sembra che il ph più acido favorisca la nascita di una femmina, in quanto renderebbe meno attivi gli spermatozoi portatori del gene Y; al contrario il ph meno acido immobilizzerebbe quelli portatori del gene X, favorendo la nascita del maschio. Di conseguenza vengono indicate diete a base di calcio e magnesio nel primo caso, di sodio e potassio nel secondo."
+      },
+      {
+        type: "p",
+        text: "Ma perché si desidera un maschio e perché si desidera una femmina?"
+      },
+      {
+        type: "p",
+        text: "Le motivazioni coscienti addotte da ognuno sono determinate da altre sconosciute, profonde, inconsce, basate sul rapporto stabilito con i genitori e sulla qualità dell'identificazione. Infatti i sentimenti che si provano per i figli sono la riedizione di quelli vissuti da bambini nei confronti della propria mamma e del proprio papà, carichi di ambivalenza con prevalenza di amore o di odio."
+      },
+      {
+        type: "p",
+        text: "È tuttavia limitativo e superficiale far coincidere la preferenza di un maschio o di una femmina con il maggior amore per il genitore di quel sesso, perché solo l'approfondita conoscenza della situazione inconscia di una persona permette di capire da quali intricate situazioni infantili provenga il suo desiderio."
+      },
+      {
+        type: "p",
+        text: "Per esempio sentiamo cosa ci racconta Lara a questo proposito:"
+      },
+      {
+        type: "p",
+        text: "«Quando mi si chiede se preferisco un maschio o una femmina rispondo sempre che per me è indifferente, l'importante è che sia sano. Solo a me stessa confesso che non è proprio lo stesso e che preferirei un maschio. Anche un particolare che potrebbe sembrare banale conferma questo mio desiderio: avere già scelto il nome per il maschio e avere le idee molto confuse su quello per la femmina. Tuttavia questo mi fa sentire in colpa perché mi sembra di fare un torto al bambino se non è del sesso che desidero."
+      },
+      {
+        type: "p",
+        text: "Credo di aver desiderato un maschio da sempre, da quando mia mamma mi raccontava che quando aspettava me sperava che fossi un maschio e non una femmina. Diceva che il rapporto della mamma col maschio è più facile, mentre la femmina è una rivale con cui dividere l'affetto e l'interesse del marito… Deve aver provato una grande delusione a mettere al mondo me, diversa da quello che lei avrebbe voluto che fossi!"
+      },
+      {
+        type: "p",
+        text: "Malgrado questa mia recondita preferenza, che non posso negare se voglio essere davvero sincera con me stessa, penso che sarò molto felice anche se nascerà una bambina e sono sicura che saprò darle tutto il mio amore. Vorrei infatti che potesse percepire il calore, l'affetto, la disponibilità di cui ogni tanto mi sono sentita privata, anche se non posso certo recriminare di non essere stata amata!»"
+      },
+      {
+        type: "highlight",
+        text: "Per Lara dunque l'attesa di un maschio non è determinata soltanto da sentimenti di amore rivolti al padre, ma cela anche il forte desiderio di essere amata dalla madre attraverso il bambino maschio che aspetta. Questi sentimenti di amore tuttavia si intrecciano con sentimenti di rivalità nei suoi confronti; avere un maschio significa infatti fare meglio di sua madre, ossia essere più brava di lei."
+      }
+    ]
+  },
+  {
+    id: 121,
+    slug: "difficolta-nellincontro-con-il-neonato",
+    title: "Difficoltà nell'incontro con il neonato",
+    excerpt: "Cosa succede quando il bambino della realtà non coincide con quello della fantasia costruita in nove mesi di gravidanza: perché il primo incontro con il neonato non è sempre amore a prima vista.",
+    keywords: "primo incontro col neonato, bambino della fantasia, bonding neonatale, lutto della gravidanza, psicologia del puerperio",
+    category: "Neonato/Lattante (0-1 anni)",
+    date: "13 aprile 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#3F6B6B",
+    content: [
+      {
+        type: "p",
+        text: "Per nove mesi la mamma ha investito affettivamente un bambino che esisteva nella sua fantasia. Dopo la nascita quel bambino lascia il posto a quello della realtà su cui spostare l'investimento affettivo."
+      },
+      {
+        type: "p",
+        text: "Alla nascita due caratteristiche veicolano i sentimenti che la madre prova per il bambino: la similitudine del bebè con l'immagine elaborata durante la gravidanza e la corrispondenza tra l'affetto per il piccolo che fino a poco prima era parte di se stessa e per il neonato. Tuttavia, anche se in mancanza della continuità rappresentazionale tra il bambino della fantasia e quello della realtà la mamma prova per lui gli stessi sentimenti d'amore fin dal primo istante, le basi su cui il rapporto si può sviluppare sono solide e positive e fanno presupporre che sarà in grado di accudirlo senza particolari difficoltà."
+      },
+      {
+        type: "p",
+        text: "Ecco le parole di una neomamma che ha vissuto questa situazione:"
+      },
+      {
+        type: "p",
+        text: "«Me lo aspettavo diverso, non con tutti quei capelli scuri, con quei peli da scimmietta sulle spalle, persino sulle orecchie… eppure è bellissimo, continuo a guardarlo e mi pare impossibile che sia proprio quello che fino a qualche ora fa si muoveva dentro di me. Quello che non assomiglia minimamente al bambino della mia fantasia però, fin dal primo momento in cui l'ho visto, ha già catturato tutto il mio affetto. Le sensazioni che provavo per lui prima che nascesse sono le stesse che provo per questo fagottino appoggiato su di me, di cui ho conosciuto al tatto le gambette tornite prima ancora di vederne il faccino. È il mio cucciolo, sento che per lui darei la mia vita, che per difenderlo ucciderei con le mie mani perché lui è una parte di me, la più importante…»"
+      },
+      {
+        type: "p",
+        text: "Per alcune donne invece le prime sensazioni verso il neonato sono completamente diverse: anche se c'è continuità di immagine tra il bambino fantasticato e quello reale, manca quella affettiva, ossia la capacità di riconoscerlo come il proprio bebè. Riporto le parole di due mamme, donne normali, che esprimono la profonda angoscia che stanno vivendo, presagio delle difficoltà che si sono palesate poi nell'accudimento del bambino:"
+      },
+      {
+        type: "p",
+        text: "«Uguale, perfettamente uguale a quello della mia immaginazione: maschio, biondo, rotondetto, direi persino carino se avessi voglia di guardarlo. Però quello posato sulla mia pancia in sala parto mi pare un estraneo, uno sconosciuto. Se fossi stata addormentata avrei pensato che avessero sostituito, scambiato il mio bambino con questo, per cui provo un'indifferenza inquietante… Come farò ad accudirlo, amarlo se non provo nessuna emozione? Mi aspettavo di essere sommersa di gioia, di piangere di felicità, di riempirlo di baci…. invece sono qui, fredda come una statua di marmo che finge di interessarsi a questo estraneo, solo perché si vergogna di essere diversa dalle altre mamme. Mi sento giudicata, criticata, ma non riesco a provare nulla…»"
+      },
+      {
+        type: "p",
+        text: "«Me l'hanno appoggiata sulla pancia e ho urlato che no, non la voglio, o forse sì, non è che non la voglio, ma ho paura, paura che cada, paura di guardarla da vicino, di rendermi conto che è proprio vera, viva, lì, non più dentro di me… che è con lei che dovrò fare i conti… no, cosa dico, che dovrò entrare in contatto. Sarà difficile, ce la farò? Immaginavo tutto diverso, il parto, lei, io… Vorrei stringerla, baciarla ma ho paura di farle male, o di farmi male perché col suo sguardo mi stregherà, si approprierà di me e non saprò più dirle di no e la mia vita diventerà sua…. Toglietemela, portatela via, ora non posso averla qui, non voglio vederla adesso, dopo, quando sarò più tranquilla… ora devo dormire, devo riflettere, devo capire, adesso non so chi è, non so chi sono… ho paura…»"
+      },
+      {
+        type: "highlight",
+        text: "Riconoscere il figlio dunque significa riuscire a elaborare il lutto per la perdita del bambino della propria fantasia ed essere in grado di rivolgere l'affetto verso il bambino della realtà: se giorno dopo giorno la mamma impara a conoscerlo per quello che è e non per quello che credeva fosse, riuscirà a capirne i desideri, a decodificarne i messaggi, dunque ad accudirlo con maggiore facilità e piacere."
+      }
+    ]
+  },
+  {
+    id: 122,
+    slug: "e-nata",
+    title: "È nata!",
+    excerpt: "L'attaccamento al figlio non è sempre immediato: perché alcune mamme si sentono travolte dalla gioia in sala parto, mentre altre hanno bisogno di più tempo per riconoscere il proprio bambino.",
+    keywords: "primo incontro in sala parto, attaccamento immediato, bonding, emozioni del parto, psicologia del puerperio",
+    category: "Puerperio",
+    date: "12 aprile 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "2 min",
+    bgColor: "#5A4A5A",
+    content: [
+      {
+        type: "p",
+        text: "Rossella racconta così le sue prime sensazioni dopo il parto:"
+      },
+      {
+        type: "p",
+        text: "«È impossibile esprimere l'emozione, la gioia che ho provato quando, dopo alcune spinte l'ho sentita sgusciare fuori da me…. era tutta bagnata, biancastra per i residui di vernice caseosa, un po' macchiata di sangue… anche se era un po' diversa da come l'avevo immaginata, mi è parso subito così carina, morbida, tenera… ho provato il desiderio di stringerla a me, di abbracciarla, accarezzarla, baciarla… i dolori del parto, terminati da pochi minuti, mi sono sembrati un ricordo lontano e sfocato, privo di importanza!»"
+      },
+      {
+        type: "p",
+        text: "Per alcune mamme, l'attaccamento al figlio è immediato: fin dal primo momento dopo la nascita lo riconoscono come il loro cucciolo e sono in grado di investire sul bebè i forti sentimenti di affetto che caratterizzano l'amore materno e che provavano fin da prima della nascita."
+      },
+      {
+        type: "p",
+        text: "Per altre, invece, il sentimento si costruisce poco per volta, come se fosse necessario del tempo per far coincidere l'immagine che si sono costruite durante la gravidanza con quella del bambino reale. In sala parto, ogni donna esprime spontaneamente ciò che prova, con immediati moti di affetto e ricerca di contatto con il neonato oppure con la richiesta di rimandare l'incontro a un momento successivo, in cui sia meno stanca e provata dalla sofferenza."
+      },
+      {
+        type: "highlight",
+        text: "Capita che anche donne che hanno desiderato intensamente il bambino, subito dopo la sua nascita non chiedano di vederlo, non provino il desiderio di stringerlo tra le braccia o lo vivano con un forte senso di estraneità che ne congela i sentimenti. Anche se il loro comportamento si discosta dall'immagine che si ha dell'amore materno, non si deve pensare che non possano essere delle buone mamme! Hanno però bisogno di tempo e di aiuto per rielaborare le sensazioni profonde e conflittuali del loro passato, riemerse con la nascita del figlio, che rischiano di alimentare sentimenti di inadeguatezza verso il bambino."
+      }
+    ]
+  },
+  {
+    id: 123,
+    slug: "sterilita-e-infertilita",
+    title: "Sterilità e infertilità",
+    excerpt: "Cosa distingue davvero sterilità e infertilità, e perché la «sterilità pre-primaria» di chi non ha mai provato a diventare madre nasconde spesso radici psicologiche risalenti all'infanzia.",
+    keywords: "sterilità pre-primaria, differenza sterilità infertilità, angoscia di fallimento, desiderio di maternità rimandato",
+    category: "Difficoltà",
+    date: "5 aprile 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "4 min",
+    bgColor: "#6B4A4A",
+    content: [
+      {
+        type: "p",
+        text: "Spesso i termini sterilità e infertilità vengono confusi e usati come se fossero sinonimi per indicare l'incapacità procreativa di una coppia. Bisogna invece distinguere il diverso concetto espresso dalle due parole: si parla di infertilità quando la coppia è in grado di concepire ma non di portare a termine la gravidanza per motivi diversi (aborti spontanei, malformazioni fetali richiedenti un'interruzione medica della gravidanza, morte del feto in utero, ecc.); di sterilità quando la coppia, dopo almeno un anno di rapporti liberi, non riesce a concepire (sterilità primaria), o non riesce più a concepire dopo aver portato a termine una o più gravidanze."
+      },
+      {
+        type: "h2",
+        text: "Sterilità pre-primaria"
+      },
+      {
+        type: "p",
+        text: "Possiamo definire «sterilità pre-primaria» l'impossibilità di certe donne a «provare» a procreare. Si tratta di una situazione che solo sporadicamente è legata a patologie (o asportazione) degli organi riproduttivi: nella maggior parte dei casi riguarda donne sane che nella loro vita non hanno mai avuto la possibilità di provare a concretizzare il desiderio di avere un figlio: sole o in coppia, queste donne, arrivate all'età della menopausa, rimpiangono il figlio che ormai non possono più avere e si chiedono se sarebbero state capaci di diventare mamme. I motivi per cui non hanno mai tentato di restare incinte sono molteplici e non riguardano il rifiuto della maternità ma diverse circostanze di vita: un'attività sessuale molto scarsa o addirittura inesistente, l'incapacità di stabilire una relazione seria e duratura, la consuetudine a vivere rapporti ambivalenti e discontinui inconciliabili con una vita familiare, la relazione con uomini sposati che mai avrebbero lasciato la loro famiglia, il mancato incontro con qualcuno che coinvolgesse al punto da convincerle a costruire con lui una famiglia, l'eccessiva differenza di età dal compagno, la paura di affrontare la vita da ragazza-madre; oppure un interesse così intenso per la propria crescita personale e di carriera da indurle a rimandare a oltranza il tentativo di restare incinta. L'obiettivo di realizzare se stesse può far passare in secondo piano, o almeno rinviare, non solo il desiderio di diventare madri, ma anche la ricerca di un compagno adatto per concepire un figlio."
+      },
+      {
+        type: "p",
+        text: "Sembra quasi che certe donne, senza rendersene conto, si mettano ripetitivamente in situazioni che impediscono loro di saggiare la propria capacità procreativa, come se le circostanze esterne avverse costituissero una barriera, una difesa, in grado di proteggerle da un'immotivata «angoscia di fallimento»."
+      },
+      {
+        type: "p",
+        text: "La caratteristica che le accomuna è lo stato depressivo in cui entrano al sopraggiungere della menopausa, che sancisce la fine della possibilità di procreare. Spesso arrivano a questo irrimandabile appuntamento con la vita quasi senza accorgersene, in ottimo stato di salute, impegnate in attività coinvolgenti, gratificanti, sulle quali hanno puntato tutte le loro energie e aspettative."
+      },
+      {
+        type: "p",
+        text: "Quando la menopausa sopraggiunge, è come se costoro si rendessero conto di aver irrimediabilmente perso la possibilità di realizzare un desiderio di cui erano più o meno consapevoli, perché il tempo è scaduto. In alcuni casi questa constatazione innesca un malessere esistenziale profondo, che in realtà non nasce in quel momento e solo per quella ragione, ma ha delle radici lontane, che non sono mai state affrontate ed elaborate in modo approfondito."
+      },
+      {
+        type: "p",
+        text: "Radici che risalgono all'infanzia, perché è in quel periodo della vita che nasce il desiderio di avere un figlio."
+      },
+      {
+        type: "highlight",
+        text: "Desiderio complesso che riguarda il rapporto della bambina con i suoi genitori e con la sua femminilità; desiderio fisiologico se vive una situazione edipica in cui l'intensità dell'aggressività per la madre e dell'amore per il padre non sono drasticamente censurati, perché non le creano sensi di colpa così forti da non poterli sopportare; desiderio comunque irrealizzabile al momento in cui sorge, che subisce una profonda rimozione, ossia che viene dimenticato e sepolto nel profondo di se stessa, anche se non deprivato della sua carica energetica. Infatti quando le condizioni fisiologiche gli danno la possibilità di realizzarsi (a partire dall'adolescenza, in cui la funzione procreativa diventa possibile), l'ambivalenza e l'intensità che lo avevano caratterizzato si ripresentano e gli impediscono di realizzarsi."
+      }
+    ]
+  },
+  {
+    id: 124,
+    slug: "lallattamento-dalla-parte-della-mamma",
+    title: "L'allattamento dalla parte della mamma",
+    excerpt: "Seno o biberon: sotto l'aspetto psicologico non è il metodo a fare la differenza, ma lo stato d'animo con cui si allatta. Perché non bisogna colpevolizzare chi non se la sente di allattare al seno.",
+    keywords: "allattamento al seno, allattamento al biberon, stato d'animo materno, colpevolizzazione delle mamme, psicologia dell'allattamento",
+    category: "Allattamento",
+    date: "6 marzo 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#3F6B5A",
+    content: [
+      {
+        type: "p",
+        text: "Se negli anni 50 la maggior parte dei bambini veniva allattata al biberon, oggi la prima proposta rivolta alle puerpere è di allattare al seno. Il latte materno infatti è il più adatto alla crescita del cucciolo umano, sia perché il colostro è ricco di fattori nutritivi e di elementi immunizzanti, sia perché la sua composizione si adatta perfettamente alle necessità del neonato."
+      },
+      {
+        type: "p",
+        text: "Queste evidenze però non prendono in considerazione una variabile fondamentale, che riguarda lo stato psicologico di chi offre questo «nettare» e che influenza il benessere di chi lo riceve. Sotto l'aspetto psichico quindi la differenza tra allattamento al seno e al biberon non sussiste: per essere una buona mamma, presente psicologicamente per il neonato, non è determinante il modo in cui lo allatta (al seno o al biberon), ma lo stato d'animo con cui lo si fa. L'allattamento infatti è il momento relazionale più importante nella vita del piccolo, che ha altrettanto bisogno di nutrimento per crescere che di serenità per cominciare a costruirsi un'immagine positiva del mondo che lo circonda. Questo può avvenire se più volte, durante la giornata (e la notte), ha accanto qualcuno totalmente dedicato a lui, capace di vivere questo impegno con disponibilità e serenità: la mamma o un suo sostituto."
+      },
+      {
+        type: "p",
+        text: "L'allattamento al seno presenta sia vantaggi che svantaggi, che ogni donna dovrebbe avere ben presenti, per non farsi condizionare nella scelta di come allattare da chi si schiera dalla parte del bambino, senza tenere in considerazione le sue esigenze (che passano in secondo piano in tutte le situazioni che si scostano dalla normalità: neonato prematuro, sottopeso, affetto da patologie)."
+      },
+      {
+        type: "p",
+        text: "Allattare al seno rappresenta il modo fisiologico di recidere il cordone ombelicale che lega madre e figlio sotto l'aspetto psichico, che rende meno traumatica la separazione, dal momento che, se il rapporto è buono, i due elementi della diade continuano a funzionare in totale sintonia pur non essendo più uno parte dell'altro. Tuttavia è anche un periodo gravoso per la mamma: malgrado indiscutibili vantaggi pratici (il latte materno non fa mai male al bambino, è sempre pronto alla giusta temperatura e può essere dato ovunque), l'allattamento al seno richiede, almeno durante il periodo del puerperio, la totale disponibilità della mamma accanto al bebè che, all'inizio della sua vita, non è ancora in grado di gestire la tensione dovuta alla fame. La memorizzazione di ripetute esperienze di soddisfacimento è necessaria affinché il bambino possa imparare poco per volta ad adeguarsi a un orario, che libera la madre dalla disponibilità incondizionata e che insegna al piccolo a gestire la tensione dell'attesa sapendo, per esperienza, che il suo bisogno sarà soddisfatto."
+      },
+      {
+        type: "p",
+        text: "Molte donne non sono preparate ad affrontare con calma questo periodo di conoscenza reciproca: si illudono che un neonato fin dall'inizio sia in grado di rispettare degli orari, o che il latte materno presenti a ogni poppata le stesse caratteristiche nutritive a prescindere dal loro stato psicofisico. Si sentono perciò invase dalla presenza del bebè che, con le sue continue richieste, genera in loro tensione e difficoltà a occuparsene, con conseguenti sensi di colpa."
+      },
+      {
+        type: "p",
+        text: "Sarebbe utile che ai corsi preparto si parlasse dell'allattamento visto anche dalla parte della mamma e non si colpevolizzasse chi «non se la sente» perché troppo provata per farlo, ricordando che"
+      },
+      {
+        type: "highlight",
+        text: "essere una buona madre è molto più che dare il seno al bambino!"
+      }
+    ]
+  },
+  {
+    id: 125,
+    slug: "il-desiderio-di-maternita",
+    title: "Il desiderio di maternità",
+    excerpt: "Dal desiderio di sopravvivere alla propria morte a quello di rivivere la propria infanzia: le motivazioni profonde, spesso inconsce, che spingono a diventare madre.",
+    keywords: "desiderio di maternità, motivazioni inconsce, desiderio di riproduzione, scelta di diventare madre",
+    category: "Prima di restare incinta",
+    date: "5 marzo 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "2 min",
+    bgColor: "#4A6B7A",
+    content: [
+      {
+        type: "p",
+        text: "I motivi per cui si sceglie di diventare madre sono molteplici, più o meno consapevoli:"
+      },
+      {
+        type: "ul",
+        items: [
+          "il desiderio di riproduzione o meglio di autoriproduzione, presente sia nel maschio che nella femmina, che ricalca il processo grazie a cui ogni cellula vivente cerca di sfuggire alla morte. Procreare significa continuare a vivere anche dopo la propria morte, mantenere in vita, attraverso un figlio, una parte di se stessi per realizzare il desiderio di immortalità profondamente insito in ogni essere vivente;",
+          "il desiderio di completezza e maturità, sia a livello fisico che sociale;",
+          "il desiderio di ritrovare il tempo della propria infanzia, per poterne ripetere gli aspetti positivi e superare/correggere quelli negativi."
+        ]
+      },
+      {
+        type: "highlight",
+        text: "Può essere utile ricordare però che la procreazione non è l'unico modo per realizzare questi desideri. Ne esistono innumerevoli altri che permettono di realizzarli e che richiedono un altro tipo di impegno che, in base alle caratteristiche individuali, può essere più consono alle proprie aspettative, meno oneroso e difficile da gestire di un figlio."
+      }
+    ]
+  },
+  {
+    id: 126,
+    slug: "la-scoperta-della-gravidanza",
+    title: "La scoperta della gravidanza",
+    excerpt: "Perché il desiderio ossessivo di un figlio può paradossalmente ritardarne il concepimento: la testimonianza di Lara e il ruolo del ginecologo come figura su cui si proiettano le paure dell'infanzia.",
+    keywords: "scoperta della gravidanza, sterilità temporanea, desiderio ossessivo di un figlio, rapporto con il ginecologo",
+    category: "Gravidanza",
+    date: "3 marzo 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#5A4A6B",
+    content: [
+      {
+        type: "p",
+        text: "«Quando mi sono accorta di essere incinta quasi non ci credevo: da tanto desideravo un bambino che continuava a non arrivare benché da mesi avessi smesso di prendere la pillola. Una volta ho avuto un ritardo mestruale piuttosto lungo e mi sono proprio illusa, anche perché il test di gravidanza era risultato positivo. Che delusione ho provato il giorno seguente constatando che mi erano venute le mestruazioni! Per un certo periodo ho vissuto con ansia e tensione l'avvicinarsi del ciclo che, quando compariva, mi causava un profondo senso di sconforto. Temevo di non essere in grado di avere un bambino, di essere diversa dalle altre donne: sterile, malata. Ho anche chiesto al mio ginecologo di effettuare degli esami, ma saggiamente lui mi ha consigliato di aspettare ancora qualche tempo. Secondo il suo parere ero solo molto tesa e vivevo in modo così esasperato il desiderio di un figlio che qualcosa dentro di me si bloccava e mi impediva di realizzarlo. Sono rimasta incinta quando ho smesso di ossessionarmi. Mi sono distratta, la mia mente era impegnata in diversi altri pensieri: una nuova attività interessante a cui avevo cominciato a dedicarmi con grande passione e un entusiasmante viaggio in India, paese che desideravo visitare da molto tempo. Ero così lontana dall'immaginare che fosse finalmente accaduto l'evento tanto desiderato che, quando ho cominciato ad avere la nausea, non ho neppure preso in considerazione l'eventualità di aspettare un bambino. Ho pensato di essermi intossicata durante il viaggio, tanto che ho consultato il medico. Inutile dire la felicità che ho provato quando, ascoltata la descrizione dettagliata dei miei sintomi, mi ha consigliato di fare un test di gravidanza e di prenotare una visita dal ginecologo perché, a suo avviso, i miei malesseri erano quelli di una donna incinta.»"
+      },
+      {
+        type: "p",
+        text: "La realizzazione del desiderio di restare incinta richiede un tempo molto diverso da una donna all'altra (e anche per la stessa donna da una gravidanza all'altra): tempo che viene definito lunghissimo, anche se solo raramente lo è."
+      },
+      {
+        type: "p",
+        text: "In questo periodo di «attesa dell'attesa» possono insorgere fantasmi di sterilità più o meno intensi, che fanno temere alla donna di non essere in grado di concepire e la spingono a passare da un ginecologo all'altro, da un accertamento all'altro, nella speranza di trovare qualche terapia che le permetta di raggiungere il più velocemente possibile il suo obiettivo."
+      },
+      {
+        type: "highlight",
+        text: "La sterilità temporanea tuttavia, più che a fattori organici, spesso è dovuta a conflitti psichici di cui non si ha coscienza, perché risalgono a un'epoca infantile dimenticata. In particolare possono essere legati all'aggressività vissuta nei confronti della madre e di conseguenza alla paura della sua vendetta (come se la madre aggredita impedisse alla figlia di diventare madre a sua volta) o ai sensi di colpa per le pratiche onanistiche vissute nell'infanzia, come se queste avessero in qualche modo rovinato gli organi genitali."
+      },
+      {
+        type: "p",
+        text: "Come spesso accade, anche per Lara l'inizio della gravidanza avviene quando l'attesa del bambino si fa meno spasmodica. Quasi per preservarsi da un'altra delusione, Lara è colta di sorpresa da ciò che avviene nel suo corpo, non riconosce neppure la sintomatologia, finché non sarà il medico a svelarle il segreto che in fondo conosce bene."
+      },
+      {
+        type: "p",
+        text: "Questa situazione si verifica in molti casi di gravidanza, in quanto molte donne spesso hanno bisogno che qualcuno, attraverso il riconoscimento, autorizzi e renda reale il loro stato. Questo aiuta a capire l'enorme importanza che per tutta la gravidanza riveste la figura del ginecologo: constatandone lo stato lo rende reale, oggetto di sentimenti spesso contraddittori, tra cui prevalgono la gioia, la speranza, la paura, l'ansia, la rabbia o la non accettazione. Su questa figura, che può dimostrare alla futura mamma un atteggiamento fiducioso e incoraggiante, o al contrario autoritario e ricattatorio, vengono proiettati i sentimenti, le attese, le paure che la gestante/bambina ha vissuto nei confronti dei genitori. Il rapporto medico-paziente che si viene a creare riattiva cioè le esperienze di soddisfacimento e/o di frustrazione proprie dell'infanzia ed è quindi particolarmente carico di investimento affettivo."
+      }
+    ]
+  },
+  {
+    id: 127,
+    slug: "desiderare-un-bambino",
+    title: "Desiderare un bambino",
+    excerpt: "Il desiderio di un figlio comincia molto prima del concepimento, fin dai giochi con le bambole dell'infanzia: la storia di Lara, che apre il racconto della sua gravidanza e del suo mondo interiore.",
+    keywords: "desiderio di un bambino, giochi con le bambole, desideri infantili, storia di Lara, psicologia della gravidanza",
+    category: "Prima di restare incinta",
+    date: "2 marzo 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#4A5A6B",
+    content: [
+      {
+        type: "p",
+        text: "L'attesa di un figlio non inizia al momento della fecondazione: ogni donna la vive più o meno consapevolmente fin dalla più tenera infanzia (anche se potrà realizzarla o evitarla solo in età adulta) e la esprime attraverso i giochi con le bambole o il loro rifiuto. La donna che resta incinta cancella il tempo, più o meno lungo, che la separa dalla bambina che è stata e vive contemporaneamente i due ruoli che hanno caratterizzato la sua infanzia: da un lato torna a essere la bambina che gioca con la bambola imitando sua madre, dall'altro colei che attraverso la bambola esprime certi suoi intimi desideri, in particolare quelli che non osa manifestare nella realtà."
+      },
+      {
+        type: "p",
+        text: "La gravidanza (senza che la donna se ne renda conto) riattiva desideri profondi caratteristici del periodo infantile, fino a quel momento rimasti sopiti. La loro realizzazione, che dovrebbe essere indiretta e mascherata, spesso non tiene conto delle esigenze imposte dalla realtà in cui vive la donna e avviene direttamente attraverso comportamenti irrazionali e anacronistici per una persona adulta, ma più che comprensibili se attribuiti a una bambina piccola. Queste situazioni, tipiche della gravidanza e comuni alla maggior parte di donne incinte, sono vissute con maggiore o minore intensità in base alla loro storia e al loro carattere."
+      },
+      {
+        type: "p",
+        text: "È quello che racconta Lara, giovane donna incinta che aspetta il suo primo bambino e che durante tutta la gravidanza e il post partum ci racconterà l'evolversi del suo mondo interiore."
+      },
+      {
+        type: "p",
+        text: "È serena, felice di diventare mamma; approfitta delle pause di tranquillità per pensare a momenti diversi della sua vita passata nei quali ritrova le stesse sensazioni, gli stessi desideri e fantasie che sta vivendo in questo periodo. I suoi pensieri inconsapevolmente l'aiutano ad affrontare ed elaborare i cambiamenti irrevocabili che la nascita di un figlio porterà nella sua vita. Mettere al mondo un bambino infatti costituisce un passo irreversibile che implica, oltre a una serie di problemi pratici, soprattutto grandi mutamenti di investimenti affettivi che a volte possono mettere in crisi l'equilibrio della donna, dell'uomo, della coppia."
+      },
+      {
+        type: "p",
+        text: "«Non so da quanto tempo desidero un bambino; credo da sempre, da quando, bambina, a chi mi chiedeva che cosa avrei voluto fare da grande, rispondevo «la mamma di tanti figli». Mi piacevano molto i neonati per il loro aspetto fragile e vulnerabile; mi sembravano così bisognosi di affetto, calore e tenerezza! Il mio cuginetto, per esempio, fin dalla prima volta che l'ho visto, mi ha conquistata con i suoi occhioni neri che mi fissavano forse senza vedermi: era solo poco più grosso del mio bambolotto ma, se piangeva, urlava così forte e diventava così paonazzo che restavo stupita e allo stesso tempo spaventata perché temevo soffocasse."
+      },
+      {
+        type: "p",
+        text: "Avevo solo cinque anni, ma con lui mi sentivo grande e giudiziosa. Purtroppo gli adulti avevano poca fiducia in me, non me lo lasciavano tenere in braccio quanto avrei desiderato, e soprattutto mi vietavano di dargli il biberon o di cambiarlo, di dedicargli tutte quelle cure materne da cui ero attratta."
+      },
+      {
+        type: "highlight",
+        text: "Mia madre mi consolava dicendomi di avere pazienza. Sarebbe venuto anche per me il momento di occuparmi dei miei bambini e mi augurava di mantenere lo stesso entusiasmo. Per lei, tirar su me e mia sorella non deve essere stato un compito sempre facile e piacevole. Infatti qualche volta mi racconta che, quando mio padre era via per i suoi viaggi di lavoro, l'ansia e la stanchezza le impedivano persino di godersi i momenti felici che tanto apprezzava se era serena e riposata. Credo che, purtroppo, nella sua mente sia rimasto più vivo il ricordo della fatica che non quello della gioia della maternità, come capita a tante donne che in quel periodo hanno vissuto qualsiasi tipo di problema.»"
       }
     ]
   },
