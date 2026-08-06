@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { useRouter } from "next/router";
 import Image from "next/image";
 import LocalizedLink from "../../components/LocalizedLink";
@@ -24,7 +25,10 @@ export async function getStaticProps({ params, locale }) {
   const rawMember = teamMembers.find((m) => m.slug === params.slug) ?? null;
   const rawPosts = posts.filter((p) => p.authorSlug === params.slug);
   const member = rawMember ? localizeMember(rawMember, locale) : null;
-  const memberPosts = rawPosts.map((p) => localizePost(p, locale));
+  const memberPosts = rawPosts.map((p) => {
+    const { slug, category, title, readTime } = localizePost(p, locale);
+    return { slug, category, title, readTime };
+  });
   return { props: { member, memberPosts } };
 }
 
@@ -36,6 +40,17 @@ function truncate(str, max) {
 export default function TeamMember({ member, memberPosts }) {
   const { locale } = useRouter();
   const t = (ui[locale] || ui.it).member;
+  const categoryOrder = (ui[locale] || ui.it).blog.categories;
+  const articleGroups = categoryOrder
+    .map((category) => ({
+      category,
+      items: memberPosts.filter((p) => p.category === category),
+    }))
+    .filter((g) => g.items.length > 0);
+  const [expandedCategory, setExpandedCategory] = useState(
+    articleGroups[0]?.category ?? null
+  );
+
   if (!member) return null;
 
   const description = truncate(
@@ -207,17 +222,48 @@ export default function TeamMember({ member, memberPosts }) {
                 </div>
               )}
 
-              {memberPosts.length > 0 && (
+              {articleGroups.length > 0 && (
                 <div className="member-section">
                   <h2>{t.sectionArticles}</h2>
-                  <div className="member-articles">
-                    {memberPosts.map((p) => (
-                      <LocalizedLink key={p.slug} href={`/blog/${p.slug}`} className="member-article-item">
-                        <span className="member-article-category">{p.category}</span>
-                        <span className="member-article-title">{p.title}</span>
-                        <span className="member-article-read">{p.readTime} →</span>
-                      </LocalizedLink>
-                    ))}
+                  <div className="member-article-groups">
+                    {articleGroups.map(({ category, items }) => {
+                      const isExpanded = expandedCategory === category;
+                      return (
+                        <div key={category} className="member-article-group">
+                          <button
+                            type="button"
+                            className="member-article-group-header"
+                            aria-expanded={isExpanded}
+                            onClick={() =>
+                              setExpandedCategory(isExpanded ? null : category)
+                            }
+                          >
+                            <span className="member-article-group-title">{category}</span>
+                            <span className="member-article-group-count">{items.length}</span>
+                            <span
+                              className={`member-article-group-chevron${isExpanded ? " is-open" : ""}`}
+                              aria-hidden="true"
+                            >
+                              ▾
+                            </span>
+                          </button>
+                          {isExpanded && (
+                            <div className="member-articles">
+                              {items.map((p) => (
+                                <LocalizedLink
+                                  key={p.slug}
+                                  href={`/blog/${p.slug}`}
+                                  className="member-article-item"
+                                >
+                                  <span className="member-article-title">{p.title}</span>
+                                  <span className="member-article-read">{p.readTime} →</span>
+                                </LocalizedLink>
+                              ))}
+                            </div>
+                          )}
+                        </div>
+                      );
+                    })}
                   </div>
                 </div>
               )}
