@@ -6527,4 +6527,383 @@ export const posts = [
       }
     ]
   },
+  {
+    id: 128,
+    slug: "la-riabilitazione-del-pavimento-pelvico-nel-post-partum",
+    title: "La riabilitazione del pavimento pelvico nel post partum",
+    excerpt: "Il pavimento pelvico è la componente muscolare del perineo, fondamentale per la salute della donna: come riconoscerne i segnali di debolezza e prendersene cura dopo il parto.",
+    keywords: "pavimento pelvico, perineo, riabilitazione perineale, post partum, puerperio, incontinenza urinaria, ostetricia",
+    category: "Puerperio",
+    date: "18 agosto 2019",
+    author: "Michela Forte",
+    authorRole: "Ostetrica",
+    authorAvatar: "MF",
+    authorColor: "#4A8F8C",
+    readTime: "4 min",
+    bgColor: "#356B69",
+    content: [
+      {
+        type: "p",
+        text: "Il pavimento pelvico, quel famoso sconosciuto di cui recentemente si inizia a parlare ma che per molti rimane un mistero."
+      },
+      {
+        type: "p",
+        text: "Il pavimento pelvico costituisce la componente muscolare interna del perineo, ovvero la regione anatomica situata nella parte inferiore del bacino delimitata anteriormente dalla sinfisi pubica, posteriormente dal coccige e lateralmente dalle tuberosità ischiatiche, costituito dall'insieme di tessuti cutanei, muscolari, fasciali e legamentosi che contribuiscono a chiudere in basso la cavità addomino-pelvica."
+      },
+      {
+        type: "p",
+        text: "Per semplificarne la comprensione, il perineo viene identificato come quella parte del nostro corpo che poggia sul sellino della bicicletta."
+      },
+      {
+        type: "p",
+        text: "La funzione del pavimento pelvico e dei muscoli che lo compongono è di circondare, sostenere e mantenere in sede gli organi endo-pelvici quali vescica, utero e intestino."
+      },
+      {
+        type: "p",
+        text: "Quest'area, di cui non sempre si ha una piena consapevolezza, è fondamentale per la salute e il benessere di ogni donna in quanto è coinvolta in importanti meccanismi fisiologici quali la continenza urinaria e fecale, garantisce la qualità della vita sessuale e riproduttiva, sostiene la gravidanza e collabora durante il parto all'espulsione del feto."
+      },
+      {
+        type: "p",
+        text: "Solo recentemente, dalla fine degli anni 90, anche la medicina ne afferma l'importanza, riconoscendo la dignità scientifica della Riabilitazione Perineale, approfondendo lo studio fisiopatologico delle disfunzioni e ponendo l'attenzione sull'aspetto preventivo, terapeutico e riabilitativo."
+      },
+      {
+        type: "p",
+        text: "Risulta pertanto fondamentale che ogni donna conosca e abbia una corretta percezione del proprio pavimento pelvico per preservare l'integrità di questa muscolatura che, se non allenata, può perdere forza ed elasticità: condizioni fisiologiche quali la gravidanza, il parto e la menopausa, o lo svolgersi di naturali azioni quotidiane che causano aumenti della pressione addominale (uno starnuto, un colpo di tosse, la stitichezza o il sollevamento di pesi) possono rappresentare momenti di rischio per il perineo, con ripercussioni sul suo funzionamento."
+      },
+      {
+        type: "p",
+        text: "Nella vita della donna, tra gli eventi che maggiormente influenzano la funzionalità del pavimento pelvico, la gravidanza e il parto sono tra le principali cause di insorgenza di disfunzioni pelvi-perineali, nonostante ci sia un livello di soggettività che varia di donna in donna in base al tipo di tessuti (in alcune sono più resistenti piuttosto che in altre), all'età e alla preparazione che ha avuto il perineo durante la gravidanza."
+      },
+      {
+        type: "p",
+        text: "I segnali che possono indicare debolezza di questa muscolatura, e che possono essere riferiti dalle donne, interessano la sfera genitale e sessuale: il senso di peso nel basso ventre, l'incontinenza urinaria o fecale ad esempio in occasione di tosse o starnuti, la stipsi o la difficoltà ad avere rapporti sessuali."
+      },
+      {
+        type: "p",
+        text: "Nel corso della gravidanza le strutture pelviche, già rese lasse e cedevoli dagli ormoni gravidici, sono sottoposte a forti sollecitazioni dovendo supportare e contrastare il peso degli organi pelvici e dell'utero, aumentato di volume per la presenza del feto, del liquido amniotico, della placenta e degli annessi."
+      },
+      {
+        type: "p",
+        text: "Durante la gravidanza la prevenzione è basata su un'adeguata preparazione della gravida, aiutandola a prendere coscienza del proprio perineo; a tal proposito è utile e consigliato seguire corsi di accompagnamento alla nascita con le ostetriche, in cui verranno insegnate non solo le tecniche per il corretto utilizzo del pavimento pelvico ma anche le strategie da adottare per ridurre l'insorgenza di danni durante il parto."
+      },
+      {
+        type: "p",
+        text: "Il parto è un evento naturale non esente da complicazioni a carico delle strutture perineali: contribuendo attivamente al travaglio e al passaggio del feto nel canale vaginale, anche quando il periodo espulsivo avviene in maniera fisiologica, gli organi endo-addominali come vescica e retto vengono compressi e i muscoli del perineo sottoposti a un notevole stiramento, talvolta anche a lacerazioni; è perciò frequente che esso vada incontro a lesioni che possono compromettere il normale sostegno dei visceri pelvici."
+      },
+      {
+        type: "p",
+        text: "I danni perineali che possono verificarsi durante il parto possono essere prevenuti non solo con un'adeguata preparazione in gravidanza, come detto precedentemente, ma anche con un'appropriata condotta ostetrica in sala parto, mirata alla protezione del perineo e al rispetto del momento della nascita come atto d'amore, garantendo un ambiente accogliente e protetto che favorisca la tranquillità e l'intimità della donna, così da ridurne l'irrigidimento che renderebbe più difficile l'espulsione del bambino."
+      },
+      {
+        type: "p",
+        text: "Il periodo del puerperio permette di identificare le donne che sono a rischio di sviluppare una disfunzione pelvi-perineale, o quelle che già ne sono affette, indirizzandole verso un percorso terapeutico mirato e personalizzato con ostetriche specializzate nella riabilitazione del pavimento pelvico, che prevede sia un approccio educazionale che un utilizzo combinato di varie tecniche e il ricorso a vari ausili medici specifici."
+      },
+      {
+        type: "p",
+        text: "Gli esercizi e il programma di recupero vanno ripresi, o intrapresi, dalla 6ª-8ª settimana dopo il parto, in modo graduale, per riattivare la contrattilità, riassorbire gli edemi e migliorare la circolazione locale; in genere queste disfunzioni perineali, se a breve termine, sono recuperabili entro 12-18 mesi."
+      },
+      {
+        type: "p",
+        text: "Nel post-partum l'obiettivo della rieducazione è il recupero anatomico e funzionale del perineo e a tal fine si può intervenire anche fornendo alle mamme alcuni semplici consigli comportamentali che possono ridurre o evitare fattori favorevoli all'insorgenza o all'accentuazione delle disfunzioni, quali:"
+      },
+      {
+        type: "ul",
+        items: [
+          "praticare una corretta igiene intima",
+          "ridurre o evitare la stipsi favorendo una regolare funzionalità intestinale con un'alimentazione e idratazione adeguata e concedendosi momenti di attività fisica quali una semplice camminata per attivare la motilità intestinale",
+          "svuotare la vescica solo quando è presente lo stimolo e proporzionalmente alla quantità di liquidi introdotti",
+          "assumere una corretta postura durante la minzione e la defecazione, evitando spinte",
+          "durante l'allattamento assumere posizioni che non gravino sul perineo",
+          "evitare la tosse persistente (causata ad esempio dal fumo di sigaretta)",
+          "non sollevare carichi di peso eccessivi",
+          "non eseguire lavori pesanti senza determinati ausili",
+          "prima e dopo i rapporti sessuali urinare e praticare una corretta igiene intima",
+          "evitare di aumentare eccessivamente di peso",
+          "evitare un allenamento addominale intenso nelle prime 6 settimane dopo il parto; si consiglia infatti prima una rieducazione perineale e solo in un secondo tempo una ginnastica addominale, prediligendo comunque un'attività fisica che non gravi eccessivamente sul piano perineale"
+        ]
+      },
+      {
+        type: "p",
+        text: "È importante ribadire che in tutte le fasi del ciclo vitale femminile è possibile intervenire, nei modi e tempi adeguati, per favorire la salute di questa parte del corpo, poco conosciuta e spesso dimenticata."
+      }
+    ]
+  },
+  {
+    id: 129,
+    slug: "imprevisti-dopo-il-parto",
+    title: "Imprevisti dopo il parto",
+    excerpt: "Non sempre il post partum va come ci si aspettava: dalle emozioni inattese verso il neonato ai cambiamenti del corpo, fino a una degenza più lunga del previsto. Come attraversare gli imprevisti dopo il parto.",
+    keywords: "post partum, puerperio, imprevisti dopo il parto, degenza ospedaliera, psicologia perinatale",
+    category: "Puerperio",
+    date: "25 luglio 2019",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "3 min",
+    bgColor: "#2D5A82",
+    content: [
+      {
+        type: "p",
+        text: "Man mano che si avvicina la fine della gravidanza, le preoccupazioni della donna sono rivolte soprattutto al momento del parto. Ognuna si pone mille interrogativi su come si svolgerà e immagina scenari diversi, influenzati dal suo carattere, da eventuali precedenti esperienze, dai racconti uditi da persone che lo hanno già vissuto."
+      },
+      {
+        type: "p",
+        text: "Per molte è come se alla fine dei nove mesi i pensieri rivolti al bambino venissero offuscati da quelli relativi al parto, il grande scoglio da superare prima di potersi finalmente prendere cura del neonato!"
+      },
+      {
+        type: "p",
+        text: "Tuttavia anche a quelle per cui il parto si svolge senza inconvenienti spesso capita di doversi confrontare con situazioni che non avevano previsto, che rendono i primi giorni «da mamma» diversi da come li avevano immaginati. Mi riferisco a diversi tipi di situazioni:"
+      },
+      {
+        type: "ul",
+        items: [
+          "una, di tipo psicologico, percepita come estranea e minacciosa, riguarda le sensazioni che alcune provano — o non provano — verso il bebè. È come se facessero fatica a riconoscere in quello che hanno tra le braccia il bambino immaginato durante la gravidanza, come se si trattasse di un piccolo estraneo che non riesce a smuovere in loro quei sentimenti che pensavano sgorgassero spontaneamente a prima vista",
+          "un'altra riguarda la difficoltà a riconoscersi nella nuova identità, che non è più di gravida ma che è anche diversa da quella che la donna aveva prima della gravidanza. Per molte non è facile e richiede tempo ritrovarsi in un corpo che pare tradirle sia sotto l'aspetto estetico (per esempio la pancia non si appiattisce malgrado non contenga più il feto) che funzionale (per esempio se i punti dell'episiotomia fanno male, tutto diventa difficoltoso: dal camminare allo stare seduta, all'andare di corpo)",
+          "una terza riguarda lo stato di salute del neonato, che pur essendo sano spesso nei primi giorni di vita presenta qualche anomalia (per esempio nei valori degli esami di routine) che richiede accertamenti che allungano la sua degenza in ospedale. La mamma sarebbe dimessa ma, dal momento che il bambino non può ancora andare a casa, spesso gli resta accanto, continuando a comportarsi da paziente anche se non lo è più. Questo non fa che aumentare il suo stato di confusione e di tensione, vedendo rimandare il momento in cui potrà iniziare a costruire la sua quotidianità con il neonato senza interferenze"
+        ]
+      },
+      {
+        type: "p",
+        text: "In questi casi è importante supportare la donna cercando di non soffocare e minimizzare le sue ansie e il suo malessere, ma permettendole di esprimerlo, aiutandola a farlo con un ascolto neutro e benevolente. Inoltre va rassicurata che l'intimità con il suo bebè si stabilisce anche se tra di loro si frappone un'incubatrice o una culla per la fototerapia. Infatti il piccolo percepisce la presenza affettiva della sua mamma da come viene accolto nei momenti di allattamento, del cambio del pannolino o semplicemente dal modo in cui viene accarezzato se si trova in incubatrice, dal tono in cui gli si parla."
+      },
+      {
+        type: "p",
+        text: "Se una volta la degenza in ospedale della puerpera durava almeno 4-5 giorni, durante i quali venivano risolte molte situazioni relative al bambino (ripetizione di esami clinici, interventi di fototerapia, ecc.), oggi dura in genere solo 48 ore, per cui è abbastanza frequente che possa venire allungata. La donna dunque andrebbe preparata a questa eventualità, per viverla con minore ansia nel caso si presentasse."
+      }
+    ]
+  },
+  {
+    id: 130,
+    slug: "caro-diario-istantanee-di-unattesa",
+    title: "Caro diario: istantanee di un'attesa",
+    excerpt: "Un'intervista a Cristina, mamma da poche settimane, che ha annotato pensieri ed emozioni di nove mesi di gravidanza in un diario: dal test di gravidanza al travaglio, fino alla nascita di Laura.",
+    keywords: "diario della gravidanza, testimonianza, intervista, gravidanza, travaglio, parto, amniocentesi, puerperio",
+    category: "Puerperio",
+    date: "9 ottobre 2018",
+    author: "Dott.ssa Marcella Marcone",
+    authorSlug: "marcella-marcone",
+    authorRole: "Psicologa e Psicoterapeuta",
+    authorAvatar: "MM",
+    authorColor: "#4A7BA7",
+    readTime: "7 min",
+    bgColor: "#2D5A82",
+    content: [
+      {
+        type: "p",
+        text: "Intervista con Cristina, 33 anni, avvenuta quando la bambina aveva ventiquattro giorni. Porta con sé il diario dell'attesa, un'agenda con gli appunti presi durante i nove mesi della gravidanza."
+      },
+      {
+        type: "h3",
+        text: "Un diario lungo nove mesi: che effetto ti fa rileggere le pagine che hai scritto durante la gravidanza?"
+      },
+      {
+        type: "p",
+        text: "Quando ho scoperto di essere incinta mi sono comprata subito questa agenda di cartone nero, con l'elastico: è una moleskine, il quaderno con cui Bruce Chatwin prendeva appunti in giro per il mondo. Ho pensato che, anch'io, stavo per cominciare un viaggio. Forse non un itinerario, ma un percorso. Un'avventura dell'anima. Così ho iniziato ad annotare i pensieri, le sensazioni, tutto quello che vedevo, per la strada, in autobus, le frasi dei libri che mi piacevano, i pianti, le voglie, ma anche i numeri (il calcolo delle settimane, le «misure» di mio figlio)… Un po' di tutto. Non ho seguito un ordine e non ho scritto tutti i giorni: annotavo quello che mi succedeva in modo «nomade», casuale, seguendo il filo di un'esplorazione mia. La sensazione che provo a leggerle adesso è di nostalgia. Come per la pancia: mi manca. Per quanto ingombrante fosse, mi faceva sentire una regina. Avrei voluto che durasse per sempre. E peccato che fosse inverno perché, sotto i vestiti pesanti, si notava di meno. D'estate tutti avrebbero visto che ero incinta."
+      },
+      {
+        type: "h3",
+        text: "Qual è la prima cosa che hai scritto?"
+      },
+      {
+        type: "p",
+        text: "Tre desideri: che sia sano, vivace e maschio. Poi, però, quando al quarto mese ho avuto il risultato dell'amniocentesi e ho saputo che era una bimba, mi sono sentita terribilmente in colpa. Così sono tornata indietro, alla prima pagina, e ho aggiunto: «Finché c'era il dubbio, potevo avere un desiderio. Ora mi dispiace. Ogni scelta comporta un sì, ma anche un no. Meglio volerli, maschio o femmina, allo stesso modo. O tutti e due»."
+      },
+      {
+        type: "h3",
+        text: "Che cosa c'è prima del diario? Qual è la storia che lo precede, quella che non hai scritto?"
+      },
+      {
+        type: "p",
+        text: "Non è la storia di una grande attesa. Sono rimasta incinta praticamente subito: il tempo di desiderarlo, in due. Marco e io convivevamo da cinque anni e avevamo deciso di sposarci, di lì a un mese. Che io volessi un figlio era evidente, ma lui non aveva mai pensato, neanche provato a parlarne. Una mattina, appena sveglio, mi racconta di aver sognato di camminare su un sentiero di montagna, con un bambino sulle spalle. Da lì ho capito che, anche lui, era pronto."
+      },
+      {
+        type: "h3",
+        text: "Che cosa è successo allora?"
+      },
+      {
+        type: "p",
+        text: "È stato tutto talmente immediato che quando, un mese dopo, ho avuto il primo ritardo, non ho minimamente pensato di essere incinta. Ho dato la colpa allo stress dei preparativi per il matrimonio. Avevo amiche che, da anni, cercavano un figlio: possibile che io, al primo tentativo, fossi così fortunata?"
+      },
+      {
+        type: "p",
+        text: "Ho fatto il test di gravidanza la mia prima notte di nozze. Un modo un po' anomalo di festeggiare! Stavamo tornando dal ricevimento e Marco ha insistito per cercare una farmacia di turno aperta. Siamo arrivati a casa con il cuore in gola. Aver comprato il test rendeva il dubbio più concreto, gli dava realtà. Se fossimo stati davvero incinti? (Sì, da allora, ho sempre usato il plurale). Abbiamo aperto la scatola insieme, letto e riletto le istruzioni, che, in realtà, sono semplicissime. Questa specie di cartina di tornasole deve tingersi di rosa. L'esito è positivo se il colore dura per almeno qualche minuto. Marco era teso: diceva di essersi già abituato all'idea della paternità. Gli sembrava una coincidenza sorprendente e beneaugurante scoprire di aspettare un bambino proprio il giorno del nostro matrimonio. Io avevo una strana paura di deluderlo."
+      },
+      {
+        type: "h3",
+        text: "Che cosa avete fatto?"
+      },
+      {
+        type: "p",
+        text: "Lo stick ha preso colore immediatamente: era fucsia, quasi rosso, e Marco si è messo a gridare: «C'è, c'è, c'è!»."
+      },
+      {
+        type: "h3",
+        text: "Tu che cosa hai provato?"
+      },
+      {
+        type: "p",
+        text: "Uno strano affollamento di emozioni. Da una parte, ero preoccupata che il test non fosse attendibile, che ci stessimo illudendo. Dall'altra, ero commossa, quasi sopraffatta dall'entusiasmo di Marco. Lui era, di noi due, l'indeciso, quello che aveva sempre rimandato. Quanto a me, avevo la sensazione di essere «in ritardo» rispetto agli eventi, come se quello che provavo restasse un po' indietro. Avevo ancora addosso l'abito del matrimonio, risentivo l'eco del mio sì, del suo, le parole di mia madre, gli auguri degli amici, il rumore del riso che pioveva da tutte le direzioni, il piacere di un progetto… Mi sembrava di essere già al culmine dell'emozione e adesso arrivava una notizia che rilanciava, che alzava ancora la posta in gioco. Ero senza fiato. Con la sensazione, anche fisica, di non avere un cuore abbastanza capiente. Sarebbe esploso. Non si può essere così felici due volte, con questa intensità, e nello stesso giorno."
+      },
+      {
+        type: "h3",
+        text: "E qui comincia la tua moleskine."
+      },
+      {
+        type: "p",
+        text: "Sì, credo di aver iniziato a scrivere anche per tenere sotto controllo tutta questa eccedenza emotiva. Dovevo, in qualche modo, darle voce, lasciarla uscire."
+      },
+      {
+        type: "p",
+        text: "Poi, a poco a poco, la gravidanza ha avuto su di me un effetto riequilibrante. Mi ha obbligato a rallentare, mi ha dato un ritmo di riflessione e l'accesso a una nuova fase di vita. Più pacata, meglio distribuita dal punto di vista del tempo mentale. Insieme al diario, ho cominciato quasi subito l'album di foto. Sì, perché la mia raccolta comincia molto prima del parto, con le immagini dell'ecografia. Ho letto così tanti libri sul bisogno di radici dei figli, che ho pensato di conservare per Laura quanta più storia possibile, la sua storia. Così l'album inizia già al terzo mese, con questo puntino bianco lungo pochi centimetri e fotografato dentro la mia pancia."
+      },
+      {
+        type: "h3",
+        text: "Leggi ancora una pagina di diario."
+      },
+      {
+        type: "p",
+        text: "6 febbraio. In questo momento, secondo l'enciclopedia medica, sto facendo i polmoni di mia figlia. Mi concentro su tutte le cellule che ci vogliono per mettere insieme questi organi vitali. Sarà per questo che sono così stanca?"
+      },
+      {
+        type: "p",
+        text: "8 febbraio. Per la mia vita di coppia è un momento magico. Questa gravidanza ci ha dato una direzione."
+      },
+      {
+        type: "p",
+        text: "9 febbraio. Come la vorrei? Con i capelli di Marco, biondi, leggerissimi. Per carità, che non abbia i miei ricci crespi."
+      },
+      {
+        type: "h3",
+        text: "Sei riuscita anche ad annotare qualcosa sul momento del parto?"
+      },
+      {
+        type: "p",
+        text: "Ci sono i giorni che lo precedono: settimane di terribile agitazione. La mia è stata una gravidanza quasi perfetta. Nessun problema, nessun imprevisto. Era andata talmente bene che mi è presa una gran paura di rovinare tutto, proprio alla fine. Ho iniziato a pensare che la bimba poteva morire, nascendo, strozzata dal cordone ombelicale, da me. Lo stesso timore colpevole, incontrollabile e vittimistico che avevo provato al quarto mese, subito dopo aver fatto l'amniocentesi. Sapevo che c'era una piccola percentuale di rischio per il feto, l'un per cento, mi pare. Il giorno dopo ho avuto delle perdite e ho subito pensato che l'avrei perso. Era colpa mia. Per il mio stupido, egoistico bisogno di rassicurazione, avevo mandato tutto all'aria. Alla fine dei nove mesi la paura è tornata, prepotente. Non riuscivo più a essere ottimista. Temevo che succedesse qualcosa. Proprio adesso, proprio a pochi giorni dal parto."
+      },
+      {
+        type: "p",
+        text: "In più, io che ho sempre avuto fiducia nella medicina, nella scienza, ho cominciato a diffidare del mio ginecologo, a mettere in dubbio la sua competenza. E se, all'ultimo momento, avesse deciso per un cesareo, contro la mia volontà? Oppure avesse indotto le contrazioni con l'ossitocina, solo per accelerare i tempi e andarsene a casa prima?"
+      },
+      {
+        type: "p",
+        text: "Ero preoccupata anche per Marco. Sicuramente si sarebbe fatto prendere dal panico e mi avrebbe portato in ospedale al primo cenno di dolore, mentre io volevo restare a casa mia, il più a lungo possibile."
+      },
+      {
+        type: "h3",
+        text: "E come è andata veramente?"
+      },
+      {
+        type: "p",
+        text: "Sono stata smentita in tutte le mie previsioni. Questo foglio ne è la prova. Qui ci sono annotati tutti i minuti delle contrazioni, dalle 8 di sera, quando sono iniziate, fino alle 11:30. È Marco che l'ha scritto. Appena ho sentito che cominciavano, gli ho chiesto di prepararmi la vasca da bagno tiepida. Ho fatto quasi tutto il travaglio in acqua, con lui al mio fianco che, con precisione tranquilla, ordinata, misurava durata e frequenza delle contrazioni. Io cercavo di ripetere gli esercizi di respirazione che mi avevano insegnato al corso pre-parto e, nelle pause di dolore, mi concentravo su colori, quadri, ricordi. L'avevo imparato alle lezioni di training autogeno: visualizzare, immaginare. Durante il travaglio, il problema è tenere la mente impegnata. Soprattutto all'inizio, l'intervallo fra una contrazione e l'altra è piuttosto lungo e c'è spazio sufficiente per riprendersi. Tuttavia è tale l'agitazione che rischi di passare tutto il tempo in cui non hai male, aspettando che ricominci. In questo modo, l'attesa è peggio del dolore."
+      },
+      {
+        type: "h3",
+        text: "Dopo quanto tempo hai partorito?"
+      },
+      {
+        type: "p",
+        text: "Un po' per l'acqua che attutiva il dolore e un po' per la respirazione, sono riuscita a restare piuttosto tranquilla. Quando, alle 11:30, le contrazioni ci sono sembrate abbastanza ravvicinate, siamo andati in ospedale. Marco è entrato con me in sala parto e tutti e due, tutti e tre, lui, io, la bambina, ne siamo usciti un'ora dopo."
+      },
+      {
+        type: "h3",
+        text: "Hai ancora scritto qualcosa sul diario, dopo la nascita?"
+      },
+      {
+        type: "p",
+        text: "Soltanto: Laura, 3 chili. Il viaggio è tuo adesso."
+      }
+    ]
+  },
+  {
+    id: 131,
+    slug: "alimentazione-nei-primi-1000-giorni",
+    title: "Alimentazione nei primi 1000 giorni",
+    excerpt: "Perché l'alimentazione nei primi 1000 giorni di vita, dal concepimento ai due anni, è decisiva per la salute futura del bambino: allattamento, svezzamento e consigli pratici per un'alimentazione bilanciata.",
+    keywords: "alimentazione, primi 1000 giorni, svezzamento, allattamento, divezzamento, nutrizione pediatrica, alimentazione complementare",
+    category: "Nutrizione",
+    date: "7 giugno 2019",
+    author: "Dott. A. Bosetti",
+    authorRole: "Dietista Clinico",
+    authorAvatar: "AB",
+    authorColor: "#B5804A",
+    readTime: "5 min",
+    bgColor: "#8F5F2E",
+    content: [
+      {
+        type: "p",
+        text: "«Siamo ciò che mangiamo» (Ludwig Feuerbach)"
+      },
+      {
+        type: "p",
+        text: "Un'adeguata alimentazione nei primi 1000 giorni dal concepimento influisce sullo sviluppo dei bambini, sullo stato di salute e sulle fasi successive della vita. Già in utero, l'esposizione del feto all'azione di una nutrizione equilibrata proietta in un futuro di salute e fonda basi «solide» di crescita e sviluppo: un diritto sancito anche dalla Convenzione ONU per i diritti dell'Infanzia."
+      },
+      {
+        type: "p",
+        text: "Per crescere sano un neonato ha bisogno di buoni nutrienti e di poter instaurare un legame di attaccamento e di amore con i genitori."
+      },
+      {
+        type: "p",
+        text: "L'intera esperienza dell'alimentazione non è un evento piatto o monotono: al contrario deve potersi caratterizzare con dinamicità, come una ricerca e un adattamento con repentini cambiamenti, conquiste che nei primi 1000 giorni si proiettano nell'arco di una vita."
+      },
+      {
+        type: "p",
+        text: "Per i primi 6 mesi di vita è fortemente raccomandato l'allattamento esclusivo al seno. Progressivamente il latte materno diventa insufficiente a soddisfare le richieste fisiologiche in termini di macro e micronutrienti del bambino in crescita, soprattutto per quanto riguarda l'apporto di energia, proteine, ferro e alcune vitamine liposolubili come la vitamina A."
+      },
+      {
+        type: "p",
+        text: "Si rende quindi necessario passare da un'alimentazione esclusivamente lattea a una dieta contenente altri alimenti, diversi dal latte. Questo momento cruciale dello sviluppo viene definito con il termine di alimentazione complementare o svezzamento e comprende tutti gli alimenti liquidi, semisolidi e solidi diversi dal latte materno e dai suoi sostituti, che hanno il compito di integrare l'alimentazione lattea del bambino."
+      },
+      {
+        type: "p",
+        text: "Il momento di inizio del divezzamento non è uguale per tutti i lattanti: il timing dipende infatti da numerose variabili individuali, tra cui, soprattutto, le esigenze nutrizionali, lo sviluppo neurofisiologico, anatomo-funzionale e il contesto socioculturale. La scelta del momento in cui iniziare il divezzamento dipende quindi non solo dalle diverse esigenze nutrizionali del lattante ma anche dalla «maturità neurologica» del lattante stesso e dal suo interesse verso alimenti diversi dal latte. Le maggiori Società Scientifiche sono comunque concordi nel raccomandare l'allattamento esclusivo al seno per i primi 6 mesi di vita e di introdurre alimenti diversi dal latte a partire dai 4-6 mesi."
+      },
+      {
+        type: "p",
+        text: "Viene consigliato inoltre di iniziare a divezzare mentre si sta ancora allattando. L'allattamento al seno può proseguire fino a 2 anni di vita o anche oltre, se la mamma e il bambino lo desiderano (WHO, ESPGHAN, EFSA, American Academy of Pediatrics). È importante che durante questa fase di transizione tutti i nutrienti vengano forniti nelle giuste quantità per soddisfare i fabbisogni nutrizionali."
+      },
+      {
+        type: "p",
+        text: "In questo modo l'alimentazione risulta bilanciata nell'apporto dei macronutrienti, evitando un eccesso proteico. Numerosi studi scientifici hanno infatti dimostrato un'associazione tra lo squilibrio dei nutrienti della dieta e l'aumento dello sviluppo di obesità nelle epoche successive della vita."
+      },
+      {
+        type: "p",
+        text: "Ecco quindi qualche consiglio pratico per realizzare un'alimentazione bilanciata:"
+      },
+      {
+        type: "ul",
+        items: [
+          "predisporre dei pasti completi così composti: una porzione di carboidrati + una porzione di proteine + una porzione di verdura + frutta",
+          "la porzione di carboidrati, che varia in base all'età, può essere costituita da farine di riso, mais e tapioca, multicereale, per poi passare gradualmente, con l'evolversi delle competenze orali, a cereali in chicco come riso, orzo, avena, farro e successivamente alle paste di piccolo formato, per abituare i bambini ai diversi sapori",
+          "variare il più possibile le scelte proteiche, rispettando le porzioni adeguate per età e le frequenze di consumo settimanale",
+          "portare in tavola diversi tipi di frutta e verdura secondo la stagionalità",
+          "utilizzare olio extravergine di oliva, preferibilmente a crudo, per condire le preparazioni",
+          "evitare di proporre bevande diverse dall'acqua o dal latte, quali tè, tisane, succhi di frutta, acque zuccherate, dal momento che non apportano nessun beneficio nutrizionale ed espongono i bambini a un maggiore rischio di obesità: l'acqua è l'unica fonte di liquidi raccomandata oltre al latte (ESPGHAN)",
+          "non aggiungere sale e/o dado, così da far apprezzare i gusti naturali degli alimenti",
+          "abituare in maniera graduale a consumare alimenti dalle caratteristiche gustative molto diverse tra loro: in questo modo si potrà godere di un'alimentazione varia e sana"
+        ]
+      },
+      {
+        type: "p",
+        text: "Seguendo queste indicazioni verranno effettuate scelte alimentari equilibrate, che verranno poi mantenute negli anni successivi e fino alla vita adulta."
+      },
+      {
+        type: "h2",
+        text: "Le porzioni consigliate per età"
+      },
+      {
+        type: "p",
+        text: "Per i carboidrati (creme di cereali, pastina, semolino, riso), il pane e le patate, le porzioni indicative per età sono: a 6 mesi 20 g di cereali e 60 g di patate (il pane non è ancora previsto); a 12 mesi 25 g di cereali, 30 g di pane e 80 g di patate; a 24 mesi 40 g di cereali, 50 g di pane e 120 g di patate."
+      },
+      {
+        type: "p",
+        text: "Per le fonti proteiche, le porzioni indicative sono: a 6 mesi, 40 g di omogeneizzato di carne o pesce (mezzo vasetto) oppure 15 g di carne o pesce fresco, 10 g di legumi secchi o 30 g di legumi freschi, 15 g di formaggio fresco, 30 g di uovo (mezzo uovo); tra i 12 e i 24 mesi, 30 g di carne o pesce fresco, 15 g di legumi secchi o 40 g di legumi freschi, 10 g di formaggi stagionati o 30 g di formaggio fresco, 30 g di uovo (mezzo uovo)."
+      },
+      {
+        type: "p",
+        text: "La frequenza settimanale di consumo consigliata è: carne 3-4 volte, pesce 2-3 volte, uova 1-2 volte, formaggio 1-2 volte, legumi 3 volte, affettati 1 volta."
+      }
+    ]
+  },
 ];
