@@ -129,7 +129,7 @@ export const teamMembers = [
     category: "Psicologia Perinatale",
     city: "Piacenza",
     address: "Via Antonio Anguissola, 24 – 29121 Piacenza (PC)",
-    photo: "/simona-bensi.jpg",
+    photo: "/simona-bensi-new.jpg",
     avatar: "SB",
     color: "#A67B8A",
     bgColor: "#7D5265",
