@@ -86,9 +86,9 @@ export default function Navbar() {
               {t.nav.blog}
             </LocalizedLink>
 
-            <a href="mailto:mmarcone@me.com" className="navbar-cta">
+            <LocalizedLink href="/team" className="navbar-cta">
               {t.nav.contact}
-            </a>
+            </LocalizedLink>
 
             <LanguageSwitcher className="navbar-lang" />
           </div>
