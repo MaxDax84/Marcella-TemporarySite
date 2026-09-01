@@ -47,6 +47,7 @@ const nextConfig = {
       source,
       destination: "/it/blog",
       permanent: true,
+      locale: false,
     }))
 
     return [...legacyPostRedirects, ...legacyArchiveRedirects]
