@@ -14,7 +14,10 @@ export default function Analytics() {
 
   useEffect(() => {
     if (!GA_ID) return;
-    if (localStorage.getItem("cookie_consent") === "true") {
+    // "true" è il valore legacy salvato prima che esistesse il pulsante
+    // "Rifiuta": lo trattiamo come un'accettazione già espressa.
+    const stored = localStorage.getItem("cookie_consent");
+    if (stored === "true" || stored === "accepted") {
       setConsented(true);
     }
     const onConsent = () => setConsented(true);

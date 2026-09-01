@@ -10,7 +10,7 @@ const CONTACT_EMAIL = "massimo.dassano@gmail.com";
 function ItContent() {
   return (
     <>
-      <p className="legal-update">Ultimo aggiornamento: giugno 2026</p>
+      <p className="legal-update">Ultimo aggiornamento: settembre 2026</p>
 
       <p>
         La presente informativa è resa ai sensi dell'art. 13 del Regolamento UE 2016/679
@@ -52,7 +52,8 @@ function ItContent() {
 
       <h2>3. Base giuridica del trattamento</h2>
       <ul>
-        <li><strong>Dati di navigazione:</strong> legittimo interesse del titolare (art. 6, par. 1, lett. f) GDPR) alla sicurezza e al corretto funzionamento del sito.</li>
+        <li><strong>Dati di navigazione (log tecnici anonimi):</strong> legittimo interesse del titolare (art. 6, par. 1, lett. f) GDPR) alla sicurezza e al corretto funzionamento del sito.</li>
+        <li><strong>Cookie analitici (Google Analytics 4):</strong> consenso dell'interessato (art. 6, par. 1, lett. a) GDPR), raccolto tramite il banner cookie — questi cookie non vengono installati finché non acconsenti. Dettagli nella <LocalizedLink href="/cookie-policy">Cookie Policy</LocalizedLink>.</li>
         <li><strong>Richieste di contatto:</strong> esecuzione di misure precontrattuali o contrattuali (art. 6, par. 1, lett. b) GDPR) oppure consenso dell'interessato.</li>
       </ul>
 
@@ -67,10 +68,19 @@ function ItContent() {
       <h2>5. Destinatari dei dati</h2>
       <p>
         I dati non sono ceduti a terzi né diffusi. Possono essere comunicati a soggetti
-        che forniscono servizi tecnici necessari al funzionamento del sito (hosting,
-        infrastruttura cloud), designati come responsabili del trattamento ai sensi
-        dell'art. 28 GDPR. Il sito è ospitato su <strong>Vercel Inc.</strong>
-        (USA), che aderisce a standard di adeguatezza approvati dalla Commissione Europea.
+        che forniscono servizi tecnici necessari al funzionamento del sito, designati
+        come responsabili del trattamento ai sensi dell'art. 28 GDPR:
+      </p>
+      <ul>
+        <li><strong>Vercel Inc.</strong> (USA) — hosting e infrastruttura cloud del sito, aderisce a standard di adeguatezza approvati dalla Commissione Europea.</li>
+        <li><strong>Google Ireland Limited</strong> — fornisce il servizio Google Analytics 4 (solo se l'utente ha prestato consenso ai cookie analitici) e Google Fonts.</li>
+      </ul>
+      <p>
+        Alcuni di questi fornitori possono trasferire dati verso gli Stati Uniti.
+        Il trasferimento avviene sulla base del Data Privacy Framework UE-USA, a
+        cui Google LLC e Vercel Inc. aderiscono, o di clausole contrattuali
+        standard approvate dalla Commissione Europea. Non utilizziamo i dati
+        analitici per finalità pubblicitarie né per la profilazione degli utenti.
       </p>
 
       <h2>6. Font di terze parti</h2>
@@ -108,7 +118,7 @@ function ItContent() {
 function EnContent() {
   return (
     <>
-      <p className="legal-update">Last updated: June 2026</p>
+      <p className="legal-update">Last updated: September 2026</p>
 
       <p>
         This notice is provided pursuant to Art. 13 of EU Regulation 2016/679 (GDPR)
@@ -150,7 +160,8 @@ function EnContent() {
 
       <h2>3. Legal Basis for Processing</h2>
       <ul>
-        <li><strong>Browsing data:</strong> legitimate interest of the controller (Art. 6(1)(f) GDPR) in the security and proper functioning of the website.</li>
+        <li><strong>Browsing data (anonymous technical logs):</strong> legitimate interest of the controller (Art. 6(1)(f) GDPR) in the security and proper functioning of the website.</li>
+        <li><strong>Analytics cookies (Google Analytics 4):</strong> consent of the data subject (Art. 6(1)(a) GDPR), collected via the cookie banner — these cookies are not set until you consent. Details in our <LocalizedLink href="/cookie-policy">Cookie Policy</LocalizedLink>.</li>
         <li><strong>Contact requests:</strong> performance of pre-contractual or contractual measures (Art. 6(1)(b) GDPR) or consent of the data subject.</li>
       </ul>
 
@@ -166,9 +177,18 @@ function EnContent() {
       <p>
         Data is not sold to or shared with third parties. It may be disclosed to
         parties providing technical services necessary for the operation of the
-        website (hosting, cloud infrastructure), appointed as data processors pursuant
-        to Art. 28 GDPR. The website is hosted on <strong>Vercel Inc.</strong> (USA),
-        which adheres to adequacy standards approved by the European Commission.
+        website, appointed as data processors pursuant to Art. 28 GDPR:
+      </p>
+      <ul>
+        <li><strong>Vercel Inc.</strong> (USA) — website hosting and cloud infrastructure, adheres to adequacy standards approved by the European Commission.</li>
+        <li><strong>Google Ireland Limited</strong> — provides Google Analytics 4 (only if the user has consented to analytics cookies) and Google Fonts.</li>
+      </ul>
+      <p>
+        Some of these providers may transfer data to the United States. This
+        transfer relies on the EU-US Data Privacy Framework, to which Google LLC
+        and Vercel Inc. adhere, or on standard contractual clauses approved by
+        the European Commission. We do not use analytics data for advertising
+        purposes or user profiling.
       </p>
 
       <h2>6. Third-Party Fonts</h2>

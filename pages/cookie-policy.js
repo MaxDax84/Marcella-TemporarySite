@@ -10,7 +10,7 @@ const CONTACT_EMAIL = "massimo.dassano@gmail.com";
 function ItContent() {
   return (
     <>
-      <p className="legal-update">Ultimo aggiornamento: giugno 2026</p>
+      <p className="legal-update">Ultimo aggiornamento: settembre 2026</p>
 
       <p>
         La presente Cookie Policy descrive come il sito <strong>{SITE_HOST}</strong>,
@@ -62,14 +62,62 @@ function ItContent() {
         maggiori informazioni: <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy di Google</a>.
       </p>
 
-      <h3>Cookie analitici e di profilazione</h3>
+      <h3>Cookie analitici</h3>
       <p>
-        Il sito <strong>non utilizza attualmente</strong> cookie analitici (es. Google Analytics)
-        né cookie di profilazione o marketing. Qualora in futuro venissero introdotti,
-        la presente Policy verrà aggiornata e sarà richiesto il consenso dell'utente.
+        Il sito utilizza <strong>Google Analytics 4</strong> (Google Ireland Limited),
+        un servizio di analisi statistica che aiuta a capire come viene utilizzato il
+        sito (pagine visitate, provenienza del traffico, tempo di permanenza), in forma
+        aggregata. L'indirizzo IP viene troncato/anonimizzato prima della memorizzazione
+        (<code>anonymize_ip</code>). Questi cookie <strong>vengono attivati solo dopo che
+        hai espresso il consenso</strong> tramite il banner presente sul sito: se non
+        acconsenti, nessun cookie di Google Analytics viene installato. Per maggiori
+        informazioni: <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy di Google</a> e{" "}
+        <a href="https://business.safety.google/adscookies/" target="_blank" rel="noopener noreferrer">informativa sui cookie di Google</a>.
+      </p>
+      <div className="legal-table-wrap">
+        <table className="legal-table">
+          <thead>
+            <tr>
+              <th>Nome</th>
+              <th>Finalità</th>
+              <th>Durata</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><code>_ga</code></td>
+              <td>Distingue gli utenti in forma anonima per le statistiche di utilizzo</td>
+              <td>2 anni</td>
+            </tr>
+            <tr>
+              <td><code>_ga_&lt;container-id&gt;</code></td>
+              <td>Mantiene lo stato della sessione per Google Analytics 4</td>
+              <td>2 anni</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>
+        Il sito <strong>non utilizza</strong> cookie di profilazione pubblicitaria o di
+        marketing di terze parti, e non abbiamo attivato funzionalità pubblicitarie
+        o di collegamento tra dispositivi in Google Analytics.
       </p>
 
-      <h2>Come gestire i cookie</h2>
+      <h2>Gestisci la tua scelta su questo sito</h2>
+      <p>
+        Puoi accettare o rifiutare i cookie analitici in qualsiasi momento tramite
+        il banner mostrato alla prima visita, oppure tornare qui e modificare la
+        tua scelta quando vuoi:
+      </p>
+      <button
+        type="button"
+        className="btn btn-outline"
+        onClick={() => window.dispatchEvent(new Event("open-cookie-preferences"))}
+      >
+        Modifica le tue preferenze cookie
+      </button>
+
+      <h2>Come gestire i cookie dal browser</h2>
       <p>
         Puoi disabilitare i cookie attraverso le impostazioni del tuo browser.
         Tieni presente che disabilitare i cookie tecnici potrebbe compromettere
@@ -105,7 +153,7 @@ function ItContent() {
 function EnContent() {
   return (
     <>
-      <p className="legal-update">Last updated: June 2026</p>
+      <p className="legal-update">Last updated: September 2026</p>
 
       <p>
         This Cookie Policy describes how the website <strong>{SITE_HOST}</strong>,
@@ -157,15 +205,62 @@ function EnContent() {
         <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google Privacy Policy</a>.
       </p>
 
-      <h3>Analytics and profiling cookies</h3>
+      <h3>Analytics cookies</h3>
       <p>
-        The website <strong>does not currently use</strong> analytics cookies (e.g.
-        Google Analytics) or profiling/marketing cookies. Should any be introduced
-        in the future, this Policy will be updated and the user's consent will be
-        requested.
+        The website uses <strong>Google Analytics 4</strong> (Google Ireland Limited),
+        a statistical analysis service that helps us understand how the site is used
+        (pages visited, traffic sources, time spent), in aggregate form. The IP
+        address is truncated/anonymized before being stored (<code>anonymize_ip</code>).
+        These cookies are <strong>only activated after you give consent</strong> via the
+        banner shown on the site: if you do not consent, no Google Analytics cookie is
+        set. For more information:{" "}
+        <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google Privacy Policy</a> and{" "}
+        <a href="https://business.safety.google/adscookies/" target="_blank" rel="noopener noreferrer">Google's cookie information</a>.
+      </p>
+      <div className="legal-table-wrap">
+        <table className="legal-table">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Purpose</th>
+              <th>Duration</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><code>_ga</code></td>
+              <td>Anonymously distinguishes users for usage statistics</td>
+              <td>2 years</td>
+            </tr>
+            <tr>
+              <td><code>_ga_&lt;container-id&gt;</code></td>
+              <td>Persists session state for Google Analytics 4</td>
+              <td>2 years</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>
+        The website <strong>does not use</strong> third-party advertising or marketing
+        profiling cookies, and we have not enabled advertising or cross-device
+        linking features in Google Analytics.
       </p>
 
-      <h2>How to manage cookies</h2>
+      <h2>Manage your choice on this website</h2>
+      <p>
+        You can accept or reject analytics cookies at any time via the banner
+        shown on your first visit, or come back here and change your choice
+        whenever you like:
+      </p>
+      <button
+        type="button"
+        className="btn btn-outline"
+        onClick={() => window.dispatchEvent(new Event("open-cookie-preferences"))}
+      >
+        Change your cookie preferences
+      </button>
+
+      <h2>How to manage cookies from your browser</h2>
       <p>
         You can disable cookies through your browser settings. Keep in mind that
         disabling technical cookies may affect the correct functioning of the

@@ -28,7 +28,28 @@ const nextConfig = {
       permanent: true,
     }))
 
-    return legacyPostRedirects
+    // Il vecchio WordPress aveva anche pagine di archivio (categorie, tag,
+    // autori, paginazione) che questo sito non replica come pagine dedicate.
+    // Senza questi redirect, quegli URL storici (spesso indicizzati da anni)
+    // risponderebbero 404 invece di atterrare su una pagina reale.
+    const legacyArchiveRedirects = [
+      "/category/:path*",
+      "/it/category/:path*",
+      "/en/category/:path*",
+      "/tag/:path*",
+      "/it/tag/:path*",
+      "/en/tag/:path*",
+      "/author/:path*",
+      "/it/author/:path*",
+      "/en/author/:path*",
+      "/page/:path*",
+    ].map((source) => ({
+      source,
+      destination: "/it/blog",
+      permanent: true,
+    }))
+
+    return [...legacyPostRedirects, ...legacyArchiveRedirects]
   },
 }
 

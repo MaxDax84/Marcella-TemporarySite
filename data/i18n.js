@@ -20,9 +20,12 @@ export const ui = {
       credits: "Sito realizzato da",
     },
     cookie: {
-      text: "Questo sito utilizza cookie tecnici necessari al suo funzionamento. Non utilizziamo cookie di profilazione o marketing.",
+      text: "Questo sito utilizza cookie tecnici, sempre attivi, e cookie analitici (Google Analytics) solo se acconsenti.",
       link: "Maggiori informazioni",
-      accept: "Ho capito",
+      accept: "Accetta",
+      reject: "Rifiuta",
+      managePreferences: "Preferenze cookie",
+      preferencesSaved: "Preferenza salvata.",
     },
     contact: {
       showEmail: "Mostra contatto",
@@ -124,7 +127,7 @@ export const ui = {
     },
     layout: {
       defaultTitle: "Sostegno alla Genitorialità",
-      defaultDescription: "Team di professioniste specializzate in gravidanza, parto, post-partum, infertilità e psicologia perinatale. Supporto in presenza a Milano e online.",
+      defaultDescription: "Articoli su gravidanza, parto e psicologia perinatale scritti da professioniste specializzate, più un team per un supporto reale, a Milano e online.",
       ogLocale: "it_IT",
     },
   },
@@ -149,9 +152,12 @@ export const ui = {
       credits: "Website by",
     },
     cookie: {
-      text: "This site uses technical cookies necessary for it to function. We do not use profiling or marketing cookies.",
+      text: "This site uses technical cookies, always active, and analytics cookies (Google Analytics) only if you consent.",
       link: "Learn more",
-      accept: "Got it",
+      accept: "Accept",
+      reject: "Reject",
+      managePreferences: "Cookie preferences",
+      preferencesSaved: "Preference saved.",
     },
     contact: {
       showEmail: "Show contact",
@@ -253,7 +259,7 @@ export const ui = {
     },
     layout: {
       defaultTitle: "Sostegno alla Genitorialità",
-      defaultDescription: "A team of professionals specialized in pregnancy, childbirth, postpartum depression, infertility, and perinatal psychology. Support in Milan and online.",
+      defaultDescription: "Articles on pregnancy, childbirth, and perinatal psychology by specialized professionals, plus a team for real support, in Milan and online.",
       ogLocale: "en_US",
     },
   },

@@ -7,6 +7,7 @@ export default function Footer() {
   const { locale } = useRouter();
   const t = (ui[locale] || ui.it).footer;
   const tNav = (ui[locale] || ui.it).nav;
+  const tCookie = (ui[locale] || ui.it).cookie;
 
   return (
     <footer className="footer">
@@ -46,6 +47,13 @@ export default function Footer() {
             <LocalizedLink href="/privacy-policy">Privacy Policy</LocalizedLink>
             {" · "}
             <LocalizedLink href="/cookie-policy">Cookie Policy</LocalizedLink>
+            {" · "}
+            <button
+              type="button"
+              onClick={() => window.dispatchEvent(new Event("open-cookie-preferences"))}
+            >
+              {tCookie.managePreferences}
+            </button>
           </span>
         </div>
         <div className="footer-credits">
