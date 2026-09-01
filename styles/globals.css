@@ -40,8 +40,23 @@ img { max-width: 100%; display: block; }
 a { color: inherit; text-decoration: none; }
 ul { list-style: none; }
 button { cursor: pointer; font-family: inherit; border: none; background: none; }
-h1, h2, h3, h4 { font-family: var(--font-serif); line-height: 1.25; }
-p { line-height: 1.7; }
+/* hyphens:auto in aggiunta a overflow-wrap: se una singola parola è troppo
+   lunga per andare a capo (es. titoli grandi su schermi stretti), il
+   browser la spezza con un trattino a un punto tipografico corretto invece
+   di uno spezzamento brutto a metà. Richiede l'attributo lang sull'html
+   (già impostato dinamicamente in _document.js) per usare il dizionario
+   giusto. Solo su titoli/paragrafi, non su pulsanti/nav dove non serve. */
+h1, h2, h3, h4 {
+  font-family: var(--font-serif);
+  line-height: 1.25;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+p {
+  line-height: 1.7;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
 
 /* ── UTILITIES ─────────────────────────────────────────── */
 .container { max-width: var(--max-w); margin: 0 auto; padding: 0 clamp(20px, 4vw, 40px); }
