@@ -235,6 +235,7 @@ export const teamMembers = [
       "Preparazione al concepimento",
       "Riduzione interferenti endocrini e stile di vita",
     ],
+    contact: "arcurifederica@gmail.com",
     modes: ["Solo Online"],
     education: [
       "Percorso di Integrative and Functional Medicine and Nutrition, IFNA – Integrative Functional Nutrition Academy (in corso)",
