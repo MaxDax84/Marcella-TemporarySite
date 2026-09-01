@@ -2,6 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import { flushSync } from "react-dom";
 import { useRouter } from "next/router";
 import { Playfair_Display, Inter } from "next/font/google";
+import Analytics from "../components/Analytics";
 import "../styles/globals.css";
 
 const playfairDisplay = Playfair_Display({
@@ -70,14 +71,17 @@ export default function App({ Component, pageProps }) {
   const { Component: Shown, pageProps: shownProps } = shown;
 
   return (
-    <div
-      className={`${playfairDisplay.variable} ${inter.variable}`}
-      style={{
-        opacity: visible ? 1 : 0,
-        transition: `opacity ${visible ? FADE_IN : FADE_OUT}ms ease`,
-      }}
-    >
-      <Shown {...shownProps} />
-    </div>
+    <>
+      <Analytics />
+      <div
+        className={`${playfairDisplay.variable} ${inter.variable}`}
+        style={{
+          opacity: visible ? 1 : 0,
+          transition: `opacity ${visible ? FADE_IN : FADE_OUT}ms ease`,
+        }}
+      >
+        <Shown {...shownProps} />
+      </div>
+    </>
   );
 }

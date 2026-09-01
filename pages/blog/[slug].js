@@ -5,6 +5,27 @@ import { posts } from "../../data/posts";
 import { localizePost } from "../../lib/posts";
 import { ui } from "../../data/i18n";
 
+// Dimensioni reali (in px) delle immagini editoriali del blog, usate per
+// riservare lo spazio corretto nel layout ed evitare Cumulative Layout Shift
+// (Core Web Vital). Il CSS le scala comunque a width:100%/height:auto.
+const IMAGE_DIMENSIONS = {
+  "maternita-negli-orsi.jpg": { width: 1400, height: 978 },
+  "maternita-negli-elefanti.jpg": { width: 1400, height: 949 },
+  "donna-barbuta-ribera.jpg": { width: 885, height: 1225 },
+  "madre-morta-munch.jpg": { width: 1200, height: 708 },
+  "madonna-latte-vaneyck.jpg": { width: 1920, height: 2524 },
+  "madonna-seggiola-raffaello.jpg": { width: 1000, height: 1000 },
+  "giochi-fanciulli-bruegel.jpg": { width: 1920, height: 1395 },
+  "matrioshka.jpg": { width: 1400, height: 2100 },
+  "san-giuseppe-murillo.jpg": { width: 1400, height: 1028 },
+  "feet-flowers-spa.jpg": { width: 1400, height: 934 },
+  "madre-figli-panchina.jpg": { width: 1400, height: 676 },
+  "donna-riposo-gravidanza.jpg": { width: 1400, height: 1400 },
+  "ambra-cristallo.jpg": { width: 1400, height: 2100 },
+  "radici-albero.jpg": { width: 1400, height: 2099 },
+  "fiore-mano-cielo.jpg": { width: 1400, height: 933 },
+};
+
 export async function getStaticPaths() {
   const locales = ["it", "en"];
   return {
@@ -45,13 +66,21 @@ function renderBlock(block, i) {
           <p>{block.text}</p>
         </div>
       );
-    case "img":
+    case "img": {
+      const filename = block.src.split("/").pop();
+      const dims = IMAGE_DIMENSIONS[filename];
       return (
         <figure className="article-figure" key={i}>
-          <img src={block.src} alt={block.alt || ""} loading="lazy" />
+          <img
+            src={block.src}
+            alt={block.alt || ""}
+            loading="lazy"
+            {...(dims ? { width: dims.width, height: dims.height } : {})}
+          />
           {block.caption && <figcaption>{block.caption}</figcaption>}
         </figure>
       );
+    }
     case "artwork-link":
       return (
         <div className="artwork-link-box" key={i}>
@@ -79,12 +108,14 @@ export default function BlogPost({ post, related }) {
   if (!post) return null;
 
   const siteUrl = process.env.SITE_URL || "";
+  const firstImage = post.content.find((b) => b.type === "img");
+  const ogImage = firstImage ? firstImage.src : "/og-image.png";
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": post.title,
     "description": post.excerpt,
-    "image": `${siteUrl}/og-image.png`,
+    "image": `${siteUrl}${ogImage}`,
     "author": {
       "@type": "Person",
       "name": post.author,
@@ -95,6 +126,15 @@ export default function BlogPost({ post, related }) {
     },
     ...(post.date && { "datePublished": post.date, "dateModified": post.date }),
   };
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Blog", "item": `${siteUrl}/${locale}/blog` },
+      { "@type": "ListItem", "position": 2, "name": post.category, "item": `${siteUrl}/${locale}/blog?categoria=${encodeURIComponent(post.category)}` },
+      { "@type": "ListItem", "position": 3, "name": post.title, "item": `${siteUrl}/${locale}/blog/${post.slug}` },
+    ],
+  };
 
   return (
     <Layout
@@ -102,7 +142,8 @@ export default function BlogPost({ post, related }) {
       description={post.excerpt}
       keywords={post.keywords}
       canonicalPath={`/blog/${post.slug}`}
-      jsonLd={jsonLd}
+      jsonLd={[jsonLd, breadcrumbJsonLd]}
+      ogImage={ogImage}
     >
       <div className="article-wrapper">
         <div className="container">
@@ -188,13 +229,13 @@ export default function BlogPost({ post, related }) {
                 <p style={{ fontSize: "0.86rem", color: "var(--text-mid)", lineHeight: 1.7, marginBottom: 16 }}>
                   {t.needSupportDesc}
                 </p>
-                <a
-                  href="mailto:mmarcone@me.com"
+                <LocalizedLink
+                  href={post.authorSlug ? `/team/${post.authorSlug}` : "/team"}
                   className="btn btn-primary"
                   style={{ width: "100%", justifyContent: "center", fontSize: "0.85rem" }}
                 >
                   {t.writeUs}
-                </a>
+                </LocalizedLink>
               </div>
 
               <div className="sidebar-card">

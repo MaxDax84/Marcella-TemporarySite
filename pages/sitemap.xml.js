@@ -1,8 +1,27 @@
 import { posts } from "../data/posts";
 import { teamMembers } from "../data/team";
 
-const SITE_URL = process.env.SITE_URL || "https://www.sostegnoallamaternita.com";
+const SITE_URL = process.env.SITE_URL || "https://www.maternita360.it";
 const LOCALES = ["it", "en"];
+
+const ITALIAN_MONTHS = {
+  gennaio: "01", febbraio: "02", marzo: "03", aprile: "04",
+  maggio: "05", giugno: "06", luglio: "07", agosto: "08",
+  settembre: "09", ottobre: "10", novembre: "11", dicembre: "12",
+};
+
+// Converte una data italiana tipo "18 agosto 2019" in "2019-08-18" (ISO,
+// richiesto dal tag <lastmod> della sitemap). Ritorna null se non riconosciuta,
+// così l'URL viene pubblicata senza <lastmod> invece che con una data inventata.
+function toIsoDate(italianDate) {
+  if (!italianDate) return null;
+  const match = italianDate.trim().match(/^(\d{1,2})\s+([a-zàèìòù]+)\s+(\d{4})$/i);
+  if (!match) return null;
+  const [, day, monthName, year] = match;
+  const month = ITALIAN_MONTHS[monthName.toLowerCase()];
+  if (!month) return null;
+  return `${year}-${month}-${day.padStart(2, "0")}`;
+}
 
 function generateSitemap() {
   const staticPages = [
@@ -21,6 +40,7 @@ function generateSitemap() {
     path: `/blog/${p.slug}`,
     priority: "0.8",
     changefreq: "monthly",
+    lastmod: toIsoDate(p.date),
   }));
 
   const allPages = [...staticPages, ...teamPages, ...blogPages];
@@ -40,7 +60,7 @@ ${LOCALES.map(
   (loc) =>
     `    <xhtml:link rel="alternate" hreflang="${loc}" href="${SITE_URL}/${loc}${path}" />`
 ).join("\n")}
-    <changefreq>${u.changefreq}</changefreq>
+${u.lastmod ? `    <lastmod>${u.lastmod}</lastmod>\n` : ""}    <changefreq>${u.changefreq}</changefreq>
     <priority>${u.priority}</priority>
   </url>`;
   })

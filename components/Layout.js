@@ -8,7 +8,7 @@ import { ui } from "../data/i18n";
 const SITE_URL = process.env.SITE_URL || "";
 const LOCALES = ["it", "en"];
 
-export default function Layout({ children, title, description, keywords, canonicalPath, jsonLd, noIndex }) {
+export default function Layout({ children, title, description, keywords, canonicalPath, jsonLd, noIndex, ogImage }) {
   const { locale } = useRouter();
   const t = ui[locale] || ui.it;
 
@@ -32,7 +32,7 @@ export default function Layout({ children, title, description, keywords, canonic
         <meta property="og:description" content={siteDesc} />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content={t.layout.ogLocale} />
-        <meta property="og:image" content={`${SITE_URL}/og-image.png`} />
+        <meta property="og:image" content={ogImage ? `${SITE_URL}${ogImage}` : `${SITE_URL}/og-image.png`} />
         <meta name="twitter:card" content="summary_large_image" />
         {canonical && <meta property="og:url" content={canonical} />}
         {canonical && <link rel="canonical" href={canonical} />}
@@ -54,12 +54,14 @@ export default function Layout({ children, title, description, keywords, canonic
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/site.webmanifest" />
         <meta name="theme-color" content="#2D5A82" />
-        {jsonLd && (
-          <script
-            type="application/ld+json"
-            dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-          />
-        )}
+        {jsonLd &&
+          (Array.isArray(jsonLd) ? jsonLd : [jsonLd]).map((entry, i) => (
+            <script
+              key={i}
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{ __html: JSON.stringify(entry) }}
+            />
+          ))}
       </Head>
       <Navbar />
       <main>{children}</main>

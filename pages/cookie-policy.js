@@ -3,7 +3,7 @@ import Layout from "../components/Layout";
 import LocalizedLink from "../components/LocalizedLink";
 import { ui } from "../data/i18n";
 
-const SITE_URL = process.env.SITE_URL || "https://www.sostegnoallamaternita.com";
+const SITE_URL = process.env.SITE_URL || "https://www.maternita360.it";
 const SITE_HOST = SITE_URL.replace(/^https?:\/\//, "");
 const CONTACT_EMAIL = "massimo.dassano@gmail.com";
 
